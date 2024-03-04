@@ -1,0 +1,27 @@
+<stochastentool>
+  <!--************************************************************************************************-->
+  <!--In dit xml-bestand configureert u de stochastentool van Hydroconsult.***************************-->
+  <!--Copyright Hydroconsult, 2014********************************************************************-->
+  <!--Enkele algemene wenken:geef bij voorkeur relatieve paden op. Paden zijn t.o.v. dit xml document -->
+  <!--Dit maakt het makkelijke om sommen over verschillende machines te verdelen**********************-->
+  <!--************************************************************************************************-->
+  <instellingen>
+	<!--directory voor de resultaten en maximum aantal parallelle berekeningen-->
+	<stochastenmap>stochasten</stochastenmap>
+	<resultatenmap>results</resultatenmap>
+	<maxparallel>4</maxparallel>
+	<klimaatscenario>HUIDIG</klimaatscenario>
+	<duur>96</duur>
+	<uitloop>24</uitloop>
+	<stochastenconfigfile>stochasten v5.0.mdb</stochastenconfigfile>
+	<leesresultatenvanafpercentage>20</leesresultatenvanafpercentage>
+  </instellingen>
+  <modellen>
+	<!--momenteel alleen nog modeltypen SOBEK en Custom-->
+	<model id="1" type="SOBEK" executable="c:\Sobek212\programs\simulate.exe" arguments="simulate.ini"  modeldir="c:\Sobek212\NBW_CUR.LIT" casename="SMILDE" tempworkdir="c:\temp">
+      <uitvoer bestandsnaam="calcpnt.his" parameter="Water">
+        <locatie id="rrcfGFE100" alias="GFE100" type="max"/>
+      </uitvoer>
+    </model>
+  </modellen>
+</stochastentool>

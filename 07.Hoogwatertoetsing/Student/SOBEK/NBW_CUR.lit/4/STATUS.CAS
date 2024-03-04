@@ -1,0 +1,39 @@
+[General]
+
+NetworkNew=0
+QualityResultsPresent=0
+ImportFrom=FromScratch
+ImportDate=1-11-2010 10:41:59
+Case Name=SMILDE 2.12.003 reeksen uitgebreid
+SuftableHasRun=-1
+QuantityResultsPresent=0
+UserId=siebe
+UserName=
+ComputerName=LAPTOP-SIEBE
+[Previous OutputFiles]
+..\work\calcpnt.his=-1
+..\work\reachseg.his=-1
+..\work\struc.his=-1
+..\work\flowanal.his=-1
+..\work\calcdim.his=-1
+..\work\reachdim.his=-1
+..\work\strucdim.his=-1
+..\work\qwb.his=-1
+..\work\simulate.rep=-1
+..\work\sobek.log=-1
+..\work\network.rep=0
+..\work\indicat.flw=-1
+..\work\qlat.his=-1
+..\work\3bareas.his=-1
+..\work\rrbalans.his=-1
+..\work\sobek_3b.log=-1
+..\work\3B_GENER.OUT=-1
+..\work\3blinks.his=-1
+..\work\pvstordt.his=-1
+..\work\upflowdt.his=-1
+..\work\PAVED.OUT=-1
+..\work\UNPAVED.OUT=-1
+..\work\controll.his=-1
+..\work\bndflodt.his=-1
+..\work\bndfltot.his=-1
+..\work\BOUND3B.OUT=-1

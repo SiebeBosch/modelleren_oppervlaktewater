@@ -1,0 +1,49 @@
+CMUPDATE: update of the application \SOBEK\Control1.lit
+7 tasks need update:SUFHYD,CASEDEF1,CONFIG1,PLUVIUS1,MAPPER1,VIEW1,VIEW2,
+
+Updating case: 1 - Base case Wheat stone bridge
+
+Updating case: 2 - PI-controller on flow of upper stretch
+
+Erased files: 
+\SOBEK\CONTROL1.LIT\1\NODESFLW.HIS
+\SOBEK\CONTROL1.LIT\1\PREDICT.DAT
+\SOBEK\CONTROL1.LIT\1\COEFEDIT.DAT
+\SOBEK\CONTROL1.LIT\2\NODESFLW.HIS
+\SOBEK\CONTROL1.LIT\2\PREDICT.DAT
+\SOBEK\CONTROL1.LIT\2\COEFEDIT.DAT
+
+New files in the application :
+..\1\WWTP.3B   created as empty file
+..\1\WWTP.TBL   created as empty file
+..\1\BOUNDLAT.DAT   created as empty file
+..\1\CONCSALT.DAT   created as empty file
+..\1\VALVE.TAB   created as empty file
+..\1\INITSALT.DAT   created as empty file
+..\1\NETWORK.D12   created as empty file
+..\1\WND_LOC.DAT   created as empty file
+..\1\SUBSTANC.DEF   created as empty file
+..\1\INCCLASS.DAT   created as empty file
+..\1\COEFX.DAT   created as empty file
+..\1\DISPERSW.DAT   created as empty file
+..\1\HISVAR.DAT   created as empty file
+..\1\OUTLOCWQ.DAT   created as empty file
+..\1\OUTPUTM.DWQ   created as empty file
+..\1\MAPVAR.DAT   created as empty file
+\SOBEK\FIXED\RSDUMMY.DUM
+..\2\WWTP.3B   created as empty file
+..\2\WWTP.TBL   created as empty file
+..\2\BOUNDLAT.DAT   created as empty file
+..\2\CONCSALT.DAT   created as empty file
+..\2\VALVE.TAB   created as empty file
+..\2\INITSALT.DAT   created as empty file
+..\2\NETWORK.D12   created as empty file
+..\2\WND_LOC.DAT   created as empty file
+..\2\SUBSTANC.DEF   created as empty file
+..\2\INCCLASS.DAT   created as empty file
+..\2\COEFX.DAT   created as empty file
+..\2\DISPERSW.DAT   created as empty file
+..\2\HISVAR.DAT   created as empty file
+..\2\OUTLOCWQ.DAT   created as empty file
+..\2\OUTPUTM.DWQ   created as empty file
+..\2\MAPVAR.DAT   created as empty file

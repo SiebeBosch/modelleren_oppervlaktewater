@@ -1,0 +1,11 @@
+<MapWinGIS OcxVersion="4.9.3.4" FileType="LayerFile" FileVersion="2" FilenamesEncoding="utf8">
+  <Layer LayerType="Shapefile" LayerName="Gemalen" LayerVisible="1" LayerKey="" Filename="">
+    <ShapefileClass>
+      <DefaultDrawingOptions FillColor="5676533" LineColor="9868950" PointNumSides="3" PointSize="20.000000" Rotation="30.000000" />
+      <ShapefileCategoriesClass ClassificationField="-1" />
+      <LabelsClass Alignment="5" Generated="0" Positioning="0" TextRenderingHint="3" />
+      <ChartsClass />
+      <CategoryIndices Count="18">-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,</CategoryIndices>
+    </ShapefileClass>
+  </Layer>
+</MapWinGIS>

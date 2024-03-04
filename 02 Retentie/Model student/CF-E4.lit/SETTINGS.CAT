@@ -1,0 +1,24 @@
+[General]
+Title=CF-E4
+AppType=1
+Version=1.0.0
+CATTemplateFile=Fixed\Cat.tpl
+ThematicMapOption=2
+CATIniFile=C:\Sobek212\Programs\Cat\cat.ini
+WQStandardsOption=0
+SaveTemplateonExit=True
+UserName=SOBEK
+
+[Functions]
+defaultini=C:\Sobek212\Programs\Cat\functions.ini
+
+[Netter]
+NtpFile=C:\Sobek212\Programs\cat\netter.ntp
+
+[CMTApps]
+NumberApps=1
+App1=\SOBEK212\CF-E4.lit, CF-E4
+
+[StandAloneApps]
+NumberApps=0
+

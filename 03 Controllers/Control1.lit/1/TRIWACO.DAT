@@ -1,0 +1,45 @@
+[Version]
+version=1.0
+
+[Header]
+Type=201
+ID=init
+Name=init
+Description=init
+
+[Files]
+input=
+output=
+print=
+log=
+
+[DataSets]
+Base=
+Grid=
+
+[Flairs]
+topsystem=1
+aquifers=1
+relax=.234
+inner=498
+outer=89
+converge=.0104
+print=1
+
+[Parameters]
+IR=E:\SOB_LITE\OBDAM.LIT\work\init\IR.PAR,E:\SOB_LITE\OBDAM.LIT\work\init\IR.UNG,E:\SOB_LITE\OBDAM.LIT\work\init\IR.ADO,169,11,Const,Recharge parameter number
+RP1=E:\SOB_LITE\OBDAM.LIT\work\init\RP1.PAR,E:\SOB_LITE\OBDAM.LIT\work\init\RP1.UNG,E:\SOB_LITE\OBDAM.LIT\work\init\RP1.ADO,169,0.001,Const,Precipitation excess
+RP2=E:\SOB_LITE\OBDAM.LIT\work\init\RP2.PAR,E:\SOB_LITE\OBDAM.LIT\work\init\RP2.UNG,E:\SOB_LITE\OBDAM.LIT\work\init\RP2.ADO,169,1000,Arpadi,Hydraulic resistance semi-pervious layer
+RP3=E:\SOB_LITE\OBDAM.LIT\work\init\RP3.PAR,E:\SOB_LITE\OBDAM.LIT\work\init\RP3.UNG,E:\SOB_LITE\OBDAM.LIT\work\init\RP3.ADO,169,1,Const,Drainage resistance between drains/canals
+RP4=E:\SOB_LITE\OBDAM.LIT\work\init\RP4.PAR,E:\SOB_LITE\OBDAM.LIT\work\init\RP4.UNG,E:\SOB_LITE\OBDAM.LIT\work\init\RP4.ADO,169,1,Const,Infiltration resistance between drains/canals
+RP5=E:\SOB_LITE\OBDAM.LIT\work\init\RP5.PAR,E:\SOB_LITE\OBDAM.LIT\work\init\RP5.UNG,E:\SOB_LITE\OBDAM.LIT\work\init\RP5.ADO,169,0,Arpadi,Controlled water level
+IB1=E:\SOB_LITE\OBDAM.LIT\work\init\IB1.PAR,E:\SOB_LITE\OBDAM.LIT\work\init\IB1.UNG,E:\SOB_LITE\OBDAM.LIT\work\init\IB1.ADO,171,0,Const,Boundary condition of aquifer 1
+BH1=E:\SOB_LITE\OBDAM.LIT\work\init\BH1.PAR,E:\SOB_LITE\OBDAM.LIT\work\init\BH1.UNG,E:\SOB_LITE\OBDAM.LIT\work\init\BH1.ADO,171,0,ParBou,Boundary head in aquifer 1
+IS1=E:\SOB_LITE\OBDAM.LIT\work\init\IS1.PAR,E:\SOB_LITE\OBDAM.LIT\work\init\IS1.UNG,E:\SOB_LITE\OBDAM.LIT\work\init\IS1.ADO,170,0,Const,Type of source input in aquifer 1
+SQ1=E:\SOB_LITE\OBDAM.LIT\work\init\SQ1.PAR,E:\SOB_LITE\OBDAM.LIT\work\init\SQ1.UNG,E:\SOB_LITE\OBDAM.LIT\work\init\SQ1.ADO,170,10000,ParAdo,Source discharge in aquifer 1
+RW1=E:\SOB_LITE\OBDAM.LIT\work\init\RW1.PAR,E:\SOB_LITE\OBDAM.LIT\work\init\RW1.UNG,E:\SOB_LITE\OBDAM.LIT\work\init\RW1.ADO,172,1,Const,River widths in aquifer 1
+HR1=E:\SOB_LITE\OBDAM.LIT\work\init\HR1.PAR,E:\SOB_LITE\OBDAM.LIT\work\init\HR1.UNG,E:\SOB_LITE\OBDAM.LIT\work\init\HR1.ADO,172,0,Const,Water levels in rivers in aquifer 1
+CD1=E:\SOB_LITE\OBDAM.LIT\work\init\CD1.PAR,E:\SOB_LITE\OBDAM.LIT\work\init\CD1.UNG,E:\SOB_LITE\OBDAM.LIT\work\init\CD1.ADO,172,10,Const,Drainage resistance of rivers in aquifer 1
+CI1=E:\SOB_LITE\OBDAM.LIT\work\init\CI1.PAR,E:\SOB_LITE\OBDAM.LIT\work\init\CI1.UNG,E:\SOB_LITE\OBDAM.LIT\work\init\CI1.ADO,172,10,Const,Infiltration resistance of rivers in aquifer 1
+RA1=E:\SOB_LITE\OBDAM.LIT\work\init\RA1.PAR,E:\SOB_LITE\OBDAM.LIT\work\init\RA1.UNG,E:\SOB_LITE\OBDAM.LIT\work\init\RA1.ADO,172,1,Const,River activity in aquifer 1
+TX1=E:\SOB_LITE\OBDAM.LIT\work\init\TX1.PAR,E:\SOB_LITE\OBDAM.LIT\work\init\TX1.UNG,E:\SOB_LITE\OBDAM.LIT\work\init\TX1.ADO,169,1000,InvDist,Transmissivity X-direction aquifer 1

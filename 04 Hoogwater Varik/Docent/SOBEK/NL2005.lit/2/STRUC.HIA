@@ -1,0 +1,71 @@
+[General]
+FileType=DelftIO HIA file
+DioVersion=1.08.00
+HiaVersion=1.00
+ 
+[DioCheck]
+NumberOfParameters=5
+NumberOfLocations=183
+T0=1993.12.01 01:00:00
+TimeStepUnit=Second
+TimeStepMultiplyer=60
+ 
+[Long Parameters]
+3=Waterlevel down (m AD)
+5=Gate lower edge level (m AD)
+ 
+[Long Locations]
+128=C_YSV_P_15809##S_YSV_P_2869
+129=C_YSV_P_15630##S_YSV_P_2870
+130=C_YSV_P_15641##S_YSV_P_2871
+131=C_YSV_P_15732##S_YSV_P_2872
+132=C_YSV_P_15733##S_YSV_P_2874
+133=C_YSV_P_15734##S_YSV_P_2875
+134=C_YSV_P_15809##S_YSV_P_15623
+135=C_YSV_P_15630##S_YSV_P_15624
+136=C_YSV_P_15630##S_YSV_P_15625
+137=C_YSV_P_15630##S_YSV_P_15626
+138=C_YSV_P_15630##S_YSV_P_15627
+139=C_YSV_P_15641##S_YSV_P_15637
+140=C_YSV_P_15641##S_YSV_P_15639
+141=C_YSV_P_15732##S_YSV_P_15720
+142=C_YSV_P_15732##S_YSV_P_15721
+143=C_YSV_P_15732##S_YSV_P_15722
+144=C_YSV_P_15732##S_YSV_P_15723
+145=C_YSV_P_15733##S_YSV_P_15724
+146=C_YSV_P_15733##S_YSV_P_15725
+147=C_YSV_P_15733##S_YSV_P_15726
+148=C_YSV_P_15733##S_YSV_P_15727
+149=C_YSV_P_15734##S_YSV_P_15728
+150=C_YSV_P_15734##S_YSV_P_15729
+151=C_YSV_P_15734##S_YSV_P_15730
+152=C_RND_3921##S_RND_2243
+153=C_RND_2897##S_RND_2249
+154=C_RND_2897##S_RND_2895
+155=C_RND_3921##S_RND_3918
+ 
+[Location Descriptions]
+161=NDB_svkw
+162=NDB_haringvlietsluizen
+163=NDB_svkh
+164=MS_stuw_Borgh_compound
+165=MS_stuw_Linne_compound
+166=MS_stuw_Roermond_compound
+167=MS_stuw_Belfe_compound
+168=MS_stuw_Sambe_compound
+169=MS_stuw_Grave_compound
+170=MS_stuw_Lith__compound
+171=RT_Driel compound
+172=RT_Amero compound
+173=RT_Hages compound
+174=ARK_IJmuiden-Pmp
+175=YSV_Haandrik
+176=YSV_Hardenb_Comp
+177=YSV_Marienb_Comp
+178=YSV_Junne_Comp
+179=YSV_Vilster_Comp
+180=YSV_Vechterw_Comp
+181=RND_Knardyk-W-open
+182=RND_Roggebot-comp
+183=ARK_Zeeburg-Pmp
+ 

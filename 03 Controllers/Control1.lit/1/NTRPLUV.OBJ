@@ -1,0 +1,36 @@
+[User Project Identification]
+Version=3.10
+
+[User Node Types]
+Number of Types=1
+1 ParentID=SBK_BOUNDARY
+1 Type=My Boundary
+1 BNAname=Rand
+1 In Use=-1
+1 Visible=-1
+1 LabelInactive=0
+1 SymbolType=9
+1 BorderColor=0
+1 FillColor=16711935
+1 Syst=0
+1 Allow boundaries=-1
+1 Number of boundaries=1
+1 Boundary 1=My Boundary
+1 Metafile=
+1 WLM function=
+
+[User Branch Types]
+Number of Types=1
+1 ParentID=SBK_CHANNEL
+1 Type=My Channel
+1 BNAname=Channel
+1 In Use=-1
+1 Visible=-1
+1 LabelInactive=0
+1 Width=3
+1 Color=65535
+1 Syst=0
+1 Allow boundaries=-1
+1 Number of boundaries=1
+1 Boundary 1=My Channel
+

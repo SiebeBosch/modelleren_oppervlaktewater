@@ -1,0 +1,25 @@
+STDS  id 'S-EA-F' nm '3B-WEERSTAND' ty  11 mn 0.02 cl 500 bw 10 ss 0 stds
+STDS  id 'S-EB-F' nm '3B-WEERSTAND' ty  11 mn 0.02 cl 200 bw 2 ss 0 stds
+STDS  id 'S-EC-F' nm '3B-WEERSTAND' ty  11 mn 0.02 cl 500 bw 10 ss 0 stds
+STDS  id 'S-ED-F' nm '3B-WEERSTAND' ty  11 mn 0.02 cl 500 bw 10 ss 0 stds
+STDS  id 'S-EE-F' nm '3B-WEERSTAND' ty  11 mn 0.02 cl 500 bw 10 ss 0 stds
+STDS  id 'S-FA-F' nm '3B-WEERSTAND' ty  11 mn 0.02 cl 500 bw 10 ss 0 stds
+STDS  id 'S-FB-F' nm '3B-WEERSTAND' ty  11 mn 0.02 cl 500 bw 10 ss 0 stds
+STDS  id 'S-FC-F' nm '3B-WEERSTAND' ty  11 mn 0.02 cl 500 bw 10 ss 0 stds
+STDS  id 'S-FD-F' nm '3B-WEERSTAND' ty  11 mn 0.02 cl 500 bw 10 ss 0 stds
+STDS  id 'S-FE-F' nm '3B-WEERSTAND' ty  11 mn 0.02 cl 500 bw 10 ss 0 stds
+STDS  id 'S-FG-F' nm '3B-WEERSTAND' ty  11 mn 0.02 cl 500 bw 10 ss 0 stds
+STDS  id 'S-GA-F' nm '3B-WEERSTAND' ty  11 mn 0.02 cl 500 bw 10 ss 0 stds
+STDS  id 'S-GB-F' nm '3B-WEERSTAND' ty  11 mn 0.02 cl 500 bw 10 ss 0 stds
+STDS  id 'S-HA-F' nm '3B-WEERSTAND' ty  11 mn 0.02 cl 500 bw 10 ss 0 stds
+STDS  id 'S-HB-F' nm '3B-WEERSTAND' ty  11 mn 0.02 cl 500 bw 10 ss 0 stds
+STDS  id 'S-HC-F' nm '3B-WEERSTAND' ty  11 mn 0.02 cl 500 bw 10 ss 0 stds
+STDS  id 'S-HD-F' nm '3B-WEERSTAND' ty  11 mn 0.02 cl 500 bw 10 ss 0 stds
+STDS  id 'S-HE-F' nm '3B-WEERSTAND' ty  11 mn 0.02 cl 500 bw 10 ss 0 stds
+STDS  id 'S-HF-F' nm '3B-WEERSTAND' ty  11 mn 0.02 cl 500 bw 10 ss 0 stds
+STDS  id 'S-HJ-F' nm '3B-WEERSTAND' ty  11 mn 0.02 cl 500 bw 10 ss 0 stds
+STDS  id '18' nm '3B-WEERSTAND' ty  11 mn 0.02 cl 500 bw 10 ss 0 stds
+STDS  id '56' nm '3B-WEERSTAND' ty  11 mn 0.02 cl 500 bw 10 ss 0 stds
+STDS  id 'S-HG-W' nm '3B-OVERLAAT' ty  9 wt 1 sl 0 dc 1 cw 2 cl 0.5 cp 1.5 ws '' in 0  rt 0 stds
+STDS  id 'S-HH-W' nm '3B-OVERLAAT' ty  9 wt 1 sl 0 dc 1 cw 2 cl 0 cp 1.5 ws '' in 0  rt 0 stds
+STDS  id 'S-HI-W' nm '3B-OVERLAAT' ty  9 wt 1 sl 0 dc 1 cw 2 cl -0.1 cp 1.5 ws '' in 0  rt 0 stds

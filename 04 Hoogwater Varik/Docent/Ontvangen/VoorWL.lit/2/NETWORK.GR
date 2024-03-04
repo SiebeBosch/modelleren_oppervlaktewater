@@ -1,0 +1,2593 @@
+GR_1.1
+GRID id 'R_NDB_0' ci 'R_NDB_0' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_0' 'R_NDB_0_1' 64040 444970 <
+1404.99999999999 0 'R_NDB_0_2' 'N_NDB_1' '' 62730 445440 <
+tble grid
+GRID id 'R_NDB_1' ci 'R_NDB_1' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_2' 'R_NDB_1_1' 65478.9 444421 <
+1557.54911582137 0 'R_NDB_1_2' 'N_NDB_0' '' 64040 444970 <
+tble grid
+GRID id 'R_NDB_2' ci 'R_NDB_2' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_3' 'R_NDB_2_1' 60743.8 442777 <
+4152.99999999999 0 'R_NDB_2_2' 'N_NDB_0' '' 64040 444970 <
+tble grid
+GRID id 'R_NDB_3' ci 'R_NDB_3' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_4' 'R_NDB_3_1' 67851.8 443361 <
+2657.00000000001 0 'R_NDB_3_3' 'N_NDB_2' '' 65478.9 444421 <
+tble grid
+GRID id 'R_NDB_4' ci 'R_NDB_4' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_5' 'R_NDB_4_1' 80570 434620 <
+16144.0000000001 0 'R_NDB_4_20' 'N_NDB_4' '' 67851.8 443361 <
+tble grid
+GRID id 'R_NDB_5' ci 'R_NDB_5' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_6' 'R_NDB_5_1' 78450 433250 <
+3084.99999999999 0 'R_NDB_5_4' 'N_NDB_5' '' 80570 434620 <
+tble grid
+GRID id 'R_NDB_6' ci 'R_NDB_6' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_7' 'R_NDB_6_1' 78371.9 432330 <
+1003.99999999998 0 'R_NDB_6_2' 'N_NDB_6' '' 78450 433250 <
+tble grid
+GRID id 'R_NDB_7' ci 'R_NDB_7' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_8' 'R_NDB_7_1' 77860 432970 <
+695.999999999999 0 'R_NDB_7_2' 'N_NDB_6' '' 78450 433250 <
+tble grid
+GRID id 'R_NDB_8' ci 'R_NDB_8' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_9' 'R_NDB_8_1' 80495.1 432848 <
+1884.00000000001 0 'R_NDB_8_2' 'N_NDB_5' '' 80570 434620 <
+tble grid
+GRID id 'R_NDB_9' ci 'R_NDB_9' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_10' 'R_NDB_9_1' 82990 434580 <
+1631 0 'R_NDB_9_3' 'N_NDB_11' '' 81390 434440 <
+tble grid
+GRID id 'R_NDB_10' ci 'R_NDB_10' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_12' 'R_NDB_10_1' 83177 433292 <
+1608 0 'R_NDB_10_2' 'N_NDB_10' '' 82990 434580 <
+tble grid
+GRID id 'R_NDB_11' ci 'R_NDB_11' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_13' 'R_NDB_11_1' 84517.9 434660 <
+1741.00000000003 0 'R_NDB_11_3' 'N_NDB_10' '' 82990 434580 <
+tble grid
+GRID id 'R_NDB_12' ci 'R_NDB_12' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_11' 'R_NDB_12_1' 81390 434440 <
+856.000000000001 0 'R_NDB_12_2' 'N_NDB_5' '' 80570 434620 <
+tble grid
+GRID id 'R_NDB_13' ci 'R_NDB_13' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_14' 'R_NDB_13_1' 85570 433590 <
+1735.99999999996 0 'R_NDB_13_2' 'N_NDB_13' '' 84517.9 434660 <
+tble grid
+GRID id 'R_NDB_14' ci 'R_NDB_14' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_15' 'R_NDB_14_1' 86680 434690 <
+2189.91283399958 0 'R_NDB_14_3' 'N_NDB_13' '' 84517.9 434660 <
+tble grid
+GRID id 'R_NDB_15' ci 'R_NDB_15' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_16' 'R_NDB_15_1' 88131 432441 <
+3287.99999999999 0 'R_NDB_15_2' 'N_NDB_15' '' 86680 434690 <
+tble grid
+GRID id 'R_NDB_16' ci 'R_NDB_16' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_17' 'R_NDB_16_1' 89590 435270 <
+3075.99999999999 0 'R_NDB_16_4' 'N_NDB_15' '' 86680 434690 <
+tble grid
+GRID id 'R_NDB_17' ci 'R_NDB_17' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_18' 'R_NDB_17_1' 90375.3 433106 <
+2649 0 'R_NDB_17_2' 'N_NDB_17' '' 89590 435270 <
+tble grid
+GRID id 'R_NDB_18' ci 'R_NDB_18' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_19' 'R_NDB_18_1' 91570 434980 <
+2077 0 'R_NDB_18_3' 'N_NDB_17' '' 89590 435270 <
+tble grid
+GRID id 'R_NDB_19' ci 'R_NDB_19' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_20' 'R_NDB_19_1' 93191.9 434748 <
+1950.99999999997 0 'R_NDB_19_2' 'N_NDB_19' '' 91570 434980 <
+tble grid
+GRID id 'R_NDB_20' ci 'R_NDB_20' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_21' 'R_NDB_20_1' 92480 435460 <
+1074.00000000001 0 'R_NDB_20_2' 'N_NDB_19' '' 91570 434980 <
+tble grid
+GRID id 'R_NDB_21' ci 'R_NDB_21' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_22' 'R_NDB_21_1' 93309.2 435510 <
+965.99999999998 0 'R_NDB_21_2' 'N_NDB_21' '' 92480 435460 <
+tble grid
+GRID id 'R_NDB_22' ci 'R_NDB_22' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_23' 'R_NDB_22_1' 93010 436180 <
+921.000000000003 0 'R_NDB_22_2' 'N_NDB_21' '' 92480 435460 <
+tble grid
+GRID id 'R_NDB_23' ci 'R_NDB_23' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_24' 'R_NDB_23_1' 93954.7 436625 <
+1485.99999999992 0 'R_NDB_23_2' 'N_NDB_23' '' 93010 436180 <
+tble grid
+GRID id 'R_NDB_24' ci 'R_NDB_24' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_24' 'R_NDB_24_1' 93954.7 436625 <
+1143.99999999995 0 'R_NDB_24_2' 'N_NDB_23' '' 93010 436180 <
+tble grid
+GRID id 'R_NDB_25' ci 'R_NDB_25' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_25' 'R_NDB_25_1' 97680 435540 <
+5183.00000000001 0 'R_NDB_25_6' 'N_NDB_24' '' 93954.7 436625 <
+tble grid
+GRID id 'R_NDB_26' ci 'R_NDB_26' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_26' 'R_NDB_26_1' 102090 433680 <
+5014.00000000004 0 'R_NDB_26_6' 'N_NDB_25' '' 97680 435540 <
+tble grid
+GRID id 'R_NDB_27' ci 'R_NDB_27' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_26' 'R_NDB_27_1' 102090 433680 <
+4195.00000000001 0 'R_NDB_27_4' 'N_NDB_27' '' 99320 436440 <
+tble grid
+GRID id 'R_NDB_28' ci 'R_NDB_28' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_27' 'R_NDB_28_1' 99320 436440 <
+2114.00000000001 0 'R_NDB_28_4' 'N_NDB_25' '' 97680 435540 <
+tble grid
+GRID id 'R_NDB_29' ci 'R_NDB_29' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_28' 'R_NDB_29_1' 109970 446940 <
+18109.0000000001 0 'R_NDB_29_21' 'N_NDB_27' '' 99320 436440 <
+tble grid
+GRID id 'R_NDB_33' ci 'R_NDB_33' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_32' 'R_NDB_33_1' 82084.4 431891 <
+2913.00000000002 0 'R_NDB_33_4' 'N_NDB_11' '' 81390 434440 <
+tble grid
+GRID id 'R_NDB_34' ci 'R_NDB_34' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_33' 'R_NDB_34_1' 89130 428050 <
+8680.05373990374 0 'R_NDB_34_10' 'N_NDB_32' '' 82084.4 431891 <
+tble grid
+GRID id 'R_NDB_35' ci 'R_NDB_35' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_34' 'R_NDB_35_1' 102240 423680 <
+15735 0 'R_NDB_35_16' 'N_NDB_33' '' 89130 428050 <
+tble grid
+GRID id 'R_NDB_36' ci 'R_NDB_36' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_35' 'R_NDB_36_1' 103700 422270 <
+2008.00000000002 0 'R_NDB_36_2' 'N_NDB_36' '' 103075 424052 <
+tble grid
+GRID id 'R_NDB_37' ci 'R_NDB_37' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_36' 'R_NDB_37_1' 103075 424052 <
+914.116513361399 0 'R_NDB_37_2' 'N_NDB_34' '' 102240 423680 <
+tble grid
+GRID id 'R_NDB_38' ci 'R_NDB_38' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_37' 'R_NDB_38_1' 105535 426286 <
+3634.99999999999 0 'R_NDB_38_5' 'N_NDB_36' '' 103075 424052 <
+tble grid
+GRID id 'R_NDB_39' ci 'R_NDB_39' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_38' 'R_NDB_39_1' 120430 425550 <
+15273 0 'R_NDB_39_9' 'N_NDB_37' '' 105535 426286 <
+tble grid
+GRID id 'R_NDB_43' ci 'R_NDB_43' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_43' 'R_NDB_43_1' 71441.9 422657 <
+4267.00000000002 0 'R_NDB_43_5' 'N_NDB_41' '' 67740 423900 <
+tble grid
+GRID id 'R_NDB_44' ci 'R_NDB_44' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_43' 'R_NDB_44_1' 71441.9 422657 <
+6959.96941803546 0 'R_NDB_44_5' 'N_NDB_41' '' 67740 423900 <
+tble grid
+GRID id 'R_NDB_45' ci 'R_NDB_45' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_44' 'R_NDB_45_1' 74180 422910 <
+3996.2594558845 0 'R_NDB_45_3' 'N_NDB_43' '' 71441.9 422657 <
+tble grid
+GRID id 'R_NDB_46' ci 'R_NDB_46' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_45' 'R_NDB_46_1' 73918.1 420512 <
+4072.55448908785 0 'R_NDB_46_4' 'N_NDB_43' '' 71441.9 422657 <
+tble grid
+GRID id 'R_NDB_47' ci 'R_NDB_47' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_45' 'R_NDB_47_1' 73918.1 420512 <
+2412.25944085623 0 'R_NDB_47_2' 'N_NDB_44' '' 74180 422910 <
+tble grid
+GRID id 'R_NDB_48' ci 'R_NDB_48' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_46' 'R_NDB_48_1' 75500 418880 <
+3562.29328785435 0 'R_NDB_48_4' 'N_NDB_45' '' 73918.1 420512 <
+tble grid
+GRID id 'R_NDB_49' ci 'R_NDB_49' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_47' 'R_NDB_49_1' 84298.1 416526 <
+9815.4530547938 0 'R_NDB_49_9' 'N_NDB_46' '' 75500 418880 <
+tble grid
+GRID id 'R_NDB_50' ci 'R_NDB_50' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_48' 'R_NDB_50_1' 81740 415600 <
+7955.00000000001 0 'R_NDB_50_8' 'N_NDB_46' '' 75500 418880 <
+tble grid
+GRID id 'R_NDB_51' ci 'R_NDB_51' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_47' 'R_NDB_51_1' 84298.1 416526 <
+3928.458841103 0 'R_NDB_51_4' 'N_NDB_48' '' 81740 415600 <
+tble grid
+GRID id 'R_NDB_52' ci 'R_NDB_52' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_49' 'R_NDB_52_1' 88140.5 413768 <
+5098.99999999998 0 'R_NDB_52_4' 'N_NDB_47' '' 84298.1 416526 <
+tble grid
+GRID id 'R_NDB_53' ci 'R_NDB_53' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_47' 'R_NDB_53_1' 84298.1 416526 <
+3601.00000000002 0 'R_NDB_53_4' 'N_NDB_48' '' 81740 415600 <
+tble grid
+GRID id 'R_NDB_54' ci 'R_NDB_54' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_50' 'R_NDB_54_1' 105995 415050 <
+4939 0 'R_NDB_54_6' 'N_NDB_51' '' 101754 415025 <
+tble grid
+GRID id 'R_NDB_55' ci 'R_NDB_55' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_51' 'R_NDB_55_1' 101754 415025 <
+2215.338574575 0 'R_NDB_55_2' 'N_NDB_52' '' 100471 413219 <
+tble grid
+GRID id 'R_NDB_56' ci 'R_NDB_56' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_52' 'R_NDB_56_1' 100471 413219 <
+2456.00000000001 0 'R_NDB_56_3' 'N_NDB_53' '' 98266.4 413013 <
+tble grid
+GRID id 'R_NDB_57' ci 'R_NDB_57' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_52' 'R_NDB_57_1' 100471 413219 <
+2693.99999999996 0 'R_NDB_57_3' 'N_NDB_53' '' 98266.4 413013 <
+tble grid
+GRID id 'R_NDB_58' ci 'R_NDB_58' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_53' 'R_NDB_58_1' 98266.4 413013 <
+10870.0000000001 0 'R_NDB_58_11' 'N_NDB_49' '' 88140.5 413768 <
+tble grid
+GRID id 'R_NDB_59' ci 'R_NDB_59' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_49' 'R_NDB_59_1' 88140.5 413768 <
+1622 0 'R_NDB_59_3' 'N_NDB_54' '' 87245 412463 <
+tble grid
+GRID id 'R_NDB_60' ci 'R_NDB_60' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_55' 'R_NDB_60_1' 107276 415096 <
+1290.99999999999 0 'R_NDB_60_2' 'N_NDB_50' '' 105995 415050 <
+tble grid
+GRID id 'R_NDB_61' ci 'R_NDB_61' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_56' 'R_NDB_61_1' 116589 414149 <
+9726.7619044863 0 'R_NDB_61_6' 'N_NDB_55' '' 107276 415096 <
+tble grid
+GRID id 'R_NDB_62' ci 'R_NDB_62' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_57' 'R_NDB_62_1' 120556 414625 <
+4458.99999999997 0 'R_NDB_62_4' 'N_NDB_56' '' 116589 414149 <
+tble grid
+GRID id 'R_NDB_63' ci 'R_NDB_63' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_58' 'R_NDB_63_1' 121418 413977 <
+1078.40066765558 0 'R_NDB_63_2' 'N_NDB_57' '' 120556 414625 <
+tble grid
+GRID id 'R_NDB_70' ci 'R_NDB_70' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_65' 'R_NDB_70_1' 117950 418815 <
+14014 0 'R_NDB_70_3' 'N_NDB_55' '' 107276 415096 <
+tble grid
+GRID id 'R_NDB_71' ci 'R_NDB_71' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_65' 'R_NDB_71_1' 117950 418815 <
+5212.99999999999 0 'R_NDB_71_2' 'N_NDB_56' '' 116589 414149 <
+tble grid
+GRID id 'R_NDB_72' ci 'R_NDB_72' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_66' 'R_NDB_72_1' 120152 423538 <
+6079.00000000003 0 'R_NDB_72_2' 'N_NDB_65' '' 117950 418815 <
+tble grid
+GRID id 'R_NDB_73' ci 'R_NDB_73' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_34' 'R_NDB_73_1' 102240 423680 <
+8979.90944518504 0 'R_NDB_73_9' 'N_NDB_51' '' 101754 415025 <
+tble grid
+GRID id 'R_NDB_74' ci 'R_NDB_74' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_38' 'R_NDB_74_1' 120430 425550 <
+19103.9999999999 0 'R_NDB_74_12' 'N_NDB_50' '' 105995 415050 <
+tble grid
+GRID id 'R_NDB_75' ci 'R_NDB_75' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_68' 'R_NDB_75_1' 105500 427120 <
+2488.99999999996 0 'R_NDB_75_3' 'N_NDB_67' '' 104837 428984 <
+tble grid
+GRID id 'R_NDB_76' ci 'R_NDB_76' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_37' 'R_NDB_76_1' 105535 426286 <
+893.999999999998 0 'R_NDB_76_2' 'N_NDB_68' '' 105500 427120 <
+tble grid
+GRID id 'R_NDB_77' ci 'R_NDB_77' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_68' 'R_NDB_77_1' 105500 427120 <
+2174.00000000001 0 'R_NDB_77_3' 'N_NDB_67' '' 104837 428984 <
+tble grid
+GRID id 'R_NDB_78' ci 'R_NDB_78' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_67' 'R_NDB_78_1' 104837 428984 <
+5515.9137373068 0 'R_NDB_78_6' 'N_NDB_26' '' 102090 433680 <
+tble grid
+GRID id 'R_NDB_80' ci 'R_NDB_80' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_70' 'R_NDB_80_1' 69360 439010 <
+8864.00000000001 0 'R_NDB_80_10' 'N_NDB_71' '' 75480 433170 <
+tble grid
+GRID id 'R_NDB_83' ci 'R_NDB_83' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_73' 'R_NDB_83_1' 76209.6 432659 <
+1301.00000000002 0 'R_NDB_83_2' 'N_NDB_71' '' 75480 433170 <
+tble grid
+GRID id 'R_NDB_84' ci 'R_NDB_84' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_33' 'R_NDB_84_1' 89130 428050 <
+18143.0000000001 0 'R_NDB_84_20' 'N_NDB_44' '' 74180 422910 <
+tble grid
+GRID id 'R_NDB_85' ci 'R_NDB_85' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_74' 'R_NDB_85_1' 111900 422960 <
+7377.99999999998 0 'R_NDB_85_4' 'N_NDB_37' '' 105535 426286 <
+tble grid
+GRID id 'R_NDB_86' ci 'R_NDB_86' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_75' 'R_NDB_86_1' 67879.1 443252 <
+235.000000000029 0 'R_NDB_86_2' 'N_NDB_4' '' 67851.8 443361 <
+tble grid
+GRID id 'R_NDB_87' ci 'R_NDB_87' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_76' 'R_NDB_87_1' 66070 443730 <
+1024.99999999998 0 'R_NDB_87_2' 'N_NDB_2' '' 65478.9 444421 <
+tble grid
+GRID id 'R_NDB_88' ci 'R_NDB_88' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_75' 'R_NDB_88_1' 67879.1 443252 <
+2016.99999999998 0 'R_NDB_88_3' 'N_NDB_76' '' 66070 443730 <
+tble grid
+GRID id 'R_NDB_89' ci 'R_NDB_89' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_77' 'R_NDB_89_1' 68432.2 442347 <
+1067 0 'R_NDB_89_2' 'N_NDB_75' '' 67879.1 443252 <
+tble grid
+GRID id 'R_NDB_90' ci 'R_NDB_90' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_78' 'R_NDB_90_1' 75160 435290 <
+10085.8218838408 0 'R_NDB_90_11' 'N_NDB_77' '' 68432.2 442347 <
+tble grid
+GRID id 'R_NDB_91' ci 'R_NDB_91' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_79' 'R_NDB_91_1' 75410 434610 <
+724.999999999999 0 'R_NDB_91_2' 'N_NDB_78' '' 75160 435290 <
+tble grid
+GRID id 'R_NDB_92' ci 'R_NDB_92' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_80' 'R_NDB_92_1' 76232.1 434785 <
+1238.00000000002 0 'R_NDB_92_2' 'N_NDB_78' '' 75160 435290 <
+tble grid
+GRID id 'R_NDB_93' ci 'R_NDB_93' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_81' 'R_NDB_93_1' 65888 442954 <
+899.000000000002 0 'R_NDB_93_2' 'N_NDB_76' '' 66070 443730 <
+tble grid
+GRID id 'R_NDB_95' ci 'R_NDB_95' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_83' 'R_NDB_95_1' 61860 442390 <
+4067.29394069325 0 'R_NDB_95_2' 'N_NDB_81' '' 65888 442954 <
+tble grid
+GRID id 'R_NDB_96' ci 'R_NDB_96' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_84' 'R_NDB_96_1' 68533.6 440671 <
+1708 0 'R_NDB_96_2' 'N_NDB_77' '' 68432.2 442347 <
+tble grid
+GRID id 'R_NDB_97' ci 'R_NDB_97' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_85' 'R_NDB_97_1' 80975.4 433940 <
+817.999999999989 0 'R_NDB_97_2' 'N_NDB_5' '' 80570 434620 <
+tble grid
+GRID id 'R_NDB_98' ci 'R_NDB_98' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_41' 'R_NDB_98_1' 67740 423900 <
+6744.85001828506 0 'R_NDB_98_9' 'N_NDB_86' '' 62647.5 428074 <
+tble grid
+GRID id 'R_NDB_100' ci 'R_NDB_100' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_86' 'R_NDB_100_1' 62647.5 428074 <
+4801.00000000001 0 'R_NDB_100_2' 'N_NDB_88' '' 62399 432185 <
+tble grid
+GRID id 'R_NDB_101' ci 'R_NDB_101' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_86' 'R_NDB_101_1' 62647.5 428074 <
+3428.54465334783 0 'R_NDB_101_2' 'N_NDB_87' '' 60978.7 431069 <
+tble grid
+GRID id 'R_NDB_102' ci 'R_NDB_102' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_87' 'R_NDB_102_1' 60978.7 431069 <
+2025.99999999999 0 'R_NDB_102_2' 'N_NDB_88' '' 62399 432185 <
+tble grid
+GRID id 'R_NDB_103' ci 'R_NDB_103' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_87' 'R_NDB_103_1' 60978.7 431069 <
+2955.99999999997 0 'R_NDB_103_2' 'N_NDB_90' '' 59456.9 431374 <
+tble grid
+GRID id 'R_NDB_104' ci 'R_NDB_104' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_88' 'R_NDB_104_1' 62399 432185 <
+2889.00000000003 0 'R_NDB_104_2' 'N_NDB_89' '' 61029.4 434011 <
+tble grid
+GRID id 'R_NDB_105' ci 'R_NDB_105' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_90' 'R_NDB_105_1' 59456.9 431374 <
+3363 0 'R_NDB_105_2' 'N_NDB_89' '' 61029.4 434011 <
+tble grid
+GRID id 'R_NDB_106' ci 'R_NDB_106' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_89' 'R_NDB_106_1' 61029.4 434011 <
+4830.44212366301 0 'R_NDB_106_3' 'N_NDB_92' '' 57935.1 436953 <
+tble grid
+GRID id 'R_NDB_107' ci 'R_NDB_107' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_90' 'R_NDB_107_1' 59456.9 431374 <
+9551.00000000003 0 'R_NDB_107_2' 'N_NDB_91' '' 51848 431881 <
+tble grid
+GRID id 'R_NDB_108' ci 'R_NDB_108' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_32' 'R_NDB_108_1' 82084.4 431891 <
+7471.99999999999 0 'R_NDB_108_10' 'N_NDB_71' '' 75480 433170 <
+tble grid
+GRID id 'R_NDB_109' ci 'R_NDB_109' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_94' 'R_NDB_109_1' 62421 439049 <
+3409.00586095126 0 'R_NDB_109_2' 'N_NDB_82' '' 65207.4 441013 <
+tble grid
+GRID id 'R_NDB_110' ci 'R_NDB_110' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_82' 'R_NDB_110_1' 65207.4 441013 <
+199.999999999972 0 'R_NDB_110_2' 'N_NDB_93' '' 65287.7 440973 <
+tble grid
+GRID id 'R_NDB_111' ci 'R_NDB_111' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_82' 'R_NDB_111_1' 65207.4 441013 <
+2256.21643462071 0 'R_NDB_111_3' 'N_NDB_81' '' 65888 442954 <
+tble grid
+GRID id 'R_NDB_113' ci 'R_NDB_113' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_93' 'R_NDB_113_1' 65287.7 440973 <
+4520.73 0 'R_NDB_113_5' 'N_NDB_70' '' 69360 439010 <
+tble grid
+GRID id 'R_NDB_4066' ci 'R_NDB_4066' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_69' 'R_NDB_4066_1' 61760 440480 <
+2094.90999999998 0 'R_NDB_4066_2' 'N_NDB_4063' '' 62387 438955 <
+tble grid
+GRID id 'R_NDB_4067' ci 'R_NDB_4067' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_4063' 'R_NDB_4067_1' 62387 438955 <
+3533.60785741712 0 'R_NDB_4067_4' 'N_NDB_93' '' 65287.7 440973 <
+tble grid
+GRID id 'R_NDB_9445' ci 'R_NDB_9445' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_94' 'R_NDB_9445_1' 62421 439049 <
+99.9999999999999 0 'R_NDB_9445_2' 'N_NDB_4063' '' 62387 438955 <
+tble grid
+GRID id 'R_NDB_14478' ci 'R_NDB_14478' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_NDB_72' 'R_NDB_14478_1' 67050 442240 <
+4424.00000000002 0 'R_NDB_14478_2' 'N_NDB_70' '' 69360 439010 <
+tble grid
+GRID id 'R_NDB_23019' ci 'R_NDB_23019' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_RT_004' 'R_NDB_23019_1' 120525 425551 <
+95.005263012109 0 'R_NDB_23019_2' 'N_NDB_38' '' 120430 425550 <
+tble grid
+GRID id 'R_NDB_23032' ci 'R_NDB_23032' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_RT_008' 'R_NDB_23032_1' 102800 433850 <
+1059.99999999998 0 'R_NDB_23032_2' 'N_NDB_26' '' 102090 433680 <
+tble grid
+GRID id 'R_NDB_24741' ci 'R_NDB_24741' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_MS_022' 'R_NDB_24741_1' 120750 414647 <
+200.00000000001 0 'R_NDB_24741_2' 'N_NDB_57' '' 120556 414625 <
+tble grid
+GRID id 'R_MS_001' ci 'R_MS_001' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_MS_001' 'R_MS_001_1' 175703 307649 <
+8243.00000000009 0 'R_MS_001_18' 'N_MS_002' '' 176761 315486 <
+tble grid
+GRID id 'R_MS_002' ci 'R_MS_002' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_MS_002' 'R_MS_002_1' 176761 315486 <
+4039.00000000001 0 'R_MS_002_13' 'N_MS_003' '' 176818 319447 <
+tble grid
+GRID id 'R_MS_003' ci 'R_MS_003' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_MS_003' 'R_MS_003_1' 176818 319447 <
+1174.77995237245 0 'R_MS_003_9' 'N_MS_004' '' 176270 320347 <
+tble grid
+GRID id 'R_MS_004' ci 'R_MS_004' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_MS_004' 'R_MS_004_1' 176270 320347 <
+36843.0000000002 0 'R_MS_004_87' 'N_MS_005' '' 183948 345113 <
+tble grid
+GRID id 'R_MS_005' ci 'R_MS_005' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_MS_005' 'R_MS_005_1' 183948 345113 <
+14549.0637702262 0 'R_MS_005_34' 'N_MS_006' '' 189903 352575 <
+tble grid
+GRID id 'R_MS_006' ci 'R_MS_006' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_MS_003' 'R_MS_006_1' 176818 319447 <
+39965.6929556091 0 'R_MS_006_78' 'N_MS_006' '' 189903 352575 <
+tble grid
+GRID id 'R_MS_007' ci 'R_MS_007' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_MS_006' 'R_MS_007_1' 189903 352575 <
+1673.18282034533 0 'R_MS_007_6' 'N_MS_007' '' 191452 353102 <
+tble grid
+GRID id 'R_MS_008' ci 'R_MS_008' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_MS_007' 'R_MS_008_1' 191452 353102 <
+15003 0 'R_MS_008_45' 'N_MS_008' '' 196850 359869 <
+tble grid
+GRID id 'R_MS_009' ci 'R_MS_009' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_MS_007' 'R_MS_009_1' 191452 353102 <
+8682.54110756984 0 'R_MS_009_19' 'N_MS_008' '' 196850 359869 <
+tble grid
+GRID id 'R_MS_010' ci 'R_MS_010' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_MS_008' 'R_MS_010_1' 196850 359869 <
+21693 0 'R_MS_010_54' 'N_MS_009' '' 208671 375653 <
+tble grid
+GRID id 'R_MS_011' ci 'R_MS_011' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_MS_009' 'R_MS_011_1' 208671 375653 <
+16372.0000000001 0 'R_MS_011_38' 'N_MS_010' '' 209209 390669 <
+tble grid
+GRID id 'R_MS_012' ci 'R_MS_012' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_MS_010' 'R_MS_012_1' 209209 390669 <
+8337.56390238381 0 'R_MS_012_18' 'N_MS_011' '' 203825 395638 <
+tble grid
+GRID id 'R_MS_013' ci 'R_MS_013' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_MS_011' 'R_MS_013_1' 203825 395638 <
+32090.9999999999 0 'R_MS_013_74' 'N_MS_012' '' 187853 418895 <
+tble grid
+GRID id 'R_MS_014' ci 'R_MS_014' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_MS_013' 'R_MS_014_1' 184893 429522 <
+11037.116557334 0 'R_MS_014_26' 'N_MS_012' '' 187853 418895 <
+tble grid
+GRID id 'R_MS_015' ci 'R_MS_015' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_MS_014' 'R_MS_015_1' 182393 417522 <
+5701.29598571833 0 'R_MS_015_14' 'N_MS_012' '' 187853 418895 <
+tble grid
+GRID id 'R_MS_016' ci 'R_MS_016' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_MS_012' 'R_MS_016_1' 187853 418895 <
+36257 0 'R_MS_016_77' 'N_MS_015' '' 158061 424675 <
+tble grid
+GRID id 'R_MS_017' ci 'R_MS_017' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_MS_015' 'R_MS_017_1' 158061 424675 <
+17590 0 'R_MS_017_38' 'N_MS_016' '' 146618 416780 <
+tble grid
+GRID id 'R_MS_018' ci 'R_MS_018' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_MS_016' 'R_MS_018_1' 146618 416780 <
+10567 0 'R_MS_018_22' 'N_MS_017' '' 136739 416525 <
+tble grid
+GRID id 'R_MS_019' ci 'R_MS_019' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_MS_018' 'R_MS_019_1' 131554 422869 <
+10050 0 'R_MS_019_22' 'N_MS_019' '' 138086 418516 <
+tble grid
+GRID id 'R_MS_020' ci 'R_MS_020' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_MS_020' 'R_MS_020_1' 140948 417710 <
+4500.74378915008 0 'R_MS_020_9' 'N_MS_019' '' 138086 418516 <
+tble grid
+GRID id 'R_MS_021' ci 'R_MS_021' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_MS_019' 'R_MS_021_1' 138086 418516 <
+2537.47885095933 0 'R_MS_021_7' 'N_MS_017' '' 136739 416525 <
+tble grid
+GRID id 'R_MS_022' ci 'R_MS_022' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_MS_017' 'R_MS_022_1' 136739 416525 <
+4493.47555369824 0 'R_MS_022_11' 'N_MS_021' '' 132946 414244 <
+tble grid
+GRID id 'R_MS_023' ci 'R_MS_023' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_MS_021' 'R_MS_023_1' 132946 414244 <
+12628.9961006682 0 'R_MS_023_26' 'N_MS_022' '' 120750 414647 <
+tble grid
+GRID id 'R_RT_001' ci 'R_RT_001' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_RT_001' 'R_RT_001_1' 204322 429166 <
+4841.79598614617 0 'R_RT_001_11' 'N_RT_002' '' 200215 431638 <
+tble grid
+GRID id 'R_RT_002' ci 'R_RT_002' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_RT_002' 'R_RT_002_1' 200215 431638 <
+45719.0000000003 0 'R_RT_002_94' 'N_ARK_6144' '' 159990 433341 <
+tble grid
+GRID id 'R_RT_003' ci 'R_RT_003' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_ARK_6144' 'R_RT_003_1' 159990 433341 <
+46761.8766890275 0 'R_RT_003_97' 'N_RT_004' '' 120525 425551 <
+tble grid
+GRID id 'R_RT_004' ci 'R_RT_004' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_RT_002' 'R_RT_004_1' 200215 431638 <
+11347.0000000001 0 'R_RT_004_26' 'N_RT_005' '' 193800 440465 <
+tble grid
+GRID id 'R_RT_005' ci 'R_RT_005' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_RT_005' 'R_RT_005_1' 193800 440465 <
+48670.3846275924 0 'R_RT_005_112' 'N_ARK_0' '' 151711 441369 <
+tble grid
+GRID id 'R_RT_006' ci 'R_RT_006' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_ARK_0' 'R_RT_006_1' 151711 441369 <
+18594.0970429739 0 'R_RT_006_43' 'N_RT_007' '' 137273 445176 <
+tble grid
+GRID id 'R_RT_007' ci 'R_RT_007' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_RT_007' 'R_RT_007_1' 137273 445176 <
+2217.4100371047 0 'R_RT_007_6' 'N_RT_2986' '' 135506 446117 <
+tble grid
+GRID id 'R_RT_008' ci 'R_RT_008' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_RT_005' 'R_RT_008_1' 193800 440465 <
+69209.5247299686 0 'R_RT_008_150' 'N_YSV_P_62062' '' 203839 484051 <
+tble grid
+GRID id 'R_RT_2987' ci 'R_RT_2987' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_RT_2986' 'R_RT_2987_1' 135506 446117 <
+38578.9999999998 0 'R_RT_2987_80' 'N_RT_008' '' 102800 433850 <
+tble grid
+GRID id 'R_ARK_0' ci 'R_ARK_0' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_ARK_0' 'R_ARK_0_1' 151711 441369 <
+18257.1591636609 0 'R_ARK_0_6' 'N_ARK_1' '' 136100 450000 <
+tble grid
+GRID id 'R_ARK_3' ci 'R_ARK_3' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_ARK_3' 'R_ARK_3_1' 128130 464860 <
+3550 0 'R_ARK_3_4' 'N_ARK_4' '' 128510 468050 <
+tble grid
+GRID id 'R_ARK_5' ci 'R_ARK_5' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_ARK_5' 'R_ARK_5_1' 130040 479700 <
+3230.10835731559 0 'R_ARK_5_3' 'N_ARK_6' '' 129600 482900 <
+tble grid
+GRID id 'R_ARK_6' ci 'R_ARK_6' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_ARK_6' 'R_ARK_6_1' 129600 482900 <
+1415 0 'R_ARK_6_3' 'N_ARK_7' '' 128620 483790 <
+tble grid
+GRID id 'R_ARK_9' ci 'R_ARK_9' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_ARK_9' 'R_ARK_9_1' 125720 488320 <
+3500 0 'R_ARK_9_6' 'N_ARK_10' '' 122500 488800 <
+tble grid
+GRID id 'R_ARK_10' ci 'R_ARK_10' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_ARK_10' 'R_ARK_10_1' 122500 488800 <
+10311.5447058647 0 'R_ARK_10_6' 'N_ARK_11' '' 115000 493000 <
+tble grid
+GRID id 'R_ARK_11' ci 'R_ARK_11' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_ARK_11' 'R_ARK_11_1' 115000 493000 <
+14142.4588588774 0 'R_ARK_11_5' 'N_ARK_13' '' 102350 498000 <
+tble grid
+GRID id 'R_ARK_12' ci 'R_ARK_12' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_ARK_12' 'R_ARK_12_1' 115000 489000 <
+4000 0 'R_ARK_12_3' 'N_ARK_11' '' 115000 493000 <
+tble grid
+GRID id 'R_ARK_14' ci 'R_ARK_14' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_ARK_15' 'R_ARK_14_1' 129020 467570 <
+700.357051795725 0 'R_ARK_14_4' 'N_ARK_4' '' 128510 468050 <
+tble grid
+GRID id 'R_ARK_18' ci 'R_ARK_18' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_MAK_5680' 'R_ARK_18_1' 133353.9 483643.7 <
+1200 0 'R_ARK_18_7' 'N_ARK_21' '' 133300 482460 <
+tble grid
+GRID id 'R_ARK_19' ci 'R_ARK_19' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_ARK_21' 'R_ARK_19_1' 133300 482460 <
+3726.07031603001 0 'R_ARK_19_5' 'N_ARK_6' '' 129600 482900 <
+tble grid
+GRID id 'R_ARK_20' ci 'R_ARK_20' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_ARK_17' 'R_ARK_20_1' 110370 468920 <
+7509.6644245413 0 'R_ARK_20_7' 'N_ARK_24' '' 116290 471340 <
+tble grid
+GRID id 'R_ARK_21' ci 'R_ARK_21' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_ARK_24' 'R_ARK_21_1' 116290 471340 <
+5070 0 'R_ARK_21_11' 'N_ARK_18' '' 119680 473990 <
+tble grid
+GRID id 'R_ARK_22' ci 'R_ARK_22' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_ARK_18' 'R_ARK_22_1' 119680 473990 <
+6498.37607719544 0 'R_ARK_22_7' 'N_ARK_25' '' 121860 478750 <
+tble grid
+GRID id 'R_ARK_23' ci 'R_ARK_23' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_ARK_25' 'R_ARK_23_1' 121860 478750 <
+7038.50563805765 0 'R_ARK_23_12' 'N_ARK_19' '' 122660 483600 <
+tble grid
+GRID id 'R_ARK_25' ci 'R_ARK_25' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_ARK_23' 'R_ARK_25_1' 125430 486660 <
+3810 0 'R_ARK_25_3' 'N_ARK_22' '' 122350 484950 <
+tble grid
+GRID id 'R_ARK_26' ci 'R_ARK_26' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_ARK_22' 'R_ARK_26_1' 122350 484950 <
+5000 0 'R_ARK_26_6' 'N_ARK_10' '' 122500 488800 <
+tble grid
+GRID id 'R_ARK_28' ci 'R_ARK_28' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_ARK_18' 'R_ARK_28_1' 119680 473990 <
+6307.00485058896 0 'R_ARK_28_10' 'N_ARK_26' '' 123780 475690 <
+tble grid
+GRID id 'R_ARK_29' ci 'R_ARK_29' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_ARK_27' 'R_ARK_29_1' 123580 476930 <
+1340.00000000001 0 'R_ARK_29_5' 'N_ARK_26' '' 123780 475690 <
+tble grid
+GRID id 'R_ARK_30' ci 'R_ARK_30' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_ARK_26' 'R_ARK_30_1' 123780 475690 <
+6551.91778314586 0 'R_ARK_30_11' 'N_ARK_28' '' 127130 474600 <
+tble grid
+GRID id 'R_ARK_31' ci 'R_ARK_31' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_ARK_29' 'R_ARK_31_1' 126790 476050 <
+1819.99999999999 0 'R_ARK_31_3' 'N_ARK_28' '' 127130 474600 <
+tble grid
+GRID id 'R_ARK_33' ci 'R_ARK_33' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_ARK_25' 'R_ARK_33_1' 121860 478750 <
+3300.41053911225 0 'R_ARK_33_8' 'N_ARK_27' '' 123580 476930 <
+tble grid
+GRID id 'R_ARK_34' ci 'R_ARK_34' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_ARK_27' 'R_ARK_34_1' 123580 476930 <
+3646.58885867765 0 'R_ARK_34_7' 'N_ARK_29' '' 126790 476050 <
+tble grid
+GRID id 'R_ARK_35' ci 'R_ARK_35' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_ARK_29' 'R_ARK_35_1' 126790 476050 <
+6497.35285749056 0 'R_ARK_35_8' 'N_ARK_30' '' 129550 479680 <
+tble grid
+GRID id 'R_ARK_36' ci 'R_ARK_36' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_ARK_30' 'R_ARK_36_1' 129550 479680 <
+490.407993409569 0 'R_ARK_36_5' 'N_ARK_5' '' 130040 479700 <
+tble grid
+GRID id 'R_ARK_37' ci 'R_ARK_37' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_ARK_31' 'R_ARK_37_1' 127235 482630 <
+4219.36518580985 0 'R_ARK_37_11' 'N_ARK_30' '' 129550 479680 <
+tble grid
+GRID id 'R_ARK_38' ci 'R_ARK_38' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_ARK_31' 'R_ARK_38_1' 127235 482630 <
+2079.61540319649 0 'R_ARK_38_10' 'N_ARK_7' '' 128620 483790 <
+tble grid
+GRID id 'R_ARK_39' ci 'R_ARK_39' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_ARK_19' 'R_ARK_39_1' 122660 483600 <
+4964.84182607557 0 'R_ARK_39_9' 'N_ARK_31' '' 127235 482630 <
+tble grid
+GRID id 'R_ARK_40' ci 'R_ARK_40' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_ARK_13' 'R_ARK_40_1' 102350 498000 <
+919.238815542512 0 'R_ARK_40_5' 'N_ARK_32' '' 101500 497650 <
+tble grid
+GRID id 'R_ARK_41' ci 'R_ARK_41' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_ARK_13' 'R_ARK_41_1' 102350 498000 <
+1217.53850041795 0 'R_ARK_41_6' 'N_ARK_33' '' 101530 498900 <
+tble grid
+GRID id 'R_ARK_42' ci 'R_ARK_42' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_ARK_24' 'R_ARK_42_1' 116290 471340 <
+16648.1874750483 0 'R_ARK_42_28' 'N_ARK_34' '' 124400 463130 <
+tble grid
+GRID id 'R_ARK_43' ci 'R_ARK_43' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_ARK_34' 'R_ARK_43_1' 124400 463130 <
+2295.84995951521 0 'R_ARK_43_6' 'N_ARK_35' '' 125600 461270 <
+tble grid
+GRID id 'R_ARK_44' ci 'R_ARK_44' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_ARK_35' 'R_ARK_44_1' 125600 461270 <
+2290.00000000001 0 'R_ARK_44_4' 'N_ARK_34' '' 124400 463130 <
+tble grid
+GRID id 'R_ARK_45' ci 'R_ARK_45' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_ARK_34' 'R_ARK_45_1' 124400 463130 <
+4135.84002469304 0 'R_ARK_45_10' 'N_ARK_3' '' 128130 464860 <
+tble grid
+GRID id 'R_ARK_46' ci 'R_ARK_46' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_ARK_1' 'R_ARK_46_1' 136100 450000 <
+11000 0 'R_ARK_46_5' 'N_ARK_36' '' 132200 459850 <
+tble grid
+GRID id 'R_ARK_47' ci 'R_ARK_47' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_ARK_36' 'R_ARK_47_1' 132200 459850 <
+7000.00000000001 0 'R_ARK_47_5' 'N_ARK_3' '' 128130 464860 <
+tble grid
+GRID id 'R_ARK_48' ci 'R_ARK_48' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_ARK_14' 'R_ARK_48_1' 136365 456560 <
+9633.49029699787 0 'R_ARK_48_18' 'N_ARK_37' '' 132400 460000 <
+tble grid
+GRID id 'R_ARK_50' ci 'R_ARK_50' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_ARK_28' 'R_ARK_50_1' 127130 474600 <
+5599.99999999997 0 'R_ARK_50_9' 'N_ARK_39' '' 128400 470970 <
+tble grid
+GRID id 'R_ARK_51' ci 'R_ARK_51' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_ARK_39' 'R_ARK_51_1' 128400 470970 <
+2941.18893202441 0 'R_ARK_51_8' 'N_ARK_4' '' 128510 468050 <
+tble grid
+GRID id 'R_ARK_52' ci 'R_ARK_52' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_ARK_38' 'R_ARK_52_1' 126700 470340 <
+1812.98097066682 0 'R_ARK_52_4' 'N_ARK_39' '' 128400 470970 <
+tble grid
+GRID id 'R_ARK_53' ci 'R_ARK_53' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_ARK_36' 'R_ARK_53_1' 132200 459850 <
+499.999999999924 0 'R_ARK_53_3' 'N_ARK_37' '' 132400 460000 <
+tble grid
+GRID id 'R_ARK_54' ci 'R_ARK_54' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_ARK_37' 'R_ARK_54_1' 132400 460000 <
+8085.27325326688 0 'R_ARK_54_10' 'N_ARK_40' '' 128810 465020 <
+tble grid
+GRID id 'R_ARK_55' ci 'R_ARK_55' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_ARK_40' 'R_ARK_55_1' 128810 465020 <
+2930.00000000003 0 'R_ARK_55_6' 'N_ARK_15' '' 129020 467570 <
+tble grid
+GRID id 'R_ARK_56' ci 'R_ARK_56' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_ARK_3' 'R_ARK_56_1' 128130 464860 <
+749.999999999991 0 'R_ARK_56_4' 'N_ARK_40' '' 128810 465020 <
+tble grid
+GRID id 'R_ARK_57' ci 'R_ARK_57' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_ARK_15' 'R_ARK_57_1' 129020 467570 <
+11674.178776367 0 'R_ARK_57_24' 'N_ARK_41' '' 130160 476200 <
+tble grid
+GRID id 'R_ARK_58' ci 'R_ARK_58' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_ARK_41' 'R_ARK_58_1' 130160 476200 <
+9614.87052420781 0 'R_ARK_58_25' 'N_ARK_16' '' 131847 479830 <
+tble grid
+GRID id 'R_ARK_59' ci 'R_ARK_59' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_ARK_4' 'R_ARK_59_1' 128510 468050 <
+8400 0 'R_ARK_59_5' 'N_ARK_42' '' 130000 476300 <
+tble grid
+GRID id 'R_ARK_60' ci 'R_ARK_60' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_ARK_42' 'R_ARK_60_1' 130000 476300 <
+3400.23528597655 0 'R_ARK_60_3' 'N_ARK_5' '' 130040 479700 <
+tble grid
+GRID id 'R_ARK_61' ci 'R_ARK_61' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_ARK_41' 'R_ARK_61_1' 130160 476200 <
+319.999999999911 0 'R_ARK_61_4' 'N_ARK_42' '' 130000 476300 <
+tble grid
+GRID id 'R_ARK_62' ci 'R_ARK_62' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_ARK_44' 'R_ARK_62_1' 131964 480240 <
+3743.40255273955 0 'R_ARK_62_11' 'N_ARK_21' '' 133300 482460 <
+tble grid
+GRID id 'R_ARK_63' ci 'R_ARK_63' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_ARK_43' 'R_ARK_63_1' 131504 480160 <
+2679.99999999999 0 'R_ARK_63_5' 'N_ARK_5' '' 130040 479700 <
+tble grid
+GRID id 'R_ARK_64' ci 'R_ARK_64' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_ARK_16' 'R_ARK_64_1' 131847 479830 <
+475.97163781049 0 'R_ARK_64_3' 'N_ARK_43' '' 131504 480160 <
+tble grid
+GRID id 'R_ARK_65' ci 'R_ARK_65' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_ARK_44' 'R_ARK_65_1' 131964 480240 <
+466.90470119715 0 'R_ARK_65_4' 'N_ARK_43' '' 131504 480160 <
+tble grid
+GRID id 'R_ARK_66' ci 'R_ARK_66' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_ARK_16' 'R_ARK_66_1' 131847 479830 <
+731.999999999941 0 'R_ARK_66_3' 'N_ARK_44' '' 131964 480240 <
+tble grid
+GRID id 'R_ARK_67' ci 'R_ARK_67' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_ARK_19' 'R_ARK_67_1' 122660 483600 <
+1200.00000000001 0 'R_ARK_67_3' 'N_ARK_45' '' 122600 484690 <
+tble grid
+GRID id 'R_ARK_68' ci 'R_ARK_68' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_ARK_45' 'R_ARK_68_1' 122600 484690 <
+499.999999999975 0 'R_ARK_68_5' 'N_ARK_22' '' 122350 484950 <
+tble grid
+GRID id 'R_ARK_69' ci 'R_ARK_69' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_ARK_45' 'R_ARK_69_1' 122600 484690 <
+3500.00000000001 0 'R_ARK_69_3' 'N_ARK_23' '' 125430 486660 <
+tble grid
+GRID id 'R_ARK_70' ci 'R_ARK_70' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_ARK_7' 'R_ARK_70_1' 128620 483790 <
+949.999999999997 0 'R_ARK_70_4' 'N_ARK_46' '' 128000 484100 <
+tble grid
+GRID id 'R_ARK_71' ci 'R_ARK_71' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_ARK_46' 'R_ARK_71_1' 128000 484100 <
+3050.00000000004 0 'R_ARK_71_4' 'N_ARK_47' '' 126500 485895 <
+tble grid
+GRID id 'R_ARK_75' ci 'R_ARK_75' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_ARK_45' 'R_ARK_75_1' 122600 484690 <
+4500 0 'R_ARK_75_5' 'N_ARK_47' '' 126500 485895 <
+tble grid
+GRID id 'R_ARK_76' ci 'R_ARK_76' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_ARK_50' 'R_ARK_76_1' 118380 484250 <
+4242.87638283276 0 'R_ARK_76_3' 'N_ARK_45' '' 122600 484690 <
+tble grid
+GRID id 'R_ARK_78' ci 'R_ARK_78' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_ARK_13' 'R_ARK_78_1' 102350 498000 <
+1350.92560861063 0 'R_ARK_78_3' 'N_ARK_52' '' 101000 498050 <
+tble grid
+GRID id 'R_ARK_3155' ci 'R_ARK_3155' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_ARK_7' 'R_ARK_3155_1' 128620 483790 <
+1100.23 0 'R_ARK_3155_3' 'N_ARK_3153' '' 129700 484000 <
+tble grid
+GRID id 'R_ARK_5146' ci 'R_ARK_5146' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_RT_2986' 'R_ARK_5146_1' 135506 446117 <
+4050.00000000001 0 'R_ARK_5146_4' 'N_ARK_1' '' 136100 450000 <
+tble grid
+GRID id 'R_ARK_6146' ci 'R_ARK_6146' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_ARK_6144' 'R_ARK_6146_1' 159990 433341 <
+12000 0 'R_ARK_6146_4' 'N_ARK_0' '' 151711 441369 <
+tble grid
+GRID id 'R_ARK_7626' ci 'R_ARK_7626' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_MAK_8' 'R_ARK_7626_1' 127000 487315 <
+1627.4 0 'R_ARK_7626_4' 'N_ARK_9' '' 125720 488320 <
+tble grid
+GRID id 'R_ARK_7632' ci 'R_ARK_7632' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_ARK_47' 'R_ARK_7632_1' 126500 485895 <
+2031.03764613068 0 'R_ARK_7632_4' 'N_MAK_5670' '' 128483.6 486331.4 <
+tble grid
+GRID id 'R_ARK_7649' ci 'R_ARK_7649' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_ARK_3153' 'R_ARK_7649_1' 129700 484000 <
+1219.21286082456 0 'R_ARK_7649_2' 'N_MAK_5675' '' 130036 485172 <
+tble grid
+GRID id 'R_MAK_21' ci 'R_MAK_21' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_MAK_0' 'R_MAK_21_1' 147005 522000 <
+10633.4390015648 0 'R_MAK_21_5' 'N_MAK_1' '' 140000 514000 <
+tble grid
+GRID id 'R_MAK_22' ci 'R_MAK_22' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_MAK_1' 'R_MAK_22_1' 140000 514000 <
+9219.54445729289 0 'R_MAK_22_5' 'N_MAK_2' '' 131000 516000 <
+tble grid
+GRID id 'R_MAK_28' ci 'R_MAK_28' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_MAK_5' 'R_MAK_28_1' 137938 497386 <
+7273.16066095064 0 'R_MAK_28_6' 'N_MAK_6' '' 133267 491811 <
+tble grid
+GRID id 'R_MAK_29' ci 'R_MAK_29' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_MAK_6' 'R_MAK_29_1' 133267 491811 <
+6055.44 0 'R_MAK_29_5' 'N_MAK_7' '' 129252 487278 <
+tble grid
+GRID id 'R_MAK_30' ci 'R_MAK_30' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_MAK_7' 'R_MAK_30_1' 129252 487278 <
+2252.30393153322 0 'R_MAK_30_5' 'N_MAK_8' '' 127000 487315 <
+tble grid
+GRID id 'R_MAK_31' ci 'R_MAK_31' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_MAK_8' 'R_MAK_31_1' 127000 487315 <
+1780.03874115143 0 'R_MAK_31_3' 'N_MAK_5670' '' 128483.6 486331.4 <
+tble grid
+GRID id 'R_MAK_38' ci 'R_MAK_38' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_MAK_14' 'R_MAK_38_1' 156000 516000 <
+7324.55623229148 0 'R_MAK_38_5' 'N_MAK_15' '' 149318 513000 <
+tble grid
+GRID id 'R_MAK_39' ci 'R_MAK_39' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_MAK_15' 'R_MAK_39_1' 149318 513000 <
+9728.57 0 'R_MAK_39_5' 'N_MAK_16' '' 141660 507000 <
+tble grid
+GRID id 'R_MAK_42' ci 'R_MAK_42' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_MAK_15' 'R_MAK_42_1' 149318 513000 <
+9371.51 0 'R_MAK_42_4' 'N_MAK_1' '' 140000 514000 <
+tble grid
+GRID id 'R_MAK_43' ci 'R_MAK_43' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_MAK_15' 'R_MAK_43_1' 149318 513000 <
+16054.2 0 'R_MAK_43_5' 'N_MAK_12' '' 148000 497000 <
+tble grid
+GRID id 'R_MAK_45' ci 'R_MAK_45' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_MAK_16' 'R_MAK_45_1' 141660 507000 <
+13951.2 0 'R_MAK_45_5' 'N_MAK_2' '' 131000 516000 <
+tble grid
+GRID id 'R_MAK_47' ci 'R_MAK_47' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_MAK_16' 'R_MAK_47_1' 141660 507000 <
+10309.3297551296 0 'R_MAK_47_4' 'N_MAK_5' '' 137938 497386 <
+tble grid
+GRID id 'R_MAK_52' ci 'R_MAK_52' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_MAK_7' 'R_MAK_52_1' 129252 487278 <
+7573.6 0 'R_MAK_52_5' 'N_MAK_11' '' 136775 488152 <
+tble grid
+GRID id 'R_MAK_53' ci 'R_MAK_53' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_MAK_7' 'R_MAK_53_1' 129252 487278 <
+4277.47448852708 0 'R_MAK_53_4' 'N_MAK_9' '' 132000 484000 <
+tble grid
+GRID id 'R_MAK_54' ci 'R_MAK_54' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_MAK_9' 'R_MAK_54_1' 132000 484000 <
+6327.69539405936 0 'R_MAK_54_5' 'N_MAK_11' '' 136775 488152 <
+tble grid
+GRID id 'R_MAK_56' ci 'R_MAK_56' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_MAK_17' 'R_MAK_56_1' 134039 499203 <
+3441.15242324428 0 'R_MAK_56_6' 'N_MAK_18' '' 132406 496174 <
+tble grid
+GRID id 'R_MAK_59' ci 'R_MAK_59' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_MAK_18' 'R_MAK_59_1' 132406 496174 <
+2565.42 0 'R_MAK_59_3' 'N_MAK_19' '' 134631 494897 <
+tble grid
+GRID id 'R_MAK_60' ci 'R_MAK_60' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_MAK_19' 'R_MAK_60_1' 134631 494897 <
+4346.50434257232 0 'R_MAK_60_4' 'N_MAK_17' '' 134039 499203 <
+tble grid
+GRID id 'R_MAK_67' ci 'R_MAK_67' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_MAK_10' 'R_MAK_67_1' 137666 482509 <
+6696.99999999999 0 'R_MAK_67_25' 'N_MAK_61' '' 143670 482034 <
+tble grid
+GRID id 'R_MAK_68' ci 'R_MAK_68' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_MAK_61' 'R_MAK_68_1' 143670 482034 <
+9204.99999999999 0 'R_MAK_68_36' 'N_MAK_62' '' 151625 477912 <
+tble grid
+GRID id 'R_MAK_69' ci 'R_MAK_69' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_MAK_62' 'R_MAK_69_1' 151625 477912 <
+6795.00380276468 0 'R_MAK_69_25' 'N_MAK_63' '' 156482 473607 <
+tble grid
+GRID id 'R_MAK_70' ci 'R_MAK_70' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_MAK_63' 'R_MAK_70_1' 156482 473607 <
+4189.99821002348 0 'R_MAK_70_16' 'N_RND_0' '' 160484 474848 <
+tble grid
+GRID id 'R_MAK_71' ci 'R_MAK_71' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_MAK_65' 'R_MAK_71_1' 150935 475407 <
+2598.29270868392 0 'R_MAK_71_4' 'N_MAK_62' '' 151625 477912 <
+tble grid
+GRID id 'R_MAK_107' ci 'R_MAK_107' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_MAK_0' 'R_MAK_107_1' 147005 522000 <
+9292.47 0 'R_MAK_107_5' 'N_MAK_15' '' 149318 513000 <
+tble grid
+GRID id 'R_MAK_109' ci 'R_MAK_109' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_MAK_13' 'R_MAK_109_1' 157000 504000 <
+11832.7141434246 0 'R_MAK_109_5' 'N_MAK_15' '' 149318 513000 <
+tble grid
+GRID id 'R_MAK_111' ci 'R_MAK_111' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_MAK_14' 'R_MAK_111_1' 156000 516000 <
+12041.6 0 'R_MAK_111_8' 'N_MAK_13' '' 157000 504000 <
+tble grid
+GRID id 'R_MAK_113' ci 'R_MAK_113' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_MAK_12' 'R_MAK_113_1' 148000 497000 <
+14292.9258376303 0 'R_MAK_113_7' 'N_MAK_11' '' 136775 488152 <
+tble grid
+GRID id 'R_MAK_115' ci 'R_MAK_115' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_MAK_13' 'R_MAK_115_1' 157000 504000 <
+11401.8 0 'R_MAK_115_6' 'N_MAK_12' '' 148000 497000 <
+tble grid
+GRID id 'R_MAK_119' ci 'R_MAK_119' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_MAK_1' 'R_MAK_119_1' 140000 514000 <
+7194.14 0 'R_MAK_119_4' 'N_MAK_16' '' 141660 507000 <
+tble grid
+GRID id 'R_MAK_121' ci 'R_MAK_121' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_MAK_12' 'R_MAK_121_1' 148000 497000 <
+11840.4222897665 0 'R_MAK_121_5' 'N_MAK_16' '' 141660 507000 <
+tble grid
+GRID id 'R_MAK_123' ci 'R_MAK_123' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_MAK_12' 'R_MAK_123_1' 148000 497000 <
+10069.4011738534 0 'R_MAK_123_5' 'N_MAK_5' '' 137938 497386 <
+tble grid
+GRID id 'R_MAK_125' ci 'R_MAK_125' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_MAK_11' 'R_MAK_125_1' 136775 488152 <
+9306.95035981175 0 'R_MAK_125_6' 'N_MAK_5' '' 137938 497386 <
+tble grid
+GRID id 'R_MAK_127' ci 'R_MAK_127' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_MAK_11' 'R_MAK_127_1' 136775 488152 <
+5068.96 0 'R_MAK_127_4' 'N_MAK_6' '' 133267 491811 <
+tble grid
+GRID id 'R_MAK_128' ci 'R_MAK_128' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_MAK_0' 'R_MAK_128_1' 147005 522000 <
+10812.5 0 'R_MAK_128_8' 'N_MAK_14' '' 156000 516000 <
+tble grid
+GRID id 'R_MAK_220' ci 'R_MAK_220' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_MAK_0' 'R_MAK_220_1' 147005 522000 <
+1414.2135623731 0 'R_MAK_220_5' 'N_YSV_P_P_3' '' 148005 523000 <
+tble grid
+GRID id 'R_MAK_2945' ci 'R_MAK_2945' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_MAK_2' 'R_MAK_2945_1' 131000 516000 <
+12460.5311283268 0 'R_MAK_2945_5' 'N_MAK_2943' '' 134000 503906 <
+tble grid
+GRID id 'R_MAK_2946' ci 'R_MAK_2946' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_MAK_16' 'R_MAK_2946_1' 141660 507000 <
+8261.26116280075 0 'R_MAK_2946_4' 'N_MAK_2943' '' 134000 503906 <
+tble grid
+GRID id 'R_MAK_2951' ci 'R_MAK_2951' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_MAK_2949' 'R_MAK_2951_1' 135611 501367 <
+4611.21350622588 0 'R_MAK_2951_4' 'N_MAK_5' '' 137938 497386 <
+tble grid
+GRID id 'R_MAK_2952' ci 'R_MAK_2952' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_MAK_2949' 'R_MAK_2952_1' 135611 501367 <
+2674.7111993634 0 'R_MAK_2952_5' 'N_MAK_17' '' 134039 499203 <
+tble grid
+GRID id 'R_MAK_2954' ci 'R_MAK_2954' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_MAK_2943' 'R_MAK_2954_1' 134000 503906 <
+3006.97 0 'R_MAK_2954_4' 'N_MAK_2949' '' 135611 501367 <
+tble grid
+GRID id 'R_MAK_2956' ci 'R_MAK_2956' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_MAK_9' 'R_MAK_2956_1' 132000 484000 <
+1400 0 'R_MAK_2956_3' 'N_MAK_5680' '' 133353.9 483643.7 <
+tble grid
+GRID id 'R_MAK_2958' ci 'R_MAK_2958' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_MAK_11' 'R_MAK_2958_1' 136775 488152 <
+5712.91 0 'R_MAK_2958_6' 'N_MAK_10' '' 137666 482509 <
+tble grid
+GRID id 'R_MAK_5180' ci 'R_MAK_5180' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_MAK_13' 'R_MAK_5180_1' 157000 504000 <
+1312.44047484067 0 'R_MAK_5180_5' 'N_YSV_P_P_2' '' 157850 505000 <
+tble grid
+GRID id 'R_MAK_5671' ci 'R_MAK_5671' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_MAK_5670' 'R_MAK_5671_1' 128483.6 486331.4 <
+1940 0 'R_MAK_5671_2' 'N_MAK_5675' '' 130036 485172 <
+tble grid
+GRID id 'R_MAK_5676' ci 'R_MAK_5676' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_MAK_5675' 'R_MAK_5676_1' 130036 485172 <
+2287.11171567984 0 'R_MAK_5676_4' 'N_MAK_9' '' 132000 484000 <
+tble grid
+GRID id 'R_MAK_5681' ci 'R_MAK_5681' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_MAK_5680' 'R_MAK_5681_1' 133353.9 483643.7 <
+4458.89565924121 0 'R_MAK_5681_5' 'N_MAK_10' '' 137666 482509 <
+tble grid
+GRID id 'R_YSV_P_18' ci 'R_YSV_P_18' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_2' 'R_YSV_P_18_1' 245697 514479 <
+2245.99999999997 0 'R_YSV_P_18_15' 'N_YSV_P_3' '' 243931 515605 <
+tble grid
+GRID id 'R_YSV_P_19' ci 'R_YSV_P_19' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_3' 'R_YSV_P_19_1' 243931 515605 <
+3329 0 'R_YSV_P_19_27' 'N_YSV_P_4' '' 241045 514574 <
+tble grid
+GRID id 'R_YSV_P_20' ci 'R_YSV_P_20' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_4' 'R_YSV_P_20_1' 241045 514574 <
+7418.99999999998 0 'R_YSV_P_20_49' 'N_YSV_P_5' '' 238443 509243 <
+tble grid
+GRID id 'R_YSV_P_21' ci 'R_YSV_P_21' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_5' 'R_YSV_P_21_1' 238443 509243 <
+7346.00000000001 0 'R_YSV_P_21_48' 'N_YSV_P_6' '' 234577 503746 <
+tble grid
+GRID id 'R_YSV_P_22' ci 'R_YSV_P_22' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_6' 'R_YSV_P_22_1' 234577 503746 <
+14277 0 'R_YSV_P_22_83' 'N_YSV_P_7' '' 223462 503825 <
+tble grid
+GRID id 'R_YSV_P_23' ci 'R_YSV_P_23' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_7' 'R_YSV_P_23_1' 223462 503825 <
+1061.82578608734 0 'R_YSV_P_23_9' 'N_YSV_P_9' '' 222497 503382 <
+tble grid
+GRID id 'R_YSV_P_24' ci 'R_YSV_P_24' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_9' 'R_YSV_P_24_1' 222497 503382 <
+24733.0000000001 0 'R_YSV_P_24_142' 'N_YSV_P_10' '' 203397 508580 <
+tble grid
+GRID id 'R_YSV_P_43' ci 'R_YSV_P_43' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_0' 'R_YSV_P_43_1' 255000 513940 <
+6380.00000000008 0 'R_YSV_P_43_26' 'N_YSV_P_33' '' 249413 514318 <
+tble grid
+GRID id 'R_YSV_P_46' ci 'R_YSV_P_46' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_33' 'R_YSV_P_46_1' 249413 514318 <
+4470.00000000006 0 'R_YSV_P_46_21' 'N_YSV_P_2' '' 245697 514479 <
+tble grid
+GRID id 'R_YSV_P_47' ci 'R_YSV_P_47' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_33' 'R_YSV_P_47_1' 249413 514318 <
+1159.99999999998 0 'R_YSV_P_47_8' 'N_YSV_P_35' '' 248413 513818 <
+tble grid
+GRID id 'R_YSV_P_48' ci 'R_YSV_P_48' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_35' 'R_YSV_P_48_1' 248413 513818 <
+3010.00000000002 0 'R_YSV_P_48_12' 'N_YSV_P_2' '' 245697 514479 <
+tble grid
+GRID id 'R_YSV_P_2956' ci 'R_YSV_P_2956' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_2947' 'R_YSV_P_2956_1' 201461 504431 <
+5394.55701995708 0 'R_YSV_P_2956_29' 'N_YSV_P_10' '' 203397 508580 <
+tble grid
+GRID id 'R_YSV_P_2959' ci 'R_YSV_P_2959' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_10' 'R_YSV_P_2959_1' 203397 508580 <
+2844.88274676298 0 'R_YSV_P_2959_18' 'N_YSV_P_2944' '' 202926 511204 <
+tble grid
+GRID id 'R_YSV_P_2961' ci 'R_YSV_P_2961' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_2944' 'R_YSV_P_2961_1' 202926 511204 <
+6801.69466420066 0 'R_YSV_P_2961_41' 'N_YSV_P_2945' '' 201635 516646 <
+tble grid
+GRID id 'R_YSV_P_2962' ci 'R_YSV_P_2962' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_2945' 'R_YSV_P_2962_1' 201635 516646 <
+7279.86542896289 0 'R_YSV_P_2962_30' 'N_YSV_P_2946' '' 197251 516956 <
+tble grid
+GRID id 'R_YSV_P_14433' ci 'R_YSV_P_14433' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_14409' 'R_YSV_P_14433_1' 243931 516605 <
+1000 0 'R_YSV_P_14433_2' 'N_YSV_P_3' '' 243931 515605 <
+tble grid
+GRID id 'R_YSV_P_14434' ci 'R_YSV_P_14434' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_14411' 'R_YSV_P_14434_1' 243931 514605 <
+1000 0 'R_YSV_P_14434_2' 'N_YSV_P_3' '' 243931 515605 <
+tble grid
+GRID id 'R_YSV_P_14435' ci 'R_YSV_P_14435' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_14413' 'R_YSV_P_14435_1' 241045 515574 <
+1000 0 'R_YSV_P_14435_2' 'N_YSV_P_4' '' 241045 514574 <
+tble grid
+GRID id 'R_YSV_P_14442' ci 'R_YSV_P_14442' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_14415' 'R_YSV_P_14442_1' 239443 509243 <
+1000 0 'R_YSV_P_14442_2' 'N_YSV_P_5' '' 238443 509243 <
+tble grid
+GRID id 'R_YSV_P_14443' ci 'R_YSV_P_14443' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_14417' 'R_YSV_P_14443_1' 234577 502746 <
+1000 0 'R_YSV_P_14443_2' 'N_YSV_P_6' '' 234577 503746 <
+tble grid
+GRID id 'R_YSV_P_14444' ci 'R_YSV_P_14444' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_14419' 'R_YSV_P_14444_1' 223462 504825 <
+1000 0 'R_YSV_P_14444_2' 'N_YSV_P_7' '' 223462 503825 <
+tble grid
+GRID id 'R_YSV_P_14445' ci 'R_YSV_P_14445' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_14421' 'R_YSV_P_14445_1' 222497 502382 <
+1000 0 'R_YSV_P_14445_2' 'N_YSV_P_9' '' 222497 503382 <
+tble grid
+GRID id 'R_YSV_P_19193' ci 'R_YSV_P_19193' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_19191' 'R_YSV_P_19193_1' 201635 517646 <
+1000 0 'R_YSV_P_19193_2' 'N_YSV_P_2945' '' 201635 516646 <
+tble grid
+GRID id 'R_YSV_P_21070' ci 'R_YSV_P_21070' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_21063' 'R_YSV_P_21070_1' 200431 502749 <
+2125.00000000002 0 'R_YSV_P_21070_16' 'N_YSV_P_2947' '' 201461 504431 <
+tble grid
+GRID id 'R_YSV_P_23389' ci 'R_YSV_P_23389' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_22224' 'R_YSV_P_23389_1' 202622 503229 <
+1750.00000000001 0 'R_YSV_P_23389_42' 'N_YSV_P_2947' '' 201461 504431 <
+tble grid
+GRID id 'R_YSV_P_23390' ci 'R_YSV_P_23390' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_22225' 'R_YSV_P_23390_1' 203451 503067 <
+1448.59161402802 0 'R_YSV_P_23390_30' 'N_YSV_P_22224' '' 202622 503229 <
+tble grid
+GRID id 'R_YSV_P_23391' ci 'R_YSV_P_23391' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_22225' 'R_YSV_P_23391_1' 203451 503067 <
+1001.99999999999 0 'R_YSV_P_23391_28' 'N_YSV_P_22224' '' 202622 503229 <
+tble grid
+GRID id 'R_YSV_P_23392' ci 'R_YSV_P_23392' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_22225' 'R_YSV_P_23392_1' 203451 503067 <
+2004.45286671455 0 'R_YSV_P_23392_45' 'N_YSV_P_22224' '' 202622 503229 <
+tble grid
+GRID id 'R_YSV_P_23395' ci 'R_YSV_P_23395' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_22227' 'R_YSV_P_23395_1' 207419 489566 <
+12052.2927923267 0 'R_YSV_P_23395_127' 'N_YSV_P_22226' '' 205459 501055 <
+tble grid
+GRID id 'R_YSV_P_23396' ci 'R_YSV_P_23396' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_22228' 'R_YSV_P_23396_1' 208205 498172 <
+4210.00000000003 0 'R_YSV_P_23396_53' 'N_YSV_P_22226' '' 205459 501055 <
+tble grid
+GRID id 'R_YSV_P_24538' ci 'R_YSV_P_24538' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_24534' 'R_YSV_P_24538_1' 203949 502949 <
+511.789019030303 0 'R_YSV_P_24538_5' 'N_YSV_P_22225' '' 203451 503067 <
+tble grid
+GRID id 'R_YSV_P_24539' ci 'R_YSV_P_24539' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_24536' 'R_YSV_P_24539_1' 204363 502355 <
+935 0 'R_YSV_P_24539_14' 'N_YSV_P_24534' '' 203949 502949 <
+tble grid
+GRID id 'R_YSV_P_24542' ci 'R_YSV_P_24542' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_22226' 'R_YSV_P_24542_1' 205459 501055 <
+2817.83041405553 0 'R_YSV_P_24542_37' 'N_YSV_P_24534' '' 203949 502949 <
+tble grid
+GRID id 'R_YSV_P_40506' ci 'R_YSV_P_40506' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_RND_26' 'R_YSV_P_40506_1' 186816 506578 <
+8847.50343026574 0 'R_YSV_P_40506_21' 'N_YSV_P_5541147' '' 180634 510366 <
+tble grid
+GRID id 'R_YSV_P_62068' ci 'R_YSV_P_62068' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_62062' 'R_YSV_P_62068_1' 203839 484051 <
+40758.6081924405 0 'R_YSV_P_62068_86' 'N_YSV_P_5576557' '' 189521 509277 <
+tble grid
+GRID id 'R_YSV_P_P_8' ci 'R_YSV_P_P_8' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_P_9' 'R_YSV_P_P_8_1' 137395 530800 <
+9692.3 0 'R_YSV_P_P_8_4' 'N_YSV_P_P_4' '' 137185 540490 <
+tble grid
+GRID id 'R_YSV_P_P_9' ci 'R_YSV_P_P_9' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_P_4' 'R_YSV_P_P_9_1' 137185 540490 <
+10712.3 0 'R_YSV_P_P_9_3' 'N_YSV_P_P_12' '' 132330 549837 <
+tble grid
+GRID id 'R_YSV_P_P_11' ci 'R_YSV_P_P_11' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_P_11' 'R_YSV_P_P_11_1' 151270 564714 <
+13563.4542060642 0 'R_YSV_P_P_11_4' 'N_YSV_P_P_5' '' 145573 552405 <
+tble grid
+GRID id 'R_YSV_P_P_12' ci 'R_YSV_P_P_12' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_P_7' 'R_YSV_P_P_12_1' 153255 543380 <
+11851.8 0 'R_YSV_P_P_12_3' 'N_YSV_P_P_5' '' 145573 552405 <
+tble grid
+GRID id 'R_YSV_P_P_13' ci 'R_YSV_P_P_13' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_P_12' 'R_YSV_P_P_13_1' 132330 549837 <
+14065.2 0 'R_YSV_P_P_13_4' 'N_YSV_P_P_5' '' 145573 552405 <
+tble grid
+GRID id 'R_YSV_P_P_14' ci 'R_YSV_P_P_14' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_P_4' 'R_YSV_P_P_14_1' 137185 540490 <
+14572 0 'R_YSV_P_P_14_4' 'N_YSV_P_P_5' '' 145573 552405 <
+tble grid
+GRID id 'R_YSV_P_P_15' ci 'R_YSV_P_P_15' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_P_4' 'R_YSV_P_P_15_1' 137185 540490 <
+8401.9 0 'R_YSV_P_P_15_4' 'N_YSV_P_P_6' '' 145272 538212 <
+tble grid
+GRID id 'R_YSV_P_P_16' ci 'R_YSV_P_P_16' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_P_9' 'R_YSV_P_P_16_1' 137395 530800 <
+10815.9545579667 0 'R_YSV_P_P_16_5' 'N_YSV_P_P_6' '' 145272 538212 <
+tble grid
+GRID id 'R_YSV_P_P_17' ci 'R_YSV_P_P_17' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_P_7' 'R_YSV_P_P_17_1' 153255 543380 <
+9510.1 0 'R_YSV_P_P_17_5' 'N_YSV_P_P_6' '' 145272 538212 <
+tble grid
+GRID id 'R_YSV_P_P_18' ci 'R_YSV_P_P_18' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_P_5' 'R_YSV_P_P_18_1' 145573 552405 <
+14197.1 0 'R_YSV_P_P_18_4' 'N_YSV_P_P_6' '' 145272 538212 <
+tble grid
+GRID id 'R_YSV_P_P_10' ci 'R_YSV_P_P_10' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_P_11' 'R_YSV_P_P_10_1' 151270 564714 <
+12285.5 0 'R_YSV_P_P_10_4' 'N_YSV_P_P_25' '' 141628 557171 <
+tble grid
+GRID id 'R_YSV_P_P_4' ci 'R_YSV_P_P_4' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_P_11' 'R_YSV_P_P_4_1' 151270 564714 <
+21426.1471338176 0 'R_YSV_P_P_4_5' 'N_YSV_P_P_7' '' 153255 543380 <
+tble grid
+GRID id 'R_YSV_P_P_1' ci 'R_YSV_P_P_1' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_P_8' 'R_YSV_P_P_1_1' 175685 539178 <
+12530.1 0 'R_YSV_P_P_1_3' 'N_YSV_P_P_10' '' 167425 530380 <
+tble grid
+GRID id 'R_YSV_P_P_2' ci 'R_YSV_P_P_2' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_38559' 'R_YSV_P_P_2_1' 172511 513876 <
+17269.8990153388 0 'R_YSV_P_P_2_3' 'N_YSV_P_P_10' '' 167425 530380 <
+tble grid
+GRID id 'R_YSV_P_P_5' ci 'R_YSV_P_P_5' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_P_2' 'R_YSV_P_P_5_1' 157850 505000 <
+17343.8 0 'R_YSV_P_P_5_3' 'N_YSV_P_38559' '' 172511 513876 <
+tble grid
+GRID id 'R_YSV_P_P_19' ci 'R_YSV_P_P_19' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_P_6' 'R_YSV_P_P_19_1' 145272 538212 <
+21242.2782441056 0 'R_YSV_P_P_19_5' 'N_YSV_P_P_17' '' 161624 524653 <
+tble grid
+GRID id 'R_YSV_P_P_20' ci 'R_YSV_P_P_20' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_P_17' 'R_YSV_P_P_20_1' 161624 524653 <
+15318.9587766271 0 'R_YSV_P_P_20_6' 'N_YSV_P_38559' '' 172511 513876 <
+tble grid
+GRID id 'R_YSV_P_P_22' ci 'R_YSV_P_P_22' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_P_10' 'R_YSV_P_P_22_1' 167425 530380 <
+8151.69491578285 0 'R_YSV_P_P_22_3' 'N_YSV_P_P_17' '' 161624 524653 <
+tble grid
+GRID id 'R_YSV_P_P_25' ci 'R_YSV_P_P_25' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_P_3' 'R_YSV_P_P_25_1' 148005 523000 <
+13719.4 0 'R_YSV_P_P_25_4' 'N_YSV_P_P_17' '' 161624 524653 <
+tble grid
+GRID id 'R_YSV_P_P_26' ci 'R_YSV_P_P_26' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_P_2' 'R_YSV_P_P_26_1' 157850 505000 <
+10369.8 0 'R_YSV_P_P_26_3' 'N_YSV_P_P_27' '' 159639 515026 <
+tble grid
+GRID id 'R_YSV_P_P_29' ci 'R_YSV_P_P_29' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_P_6' 'R_YSV_P_P_29_1' 145272 538212 <
+8471.49620787261 0 'R_YSV_P_P_29_4' 'N_YSV_P_P_18' '' 146770 529874 <
+tble grid
+GRID id 'R_YSV_P_P_30' ci 'R_YSV_P_P_30' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_P_11' 'R_YSV_P_P_30_1' 151270 564714 <
+845.281609879216 0 'R_YSV_P_P_30_4' 'N_YSV_P_P_13' '' 151000 565515 <
+tble grid
+GRID id 'R_YSV_P_P_31' ci 'R_YSV_P_P_31' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_P_12' 'R_YSV_P_P_31_1' 132330 549837 <
+539.315306662068 0 'R_YSV_P_P_31_4' 'N_YSV_P_P_14' '' 131975 550243 <
+tble grid
+GRID id 'R_YSV_P_P_3' ci 'R_YSV_P_P_3' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_P_18' 'R_YSV_P_P_3_1' 146770 529874 <
+6984.0604951561 0 'R_YSV_P_P_3_3' 'N_YSV_P_P_3' '' 148005 523000 <
+tble grid
+GRID id 'R_YSV_P_P_6' ci 'R_YSV_P_P_6' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_P_9' 'R_YSV_P_P_6_1' 137395 530800 <
+9420.7 0 'R_YSV_P_P_6_3' 'N_YSV_P_P_18' '' 146770 529874 <
+tble grid
+GRID id 'R_YSV_P_P_7' ci 'R_YSV_P_P_7' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_P_18' 'R_YSV_P_P_7_1' 146770 529874 <
+15745 0 'R_YSV_P_P_7_5' 'N_YSV_P_P_17' '' 161624 524653 <
+tble grid
+GRID id 'R_YSV_P_P_33' ci 'R_YSV_P_P_33' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_P_25' 'R_YSV_P_P_33_1' 141628 557171 <
+12354.6 0 'R_YSV_P_P_33_3' 'N_YSV_P_P_12' '' 132330 549837 <
+tble grid
+GRID id 'R_YSV_P_P_34' ci 'R_YSV_P_P_34' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_P_25' 'R_YSV_P_P_34_1' 141628 557171 <
+6187 0 'R_YSV_P_P_34_2' 'N_YSV_P_P_5' '' 145573 552405 <
+tble grid
+GRID id 'R_YSV_P_P_21' ci 'R_YSV_P_P_21' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_P_7' 'R_YSV_P_P_21_1' 153255 543380 <
+8996.79999999987 0 'R_YSV_P_P_21_4' 'N_YSV_P_P_26' '' 159885 538600 <
+tble grid
+GRID id 'R_YSV_P_P_23' ci 'R_YSV_P_P_23' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_P_8' 'R_YSV_P_P_23_1' 175685 539178 <
+15810.5687437233 0 'R_YSV_P_P_23_4' 'N_YSV_P_P_26' '' 159885 538600 <
+tble grid
+GRID id 'R_YSV_P_P_24' ci 'R_YSV_P_P_24' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_P_6' 'R_YSV_P_P_24_1' 145272 538212 <
+15424.1 0 'R_YSV_P_P_24_6' 'N_YSV_P_P_26' '' 159885 538600 <
+tble grid
+GRID id 'R_YSV_P_P_27' ci 'R_YSV_P_P_27' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_P_26' 'R_YSV_P_P_27_1' 159885 538600 <
+14054.9966204194 0 'R_YSV_P_P_27_5' 'N_YSV_P_P_17' '' 161624 524653 <
+tble grid
+GRID id 'R_YSV_P_P_28' ci 'R_YSV_P_P_28' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_P_26' 'R_YSV_P_P_28_1' 159885 538600 <
+11154.3713404208 0 'R_YSV_P_P_28_3' 'N_YSV_P_P_10' '' 167425 530380 <
+tble grid
+GRID id 'R_YSV_P_P_35' ci 'R_YSV_P_P_35' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_P_27' 'R_YSV_P_P_35_1' 159639 515026 <
+9829.7 0 'R_YSV_P_P_35_4' 'N_YSV_P_P_17' '' 161624 524653 <
+tble grid
+GRID id 'R_YSV_P_P_36' ci 'R_YSV_P_P_36' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_P_3' 'R_YSV_P_P_36_1' 148005 523000 <
+14104.5 0 'R_YSV_P_P_36_4' 'N_YSV_P_P_27' '' 159639 515026 <
+tble grid
+GRID id 'R_YSV_P_P_37' ci 'R_YSV_P_P_37' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_P_27' 'R_YSV_P_P_37_1' 159639 515026 <
+12923.2690910621 0 'R_YSV_P_P_37_5' 'N_YSV_P_38559' '' 172511 513876 <
+tble grid
+GRID id 'R_YSV_P_5576558' ci 'R_YSV_P_5576558' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_5576557' 'R_YSV_P_5576558_1' 189521 509277 <
+4351.95039911638 0 'R_YSV_P_5576558_10' 'N_YSV_P_62061' '' 186007 510557 <
+tble grid
+GRID id 'R_YSV_5576091' ci 'R_YSV_5576091' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_5576079' 'R_YSV_5576091_1' 194738 519564 <
+994.388254154282 0 'R_YSV_5576091_3' 'N_YSV_5576080' '' 195480 518902 <
+tble grid
+GRID id 'R_YSV_5576094' ci 'R_YSV_5576094' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_5576081' 'R_YSV_5576094_1' 196135 517660 <
+1404.13282847457 0 'R_YSV_5576094_6' 'N_YSV_5576080' '' 195480 518902 <
+tble grid
+GRID id 'R_YSV_5576096' ci 'R_YSV_5576096' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_2946' 'R_YSV_5576096_1' 197251 516956 <
+1319.5 0 'R_YSV_5576096_5' 'N_YSV_5576081' '' 196135 517660 <
+tble grid
+GRID id 'R_YSV_5576097' ci 'R_YSV_5576097' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_2946' 'R_YSV_5576097_1' 197251 516956 <
+2059.01189894571 0 'R_YSV_5576097_6' 'N_YSV_P_82179' '' 195608 515715 <
+tble grid
+GRID id 'R_YSV_5576100' ci 'R_YSV_5576100' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_5576081' 'R_YSV_5576100_1' 196135 517660 <
+2015.13126123337 0 'R_YSV_5576100_6' 'N_YSV_P_82179' '' 195608 515715 <
+tble grid
+GRID id 'R_YSV_5576102' ci 'R_YSV_5576102' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_5576080' 'R_YSV_5576102_1' 195480 518902 <
+2539.16 0 'R_YSV_5576102_7' 'N_YSV_5576084' '' 194104 516768 <
+tble grid
+GRID id 'R_YSV_5576103' ci 'R_YSV_5576103' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_82179' 'R_YSV_5576103_1' 195608 515715 <
+1835.9806643862 0 'R_YSV_5576103_6' 'N_YSV_5576084' '' 194104 516768 <
+tble grid
+GRID id 'R_YSV_5576104' ci 'R_YSV_5576104' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_82179' 'R_YSV_5576104_1' 195608 515715 <
+2182.13198500916 0 'R_YSV_5576104_6' 'N_YSV_P_82180' '' 193448 515405 <
+tble grid
+GRID id 'R_YSV_5576108' ci 'R_YSV_5576108' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_82180' 'R_YSV_5576108_1' 193448 515405 <
+2344.89 0 'R_YSV_5576108_8' 'N_YSV_5576085' '' 191138 515808 <
+tble grid
+GRID id 'R_YSV_5576109' ci 'R_YSV_5576109' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_5576084' 'R_YSV_5576109_1' 194104 516768 <
+3117.49194064716 0 'R_YSV_5576109_8' 'N_YSV_5576085' '' 191138 515808 <
+tble grid
+GRID id 'R_YSV_5576110' ci 'R_YSV_5576110' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_82180' 'R_YSV_5576110_1' 193448 515405 <
+2376.31 0 'R_YSV_5576110_7' 'N_YSV_P_38530' '' 191416 514173 <
+tble grid
+GRID id 'R_YSV_5576111' ci 'R_YSV_5576111' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_38530' 'R_YSV_5576111_1' 191416 514173 <
+1658.47 0 'R_YSV_5576111_5' 'N_YSV_5576085' '' 191138 515808 <
+tble grid
+GRID id 'R_YSV_5576112' ci 'R_YSV_5576112' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_38530' 'R_YSV_5576112_1' 191416 514173 <
+2240.1058010728 0 'R_YSV_5576112_7' 'N_YSV_P_38541' '' 189409 515168 <
+tble grid
+GRID id 'R_YSV_5576115' ci 'R_YSV_5576115' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_5576084' 'R_YSV_5576115_1' 194104 516768 <
+1512.65 0 'R_YSV_5576115_5' 'N_YSV_P_82180' '' 193448 515405 <
+tble grid
+GRID id 'R_YSV_5576119' ci 'R_YSV_5576119' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_5576081' 'R_YSV_5576119_1' 196135 517660 <
+2218.25 0 'R_YSV_5576119_8' 'N_YSV_5576084' '' 194104 516768 <
+tble grid
+GRID id 'R_YSV_5579028' ci 'R_YSV_5579028' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_5579026' 'R_YSV_5579028_1' 197679 517153 <
+1156.78 0 'R_YSV_5579028_4' 'N_YSV_5579025' '' 197066 518134 <
+tble grid
+GRID id 'R_YSV_5579029' ci 'R_YSV_5579029' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_5579025' 'R_YSV_5579029_1' 197066 518134 <
+1762.16344304381 0 'R_YSV_5579029_6' 'N_YSV_5576080' '' 195480 518902 <
+tble grid
+GRID id 'R_YSV_5579030' ci 'R_YSV_5579030' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_2946' 'R_YSV_5579030_1' 197251 516956 <
+471.161331180733 0 'R_YSV_5579030_4' 'N_YSV_5579026' '' 197679 517153 <
+tble grid
+GRID id 'R_YSV_5581980' ci 'R_YSV_5581980' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_5581966' 'R_YSV_5581980_1' 185036 511233 <
+2384.02097306211 0 'R_YSV_5581980_7' 'N_YSV_P_38549' '' 185026 513617 <
+tble grid
+GRID id 'R_YSV_5581981' ci 'R_YSV_5581981' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_62061' 'R_YSV_5581981_1' 186007 510557 <
+1183.14 0 'R_YSV_5581981_4' 'N_YSV_5581966' '' 185036 511233 <
+tble grid
+GRID id 'R_YSV_5581982' ci 'R_YSV_5581982' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_5581966' 'R_YSV_5581982_1' 185036 511233 <
+2385.17127267624 0 'R_YSV_5581982_7' 'N_YSV_5581969' '' 183097 512622 <
+tble grid
+GRID id 'R_YSV_5581983' ci 'R_YSV_5581983' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_5581969' 'R_YSV_5581983_1' 183097 512622 <
+2170.5 0 'R_YSV_5581983_7' 'N_YSV_P_38549' '' 185026 513617 <
+tble grid
+GRID id 'R_YSV_5581984' ci 'R_YSV_5581984' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_38549' 'R_YSV_5581984_1' 185026 513617 <
+3508.02 0 'R_YSV_5581984_9' 'N_YSV_5581971' '' 181518 513628 <
+tble grid
+GRID id 'R_YSV_5581985' ci 'R_YSV_5581985' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_5581969' 'R_YSV_5581985_1' 183097 512622 <
+1872.24 0 'R_YSV_5581985_6' 'N_YSV_5581971' '' 181518 513628 <
+tble grid
+GRID id 'R_YSV_5581986' ci 'R_YSV_5581986' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_5581969' 'R_YSV_5581986_1' 183097 512622 <
+2536.80192368265 0 'R_YSV_5581986_7' 'N_YSV_5581965' '' 181439 510702 <
+tble grid
+GRID id 'R_YSV_5581987' ci 'R_YSV_5581987' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_5581965' 'R_YSV_5581987_1' 181439 510702 <
+2927.07 0 'R_YSV_5581987_8' 'N_YSV_5581971' '' 181518 513628 <
+tble grid
+GRID id 'R_YSV_5581988' ci 'R_YSV_5581988' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_5576089' 'R_YSV_5581988_1' 185052 513907 <
+5364.0014914241 0 'R_YSV_5581988_13' 'N_YSV_5581973' '' 179688 513911 <
+tble grid
+GRID id 'R_YSV_5584868' ci 'R_YSV_5584868' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_5581971' 'R_YSV_5584868_1' 181518 513628 <
+1525.39306409856 0 'R_YSV_5584868_5' 'N_YSV_5581972' '' 180000 513478 <
+tble grid
+GRID id 'R_YSV_5584869' ci 'R_YSV_5584869' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_5581973' 'R_YSV_5584869_1' 179688 513911 <
+533.698 0 'R_YSV_5584869_3' 'N_YSV_5581972' '' 180000 513478 <
+tble grid
+GRID id 'R_YSV_5584870' ci 'R_YSV_5584870' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_5581972' 'R_YSV_5584870_1' 180000 513478 <
+2184.91 0 'R_YSV_5584870_6' 'N_YSV_5581974' '' 177850 513867 <
+tble grid
+GRID id 'R_YSV_5584871' ci 'R_YSV_5584871' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_5581974' 'R_YSV_5584871_1' 177850 513867 <
+2776.35 0 'R_YSV_5584871_8' 'N_YSV_5581975' '' 175074 513823 <
+tble grid
+GRID id 'R_YSV_5584872' ci 'R_YSV_5584872' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_5581975' 'R_YSV_5584872_1' 175074 513823 <
+2563.55 0 'R_YSV_5584872_7' 'N_YSV_P_38559' '' 172511 513876 <
+tble grid
+GRID id 'R_YSV_5584874' ci 'R_YSV_5584874' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_62061' 'R_YSV_5584874_1' 186007 510557 <
+4570.30075596782 0 'R_YSV_5584874_11' 'N_YSV_5581965' '' 181439 510702 <
+tble grid
+GRID id 'R_YSV_5584882' ci 'R_YSV_5584882' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_5581976' 'R_YSV_5584882_1' 177956 511471 <
+2398.34359506723 0 'R_YSV_5584882_9' 'N_YSV_5581974' '' 177850 513867 <
+tble grid
+GRID id 'R_YSV_5584883' ci 'R_YSV_5584883' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_5581977' 'R_YSV_5584883_1' 175790 511914 <
+2838.63 0 'R_YSV_5584883_7' 'N_YSV_5581974' '' 177850 513867 <
+tble grid
+GRID id 'R_YSV_5584884' ci 'R_YSV_5584884' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_5581976' 'R_YSV_5584884_1' 177956 511471 <
+2210.84 0 'R_YSV_5584884_6' 'N_YSV_5581977' '' 175790 511914 <
+tble grid
+GRID id 'R_YSV_5584885' ci 'R_YSV_5584885' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_5581977' 'R_YSV_5584885_1' 175790 511914 <
+2038.86 0 'R_YSV_5584885_6' 'N_YSV_5581975' '' 175074 513823 <
+tble grid
+GRID id 'R_YSV_5584886' ci 'R_YSV_5584886' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_5581977' 'R_YSV_5584886_1' 175790 511914 <
+3121.82 0 'R_YSV_5584886_8' 'N_YSV_5581978' '' 172785 512760 <
+tble grid
+GRID id 'R_YSV_5584887' ci 'R_YSV_5584887' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_5581978' 'R_YSV_5584887_1' 172785 512760 <
+1149.144029267 0 'R_YSV_5584887_4' 'N_YSV_P_38559' '' 172511 513876 <
+tble grid
+GRID id 'R_YSV_5584888' ci 'R_YSV_5584888' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_5581975' 'R_YSV_5584888_1' 175074 513823 <
+2523.78485612383 0 'R_YSV_5584888_7' 'N_YSV_5581978' '' 172785 512760 <
+tble grid
+GRID id 'R_YSV_5587654' ci 'R_YSV_5587654' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_5576085' 'R_YSV_5587654_1' 191138 515808 <
+1843.65 0 'R_YSV_5587654_6' 'N_YSV_P_38541' '' 189409 515168 <
+tble grid
+GRID id 'R_YSV_5587655' ci 'R_YSV_5587655' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_38541' 'R_YSV_5587655_1' 189409 515168 <
+2397.24112262409 0 'R_YSV_5587655_7' 'N_YSV_5587652' '' 187107 514499 <
+tble grid
+GRID id 'R_YSV_5587656' ci 'R_YSV_5587656' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_5587652' 'R_YSV_5587656_1' 187107 514499 <
+2138.57171962972 0 'R_YSV_5587656_7' 'N_YSV_5576089' '' 185052 513907 <
+tble grid
+GRID id 'R_YSV_5604205' ci 'R_YSV_5604205' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_5581965' 'R_YSV_5604205_1' 181439 510702 <
+1480.01249994721 0 'R_YSV_5604205_5' 'N_YSV_P_40496' '' 180000 511048 <
+tble grid
+GRID id 'R_YSV_5604207' ci 'R_YSV_5604207' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_40496' 'R_YSV_5604207_1' 180000 511048 <
+2430 0 'R_YSV_5604207_2' 'N_YSV_5581972' '' 180000 513478 <
+tble grid
+GRID id 'R_YSV_5604209' ci 'R_YSV_5604209' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_40496' 'R_YSV_5604209_1' 180000 511048 <
+2993.45 0 'R_YSV_5604209_8' 'N_YSV_5581971' '' 181518 513628 <
+tble grid
+GRID id 'R_YSV_5604211' ci 'R_YSV_5604211' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_40496' 'R_YSV_5604211_1' 180000 511048 <
+2087.31047043797 0 'R_YSV_5604211_6' 'N_YSV_5581976' '' 177956 511471 <
+tble grid
+GRID id 'R_YSV_5612452' ci 'R_YSV_5612452' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_5541147' 'R_YSV_5612452_1' 180634 510366 <
+931.171305399817 0 'R_YSV_5612452_4' 'N_YSV_P_40496' '' 180000 511048 <
+tble grid
+GRID id 'R_YSV_5625897' ci 'R_YSV_5625897' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_38549' 'R_YSV_5625897_1' 185026 513617 <
+2454.78 0 'R_YSV_5625897_5' 'N_YSV_P_113138' '' 187284 512654 <
+tble grid
+GRID id 'R_YSV_5625898' ci 'R_YSV_5625898' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_5581966' 'R_YSV_5625898_1' 185036 511233 <
+2659.46329171884 0 'R_YSV_5625898_5' 'N_YSV_P_113138' '' 187284 512654 <
+tble grid
+GRID id 'R_YSV_5625899' ci 'R_YSV_5625899' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_5576557' 'R_YSV_5625899_1' 189521 509277 <
+3377.81068149179 0 'R_YSV_5625899_5' 'N_YSV_P_113137' '' 189447 512654 <
+tble grid
+GRID id 'R_YSV_5625900' ci 'R_YSV_5625900' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_113138' 'R_YSV_5625900_1' 187284 512654 <
+2163 0 'R_YSV_5625900_3' 'N_YSV_P_113137' '' 189447 512654 <
+tble grid
+GRID id 'R_YSV_5625901' ci 'R_YSV_5625901' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_5587652' 'R_YSV_5625901_1' 187107 514499 <
+2979.87 0 'R_YSV_5625901_6' 'N_YSV_P_113137' '' 189447 512654 <
+tble grid
+GRID id 'R_YSV_5625902' ci 'R_YSV_5625902' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_97676' 'R_YSV_5625902_1' 193126 511901 <
+3755.27 0 'R_YSV_5625902_4' 'N_YSV_P_113137' '' 189447 512654 <
+tble grid
+GRID id 'R_YSV_5625903' ci 'R_YSV_5625903' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_38530' 'R_YSV_5625903_1' 191416 514173 <
+2486.83 0 'R_YSV_5625903_5' 'N_YSV_P_113137' '' 189447 512654 <
+tble grid
+GRID id 'R_YSV_5625904' ci 'R_YSV_5625904' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_38541' 'R_YSV_5625904_1' 189409 515168 <
+2514.29 0 'R_YSV_5625904_6' 'N_YSV_P_113137' '' 189447 512654 <
+tble grid
+GRID id 'R_YSV_5625905' ci 'R_YSV_5625905' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_5622664' 'R_YSV_5625905_1' 190937 508942 <
+2505.75509872032 0 'R_YSV_5625905_2' 'N_YSV_5625893' '' 190704 511233 <
+tble grid
+GRID id 'R_YSV_5625906' ci 'R_YSV_5625906' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_5625893' 'R_YSV_5625906_1' 190704 511233 <
+3200.00000000002 0 'R_YSV_5625906_4' 'N_YSV_P_97676' '' 193126 511901 <
+tble grid
+GRID id 'R_YSV_5625907' ci 'R_YSV_5625907' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_97676' 'R_YSV_5625907_1' 193126 511901 <
+4245.36939755289 0 'R_YSV_5625907_2' 'N_YSV_P_82180' '' 193448 515405 <
+tble grid
+GRID id 'R_YSV_5625908' ci 'R_YSV_5625908' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_97676' 'R_YSV_5625908_1' 193126 511901 <
+1749.99999999998 0 'R_YSV_5625908_2' 'N_YSV_5625895' '' 194663 512102 <
+tble grid
+GRID id 'R_YSV_5625911' ci 'R_YSV_5625911' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_5625895' 'R_YSV_5625911_1' 194663 512102 <
+2399.99999999999 0 'R_YSV_5625911_2' 'N_YSV_P_113166' '' 195868 514141 <
+tble grid
+GRID id 'R_YSV_5625913' ci 'R_YSV_5625913' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_5576570' 'R_YSV_5625913_1' 194573 513618 <
+2245.42 0 'R_YSV_5625913_4' 'N_YSV_P_97676' '' 193126 511901 <
+tble grid
+GRID id 'R_YSV_5625914' ci 'R_YSV_5625914' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_82180' 'R_YSV_5625914_1' 193448 515405 <
+2111.63301735884 0 'R_YSV_5625914_5' 'N_YSV_P_5576570' '' 194573 513618 <
+tble grid
+GRID id 'R_YSV_5625917' ci 'R_YSV_5625917' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_113166' 'R_YSV_5625917_1' 195868 514141 <
+1680 0 'R_YSV_5625917_2' 'N_YSV_P_82179' '' 195608 515715 <
+tble grid
+GRID id 'R_YSV_5625918' ci 'R_YSV_5625918' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_82179' 'R_YSV_5625918_1' 195608 515715 <
+2338.51106475894 0 'R_YSV_5625918_7' 'N_YSV_P_5576570' '' 194573 513618 <
+tble grid
+GRID id 'R_YSV_5628989' ci 'R_YSV_5628989' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_5625895' 'R_YSV_5628989_1' 194663 512102 <
+3262.34 0 'R_YSV_5628989_7' 'N_YSV_P_113176' '' 197841 512839 <
+tble grid
+GRID id 'R_YSV_5628990' ci 'R_YSV_5628990' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_113166' 'R_YSV_5628990_1' 195868 514141 <
+2363.88091916662 0 'R_YSV_5628990_7' 'N_YSV_P_113176' '' 197841 512839 <
+tble grid
+GRID id 'R_YSV_5628992' ci 'R_YSV_5628992' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_113166' 'R_YSV_5628992_1' 195868 514141 <
+1424.53395887918 0 'R_YSV_5628992_7' 'N_YSV_P_113172' '' 197272 514382 <
+tble grid
+GRID id 'R_YSV_5628993' ci 'R_YSV_5628993' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_113176' 'R_YSV_5628993_1' 197841 512839 <
+1800.00000000001 0 'R_YSV_5628993_2' 'N_YSV_P_113172' '' 197272 514382 <
+tble grid
+GRID id 'R_YSV_5628994' ci 'R_YSV_5628994' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_113172' 'R_YSV_5628994_1' 197272 514382 <
+2132.08466060802 0 'R_YSV_5628994_2' 'N_YSV_P_82179' '' 195608 515715 <
+tble grid
+GRID id 'R_YSV_5628995' ci 'R_YSV_5628995' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_113172' 'R_YSV_5628995_1' 197272 514382 <
+2574.09 0 'R_YSV_5628995_7' 'N_YSV_P_2946' '' 197251 516956 <
+tble grid
+GRID id 'R_YSV_5628996' ci 'R_YSV_5628996' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_113172' 'R_YSV_5628996_1' 197272 514382 <
+1284.08488815966 0 'R_YSV_5628996_4' 'N_YSV_P_5576580' '' 198465 514857 <
+tble grid
+GRID id 'R_YSV_5628997' ci 'R_YSV_5628997' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_P_5576580' 'R_YSV_5628997_1' 198465 514857 <
+2424.79 0 'R_YSV_5628997_4' 'N_YSV_P_2946' '' 197251 516956 <
+tble grid
+GRID id 'R_YSV_5640393' ci 'R_YSV_5640393' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_YSV_5587652' 'R_YSV_5640393_1' 187107 514499 <
+2260.2 0 'R_YSV_5640393_7' 'N_YSV_P_38549' '' 185026 513617 <
+tble grid
+GRID id 'R_RND_32' ci 'R_RND_32' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_RND_4' 'R_RND_32_1' 164977 476164 <
+5493.65324715712 0 'R_RND_32_21' 'N_RND_5' '' 166752 481363 <
+tble grid
+GRID id 'R_RND_33' ci 'R_RND_33' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_RND_5' 'R_RND_33_1' 166752 481363 <
+2931.53492218667 0 'R_RND_33_6' 'N_RND_6' '' 165573 484047 <
+tble grid
+GRID id 'R_RND_34' ci 'R_RND_34' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_RND_5' 'R_RND_34_1' 166752 481363 <
+2900.8 0 'R_RND_34_7' 'N_RND_7' '' 167626 484129 <
+tble grid
+GRID id 'R_RND_36' ci 'R_RND_36' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_RND_5' 'R_RND_36_1' 166752 481363 <
+5063.35 0 'R_RND_36_6' 'N_RND_8' '' 170152 485115 <
+tble grid
+GRID id 'R_RND_37' ci 'R_RND_37' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_RND_6' 'R_RND_37_1' 165573 484047 <
+2054.64 0 'R_RND_37_5' 'N_RND_7' '' 167626 484129 <
+tble grid
+GRID id 'R_RND_40' ci 'R_RND_40' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_RND_7' 'R_RND_40_1' 167626 484129 <
+2711.62 0 'R_RND_40_5' 'N_RND_8' '' 170152 485115 <
+tble grid
+GRID id 'R_RND_41' ci 'R_RND_41' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_RND_7' 'R_RND_41_1' 167626 484129 <
+2490.35 0 'R_RND_41_5' 'N_RND_10' '' 169230 486034 <
+tble grid
+GRID id 'R_RND_43' ci 'R_RND_43' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_RND_8' 'R_RND_43_1' 170152 485115 <
+1301.79 0 'R_RND_43_4' 'N_RND_10' '' 169230 486034 <
+tble grid
+GRID id 'R_RND_45' ci 'R_RND_45' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_RND_8' 'R_RND_45_1' 170152 485115 <
+1786.88248074685 0 'R_RND_45_7' 'N_RND_11' '' 171409 486385 <
+tble grid
+GRID id 'R_RND_46' ci 'R_RND_46' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_RND_10' 'R_RND_46_1' 169230 486034 <
+2665 0 'R_RND_46_8' 'N_RND_12' '' 171237 487368 <
+tble grid
+GRID id 'R_RND_47' ci 'R_RND_47' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_RND_11' 'R_RND_47_1' 171409 486385 <
+997.934366579286 0 'R_RND_47_5' 'N_RND_12' '' 171237 487368 <
+tble grid
+GRID id 'R_RND_48' ci 'R_RND_48' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_RND_11' 'R_RND_48_1' 171409 486385 <
+2003.05416801443 0 'R_RND_48_5' 'N_RND_13' '' 173304 487034 <
+tble grid
+GRID id 'R_RND_49' ci 'R_RND_49' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_RND_12' 'R_RND_49_1' 171237 487368 <
+1885.54 0 'R_RND_49_5' 'N_RND_14' '' 172524 488746 <
+tble grid
+GRID id 'R_RND_51' ci 'R_RND_51' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_RND_12' 'R_RND_51_1' 171237 487368 <
+2093.81111851093 0 'R_RND_51_3' 'N_RND_13' '' 173304 487034 <
+tble grid
+GRID id 'R_RND_52' ci 'R_RND_52' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_RND_13' 'R_RND_52_1' 173304 487034 <
+1978.73115910171 0 'R_RND_52_5' 'N_RND_15' '' 174865 488250 <
+tble grid
+GRID id 'R_RND_54' ci 'R_RND_54' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_RND_13' 'R_RND_54_1' 173304 487034 <
+1881.31443411249 0 'R_RND_54_5' 'N_RND_14' '' 172524 488746 <
+tble grid
+GRID id 'R_RND_55' ci 'R_RND_55' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_RND_13' 'R_RND_55_1' 173304 487034 <
+3085.89371171465 0 'R_RND_55_5' 'N_RND_16' '' 174308 489952 <
+tble grid
+GRID id 'R_RND_57' ci 'R_RND_57' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_RND_14' 'R_RND_57_1' 172524 488746 <
+2153.39081450628 0 'R_RND_57_4' 'N_RND_16' '' 174308 489952 <
+tble grid
+GRID id 'R_RND_58' ci 'R_RND_58' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_RND_15' 'R_RND_58_1' 174865 488250 <
+2146.08 0 'R_RND_58_6' 'N_RND_17' '' 176839 489092 <
+tble grid
+GRID id 'R_RND_62' ci 'R_RND_62' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_RND_16' 'R_RND_62_1' 174308 489952 <
+2673.12 0 'R_RND_62_6' 'N_RND_17' '' 176839 489092 <
+tble grid
+GRID id 'R_RND_63' ci 'R_RND_63' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_RND_16' 'R_RND_63_1' 174308 489952 <
+3027.85 0 'R_RND_63_4' 'N_RND_18' '' 177000 491338 <
+tble grid
+GRID id 'R_RND_64' ci 'R_RND_64' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_RND_17' 'R_RND_64_1' 176839 489092 <
+2251.76308700538 0 'R_RND_64_4' 'N_RND_18' '' 177000 491338 <
+tble grid
+GRID id 'R_RND_65' ci 'R_RND_65' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_RND_18' 'R_RND_65_1' 177000 491338 <
+1782.01066214543 0 'R_RND_65_4' 'N_RND_19' '' 178409 490247 <
+tble grid
+GRID id 'R_RND_66' ci 'R_RND_66' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_RND_18' 'R_RND_66_1' 177000 491338 <
+2388.3946491315 0 'R_RND_66_3' 'N_RND_20' '' 179355 491736 <
+tble grid
+GRID id 'R_RND_67' ci 'R_RND_67' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_RND_19' 'R_RND_67_1' 178409 490247 <
+1764.1 0 'R_RND_67_5' 'N_RND_20' '' 179355 491736 <
+tble grid
+GRID id 'R_RND_68' ci 'R_RND_68' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_RND_20' 'R_RND_68_1' 179355 491736 <
+5457.17005415811 0 'R_RND_68_20' 'N_RND_21' '' 183652 495100 <
+tble grid
+GRID id 'R_RND_70' ci 'R_RND_70' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_RND_21' 'R_RND_70_1' 183652 495100 <
+5300.00000000001 0 'R_RND_70_22' 'N_RND_24' '' 186185 499509 <
+tble grid
+GRID id 'R_RND_72' ci 'R_RND_72' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_RND_24' 'R_RND_72_1' 186185 499509 <
+4209.35268182651 0 'R_RND_72_16' 'N_RND_25' '' 187240 503584 <
+tble grid
+GRID id 'R_RND_73' ci 'R_RND_73' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_RND_25' 'R_RND_73_1' 187240 503584 <
+3180.00000000002 0 'R_RND_73_14' 'N_RND_26' '' 186816 506578 <
+tble grid
+GRID id 'R_RND_77' ci 'R_RND_77' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_RND_17' 'R_RND_77_1' 176839 489092 <
+1949.08311777615 0 'R_RND_77_6' 'N_RND_19' '' 178409 490247 <
+tble grid
+GRID id 'R_RND_195' ci 'R_RND_195' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_RND_0' 'R_RND_195_1' 160484 474848 <
+4681.76302262299 0 'R_RND_195_20' 'N_RND_4' '' 164977 476164 <
+tble grid
+GRID id 'R_RND_575' ci 'R_RND_575' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_RND_6' 'R_RND_575_1' 165573 484047 <
+2611.98353746726 0 'R_RND_575_4' 'N_RND_573' '' 166970 486254 <
+tble grid
+GRID id 'R_RND_576' ci 'R_RND_576' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_RND_7' 'R_RND_576_1' 167626 484129 <
+2223.95166314378 0 'R_RND_576_7' 'N_RND_573' '' 166970 486254 <
+tble grid
+GRID id 'R_RND_578' ci 'R_RND_578' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_RND_573' 'R_RND_578_1' 166970 486254 <
+2270.6827167176 0 'R_RND_578_4' 'N_RND_10' '' 169230 486034 <
+tble grid
+GRID id 'R_RND_1013' ci 'R_RND_1013' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_RND_15' 'R_RND_1013_1' 174865 488250 <
+1790.82467036838 0 'R_RND_1013_5' 'N_RND_16' '' 174308 489952 <
+tble grid
+GRID id 'R_5636446' ci 'R_5636446' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_ARK_47' 'R_5636446_1' 126500 485895 <
+2547.35647289499 0 'R_5636446_2' 'N_ARK_9' '' 125720 488320 <
+tble grid
+GRID id 'R_5636451' ci 'R_5636451' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'N_ARK_23' 'R_5636451_1' 125430 486660 <
+1701.16 0 'R_5636451_4' 'N_MAK_8' '' 127000 487315 <
+tble grid

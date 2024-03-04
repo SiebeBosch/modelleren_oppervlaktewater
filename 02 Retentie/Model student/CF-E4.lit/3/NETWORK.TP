@@ -1,0 +1,106 @@
+TP_1.0
+NODE id '330' nm '330' px 238858.3 py 574650.8 node
+NODE id '170' nm '170' px 239593.5 py 573432.2 node
+NODE id '175' nm '175' px 239862.1 py 573521.5 node
+NODE id '160' nm '160' px 239380.5 py 573251.5 node
+NODE id '155' nm '155' px 239189.2 py 573177.3 node
+NODE id '150' nm '150' px 238974.6 py 574161.8 node
+NODE id '180' nm '180' px 239833.9 py 573922.4 node
+NODE id '190' nm '190' px 239677.7 py 574313.4 node
+NODE id '195A' nm '195A' px 240186.8 py 574424.9 node
+NODE id '200' nm '200' px 239622.6 py 574495.4 node
+NODE id '220' nm '220' px 239285.4 py 574383.1 node
+NODE id '210' nm '210' px 239104.4 py 574383.1 node
+NODE id '200A' nm '200A' px 240064.4 py 574616.8 node
+NODE id '225A' nm '225A' px 240027.3 py 574718.9 node
+NODE id '230A' nm '230A' px 239976.7 py 574849.3 node
+NODE id '450' nm '450' px 239930.6 py 575166.1 node
+NODE id '440A' nm '440A' px 239727.1 py 575093 node
+NODE id '430A' nm '430A' px 239514.7 py 575514.3 node
+NODE id '420' nm '420' px 239128 py 575477.3 node
+NODE id '410' nm '410' px 239084.2 py 575751.3 node
+NODE id '405' nm '405' px 239065 py 575888.4 node
+NODE id '400' nm '400' px 239012.2 py 576036.7 node
+NODE id '340' nm '340' px 238579.5 py 575760.3 node
+NODE id '335' nm '335' px 238363.6 py 575581.7 node
+NODE id '300' nm '300' px 238148.9 py 575428.9 node
+NODE id '290' nm '290' px 238195 py 575214.4 node
+NODE id '270' nm '270' px 238063.5 py 575155.9 node
+NODE id '260' nm '260' px 237875.8 py 575221.1 node
+NODE id '250' nm '250' px 237822.9 py 574731.3 node
+NODE id '280' nm '280' px 238701.9 py 574350.7 node
+NODE id '390' nm '390' px 238932.2 py 576257 node
+NODE id '380' nm '380' px 238784.8 py 576437 node
+NODE id '370' nm '370' px 238575.2 py 576927.1 node
+NODE id '350' nm '350' px 237810.5 py 576057.3 node
+NODE id '368' nm '368' px 238679.2 py 577148.1 node
+NODE id '366' nm '366' px 238975.2 py 577802.1 node
+NODE id '365' nm '365' px 239866.8 py 577841.8 node
+NODE id '490' nm '490' px 240948.3 py 575562.6 node
+NODE id '530' nm '530' px 240684.5 py 576150.5 node
+NODE id '520' nm '520' px 240637.8 py 576115.5 node
+NODE id '510' nm '510' px 240234.4 py 575893.5 node
+NODE id '500' nm '500' px 239594.5 py 575558 node
+NODE id '600' nm '600' px 240847.9 py 576285.8 node
+NODE id '1040' nm '1040' px 241109.7 py 575399.6 node
+NODE id '1050' nm '1050' px 241248 py 575658 node
+NODE id '445' nm '445' px 240225.2 py 574374.1 node
+NODE id '1100' nm '1100' px 240072 py 576164 node
+NODE id '310' nm '310' px 238826.9 py 574825.6 node
+NODE id '320' nm '320' px 239014.8 py 574507.2 node
+NODE id '698' nm '698' px 240903.7 py 576304 node
+NODE id '1060' nm '1060' px 241376.9 py 575900.9 node
+NODE id '699' nm '699' px 240940.5 py 576327.9 node
+NODE id '680' nm '680' px 240778.5 py 576488 node
+BRCH id '21' nm '' bn '170' en '175' al 283.05555991715 brch
+BRCH id '22' nm '' bn '160' en '170' al 334.523924953224 brch
+BRCH id '23' nm '' bn '155' en '160' al 207.243211676462 brch
+BRCH id '24' nm '' bn '150' en '160' al 1229.2127634984 brch
+BRCH id '25' nm '' bn '175' en '180' al 407.211741005902 brch
+BRCH id '26' nm '' bn '180' en '190' al 425.458357736758 brch
+BRCH id '27' nm '' bn '190' en '195A' al 521.1682090372 brch
+BRCH id '28' nm '' bn '200' en '190' al 191.145513482866 brch
+BRCH id '29' nm '' bn '220' en '200' al 368.460324976247 brch
+BRCH id '30' nm '' bn '210' en '220' al 213.466656352507 brch
+BRCH id '31' nm '' bn '200A' en '195A' al 228.535790893695 brch
+BRCH id '32' nm '' bn '225A' en '200A' al 108.904347896077 brch
+BRCH id '33' nm '' bn '225A' en '230A' al 139.876800984473 brch
+BRCH id '34' nm '' bn '230A' en '450' al 322.492226661916 brch
+BRCH id '35' nm '' bn '440A' en '450' al 217.724127479503 brch
+BRCH id '36' nm '' bn '430A' en '440A' al 473.289975126638 brch
+BRCH id '37' nm '' bn '420' en '430A' al 554.56221102415 brch
+BRCH id '38' nm '' bn '410' en '420' al 284.477253332962 brch
+BRCH id '39' nm '' bn '405' en '410' al 138.798597403043 brch
+BRCH id '40' nm '' bn '400' en '405' al 157.568314728017 brch
+BRCH id '41' nm '' bn '340' en '400' al 574.573024824534 brch
+BRCH id '42' nm '' bn '335' en '340' al 305.77057904895 brch
+BRCH id '43' nm '' bn '300' en '335' al 263.528966404107 brch
+BRCH id '44' nm '' bn '290' en '300' al 219.398438269655 brch
+BRCH id '45' nm '' bn '270' en '290' al 144.016299777157 brch
+BRCH id '46' nm '' bn '260' en '270' al 285.62408639813 brch
+BRCH id '47' nm '' bn '250' en '270' al 557.198773240918 brch
+BRCH id '48' nm '' bn '280' en '290' al 1032.30565398929 brch
+BRCH id '49' nm '' bn '390' en '400' al 244.25691440191 brch
+BRCH id '50' nm '' bn '380' en '390' al 236.762708128042 brch
+BRCH id '51' nm '' bn '370' en '380' al 553.133497159995 brch
+BRCH id '52' nm '' bn '350' en '370' al 1196.22890310059 brch
+BRCH id '54' nm '' bn '368' en '370' al 244.247824964727 brch
+BRCH id '55' nm '' bn '366' en '368' al 717.866282813171 brch
+BRCH id '56' nm '' bn '365' en '366' al 1205.46459025425 brch
+BRCH id '57' nm '' bn '450' en '490' al 1092.2113073943 brch
+BRCH id '58' nm '' bn '490' en '530' al 672.92764062562 brch
+BRCH id '59' nm '' bn '520' en '530' al 58.360003427014 brch
+BRCH id '60' nm '' bn '510' en '520' al 463.094472303838 brch
+BRCH id '61' nm '' bn '500' en '510' al 722.517999775779 brch
+BRCH id '62' nm '' bn '530' en '600' al 213.141908189056 brch
+BRCH id '73' nm '' bn '1040' en '490' al 240.02231896635 brch
+BRCH id '75' nm '' bn '1050' en '1040' al 293.082935517179 brch
+BRCH id '76' nm '' bn '445' en '195A' al 64.0494407944537 brch
+BRCH id '77' nm '' bn '1100' en '510' al 315.505958739289 brch
+BRCH id '79' nm '' bn '330' en '335' al 1175.68766386836 brch
+BRCH id '80' nm '' bn '310' en '330' al 177.597860347402 brch
+BRCH id '81' nm '' bn '320' en '330' al 218.266994551747 brch
+BRCH id '63' nm '' bn '600' en '698' al 58.6931001055512 brch
+BRCH id '82' nm '' bn '1060' en '698' al 684.038677580156 brch
+BRCH id '83' nm '' bn '698' en '699' al 43.8799498632377 brch
+BRCH id '85' nm '' bn '680' en '698' al 222.555700893064 brch

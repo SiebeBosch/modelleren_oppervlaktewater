@@ -1,0 +1,67 @@
+GR_1.0
+GRID id '2' ci '2' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' '1' '2' <
+101.1078 0 '2' '2_1' '2_2' <
+202.2156 0 '10' '2_2' '2_3' <
+303.3234 0 '11' '2_3' '2_4' <
+404.4312 0 '2_4' '2_4' '2_5' <
+505.5391 0 '3' '5' '' <
+tble grid
+GRID id '3' ci '3' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' '6' '4' <
+99.55664 0 '1' '4_1' '4_2' <
+199.1133 0 '17' '4_2' '4_3' <
+298.6699 0 '18' '4_3' '4_4' <
+398.2266 0 '4_4' '4' '' <
+tble grid
+GRID id '1' ci '1' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' '5' '5' <
+105.0914 0 '5' '5_1' '5_2' <
+210.1828 0 '12' '5_2' '5_3' <
+315.2742 0 '5_3' '5_3' '5_4' <
+420.3656 0 '5_4' '7' '' <
+tble grid
+GRID id '4' ci '4' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' '5' '6' <
+105.0914 0 '6' '6_1' '6_2' <
+210.1828 0 '13' '6_2' '6_3' <
+315.2742 0 '6_3' '6_3' '6_4' <
+420.3656 0 '6_4' '8' '' <
+tble grid
+GRID id '5' ci '5' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' '8' '7' <
+106.38 0 '7' '7_1' '7_2' <
+212.76 0 '20' '7_2' '7_3' <
+319.14 0 '14' '7_3' '7_4' <
+425.5199 0 '7_4' '6' '' <
+tble grid
+GRID id '6' ci '6' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' '7' '8' <
+106.38 0 '8' '8_1' '8_2' <
+212.76 0 '19' '8_2' '8_3' <
+319.14 0 '15' '8_3' '8_4' <
+425.5199 0 '21' '6' '' <
+tble grid
+GRID id '7' ci '7' gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' '8' '9' <
+100 0 '9' '9_1' '9_2' <
+200 0 '9_2' '9_2' '9_3' <
+300 0 '9_3' '9_3' '9_4' <
+400 0 '16' '9_4' '9_5' <
+500 0 '9_5' '9_5' '9_6' <
+600 0 '9_6' '7' '' <
+tble grid

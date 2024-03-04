@@ -1,0 +1,914 @@
+CRDS id '51' nm 'asy_DP-170-1' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-1.9 1.1 <
+-.25 0 <
+.25 0 <
+1.9 1.1 <
+tble
+crds
+CRDS id '52' nm 'asy_DP-170-2' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-1.9 1.1 <
+-.25 0 <
+.25 0 <
+1.9 1.1 <
+tble
+crds
+CRDS id '49' nm 'asy_DP-160-1' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-1.15 .6 <
+-.2500001 0 <
+.25 0 <
+1.15 .6 <
+tble
+crds
+CRDS id '50' nm 'asy_DP-160-2' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-1.75 1 <
+-.25 0 <
+.25 0 <
+1.75 1 <
+tble
+crds
+CRDS id '47' nm 'asy_DP-155-1' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-1.15 .6 <
+-.2500001 0 <
+.25 0 <
+1.15 .6 <
+tble
+crds
+CRDS id '48' nm 'asy_DP-155-2' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-1.15 .6 <
+-.2500001 0 <
+.25 0 <
+1.15 .6 <
+tble
+crds
+CRDS id '45' nm 'asy_DP-150-1' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-2.425 1.45 <
+-.25 0 <
+.25 0 <
+2.425 1.45 <
+tble
+crds
+CRDS id '46' nm 'asy_DP-150-2' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-2.425 1.45 <
+-.25 0 <
+.25 0 <
+2.425 1.45 <
+tble
+crds
+CRDS id '53' nm 'asy_DP-175-1' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-4.449999 1.43 <
+-3.149999 .78 <
+-1.650001 .75 <
+-.150001 0 <
+2.349998 0 <
+4.449999 1.4 <
+tble
+crds
+CRDS id '54' nm 'asy_DP-175-2' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-4.449999 1.43 <
+-3.149999 .78 <
+-1.650001 .75 <
+-.150001 0 <
+2.349998 0 <
+4.449999 1.4 <
+tble
+crds
+CRDS id '55' nm 'asy_DP-180-1' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-4.769998 1.6 <
+-3.229997 .8299999 <
+-1.730002 .8 <
+-.130002 0 <
+2.369998 0 <
+4.769998 1.6 <
+tble
+crds
+CRDS id '56' nm 'asy_DP-180-2' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-4.769998 1.6 <
+-3.229997 .8299999 <
+-1.730002 .8 <
+-.130002 0 <
+2.369998 0 <
+4.769998 1.6 <
+tble
+crds
+CRDS id '57' nm 'asy_DP-190-1' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-5.282499 1.75 <
+-3.442499 .83 <
+-1.942501 .8 <
+-.3425012 0 <
+2.657499 0 <
+5.282499 1.75 <
+tble
+crds
+CRDS id '58' nm 'asy_DP-190-2' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-5.282499 1.75 <
+-3.442499 .83 <
+-1.942501 .8 <
+-.3425012 0 <
+2.657499 0 <
+5.282499 1.75 <
+tble
+crds
+CRDS id '61' nm 'asy_DP-200-1' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-3.494999 1.3 <
+-1.544999 0 <
+-.5449994 0 <
+1.055001 .8 <
+2.554999 .83 <
+3.494999 1.3 <
+tble
+crds
+CRDS id '62' nm 'asy_DP-200-2' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-3.494999 1.3 <
+-1.544999 0 <
+-.5449994 0 <
+1.055001 .8 <
+2.554999 .83 <
+3.494999 1.3 <
+tble
+crds
+CRDS id '66' nm 'asy_DP-220-2' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-1.375 .75 <
+-.25 0 <
+.25 0 <
+1.375 .75 <
+tble
+crds
+CRDS id '63' nm 'asy_DP-210-1' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-7.45 4.8 <
+-.25 0 <
+.25 0 <
+7.45 4.8 <
+tble
+crds
+CRDS id '64' nm 'asy_DP-210-2' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-3.55 2.2 <
+-.25 0 <
+.25 0 <
+3.55 2.2 <
+tble
+crds
+CRDS id '60' nm 'asy_DP-195A-2' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-5.282499 1.75 <
+-3.442499 .83 <
+-1.942501 .8 <
+-.3425012 0 <
+2.657499 0 <
+5.282499 1.75 <
+tble
+crds
+CRDS id '59' nm 'asy_DP-195A-1' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-5.282499 1.75 <
+-3.442499 .83 <
+-1.942501 .8 <
+-.3425012 0 <
+2.657499 0 <
+5.282499 1.75 <
+tble
+crds
+CRDS id '68' nm 'asy_DP-200A-2' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-4.932498 1.55 <
+-3.492498 .8299999 <
+-1.992502 .8 <
+-.3925018 0 <
+2.607498 0 <
+4.932498 1.55 <
+tble
+crds
+CRDS id '67' nm 'asy_DP-200A-1' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-4.932498 1.55 <
+-3.492498 .8299999 <
+-1.992502 .8 <
+-.3925018 0 <
+2.607498 0 <
+4.932498 1.55 <
+tble
+crds
+CRDS id '69' nm 'asy_DP-225A-1' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-4.932498 1.55 <
+-3.492498 .8299999 <
+-1.992502 .8 <
+-.3925018 0 <
+2.607498 0 <
+4.932498 1.55 <
+tble
+crds
+CRDS id '70' nm 'asy_DP-225A-2' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-4.932498 1.55 <
+-3.492498 .8299999 <
+-1.992502 .8 <
+-.3925018 0 <
+2.607498 0 <
+4.932498 1.55 <
+tble
+crds
+CRDS id '71' nm 'asy_DP-230A-1' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-4.932498 1.55 <
+-3.492498 .8299999 <
+-1.992502 .8 <
+-.3925018 0 <
+2.607498 0 <
+4.932498 1.55 <
+tble
+crds
+CRDS id '72' nm 'asy_DP-230A-2' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-4.932498 1.55 <
+-3.492498 .8299999 <
+-1.992502 .8 <
+-.3925018 0 <
+2.607498 0 <
+4.932498 1.55 <
+tble
+crds
+CRDS id '115' nm 'asy_DP-440A1' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-4.625 1.75 <
+-2 0 <
+2 0 <
+4.625 1.75 <
+tble
+crds
+CRDS id '116' nm 'asy_DP-440A-2' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-4.625 1.75 <
+-2 0 <
+2 0 <
+4.625 1.75 <
+tble
+crds
+CRDS id '113' nm 'asy_DP-430A-1' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-5.27 1.6 <
+-2.869999 0 <
+.6300006 0 <
+2.130001 .75 <
+3.629999 .78 <
+5.27 1.6 <
+tble
+crds
+CRDS id '114' nm 'asy_DP-430A-2' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-5.27 1.6 <
+-2.869999 0 <
+.6300006 0 <
+2.130001 .75 <
+3.629999 .78 <
+5.27 1.6 <
+tble
+crds
+CRDS id '111' nm 'asy_DP-420-1' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-5.094999 1.5 <
+-2.844999 0 <
+.6550012 0 <
+2.155001 .75 <
+3.654999 .78 <
+5.094999 1.5 <
+tble
+crds
+CRDS id '112' nm 'asy_DP-420-2' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-5.094999 1.5 <
+-2.844999 0 <
+.6550012 0 <
+2.155001 .75 <
+3.654999 .78 <
+5.094999 1.5 <
+tble
+crds
+CRDS id '109' nm 'asy_DP-410-1' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-4.744999 1.3 <
+-2.794999 0 <
+.7050009 0 <
+2.205001 .75 <
+3.704999 .78 <
+4.744999 1.3 <
+tble
+crds
+CRDS id '107' nm 'asy_DP-405-1' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-4.744999 1.3 <
+-2.794999 0 <
+.7050009 0 <
+2.205001 .75 <
+3.704999 .78 <
+4.744999 1.3 <
+tble
+crds
+CRDS id '108' nm 'asy_DP-405-2' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-4.744999 1.3 <
+-2.794999 0 <
+.7050009 0 <
+2.205001 .75 <
+3.704999 .78 <
+4.744999 1.3 <
+tble
+crds
+CRDS id '105' nm 'asy_DP-400-1' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-5.094999 1.5 <
+-2.844999 0 <
+.6550012 0 <
+2.155001 .75 <
+3.654999 .78 <
+5.094999 1.5 <
+tble
+crds
+CRDS id '106' nm 'asy_DP-400-2' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-5.094999 1.5 <
+-2.844999 0 <
+.6550012 0 <
+2.155001 .75 <
+3.654999 .78 <
+5.094999 1.5 <
+tble
+crds
+CRDS id '93' nm 'asy_DP-340-1' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-2.65 1.6 <
+-.2499998 0 <
+.25 0 <
+2.65 1.6 <
+tble
+crds
+CRDS id '94' nm 'asy_DP-340-2' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-2.65 1.6 <
+-.2499998 0 <
+.25 0 <
+2.65 1.6 <
+tble
+crds
+CRDS id '91' nm 'asy_DP-335-1' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-3.775 2.35 <
+-.2499998 0 <
+.25 0 <
+3.775 2.35 <
+tble
+crds
+CRDS id '92' nm 'asy_DP-335-2' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-1.75 1 <
+-.2499999 0 <
+.2499999 0 <
+1.75 1 <
+tble
+crds
+CRDS id '83' nm 'asy_DP-300-1' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-2.6 1.4 <
+-.5 0 <
+.5 0 <
+2.6 1.4 <
+tble
+crds
+CRDS id '84' nm 'asy_DP-300-2' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-3.2 1.8 <
+-.5 0 <
+.5 0 <
+3.2 1.8 <
+tble
+crds
+CRDS id '81' nm 'asy_DP-290-1' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-4.6 2.4 <
+-1 0 <
+1 0 <
+4.6 2.4 <
+tble
+crds
+CRDS id '82' nm 'asy_DP-290-2' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-3.4 1.6 <
+-1 0 <
+1 0 <
+3.4 1.6 <
+tble
+crds
+CRDS id '77' nm 'asy_DP-270-1' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-1.6 .9 <
+-.25 0 <
+.25 0 <
+1.6 .9 <
+tble
+crds
+CRDS id '78' nm 'asy_DP-270-2' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-1.6 .9 <
+-.25 0 <
+.25 0 <
+1.6 .9 <
+tble
+crds
+CRDS id '75' nm 'asy_DP-260-1' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-4.3 2.7 <
+-.25 0 <
+.25 0 <
+4.3 2.7 <
+tble
+crds
+CRDS id '76' nm 'asy_DP-260-2' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-1.6 .9 <
+-.25 0 <
+.25 0 <
+1.6 .9 <
+tble
+crds
+CRDS id '30' nm 'asy_DP-100-1' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-2.675 1.45 <
+-.5 0 <
+.5 0 <
+2.675 1.45 <
+tble
+crds
+CRDS id '74' nm 'asy_DP-250-2' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-2.5 1.5 <
+-.25 0 <
+.25 0 <
+2.5 1.5 <
+tble
+crds
+CRDS id '79' nm 'asy_DP-280-2' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-1.75 1 <
+-.25 0 <
+.25 0 <
+1.75 1 <
+tble
+crds
+CRDS id '103' nm 'asy_DP-390-1' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-3.569999 1 <
+-2.069999 0 <
+.1300006 0 <
+1.330001 .6 <
+2.829999 .63 <
+3.569999 1 <
+tble
+crds
+CRDS id '104' nm 'asy_DP-390-2' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-3.369999 1 <
+-1.869999 0 <
+.3300009 0 <
+1.530001 .6 <
+3.029999 .63 <
+3.369999 .8 <
+tble
+crds
+CRDS id '101' nm 'asy_DP-380-1' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-3.569999 1 <
+-2.069999 0 <
+.1300006 0 <
+1.330001 .6 <
+2.829999 .63 <
+3.569999 1 <
+tble
+crds
+CRDS id '102' nm 'asy_DP-380-2' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-3.569999 1 <
+-2.069999 0 <
+.1300006 0 <
+1.330001 .6 <
+2.829999 .63 <
+3.569999 1 <
+tble
+crds
+CRDS id '99' nm 'asy_DP-370-1' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-3.645 1.1 <
+-1.994999 0 <
+5.00083E-03 0 <
+1.205001 .6 <
+2.704999 .63 <
+3.645 1.1 <
+tble
+crds
+CRDS id '100' nm 'asy_DP-370-2' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-3.645 1.1 <
+-1.994999 0 <
+5.00083E-03 0 <
+1.205001 .6 <
+2.704999 .63 <
+3.645 1.1 <
+tble
+crds
+CRDS id '95' nm 'asy_DP-350-1' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-3.05 1.8 <
+-.3500001 0 <
+.3499999 0 <
+3.05 1.8 <
+tble
+crds
+CRDS id '96' nm 'asy_DP-350-2' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-3.05 1.8 <
+-.3500001 0 <
+.3499999 0 <
+3.05 1.8 <
+tble
+crds
+CRDS id '139' nm 'asy_DP-368-1' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-1.7 .8 <
+-.5 0 <
+.5 0 <
+1.7 .8 <
+tble
+crds
+CRDS id '140' nm 'asy_DP-368-2' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-1.7 .8 <
+-.5 0 <
+.5 0 <
+1.7 .8 <
+tble
+crds
+CRDS id '137' nm 'asy_DP-366-1' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-1.7 .8 <
+-.5 0 <
+.5 0 <
+1.7 .8 <
+tble
+crds
+CRDS id '138' nm 'asy_DP-366-2' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-1.7 .8 <
+-.5 0 <
+.5 0 <
+1.7 .8 <
+tble
+crds
+CRDS id '135' nm 'asy_DP-365-1' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-1.7 .8 <
+-.5 0 <
+.5 0 <
+1.7 .8 <
+tble
+crds
+CRDS id '136' nm 'asy_DP-365-2' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-1.7 .8 <
+-.5 0 <
+.5 0 <
+1.7 .8 <
+tble
+crds
+CRDS id '141' nm 'asy_DP-450-1' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-5.14 1.76 <
+-2.5 0 <
+2.5 0 <
+5.14 1.76 <
+tble
+crds
+CRDS id '142' nm 'asy_DP-450-2' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-5.125 1.75 <
+-2.5 0 <
+2.5 0 <
+5.125 1.75 <
+tble
+crds
+CRDS id '143' nm 'asy_DP-490-1' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-5.125 1.75 <
+-2.5 0 <
+2.5 0 <
+5.125 1.75 <
+tble
+crds
+CRDS id '144' nm 'asy_DP-490-2' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-5.125 1.75 <
+-2.5 0 <
+2.5 0 <
+5.125 1.75 <
+tble
+crds
+CRDS id '149' nm 'asy_DP-520-1' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-3.65 1.1 <
+-2 0 <
+2 0 <
+3.65 1.1 <
+tble
+crds
+CRDS id '150' nm 'asy_DP-520-2' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-3.65 1.1 <
+-2 0 <
+2 0 <
+3.65 1.1 <
+tble
+crds
+CRDS id '147' nm 'asy_DP-510-1' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-3.15 1.1 <
+-1.5 0 <
+1.5 0 <
+3.15 1.1 <
+tble
+crds
+CRDS id '148' nm 'asy_DP-510-2' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-3.15 1.1 <
+-1.5 0 <
+1.5 0 <
+3.15 1.1 <
+tble
+crds
+CRDS id '145' nm 'asy_DP-500-1' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-3.15 1.1 <
+-1.5 0 <
+1.5 0 <
+3.15 1.1 <
+tble
+crds
+CRDS id '146' nm 'asy_DP-500-2' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-3.15 1.1 <
+-1.5 0 <
+1.5 0 <
+3.15 1.1 <
+tble
+crds
+CRDS id '151' nm 'asy_DP-530-1' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-4.975 1.65 <
+-2.5 0 <
+2.5 0 <
+4.975 1.65 <
+tble
+crds
+CRDS id '123' nm 'asy_DP-1040-1' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-3.875 1.25 <
+-2 0 <
+2 0 <
+3.875 1.25 <
+tble
+crds
+CRDS id '124' nm 'asy_DP-1040-2' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-3.875 1.25 <
+-2 0 <
+2 0 <
+3.875 1.25 <
+tble
+crds
+CRDS id '130' nm 'asy_DP-1050-1' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-2.7 .8 <
+-1.5 0 <
+1.5 0 <
+2.7 .8 <
+tble
+crds
+CRDS id '131' nm 'asy_DP-1050-2' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-2.7 .8 <
+-1.5 0 <
+1.5 0 <
+2.7 .8 <
+tble
+crds
+CRDS id '167' nm 'asy_DP-445-1' ty 11 st 0 lt sw 0 1.6 gl 0 gu 0 lt yz
+TBLE
+-2.28 .8 <
+-1 0 <
+1 0 <
+2.28 .8 <
+tble
+crds
+CRDS id '168' nm 'asy_DP-445-2' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-2.2 .8 <
+-1 0 <
+1 0 <
+2.2 .8 <
+tble
+crds
+CRDS id '170' nm 'asy_DP-1100-1' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-2.7 .8 <
+-1.5 0 <
+1.5 0 <
+2.7 .8 <
+tble
+crds
+CRDS id '169' nm 'asy_DP-1100-2' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-2.7 .8 <
+-1.5 0 <
+1.5 0 <
+2.7 .8 <
+tble
+crds
+CRDS id '89' nm 'asy_DP-330-1' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-3.775 2.35 <
+-.2499998 0 <
+.25 0 <
+3.775 2.35 <
+tble
+crds
+CRDS id '90' nm 'asy_DP-330-2' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-3.775 2.35 <
+-.2499998 0 <
+.25 0 <
+3.775 2.35 <
+tble
+crds
+CRDS id '85' nm 'asy_DP-310-1' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-1 .5 <
+-.25 0 <
+.25 0 <
+1 .5 <
+tble
+crds
+CRDS id '86' nm 'asy_DP-310-2' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-1 .5 <
+-.25 0 <
+.25 0 <
+1 .5 <
+tble
+crds
+CRDS id '87' nm 'asy_DP-320-1' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-2.275 1.35 <
+-.25 0 <
+.25 0 <
+2.275 1.35 <
+tble
+crds
+CRDS id '88' nm 'asy_DP-320-2' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-2.8 1.7 <
+-.2499998 0 <
+.25 0 <
+2.8 1.7 <
+tble
+crds
+CRDS id '152' nm 'asy_DP-530-2' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-4.975 1.65 <
+-2.5 0 <
+2.5 0 <
+4.975 1.65 <
+tble
+crds
+CRDS id '132' nm 'asy_DP-1060-1' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-4.075 1.05 <
+-2.5 0 <
+2.5 0 <
+4.075 1.05 <
+tble
+crds
+CRDS id '133' nm 'asy_DP-1060-2' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-4.075 1.05 <
+-2.5 0 <
+2.5 0 <
+4.075 1.05 <
+tble
+crds
+CRDS id '159' nm 'asy_DP-698-1' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-6.225 2.15 <
+-3 0 <
+3 0 <
+6.225 2.15 <
+tble
+crds
+CRDS id '160' nm 'asy_DP-698-2' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-5.4 1.6 <
+-3 0 <
+3 0 <
+5.4 1.6 <
+tble
+crds
+CRDS id '157' nm 'asy_DP-680-1' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-4.8 1.2 <
+-3 0 <
+3 0 <
+4.8 1.2 <
+tble
+crds
+CRDS id '158' nm 'asy_DP-680-2' ty 11 st 0 lt sw 0 1.55 gl 0 gu 0 lt yz
+TBLE
+-4.8 1.2 <
+-3 0 <
+3 0 <
+4.8 1.2 <
+tble
+crds
+CRDS id 'Round 500 mm' nm 'Round 500 mm' ty 4 bl 0 rd 0.25  gl 0.05 gu 1           crds
+CRDS id 'Round 300 mm' nm 'Round 300 mm' ty 4 bl 0 rd  .15           crds
+CRDS id 'Round 200 mm' nm 'Round 200 mm' ty 4 bl 0 rd  .1           crds
+CRDS id 'Egg Shape .3 m' nm 'Egg Shape .3 m' ty 6 bl 0 bo .3           crds
+CRDS id 'Round 1250 mm' nm 'Round 1250 mm' ty 4 bl 0 rd 0.625  gl 0.3 gu 1           crds
+CRDS id 'Arch Shape 1.0 m' nm 'Arch Shape 1.0 m' ty 0 wm 1 w1 0 w2 0 lt lw
+TBLE
+0 1. 1. <
+1.0000 1.0000 1.0000 <
+1.0461 0.9957 0.9957 <
+1.0919 0.9830 0.9830 <
+1.1368 0.9618 0.9618 <
+1.1806 0.9325 0.9325 <
+1.2229 0.8952 0.8952 <
+1.2632 0.8502 0.8502 <
+1.3013 0.7980 0.7980 <
+1.3368 0.7390 0.7390 <
+1.3695 0.6737 0.6737 <
+1.3990 0.6026 0.6026 <
+1.4251 0.5264 0.5264 <
+1.4476 0.4457 0.4457 <
+1.4662 0.3612 0.3612 <
+1.4809 0.2737 0.2737 <
+1.4915 0.1837 0.1837 <
+1.4979 0.0923 0.0923 <
+1.5000 0.0001 0.0001 <
+tble           crds
+CRDS id 'Cunette 1.6 m' nm 'Cunette 1.6 m' ty 0 wm 1.6 w1 0 w2 0 lt lw
+TBLE
+0 0 0 <
+0.0021 0.1665 0.1665 <
+0.0085 0.3326 0.3326 <
+0.0191 0.4978 0.4978 <
+0.0339 0.6618 0.6618 <
+0.0529 0.8240 0.8240 <
+0.0759 0.9840 0.9840 <
+0.1031 1.1415 1.1415 <
+0.1342 1.2960 1.2960 <
+0.1692 1.4472 1.4472 <
+0.2080 1.6000 1.6000 <
+0.3469 1.5757 1.5757 <
+0.4816 1.5035 1.5035 <
+0.6080 1.3856 1.3856 <
+0.7222 1.2257 1.2257 <
+0.8208 1.0285 1.0285 <
+0.9008 0.8000 0.8000 <
+0.9598 0.5472 0.5472 <
+0.9958 0.2778 0.2778 <
+1.0080 0.0001 0.0001 <
+tble           crds
+CRDS id 'Round 880 mm' nm 'Round 800 mm' ty 4 bl 0 rd 0.4  gl 0.1 gu 1           crds
+CRDS id 'Round 160 mm' nm 'Round 160 mm' ty 4 bl 0 rd  .08           crds
+CRDS id 'Round 250 mm' nm 'Round 250 mm' ty 4 bl 0 rd  .125           crds
+CRDS id 'Round 600 mm' nm 'Round 600 mm' ty 4 bl 0 rd 0.3  gl 0.1 gu 1           crds
+CRDS id '2' nm 'r_BREEDTE 250 HOOGTE 125' ty 0 wm 2.5 w1 0 w2 0 gl 0.15 gu 1  lt lw
+TBLE
+ 0  2.5  2.5 < 
+ 1.25  2.5  2.5 < 
+ 1.2501  .0001  .0001 < 
+tble  crds

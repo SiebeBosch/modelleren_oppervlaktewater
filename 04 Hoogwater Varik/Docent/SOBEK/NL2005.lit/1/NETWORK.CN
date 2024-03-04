@@ -1,0 +1,58 @@
+CN_1.1
+FLBO id 'N_NDB_1' ci 'N_NDB_1' flbo
+FLBO id 'N_NDB_3' ci 'N_NDB_3' flbo
+FLBO id 'N_NDB_7' ci 'N_NDB_7' flbo
+FLBO id 'N_NDB_8' ci 'N_NDB_8' flbo
+FLBO id 'N_NDB_9' ci 'N_NDB_9' flbo
+FLBO id 'N_NDB_12' ci 'N_NDB_12' flbo
+FLBO id 'N_NDB_14' ci 'N_NDB_14' flbo
+FLBO id 'N_NDB_16' ci 'N_NDB_16' flbo
+FLBO id 'N_NDB_18' ci 'N_NDB_18' flbo
+FLBO id 'N_NDB_20' ci 'N_NDB_20' flbo
+FLBO id 'N_NDB_22' ci 'N_NDB_22' flbo
+FLBO id 'N_NDB_28' ci 'N_NDB_28' flbo
+FLBO id 'N_NDB_35' ci 'N_NDB_35' flbo
+FLBO id 'N_NDB_54' ci 'N_NDB_54' flbo
+FLBO id 'N_NDB_66' ci 'N_NDB_66' flbo
+FLBO id 'N_NDB_73' ci 'N_NDB_73' flbo
+FLBO id 'N_NDB_74' ci 'N_NDB_74' flbo
+FLBO id 'N_NDB_79' ci 'N_NDB_79' flbo
+FLBO id 'N_NDB_80' ci 'N_NDB_80' flbo
+FLBO id 'N_NDB_83' ci 'N_NDB_83' flbo
+FLBO id 'N_NDB_84' ci 'N_NDB_84' flbo
+FLBO id 'N_NDB_85' ci 'N_NDB_85' flbo
+FLBO id 'N_NDB_92' ci 'N_NDB_92' flbo
+FLBO id 'N_NDB_91' ci 'N_NDB_91' flbo
+FLBO id 'N_NDB_69' ci 'N_NDB_69' flbo
+FLBO id 'N_NDB_72' ci 'N_NDB_72' flbo
+FLBO id 'N_RT_001' ci 'N_RT_001' flbo
+FLBO id 'N_YSV_P_P_13' ci 'N_YSV_P_P_13' flbo
+FLBO id 'N_YSV_P_P_14' ci 'N_YSV_P_P_14' flbo
+FLBR id 'L_NDB_21639' nm '' ci 'R_NDB_29' lc 3055.00000000035 flbr 
+FLBR id 'L_NDB_21637' nm '' ci 'R_NDB_59' lc 1611.99999999949 flbr 
+FLBR id 'L_NDB_21640' nm '' ci 'R_NDB_84' lc 10292.0000000004 flbr 
+FLBR id 'L_RT_01' nm '' ci 'R_RT_002' lc 15878.0000000005 flbr 
+FLBR id 'L_RT_02' nm '' ci 'R_RT_003' lc 43662.8185880613 flbr 
+FLBR id 'L_RT_03' nm '' ci 'R_RT_004' lc 6233.9999999996 flbr 
+FLBR id 'L_RT_04' nm '' ci 'R_RT_005' lc 5017.18259482241 flbr 
+FLBR id 'L_RT_05' nm '' ci 'R_RT_005' lc 18331.4343057485 flbr 
+FLBR id 'L_RT_06' nm '' ci 'R_RT_005' lc 23110.7548731719 flbr 
+FLBR id 'L_RT_07' nm '' ci 'R_RT_005' lc 48174.5878278638 flbr 
+FLBR id 'L_RT_10' nm '' ci 'R_RT_008' lc 8000.14133037952 flbr 
+FLBR id 'L_RT_1857' nm '' ci 'R_RT_008' lc 10002.6773323075 flbr 
+FLBR id 'L_RT_1858' nm '' ci 'R_RT_008' lc 14253.8151985379 flbr 
+FLBR id 'L_RT_11' nm '' ci 'R_RT_008' lc 17694.7362008516 flbr 
+FLBR id 'L_RT_12' nm '' ci 'R_RT_008' lc 18341.909424252 flbr 
+FLBR id 'L_RT_13' nm '' ci 'R_RT_008' lc 29166.8068332755 flbr 
+FLBR id 'L_RT_14' nm '' ci 'R_RT_008' lc 34960.3575441483 flbr 
+FLBR id 'L_RT_15' nm '' ci 'R_RT_008' lc 43280.5845491617 flbr 
+FLBR id 'L_RT_16' nm '' ci 'R_RT_008' lc 47760.7837263019 flbr 
+FLBR id 'L_RT_17' nm '' ci 'R_RT_008' lc 58869.7571715623 flbr 
+FLBR id 'L_RT_08' nm '' ci 'R_RT_2987' lc 15069 flbr 
+FLBR id 'L_RT_09' nm '' ci 'R_RT_2987' lc 36837.9999999996 flbr 
+FLBR id 'L_5647058' nm '' ci 'R_YSV_P_62068' lc 20928.7845266454 flbr 
+FLBR id 'L_YSV_P_120418' nm '' ci 'R_YSV_P_62068' lc 22925.5165415297 flbr 
+FLBR id 'L_5647060' nm '' ci 'R_YSV_P_62068' lc 36182.8061168113 flbr 
+FLBR id 'L_5655902' nm '' ci 'R_YSV_P_P_18' lc 6999.99999999982 flbr 
+FLBR id 'L_YSV_5640242' nm '' ci 'R_YSV_P_P_20' lc 10.0000000002773 flbr 
+FLBR id 'L_5657710' nm '' ci 'R_YSV_5584882' lc 1000.00149898122 flbr 

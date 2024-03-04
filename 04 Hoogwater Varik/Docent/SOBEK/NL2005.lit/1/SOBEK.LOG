@@ -1,0 +1,821 @@
+@(#)Deltares, SOBEKSIM Version 4.03.49.15739, Mar 30 2011, 14:45:17
+opened file : C:\Sobek212\Programs\flow\sobeksim.lng
+closed file : C:\Sobek212\Programs\flow\sobeksim.lng
+ConvtabYzprof
+Opened file : branch.tbl
+closed file : branch.tbl
+Opened file : node.tbl
+closed file : node.tbl
+Opened file : qlat.tbl
+closed file : qlat.tbl
+Opened file : grid.tbl
+closed file : grid.tbl
+Opened file : reachdwn.tbl
+closed file : reachdwn.tbl
+Opened file : reachup.tbl
+closed file : reachup.tbl
+Opened file : structup.tbl
+closed file : structup.tbl
+Opened file : structdwn.tbl
+closed file : structdwn.tbl
+Opened file : casedesc.cmt
+closed file : casedesc.cmt
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0008 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0009 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach N_RT_002 . This part
+  of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach N_RT_002 . This part
+  of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0010 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0012 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0014 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0019 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0020 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0031 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0032 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0033 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0034 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0036 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0037 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0038 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0039 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0045 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0046 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0055 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0058 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0060 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0061 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0062 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0063 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0065 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0067 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0068 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0074 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0079 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0080 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0082 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0087 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0095 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0096 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0097 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0098 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0099 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0103 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0108 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0111 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0112 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0115 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0116 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0117 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0118 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0122 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0123 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0124 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0125 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0128 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0131 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0132 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0139 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0141 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0142 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0143 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0157 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0158 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0159 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0162 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0163 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0171 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0172 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0173 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0195 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0196 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach N_RT_004 . This part
+  of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach N_RT_002 . This part
+  of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0197 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0200 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0202 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0203 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0204 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0206 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0207 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0208 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0216 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0217 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0218 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0219 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0220 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach N_RT_005 . This part
+  of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0222 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0228 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0229 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0232 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0233 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0234 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0239 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0240 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0247 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0246 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0251 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0257 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0260 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0271 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0272 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0276 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0286 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0287 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0289 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0292 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0294 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0301 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0302 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0303 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0324 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0328 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0331 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0335 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0340 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0341 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0343 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0349 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0350 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach N_RT_005 . This part
+  of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0442 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0443 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0444 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0452 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0453 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0458 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0459 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0460 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0464 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0466 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0468 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0469 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0470 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0473 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0474 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0476 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0477 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0478 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0480 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0488 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0489 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0492 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0494 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0495 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0496 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0498 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0503 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0504 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0505 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0506 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0513 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0514 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0516 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0520 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0522 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0524 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0527 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0530 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0531 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0532 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0533 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0536 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0538 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0539 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0540 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0541 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0542 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0543 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0544 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0556 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0557 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0558 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0559 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0562 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0563 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0565 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0566 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0567 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0571 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0572 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0573 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0574 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0576 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0578 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0579 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0368 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0369 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0370 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0375 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0376 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0377 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0384 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0385 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0386 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0387 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0392 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0395 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0399 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0400 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0407 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0408 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0409 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0410 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0411 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0413 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0414 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0415 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0416 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0417 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0418 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0419 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0421 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0427 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0428 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0430 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0432 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0434 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0435 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_RT_0436 . This par
+ t of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_YSV_P_144560 . Thi
+ s part of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_YSV_P_144565 . Thi
+ s part of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_YSV_P_144566 . Thi
+ s part of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_YSV_P_144567 . Thi
+ s part of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_YSV_P_144575 . Thi
+ s part of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_YSV_P_144577 . Thi
+ s part of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_YSV_P_144578 . Thi
+ s part of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_YSV_P_144579 . Thi
+ s part of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_YSV_P_144581 . Thi
+ s part of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_YSV_P_144585 . Thi
+ s part of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_YSV_P_144590 . Thi
+ s part of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_YSV_P_144593 . Thi
+ s part of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_YSV_P_144604 . Thi
+ s part of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_YSV_P_144611 . Thi
+ s part of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_YSV_P_144612 . Thi
+ s part of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_YSV_P_144614 . Thi
+ s part of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_YSV_P_144618 . Thi
+ s part of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_YSV_P_144619 . Thi
+ s part of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_YSV_P_144643 . Thi
+ s part of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_YSV_P_144646 . Thi
+ s part of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_YSV_P_144647 . Thi
+ s part of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_YSV_5602483 . This
+  part of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_YSV_5602484 . This
+  part of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach N_YSV_5581966 . This
+  part of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach N_YSV_P_62061 . This
+  part of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_YSV_5637584 . This
+  part of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_YSV_5600779 . This
+  part of cross-section table is set to 0.0001 m. width
+ Warning in subroutine plinfl
+ Part of cross-section table smaller than 0.0001 m at reach P_YSV_5600780 . This
+  part of cross-section table is set to 0.0001 m. width
+ Warning in subroutine initial
+ Extreme differences in bottomlevels of connected reaches in node N_NDB_0
+ Warning in subroutine initial
+ Extreme differences in bottomlevels of connected reaches in node N_NDB_5
+ Warning in subroutine initial
+ Extreme differences in bottomlevels of connected reaches in node N_NDB_26
+ Warning in subroutine initial
+ Extreme differences in bottomlevels of connected reaches in node N_NDB_27
+ Warning in subroutine initial
+ Extreme differences in bottomlevels of connected reaches in node N_NDB_32
+ Warning in subroutine initial
+ Extreme differences in bottomlevels of connected reaches in node N_NDB_33
+ Warning in subroutine initial
+ Extreme differences in bottomlevels of connected reaches in node N_NDB_34
+ Warning in subroutine initial
+ Extreme differences in bottomlevels of connected reaches in node N_NDB_36
+ Warning in subroutine initial
+ Extreme differences in bottomlevels of connected reaches in node N_NDB_37
+ Warning in subroutine initial
+ Extreme differences in bottomlevels of connected reaches in node N_NDB_43
+ Warning in subroutine initial
+ Extreme differences in bottomlevels of connected reaches in node N_NDB_45
+ Warning in subroutine initial
+ Extreme differences in bottomlevels of connected reaches in node N_NDB_47
+ Warning in subroutine initial
+ Extreme differences in bottomlevels of connected reaches in node N_NDB_48
+ Warning in subroutine initial
+ Extreme differences in bottomlevels of connected reaches in node N_NDB_55
+ Warning in subroutine initial
+ Extreme differences in bottomlevels of connected reaches in node N_NDB_75
+ Warning in subroutine initial
+ Extreme differences in bottomlevels of connected reaches in node N_NDB_78
+ Warning in subroutine initial
+ Extreme differences in bottomlevels of connected reaches in node N_NDB_41
+ Warning in subroutine initial
+ Extreme differences in bottomlevels of connected reaches in node N_NDB_94
+ Warning in subroutine initial
+ Extreme differences in bottomlevels of connected reaches in node N_NDB_82
+ Warning in subroutine initial
+ Extreme differences in bottomlevel in reach segment R_NDB_44_7
+ Warning in subroutine initial
+ Extreme differences in bottomlevel in reach segment R_NDB_46_5
+ Warning in subroutine initial
+ Extreme differences in bottomlevel in reach segment R_NDB_54_7
+ Warning in subroutine initial
+ Extreme differences in bottomlevel in reach segment R_NDB_90_12
+ Warning in subroutine initial
+ Extreme differences in bottomlevel in reach segment R_NDB_98_2
+ Warning in subroutine initial
+ Extreme differences in bottomlevel in reach segment R_NDB_98_10
+ Warning in subroutine initial
+ Extreme differences in bottomlevel in reach segment 40
+ Warning in subroutine plchst
+ Structure General Structure, id= S_YSV_P_5540636 might generate numerical oscil
+ lations due to broad crest and small storage area around the structure
+ Warning in subroutine plchst
+ Structure General Structure, id= S_YSV_P_5540635 might generate numerical oscil
+ lations due to broad crest and small storage area around the structure
+ Warning in subroutine plchst
+ Structure General Structure, id= C_NDB_3##S_NDB_2 might generate numerical osci
+ llations due to broad crest and small storage area around the structure
+opened file : ..\work\flow_bal.out
+closed file : ..\work\flow_bal.out
+cpu computation =     100.027840
+---------------------------------
+Normal end of Sobeksim
+closed file : ..\work\sobek.log

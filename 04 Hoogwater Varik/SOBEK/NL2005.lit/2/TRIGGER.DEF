@@ -1,0 +1,1163 @@
+TRGR id 'NDB_4'nm 'NDB_HY-Sluit-tr' ty 1 tp 0 ml 'NDB_28_200' ts '-1' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1975/12/25;00:00:00' -1 -1 1 2 <
+ tble
+  trgr
+TRGR id 'NDB_5'nm 'NDB_HY-Open-tr' ty 1 tp 0 ml 'NDB_28_200' ts 'S_NDB_24' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1975/12/25;00:00:00' -1 -1 0 2 <
+ tble
+  trgr
+TRGR id 'NDB_18976'nm 'NDB_Svk_tijdreeks' ty 0 tp 0 ml '-1' ts '-1' ch 0 ql 'NDB_0' tt tr 'Trigger' 0 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1991/01/01;00:00:00' 0 -1 -1 9.9999e+009 <
+ tble
+  trgr
+TRGR id 'NDB_20770'nm 'NDB_HY_Verval_neg' ty 1 tp 1 ml '-1' ts 'S_NDB_24' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Head Difference [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1991/01/01;00:00:00' -1 -1 0 0 <
+ tble
+  trgr
+TRGR id 'NDB_20771'nm 'NDB_HY_Verval_pos' ty 1 tp 1 ml '-1' ts 'S_NDB_24' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Head Difference [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1991/01/01;00:00:00' -1 -1 1 0 <
+ tble
+  trgr
+TRGR id 'MS_5457'nm 'MS_Borgharen' ty 1 tp 2 ml 'MS_002_4039' ts '-1' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Discharge [m3/s]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1990/01/01;00:00:00' -1 -1 0 1350 <
+ tble
+  trgr
+TRGR id 'MS_5645'nm 'MS_Borgharen_open' ty 1 tp 2 ml 'MS_002_4038' ts '-1' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Discharge [m3/s]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1990/01/01;00:00:00' -1 -1 1 1400 <
+ tble
+  trgr
+TRGR id 'MS_5418'nm 'MS_Linne_PID' ty 1 tp 0 ml 'MS_008_2596' ts '-1' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1990/01/01;00:00:00' -1 -1 0 19.55 <
+ tble
+  trgr
+TRGR id 'MS_5420'nm 'MS_Roermond_PID' ty 1 tp 0 ml 'MS_010_0' ts '-1' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1990/01/01;00:00:00' -1 -1 0 15.75 <
+ tble
+  trgr
+TRGR id 'MS_5422'nm 'MS_Belfeld_PID' ty 1 tp 0 ml 'MS_010_16703' ts '-1' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1990/01/01;00:00:00' -1 -1 0 13.5 <
+ tble
+  trgr
+TRGR id 'MS_5424'nm 'MS_Sambeek_PID' ty 1 tp 0 ml 'MS_013_15518' ts '-1' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1990/01/01;00:00:00' -1 -1 0 10 <
+ tble
+  trgr
+TRGR id 'MS_5426'nm 'MS_Grave_PID' ty 1 tp 0 ml 'MS_016_10929' ts '-1' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1990/01/01;00:00:00' -1 -1 0 5.85 <
+ tble
+  trgr
+TRGR id 'MS_5428'nm 'MS_Lith_PID' ty 1 tp 0 ml 'MS_016_36257' ts '-1' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1990/01/01;00:00:00' -1 -1 0 2.8 <
+ tble
+  trgr
+TRGR id 'MS_5578'nm 'MS_Linne_open' ty 1 tp 0 ml 'MS_008_2596' ts '-1' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1990/01/01;00:00:00' -1 -1 1 19.65 <
+ tble
+  trgr
+TRGR id 'MS_5580'nm 'MS_Roermond_open' ty 1 tp 0 ml 'MS_010_0' ts '-1' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1990/01/01;00:00:00' -1 -1 1 15.85 <
+ tble
+  trgr
+TRGR id 'MS_5582'nm 'MS_Belfeld_open' ty 1 tp 0 ml 'MS_010_16703' ts '-1' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1990/01/01;00:00:00' -1 -1 1 13.6 <
+ tble
+  trgr
+TRGR id 'MS_5584'nm 'MS_Sambeek_open' ty 1 tp 0 ml 'MS_013_15518' ts '-1' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1990/01/01;00:00:00' -1 -1 1 10.1 <
+ tble
+  trgr
+TRGR id 'MS_5586'nm 'MS_Grave_open' ty 1 tp 0 ml 'MS_016_10929' ts '-1' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1990/01/01;00:00:00' -1 -1 1 5.9 <
+ tble
+  trgr
+TRGR id 'MS_5588'nm 'MS_Lith_open' ty 1 tp 0 ml 'MS_016_36257' ts '-1' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1990/01/01;00:00:00' -1 -1 1 2.9 <
+ tble
+  trgr
+TRGR id 'RT_2031'nm 'RT_qlob laag' ty 1 tp 0 ml 'RT_001_0' ts '-1' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1990/01/01;00:00:00' -1 -1 0 10.5 <
+ '2000/01/01;00:00:00' -1 -1 0 10.5 <
+ tble
+  trgr
+TRGR id 'RT_2241'nm 'RT_driel minimum' ty 1 tp 2 ml 'RT_005_6521' ts '-1' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Discharge [m3/s]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1992/01/01;00:00:00' -1 -1 0 50 <
+ '1999/01/01;00:00:00' -1 -1 0 50 <
+ tble
+  trgr
+TRGR id 'RT_2242'nm 'RT_driel min dicht' ty 1 tp 2 ml 'RT_005_6521' ts '-1' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Discharge [m3/s]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1992/01/01;00:00:00' -1 -1 1 70 <
+ '1999/01/01;00:00:00' -1 -1 1 70 <
+ tble
+  trgr
+TRGR id 'RT_2347'nm 'RT_qlob hoog' ty 1 tp 0 ml 'RT_001_0' ts '-1' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1990/01/01;00:00:00' -1 -1 1 10.55 <
+ '2010/01/01;00:00:00' -1 -1 1 10.55 <
+ tble
+  trgr
+TRGR id 'RT_2454'nm 'RT_Amer. omloop' ty 1 tp 2 ml 'RT_005_27103' ts '-1' ch 0 ql 'RT_001' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Discharge [m3/s]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1990/01/01;00:00:00' -1 -1 0 130 <
+ tble
+  trgr
+TRGR id 'RT_2455'nm 'RT_Amer. omloop dicht' ty 1 tp 2 ml 'RT_005_27103' ts '-1' ch 0 ql 'RT_001' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Discharge [m3/s]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1990/01/01;00:00:00' -1 -1 1 150 <
+ tble
+  trgr
+TRGR id 'RT_2456'nm 'RT_Amer open' ty 1 tp 2 ml 'RT_005_27103' ts '-1' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Discharge [m3/s]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1990/01/01;00:00:00' -1 -1 1 1100 <
+ tble
+  trgr
+TRGR id 'RT_2457'nm 'RT_Amer. PID' ty 1 tp 0 ml 'RT_001_0' ts '-1' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1990/01/01;00:00:00' -1 -1 0 16 <
+ tble
+  trgr
+TRGR id 'RT_2821'nm 'RT_Hages open' ty 1 tp 2 ml 'RT_005_27103' ts '-1' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Discharge [m3/s]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1990/01/01;00:00:00' -1 -1 1 700 <
+ tble
+  trgr
+TRGR id 'RT_2823'nm 'RT_Hages PID' ty 1 tp 2 ml 'RT_005_27103' ts '-1' ch 0 ql 'RT_001' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Discharge [m3/s]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1990/01/01;00:00:00' -1 -1 0 680 <
+ tble
+  trgr
+TRGR id 'RT_2825'nm 'RT_Hages omloop dicht' ty 1 tp 2 ml 'RT_005_27103' ts '-1' ch 0 ql 'RT_001' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Discharge [m3/s]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1990/01/01;00:00:00' -1 -1 1 150 <
+ tble
+  trgr
+TRGR id 'RT_2827'nm 'RT_Hages omloop' ty 1 tp 2 ml 'RT_005_27103' ts '-1' ch 0 ql 'RT_001' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Discharge [m3/s]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1990/01/01;00:00:00' -1 -1 0 130 <
+ tble
+  trgr
+TRGR id 'ARK_0'nm 'ARK_IJmuid_startspui1' ty 1 tp 1 ml '-1' ts 'S_ARK_8' ch 0 ql 'ARK_0' tt tr 'Trigger' 0 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Head Difference [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 1 0.12 <
+ '2100/01/01;00:00:00' -1 -1 1 0.12 <
+ tble
+  trgr
+TRGR id 'ARK_3'nm 'ARK_IJmuid_startspui2' ty 1 tp 0 ml 'ARK_11_13900' ts '-1' ch 0 ql 'ARK_0' tt tr 'Trigger' 0 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 1 -0.45 <
+ '2100/01/01;00:00:00' -1 -1 1 -0.45 <
+ tble
+  trgr
+TRGR id 'ARK_4'nm 'ARK_IJmuid_startpomp1' ty 1 tp 0 ml 'ARK_11_13900' ts '-1' ch 0 ql 'ARK_0' tt tr 'Trigger' 0 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 1 -0.32 <
+ '2100/01/01;00:00:00' -1 -1 1 -0.32 <
+ tble
+  trgr
+TRGR id 'ARK_5'nm 'ARK_IJmuid_startpomp2' ty 1 tp 3 ml '-1' ts 'S_ARK_8' ch 0 ql 'ARK_0' tt tr 'Trigger' 0 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Gate Height [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 0 0.01 <
+ '2100/01/01;00:00:00' -1 -1 0 0.01 <
+ tble
+  trgr
+TRGR id 'ARK_6'nm 'ARK_IJmuid_stoppomp1' ty 1 tp 3 ml '-1' ts 'S_ARK_8' ch 0 ql 'ARK_0' tt tr 'Trigger' 0 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Gate Height [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 1 0.011 <
+ '2100/01/01;00:00:00' -1 -1 1 0.011 <
+ tble
+  trgr
+TRGR id 'ARK_7'nm 'ARK_IJmuid_stoppomp2' ty 1 tp 0 ml 'ARK_11_13900' ts '-1' ch 0 ql 'ARK_0' tt tr 'Trigger' 0 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 0 -0.5 <
+ '2100/01/01;00:00:00' -1 -1 0 -0.5 <
+ tble
+  trgr
+TRGR id 'ARK_8'nm 'ARK_HAV1_open1' ty 1 tp 2 ml 'ARK_45_2980' ts 'S_ARK_10' ch 0 ql 'ARK_0' tt tr 'Trigger' 0 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Discharge [m3/s]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 1 0 <
+ '2100/01/01;00:00:00' -1 -1 1 0 <
+ tble
+  trgr
+TRGR id 'ARK_9'nm 'ARK_HAV1_dicht1' ty 1 tp 2 ml 'ARK_45_2980' ts '-1' ch 0 ql 'ARK_0' tt tr 'Trigger' 0 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Discharge [m3/s]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 0 -1 <
+ '2100/01/01;00:00:00' -1 -1 0 -1 <
+ tble
+  trgr
+TRGR id 'ARK_10'nm 'ARK_HAV2_open1' ty 1 tp 2 ml 'ARK_51_1400' ts 'S_ARK_11' ch 0 ql 'ARK_0' tt tr 'Trigger' 0 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Discharge [m3/s]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 1 0 <
+ '2100/01/01;00:00:00' -1 -1 1 0 <
+ tble
+  trgr
+TRGR id 'ARK_11'nm 'ARK_HAV2_dicht1' ty 1 tp 2 ml 'ARK_51_1400' ts '-1' ch 0 ql 'ARK_0' tt tr 'Trigger' 0 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Discharge [m3/s]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 0 -1 <
+ '2100/01/01;00:00:00' -1 -1 0 -1 <
+ tble
+  trgr
+TRGR id 'ARK_12'nm 'ARK_HAV3_open1' ty 1 tp 2 ml 'ARK_36_100' ts 'S_ARK_5' ch 0 ql 'ARK_0' tt tr 'Trigger' 0 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Discharge [m3/s]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 1 0 <
+ '2100/01/01;00:00:00' -1 -1 1 0 <
+ tble
+  trgr
+TRGR id 'ARK_13'nm 'ARK_HAV3_dicht1' ty 1 tp 2 ml 'ARK_36_100' ts '-1' ch 0 ql 'ARK_0' tt tr 'Trigger' 0 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Discharge [m3/s]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 0 -1 <
+ '2100/01/01;00:00:00' -1 -1 0 -1 <
+ tble
+  trgr
+TRGR id 'ARK_14'nm 'ARK_HAV4_open1' ty 1 tp 2 ml 'ARK_38_1000' ts 'S_ARK_6' ch 0 ql 'ARK_0' tt tr 'Trigger' 0 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Discharge [m3/s]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 1 0 <
+ '2100/01/01;00:00:00' -1 -1 1 0 <
+ tble
+  trgr
+TRGR id 'ARK_15'nm 'ARK_HAV4_dicht1' ty 1 tp 2 ml 'ARK_38_1000' ts '-1' ch 0 ql 'ARK_0' tt tr 'Trigger' 0 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Discharge [m3/s]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 0 -1 <
+ '2100/01/01;00:00:00' -1 -1 0 -1 <
+ tble
+  trgr
+TRGR id 'ARK_16'nm 'ARK_Orj_stinl1' ty 1 tp 2 ml 'ARK_40_250' ts '-1' ch 0 ql '-1' tt tr 'Trigger' 0 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Discharge [m3/s]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 1 200 <
+ '2100/01/01;00:00:00' -1 -1 1 200 <
+ tble
+  trgr
+TRGR id 'ARK_17'nm 'ARK_Orj_stinl2' ty 1 tp 1 ml '-1' ts 'S_ARK_7630' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Head Difference [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 1 0.02 <
+ '2100/01/01;00:00:00' -1 -1 1 0.02 <
+ tble
+  trgr
+TRGR id 'ARK_18'nm 'ARK_Orj_stpinl3' ty 1 tp 0 ml 'ARK_9_1550' ts '-1' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 0 -0.325 <
+ '2100/01/01;00:00:00' -1 -1 0 -0.325 <
+ tble
+  trgr
+TRGR id 'ARK_20'nm 'ARK_IJfront_di-ws' ty 1 tp 0 ml 'ARK_26_2000' ts '-1' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 0 -0.25 <
+ '2100/01/01;00:00:00' -1 -1 0 -0.25 <
+ tble
+  trgr
+TRGR id 'ARK_21'nm 'ARK_IJfront_op-ws' ty 1 tp 0 ml 'ARK_26_2000' ts '-1' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 1 -0.25 <
+ '2100/01/01;00:00:00' -1 -1 1 -0.25 <
+ tble
+  trgr
+TRGR id 'ARK_22'nm 'ARK_Muiden_startinlaten1' ty 1 tp 0 ml 'ARK_62_3500' ts '-1' ch 0 ql 'ARK_0' tt tr 'Trigger' 0 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 0 -0.31 <
+ '2100/01/01;00:00:00' -1 -1 0 -0.31 <
+ tble
+  trgr
+TRGR id 'ARK_23'nm 'ARK_Muiden_startinlaten2' ty 1 tp 1 ml '-1' ts 'S_ARK_21' ch 0 ql 'ARK_0' tt tr 'Trigger' 0 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Head Difference [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 1 0.02 <
+ '2100/01/01;00:00:00' -1 -1 1 0.02 <
+ tble
+  trgr
+TRGR id 'ARK_24'nm 'ARK_Muiden_stopinlaten1' ty 1 tp 0 ml 'ARK_62_3500' ts '-1' ch 0 ql 'ARK_0' tt tr 'Trigger' 0 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 1 -0.29 <
+ '2100/01/01;00:00:00' -1 -1 1 -0.29 <
+ tble
+  trgr
+TRGR id 'ARK_25'nm 'ARK_Muiden_stopinlaten2' ty 1 tp 1 ml '-1' ts 'S_ARK_21' ch 0 ql 'ARK_0' tt tr 'Trigger' 0 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Head Difference [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 0 0.01 <
+ '2100/01/01;00:00:00' -1 -1 0 0.01 <
+ tble
+  trgr
+TRGR id 'ARK_26'nm 'ARK_Ipensloot_open1' ty 1 tp 0 ml 'ARK_71_1500' ts '-1' ch 0 ql 'ARK_0' tt tr 'Trigger' 0 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 1 -0.3 <
+ '2100/01/01;00:00:00' -1 -1 1 -0.3 <
+ tble
+  trgr
+TRGR id 'ARK_27'nm 'ARK_Ipensloot_open2' ty 1 tp 1 ml '-1' ts 'S_ARK_7636' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Head Difference [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 1 0.01 <
+ tble
+  trgr
+TRGR id 'ARK_28'nm 'ARK_Ipensloot_dicht1' ty 1 tp 0 ml 'ARK_71_1500' ts '-1' ch 0 ql 'ARK_0' tt tr 'Trigger' 0 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 0 -0.35 <
+ '2100/01/01;00:00:00' -1 -1 0 -0.35 <
+ tble
+  trgr
+TRGR id 'ARK_29'nm 'ARK_Ipensloot_dicht2' ty 1 tp 1 ml '-1' ts 'S_ARK_7636' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Head Difference [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 0 0 <
+ '2100/01/01;00:00:00' -1 -1 0 0 <
+ tble
+  trgr
+TRGR id 'ARK_30'nm 'ARK_Diemerdam_open1' ty 1 tp 0 ml 'ARK_71_1500' ts '-1' ch 0 ql 'ARK_0' tt tr 'Trigger' 0 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 1 -0.3 <
+ '2100/01/01;00:00:00' -1 -1 1 -0.3 <
+ tble
+  trgr
+TRGR id 'ARK_31'nm 'ARK_Diemerdam_open2' ty 1 tp 1 ml '-1' ts 'S_ARK_3171' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Head Difference [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 1 0.01 <
+ '2100/01/01;00:00:00' -1 -1 1 0.01 <
+ tble
+  trgr
+TRGR id 'ARK_32'nm 'ARK_Diemerdam_dicht1' ty 1 tp 0 ml 'ARK_71_1500' ts '-1' ch 0 ql 'ARK_0' tt tr 'Trigger' 0 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 0 -0.35 <
+ '2100/01/01;00:00:00' -1 -1 0 -0.35 <
+ tble
+  trgr
+TRGR id 'ARK_33'nm 'ARK_Diemerdam_dicht2' ty 1 tp 1 ml '-1' ts 'S_ARK_3171' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Head Difference [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 0 0 <
+ '2100/01/01;00:00:00' -1 -1 0 0 <
+ tble
+  trgr
+TRGR id 'ARK_36'nm 'ARK_Leksluis_startinlaten' ty 1 tp 0 ml 'ARK_5146_1550' ts '-1' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 0 -0.3 <
+ '2100/01/01;00:00:00' -1 -1 0 -0.3 <
+ tble
+  trgr
+TRGR id 'ARK_37'nm 'ARK_Leksluis_stopinlaten' ty 1 tp 0 ml 'ARK_5146_1550' ts '-1' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 1 -0.29 <
+ '2100/01/01;00:00:00' -1 -1 1 -0.29 <
+ tble
+  trgr
+TRGR id 'ARK_38'nm 'ARK_HAV5_open1' ty 1 tp 2 ml 'ARK_75_4400' ts 'S_ARK_15' ch 0 ql 'ARK_0' tt tr 'Trigger' 0 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Discharge [m3/s]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 1 0 <
+ '2100/01/01;00:00:00' -1 -1 1 0 <
+ tble
+  trgr
+TRGR id 'ARK_39'nm 'ARK_HAV5_dicht1' ty 1 tp 2 ml 'ARK_75_4400' ts '-1' ch 0 ql 'ARK_0' tt tr 'Trigger' 0 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Discharge [m3/s]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 0 -1 <
+ '2100/01/01;00:00:00' -1 -1 0 -1 <
+ tble
+  trgr
+TRGR id 'ARK_40'nm 'ARK_Zeebg-stloz1' ty 1 tp 0 ml 'ARK_26_2000' ts '-1' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 1 -0.25 <
+ '2020/01/01;00:00:00' -1 -1 1 -0.25 <
+ tble
+  trgr
+TRGR id 'ARK_41'nm 'ARK_Zeebg-inla1' ty 1 tp 0 ml 'ARK_26_2000' ts '-1' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 0 -0.35 <
+ '2020/01/01;00:00:00' -1 -1 0 -0.35 <
+ tble
+  trgr
+TRGR id 'ARK_42'nm 'ARK_Zeebg-inla2' ty 0 tp 0 ml '-1' ts '-1' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1993/12/01;00:00:00' 1 -1 -1 9.9999e+009 <
+ '1993/12/01;03:00:00' 0 -1 -1 9.9999e+009 <
+ '1993/12/02;00:00:00' 1 -1 -1 9.9999e+009 <
+ '1993/12/02;03:00:00' 0 -1 -1 9.9999e+009 <
+ '1993/12/03;00:00:00' 1 -1 -1 9.9999e+009 <
+ '1993/12/03;03:00:00' 0 -1 -1 9.9999e+009 <
+ '1993/12/04;00:00:00' 1 -1 -1 9.9999e+009 <
+ '1993/12/04;03:00:00' 0 -1 -1 9.9999e+009 <
+ '1993/12/05;00:00:00' 1 -1 -1 9.9999e+009 <
+ '1993/12/05;03:00:00' 0 -1 -1 9.9999e+009 <
+ '1993/12/06;00:00:00' 1 -1 -1 9.9999e+009 <
+ '1993/12/06;03:00:00' 0 -1 -1 9.9999e+009 <
+ '1993/12/07;00:00:00' 1 -1 -1 9.9999e+009 <
+ '1993/12/07;03:00:00' 0 -1 -1 9.9999e+009 <
+ '1993/12/08;00:00:00' 1 -1 -1 9.9999e+009 <
+ '1993/12/08;03:00:00' 0 -1 -1 9.9999e+009 <
+ '1993/12/09;00:00:00' 1 -1 -1 9.9999e+009 <
+ '1993/12/09;03:00:00' 0 -1 -1 9.9999e+009 <
+ '1993/12/10;00:00:00' 1 -1 -1 9.9999e+009 <
+ '1993/12/10;03:00:00' 0 -1 -1 9.9999e+009 <
+ '1993/12/11;00:00:00' 1 -1 -1 9.9999e+009 <
+ '1993/12/11;03:00:00' 0 -1 -1 9.9999e+009 <
+ '1993/12/12;00:00:00' 1 -1 -1 9.9999e+009 <
+ '1993/12/12;03:00:00' 0 -1 -1 9.9999e+009 <
+ '1993/12/13;00:00:00' 1 -1 -1 9.9999e+009 <
+ '1993/12/13;03:00:00' 0 -1 -1 9.9999e+009 <
+ '1993/12/14;00:00:00' 1 -1 -1 9.9999e+009 <
+ '1993/12/14;03:00:00' 0 -1 -1 9.9999e+009 <
+ '1993/12/15;00:00:00' 1 -1 -1 9.9999e+009 <
+ '1993/12/15;03:00:00' 0 -1 -1 9.9999e+009 <
+ '1993/12/16;00:00:00' 1 -1 -1 9.9999e+009 <
+ '1993/12/16;03:00:00' 0 -1 -1 9.9999e+009 <
+ '1993/12/17;00:00:00' 1 -1 -1 9.9999e+009 <
+ '1993/12/17;03:00:00' 0 -1 -1 9.9999e+009 <
+ '1993/12/18;00:00:00' 1 -1 -1 9.9999e+009 <
+ '1993/12/18;03:00:00' 0 -1 -1 9.9999e+009 <
+ '1993/12/19;00:00:00' 1 -1 -1 9.9999e+009 <
+ '1993/12/19;03:00:00' 0 -1 -1 9.9999e+009 <
+ '1993/12/20;00:00:00' 1 -1 -1 9.9999e+009 <
+ '1993/12/20;03:00:00' 0 -1 -1 9.9999e+009 <
+ '1993/12/21;00:00:00' 1 -1 -1 9.9999e+009 <
+ '1993/12/21;03:00:00' 0 -1 -1 9.9999e+009 <
+ '1993/12/22;00:00:00' 1 -1 -1 9.9999e+009 <
+ '1993/12/22;03:00:00' 0 -1 -1 9.9999e+009 <
+ '1993/12/23;00:00:00' 1 -1 -1 9.9999e+009 <
+ '1993/12/23;03:00:00' 0 -1 -1 9.9999e+009 <
+ '1993/12/24;00:00:00' 1 -1 -1 9.9999e+009 <
+ '1993/12/24;03:00:00' 0 -1 -1 9.9999e+009 <
+ '1993/12/25;00:00:00' 1 -1 -1 9.9999e+009 <
+ '1993/12/25;03:00:00' 0 -1 -1 9.9999e+009 <
+ '1993/12/26;00:00:00' 1 -1 -1 9.9999e+009 <
+ '1993/12/26;03:00:00' 0 -1 -1 9.9999e+009 <
+ '1993/12/27;00:00:00' 1 -1 -1 9.9999e+009 <
+ '1993/12/27;03:00:00' 0 -1 -1 9.9999e+009 <
+ '1993/12/28;00:00:00' 1 -1 -1 9.9999e+009 <
+ '1993/12/28;03:00:00' 0 -1 -1 9.9999e+009 <
+ '1993/12/29;00:00:00' 1 -1 -1 9.9999e+009 <
+ '1993/12/29;03:00:00' 0 -1 -1 9.9999e+009 <
+ '1993/12/30;00:00:00' 1 -1 -1 9.9999e+009 <
+ '1993/12/30;03:00:00' 0 -1 -1 9.9999e+009 <
+ '1993/12/31;00:00:00' 1 -1 -1 9.9999e+009 <
+ '1993/12/31;03:00:00' 0 -1 -1 9.9999e+009 <
+ '1994/01/01;00:00:00' 1 -1 -1 9.9999e+009 <
+ '1994/01/01;03:00:00' 0 -1 -1 9.9999e+009 <
+ '1994/01/02;00:00:00' 1 -1 -1 9.9999e+009 <
+ '1994/01/02;03:00:00' 0 -1 -1 9.9999e+009 <
+ '1994/01/03;00:00:00' 1 -1 -1 9.9999e+009 <
+ '1994/01/03;03:00:00' 0 -1 -1 9.9999e+009 <
+ '1994/01/04;00:00:00' 1 -1 -1 9.9999e+009 <
+ '1994/01/04;03:00:00' 0 -1 -1 9.9999e+009 <
+ '1994/01/05;00:00:00' 1 -1 -1 9.9999e+009 <
+ '1994/01/05;03:00:00' 0 -1 -1 9.9999e+009 <
+ '1994/01/06;00:00:00' 1 -1 -1 9.9999e+009 <
+ '1994/01/06;03:00:00' 0 -1 -1 9.9999e+009 <
+ '1994/01/07;00:00:00' 1 -1 -1 9.9999e+009 <
+ '1994/01/07;03:00:00' 0 -1 -1 9.9999e+009 <
+ '1994/01/08;00:00:00' 1 -1 -1 9.9999e+009 <
+ '1994/01/08;03:00:00' 0 -1 -1 9.9999e+009 <
+ '1994/01/09;00:00:00' 1 -1 -1 9.9999e+009 <
+ '1994/01/09;03:00:00' 0 -1 -1 9.9999e+009 <
+ '1994/01/10;00:00:00' 1 -1 -1 9.9999e+009 <
+ '1994/01/10;03:00:00' 0 -1 -1 9.9999e+009 <
+ '1994/01/11;00:00:00' 1 -1 -1 9.9999e+009 <
+ '1994/01/11;03:00:00' 0 -1 -1 9.9999e+009 <
+ '1994/01/12;00:00:00' 1 -1 -1 9.9999e+009 <
+ '1994/01/12;03:00:00' 0 -1 -1 9.9999e+009 <
+ '1994/01/13;00:00:00' 1 -1 -1 9.9999e+009 <
+ '1994/01/13;03:00:00' 0 -1 -1 9.9999e+009 <
+ '1994/01/14;00:00:00' 1 -1 -1 9.9999e+009 <
+ '1994/01/14;03:00:00' 0 -1 -1 9.9999e+009 <
+ '1994/01/15;00:00:00' 1 -1 -1 9.9999e+009 <
+ '1994/01/15;03:00:00' 0 -1 -1 9.9999e+009 <
+ '1994/01/16;00:00:00' 1 -1 -1 9.9999e+009 <
+ '1994/01/16;03:00:00' 0 -1 -1 9.9999e+009 <
+ '1994/01/17;00:00:00' 1 -1 -1 9.9999e+009 <
+ '1994/01/17;03:00:00' 0 -1 -1 9.9999e+009 <
+ '1994/01/18;00:00:00' 1 -1 -1 9.9999e+009 <
+ '1994/01/18;03:00:00' 0 -1 -1 9.9999e+009 <
+ '1994/01/19;00:00:00' 1 -1 -1 9.9999e+009 <
+ '1994/01/19;03:00:00' 0 -1 -1 9.9999e+009 <
+ '1994/01/20;00:00:00' 1 -1 -1 9.9999e+009 <
+ '1994/01/20;03:00:00' 0 -1 -1 9.9999e+009 <
+ '1994/01/21;00:00:00' 1 -1 -1 9.9999e+009 <
+ '1994/01/21;03:00:00' 0 -1 -1 9.9999e+009 <
+ '1994/01/22;00:00:00' 1 -1 -1 9.9999e+009 <
+ '1994/01/22;03:00:00' 0 -1 -1 9.9999e+009 <
+ '1994/01/23;00:00:00' 1 -1 -1 9.9999e+009 <
+ '1994/01/23;03:00:00' 0 -1 -1 9.9999e+009 <
+ '1994/01/24;00:00:00' 1 -1 -1 9.9999e+009 <
+ '1994/01/24;03:00:00' 0 -1 -1 9.9999e+009 <
+ '1994/01/25;00:00:00' 1 -1 -1 9.9999e+009 <
+ '1994/01/25;03:00:00' 0 -1 -1 9.9999e+009 <
+ '1994/01/26;00:00:00' 1 -1 -1 9.9999e+009 <
+ '1994/01/26;03:00:00' 0 -1 -1 9.9999e+009 <
+ '1994/01/27;00:00:00' 1 -1 -1 9.9999e+009 <
+ '1994/01/27;03:00:00' 0 -1 -1 9.9999e+009 <
+ '1994/01/28;00:00:00' 1 -1 -1 9.9999e+009 <
+ '1994/01/28;03:00:00' 0 -1 -1 9.9999e+009 <
+ '1994/01/29;00:00:00' 1 -1 -1 9.9999e+009 <
+ '1994/01/29;03:00:00' 0 -1 -1 9.9999e+009 <
+ '1994/01/30;00:00:00' 1 -1 -1 9.9999e+009 <
+ '1994/01/30;03:00:00' 0 -1 -1 9.9999e+009 <
+ '1994/01/31;00:00:00' 1 -1 -1 9.9999e+009 <
+ '1994/01/31;03:00:00' 0 -1 -1 9.9999e+009 <
+ '1994/02/01;00:00:00' 1 -1 -1 9.9999e+009 <
+ '1994/02/01;03:00:00' 0 -1 -1 9.9999e+009 <
+ tble
+  trgr
+TRGR id 'ARK_43'nm 'ARK_Zeebg-xloz1' ty 1 tp 0 ml 'ARK_26_2000' ts '-1' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 0 -0.26 <
+ '2020/01/01;00:00:00' -1 -1 0 -0.26 <
+ tble
+  trgr
+TRGR id 'ARK_44'nm 'ARK_Zeebg-xinla3' ty 1 tp 0 ml 'ARK_26_2000' ts '-1' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 0 -0.32 <
+ '2020/01/01;00:00:00' -1 -1 0 -0.32 <
+ tble
+  trgr
+TRGR id 'ARK_45'nm 'ARK_Orj_stpinl1' ty 1 tp 2 ml 'ARK_40_250' ts '-1' ch 0 ql '-1' tt tr 'Trigger' 0 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Discharge [m3/s]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 0 50 <
+ '2100/01/01;00:00:00' -1 -1 0 50 <
+ tble
+  trgr
+TRGR id 'ARK_46'nm 'ARK_Orj_stinl3' ty 1 tp 0 ml 'ARK_9_1550' ts '-1' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 0 -0.35 <
+ '2100/01/01;00:00:00' -1 -1 0 -0.35 <
+ tble
+  trgr
+TRGR id 'ARK_47'nm 'ARK_Orj_xloz1' ty 1 tp 0 ml 'ARK_9_1550' ts '-1' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 0 -0.3 <
+ '2100/01/01;00:00:00' -1 -1 0 -0.3 <
+ tble
+  trgr
+TRGR id 'ARK_48'nm 'ARK_Orj_stloz1' ty 1 tp 0 ml 'ARK_9_1550' ts '-1' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 1 -0.3 <
+ '2100/01/01;00:00:00' -1 -1 1 -0.3 <
+ tble
+  trgr
+TRGR id 'ARK_49'nm 'ARK_Orj_stloz2' ty 1 tp 1 ml '-1' ts 'S_ARK_7630' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Head Difference [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 0 -0.02 <
+ '2100/01/01;00:00:00' -1 -1 0 -0.02 <
+ tble
+  trgr
+TRGR id 'ARK_50'nm 'ARK_Orj_stpinl2' ty 1 tp 0 ml 'ARK_9_1550' ts '-1' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 1 -0.35 <
+ '2100/01/01;00:00:00' -1 -1 1 -0.35 <
+ tble
+  trgr
+TRGR id 'ARK_51'nm 'ARK_Orj_xloz3' ty 1 tp 0 ml 'ARK_9_1550' ts '-1' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 1 -0.324 <
+ '2100/01/01;00:00:00' -1 -1 1 -0.324 <
+ tble
+  trgr
+TRGR id 'ARK_52'nm 'ARK_Orj_xloz2' ty 1 tp 1 ml '-1' ts 'S_ARK_7630' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Head Difference [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 1 -0.01 <
+ '2100/01/01;00:00:00' -1 -1 1 -0.01 <
+ tble
+  trgr
+TRGR id 'ARK_53'nm 'ARK_Zeebg-xloz2' ty 1 tp 0 ml 'ARK_26_2000' ts '-1' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 1 -0.31 <
+ '2100/01/01;00:00:00' -1 -1 1 -0.31 <
+ tble
+  trgr
+TRGR id 'ARK_54'nm 'ARK_Zeebg-xinla2' ty 1 tp 0 ml 'ARK_26_2000' ts '-1' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 1 -0.34 <
+ '2020/01/01;00:00:00' -1 -1 1 -0.34 <
+ tble
+  trgr
+TRGR id 'ARK_55'nm 'ARK_Zeebg-xinla1' ty 0 tp 0 ml '-1' ts '-1' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1993/12/01;00:00:00' 0 -1 -1 9.9999e+009 <
+ '1993/12/01;03:00:00' 1 -1 -1 9.9999e+009 <
+ '1993/12/02;00:00:00' 0 -1 -1 9.9999e+009 <
+ '1993/12/02;03:00:00' 1 -1 -1 9.9999e+009 <
+ '1993/12/03;00:00:00' 0 -1 -1 9.9999e+009 <
+ '1993/12/03;03:00:00' 1 -1 -1 9.9999e+009 <
+ '1993/12/04;00:00:00' 0 -1 -1 9.9999e+009 <
+ '1993/12/04;03:00:00' 1 -1 -1 9.9999e+009 <
+ '1993/12/05;00:00:00' 0 -1 -1 9.9999e+009 <
+ '1993/12/05;03:00:00' 1 -1 -1 9.9999e+009 <
+ '1993/12/06;00:00:00' 0 -1 -1 9.9999e+009 <
+ '1993/12/06;03:00:00' 1 -1 -1 9.9999e+009 <
+ '1993/12/07;00:00:00' 0 -1 -1 9.9999e+009 <
+ '1993/12/07;03:00:00' 1 -1 -1 9.9999e+009 <
+ '1993/12/08;00:00:00' 0 -1 -1 9.9999e+009 <
+ '1993/12/08;03:00:00' 1 -1 -1 9.9999e+009 <
+ '1993/12/09;00:00:00' 0 -1 -1 9.9999e+009 <
+ '1993/12/09;03:00:00' 1 -1 -1 9.9999e+009 <
+ '1993/12/10;00:00:00' 0 -1 -1 9.9999e+009 <
+ '1993/12/10;03:00:00' 1 -1 -1 9.9999e+009 <
+ '1993/12/11;00:00:00' 0 -1 -1 9.9999e+009 <
+ '1993/12/11;03:00:00' 1 -1 -1 9.9999e+009 <
+ '1993/12/12;00:00:00' 0 -1 -1 9.9999e+009 <
+ '1993/12/12;03:00:00' 1 -1 -1 9.9999e+009 <
+ '1993/12/13;00:00:00' 0 -1 -1 9.9999e+009 <
+ '1993/12/13;03:00:00' 1 -1 -1 9.9999e+009 <
+ '1993/12/14;00:00:00' 0 -1 -1 9.9999e+009 <
+ '1993/12/14;03:00:00' 1 -1 -1 9.9999e+009 <
+ '1993/12/15;00:00:00' 0 -1 -1 9.9999e+009 <
+ '1993/12/15;03:00:00' 1 -1 -1 9.9999e+009 <
+ '1993/12/16;00:00:00' 0 -1 -1 9.9999e+009 <
+ '1993/12/16;03:00:00' 1 -1 -1 9.9999e+009 <
+ '1993/12/17;00:00:00' 0 -1 -1 9.9999e+009 <
+ '1993/12/17;03:00:00' 1 -1 -1 9.9999e+009 <
+ '1993/12/18;00:00:00' 0 -1 -1 9.9999e+009 <
+ '1993/12/18;03:00:00' 1 -1 -1 9.9999e+009 <
+ '1993/12/19;00:00:00' 0 -1 -1 9.9999e+009 <
+ '1993/12/19;03:00:00' 1 -1 -1 9.9999e+009 <
+ '1993/12/20;00:00:00' 0 -1 -1 9.9999e+009 <
+ '1993/12/20;03:00:00' 1 -1 -1 9.9999e+009 <
+ '1993/12/21;00:00:00' 0 -1 -1 9.9999e+009 <
+ '1993/12/21;03:00:00' 1 -1 -1 9.9999e+009 <
+ '1993/12/22;00:00:00' 0 -1 -1 9.9999e+009 <
+ '1993/12/22;03:00:00' 1 -1 -1 9.9999e+009 <
+ '1993/12/23;00:00:00' 0 -1 -1 9.9999e+009 <
+ '1993/12/23;03:00:00' 1 -1 -1 9.9999e+009 <
+ '1993/12/24;00:00:00' 0 -1 -1 9.9999e+009 <
+ '1993/12/24;03:00:00' 1 -1 -1 9.9999e+009 <
+ '1993/12/25;00:00:00' 0 -1 -1 9.9999e+009 <
+ '1993/12/25;03:00:00' 1 -1 -1 9.9999e+009 <
+ '1993/12/26;00:00:00' 0 -1 -1 9.9999e+009 <
+ '1993/12/26;03:00:00' 1 -1 -1 9.9999e+009 <
+ '1993/12/27;00:00:00' 0 -1 -1 9.9999e+009 <
+ '1993/12/27;03:00:00' 1 -1 -1 9.9999e+009 <
+ '1993/12/28;00:00:00' 0 -1 -1 9.9999e+009 <
+ '1993/12/28;03:00:00' 1 -1 -1 9.9999e+009 <
+ '1993/12/29;00:00:00' 0 -1 -1 9.9999e+009 <
+ '1993/12/29;03:00:00' 1 -1 -1 9.9999e+009 <
+ '1993/12/30;00:00:00' 0 -1 -1 9.9999e+009 <
+ '1993/12/30;03:00:00' 1 -1 -1 9.9999e+009 <
+ '1993/12/31;00:00:00' 0 -1 -1 9.9999e+009 <
+ '1993/12/31;03:00:00' 1 -1 -1 9.9999e+009 <
+ '1994/01/01;00:00:00' 0 -1 -1 9.9999e+009 <
+ '1994/01/01;03:00:00' 1 -1 -1 9.9999e+009 <
+ '1994/01/02;00:00:00' 0 -1 -1 9.9999e+009 <
+ '1994/01/02;03:00:00' 1 -1 -1 9.9999e+009 <
+ '1994/01/03;00:00:00' 0 -1 -1 9.9999e+009 <
+ '1994/01/03;03:00:00' 1 -1 -1 9.9999e+009 <
+ '1994/01/04;00:00:00' 0 -1 -1 9.9999e+009 <
+ '1994/01/04;03:00:00' 1 -1 -1 9.9999e+009 <
+ '1994/01/05;00:00:00' 0 -1 -1 9.9999e+009 <
+ '1994/01/05;03:00:00' 1 -1 -1 9.9999e+009 <
+ '1994/01/06;00:00:00' 0 -1 -1 9.9999e+009 <
+ '1994/01/06;03:00:00' 1 -1 -1 9.9999e+009 <
+ '1994/01/07;00:00:00' 0 -1 -1 9.9999e+009 <
+ '1994/01/07;03:00:00' 1 -1 -1 9.9999e+009 <
+ '1994/01/08;00:00:00' 0 -1 -1 9.9999e+009 <
+ '1994/01/08;03:00:00' 1 -1 -1 9.9999e+009 <
+ '1994/01/09;00:00:00' 0 -1 -1 9.9999e+009 <
+ '1994/01/09;03:00:00' 1 -1 -1 9.9999e+009 <
+ '1994/01/10;00:00:00' 0 -1 -1 9.9999e+009 <
+ '1994/01/10;03:00:00' 1 -1 -1 9.9999e+009 <
+ '1994/01/11;00:00:00' 0 -1 -1 9.9999e+009 <
+ '1994/01/11;03:00:00' 1 -1 -1 9.9999e+009 <
+ '1994/01/12;00:00:00' 0 -1 -1 9.9999e+009 <
+ '1994/01/12;03:00:00' 1 -1 -1 9.9999e+009 <
+ '1994/01/13;00:00:00' 0 -1 -1 9.9999e+009 <
+ '1994/01/13;03:00:00' 1 -1 -1 9.9999e+009 <
+ '1994/01/14;00:00:00' 0 -1 -1 9.9999e+009 <
+ '1994/01/14;03:00:00' 1 -1 -1 9.9999e+009 <
+ '1994/01/15;00:00:00' 0 -1 -1 9.9999e+009 <
+ '1994/01/15;03:00:00' 1 -1 -1 9.9999e+009 <
+ '1994/01/16;00:00:00' 0 -1 -1 9.9999e+009 <
+ '1994/01/16;03:00:00' 1 -1 -1 9.9999e+009 <
+ '1994/01/17;00:00:00' 0 -1 -1 9.9999e+009 <
+ '1994/01/17;03:00:00' 1 -1 -1 9.9999e+009 <
+ '1994/01/18;00:00:00' 0 -1 -1 9.9999e+009 <
+ '1994/01/18;03:00:00' 1 -1 -1 9.9999e+009 <
+ '1994/01/19;00:00:00' 0 -1 -1 9.9999e+009 <
+ '1994/01/19;03:00:00' 1 -1 -1 9.9999e+009 <
+ '1994/01/20;00:00:00' 0 -1 -1 9.9999e+009 <
+ '1994/01/20;03:00:00' 1 -1 -1 9.9999e+009 <
+ '1994/01/21;00:00:00' 0 -1 -1 9.9999e+009 <
+ '1994/01/21;03:00:00' 1 -1 -1 9.9999e+009 <
+ '1994/01/22;00:00:00' 0 -1 -1 9.9999e+009 <
+ '1994/01/22;03:00:00' 1 -1 -1 9.9999e+009 <
+ '1994/01/23;00:00:00' 0 -1 -1 9.9999e+009 <
+ '1994/01/23;03:00:00' 1 -1 -1 9.9999e+009 <
+ '1994/01/24;00:00:00' 0 -1 -1 9.9999e+009 <
+ '1994/01/24;03:00:00' 1 -1 -1 9.9999e+009 <
+ '1994/01/25;00:00:00' 0 -1 -1 9.9999e+009 <
+ '1994/01/25;03:00:00' 1 -1 -1 9.9999e+009 <
+ '1994/01/26;00:00:00' 0 -1 -1 9.9999e+009 <
+ '1994/01/26;03:00:00' 1 -1 -1 9.9999e+009 <
+ '1994/01/27;00:00:00' 0 -1 -1 9.9999e+009 <
+ '1994/01/27;03:00:00' 1 -1 -1 9.9999e+009 <
+ '1994/01/28;00:00:00' 0 -1 -1 9.9999e+009 <
+ '1994/01/28;03:00:00' 1 -1 -1 9.9999e+009 <
+ '1994/01/29;00:00:00' 0 -1 -1 9.9999e+009 <
+ '1994/01/29;03:00:00' 1 -1 -1 9.9999e+009 <
+ '1994/01/30;00:00:00' 0 -1 -1 9.9999e+009 <
+ '1994/01/30;03:00:00' 1 -1 -1 9.9999e+009 <
+ '1994/01/31;00:00:00' 0 -1 -1 9.9999e+009 <
+ '1994/01/31;03:00:00' 1 -1 -1 9.9999e+009 <
+ '1994/02/01;00:00:00' 0 -1 -1 9.9999e+009 <
+ '1994/02/01;03:00:00' 1 -1 -1 9.9999e+009 <
+ tble
+  trgr
+TRGR id 'ARK_56'nm 'ARK_Amstelfront_open' ty 1 tp 0 ml 'ARK_26_2000' ts '-1' ch 0 ql 'ARK_0' tt tr 'Trigger' 0 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 0 -0.2 <
+ '2100/01/01;00:00:00' -1 -1 0 -0.2 <
+ tble
+  trgr
+TRGR id 'ARK_57'nm 'ARK_Amstelfront_dicht' ty 1 tp 0 ml 'ARK_26_2000' ts '-1' ch 0 ql 'ARK_0' tt tr 'Trigger' 0 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 1 -0.15 <
+ '2100/01/01;00:00:00' -1 -1 1 -0.15 <
+ tble
+  trgr
+TRGR id 'ARK_58'nm 'ARK_IJmuid_stoppomp3' ty 1 tp 1 ml '-1' ts 'S_ARK_8' ch 0 ql 'ARK_0' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Head Difference [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 0 -2.305 <
+ '2100/01/01;00:00:00' -1 -1 0 -2.305 <
+ tble
+  trgr
+TRGR id 'ARK_59'nm 'ARK_HAV1_open2' ty 1 tp 1 ml '-1' ts 'S_ARK_10' ch 0 ql 'ARK_0' tt tr 'Trigger' 0 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Head Difference [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 1 0 <
+ '2100/01/01;00:00:00' -1 -1 1 0 <
+ tble
+  trgr
+TRGR id 'ARK_60'nm 'ARK_HAV1_dicht2' ty 1 tp 1 ml '-1' ts 'S_ARK_10' ch 0 ql 'ARK_0' tt tr 'Trigger' 0 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Head Difference [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 0 -0.05 <
+ '2100/01/01;00:00:00' -1 -1 0 -0.05 <
+ tble
+  trgr
+TRGR id 'ARK_61'nm 'ARK_HAV2_open2' ty 1 tp 1 ml '-1' ts 'S_ARK_11' ch 0 ql 'ARK_0' tt tr 'Trigger' 0 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Head Difference [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 1 0 <
+ '2100/01/01;00:00:00' -1 -1 1 0 <
+ tble
+  trgr
+TRGR id 'ARK_62'nm 'ARK_HAV2_dicht2' ty 1 tp 1 ml '-1' ts 'S_ARK_11' ch 0 ql 'ARK_0' tt tr 'Trigger' 0 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Head Difference [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 0 -0.05 <
+ '2100/01/01;00:00:00' -1 -1 0 -0.05 <
+ tble
+  trgr
+TRGR id 'ARK_63'nm 'ARK_HAV3_open2' ty 1 tp 1 ml '-1' ts 'S_ARK_5' ch 0 ql 'ARK_0' tt tr 'Trigger' 0 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Head Difference [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 1 0 <
+ '2100/01/01;00:00:00' -1 -1 1 0 <
+ tble
+  trgr
+TRGR id 'ARK_64'nm 'ARK_HAV3_dicht2' ty 1 tp 1 ml '-1' ts 'S_ARK_5' ch 0 ql 'ARK_0' tt tr 'Trigger' 0 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Head Difference [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 0 -0.05 <
+ '2100/01/01;00:00:00' -1 -1 0 -0.05 <
+ tble
+  trgr
+TRGR id 'ARK_65'nm 'ARK_HAV4_open2' ty 1 tp 1 ml '-1' ts 'S_ARK_6' ch 0 ql 'ARK_0' tt tr 'Trigger' 0 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Head Difference [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 1 0 <
+ '2100/01/01;00:00:00' -1 -1 1 0 <
+ tble
+  trgr
+TRGR id 'ARK_66'nm 'ARK_HAV4_dicht2' ty 1 tp 1 ml '-1' ts 'S_ARK_6' ch 0 ql 'ARK_0' tt tr 'Trigger' 0 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Head Difference [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 0 -0.05 <
+ '2100/01/01;00:00:00' -1 -1 0 -0.05 <
+ tble
+  trgr
+TRGR id 'ARK_67'nm 'ARK_HAV5_open2' ty 1 tp 1 ml '-1' ts 'S_ARK_15' ch 0 ql 'ARK_0' tt tr 'Trigger' 0 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Head Difference [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 1 0 <
+ '2100/01/01;00:00:00' -1 -1 1 0 <
+ tble
+  trgr
+TRGR id 'ARK_68'nm 'ARK_HAV5_dicht2' ty 1 tp 1 ml '-1' ts 'S_ARK_15' ch 0 ql 'ARK_0' tt tr 'Trigger' 0 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Head Difference [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 0 -0.05 <
+ '2100/01/01;00:00:00' -1 -1 0 -0.05 <
+ tble
+  trgr
+TRGR id 'ARK_70'nm 'ARK_IJmuid_stopspui1' ty 1 tp 0 ml 'ARK_11_13900' ts '-1' ch 0 ql 'ARK_0' tt tr 'Trigger' 0 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 0 -0.53 <
+ '2100/01/01;00:00:00' -1 -1 0 -0.53 <
+ tble
+  trgr
+TRGR id 'ARK_72'nm 'ARK_IJmuid_stopspui2' ty 1 tp 1 ml '-1' ts 'S_ARK_8' ch 0 ql 'ARK_0' tt tr 'Trigger' 0 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Head Difference [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 0 0.08 <
+ '2100/01/01;00:00:00' -1 -1 0 0.08 <
+ tble
+  trgr
+TRGR id 'ARK_73'nm 'ARK_IJmuid_startspui3' ty 1 tp 3 ml 'ARK_11_13900' ts 'S_ARK_8' ch 0 ql 'ARK_0' tt tr 'Trigger' 0 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Gate Height [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 1 0.1 <
+ '2100/01/01;00:00:00' -1 -1 1 0.1 <
+ tble
+  trgr
+TRGR id 'ARK_74'nm 'ARK_IJmuid_startspui4' ty 1 tp 0 ml 'ARK_11_13900' ts '-1' ch 0 ql 'ARK_0' tt tr 'Trigger' 0 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 1 -0.4 <
+ '2100/01/01;00:00:00' -1 -1 1 -0.4 <
+ tble
+  trgr
+TRGR id 'ARK_75'nm 'ARK_IJmuid_startspui5' ty 1 tp 1 ml 'ARK_40_9999900000' ts 'S_ARK_8' ch 0 ql 'ARK_0' tt tr 'Trigger' 0 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Head Difference [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 1 0.12 <
+ '2100/01/01;00:00:00' -1 -1 1 0.12 <
+ tble
+  trgr
+TRGR id 'ARK_76'nm 'ARK_IJmuid_stopspui3' ty 1 tp 1 ml '-1' ts 'S_ARK_8' ch 0 ql 'ARK_0' tt tr 'Trigger' 0 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Head Difference [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 0 0.1 <
+ '2100/01/01;00:00:00' -1 -1 0 0.1 <
+ tble
+  trgr
+TRGR id 'ARK_77'nm 'ARK_IJmuid_stopspui4' ty 1 tp 0 ml 'ARK_11_13900' ts '-1' ch 0 ql 'ARK_0' tt tr 'Trigger' 0 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 0 -0.5 <
+ '2100/01/01;00:00:00' -1 -1 0 -0.5 <
+ tble
+  trgr
+TRGR id 'ARK_78'nm 'ARK_IJmuid_stopspui5' ty 1 tp 1 ml '-1' ts 'S_ARK_8' ch 0 ql 'ARK_0' tt tr 'Trigger' 0 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Head Difference [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 0 0.08 <
+ '2100/01/01;00:00:00' -1 -1 0 0.08 <
+ tble
+  trgr
+TRGR id 'ARK_79'nm 'ARK_IJmuid_startpomp3' ty 1 tp 1 ml '-1' ts 'S_ARK_8' ch 0 ql 'ARK_0' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Head Difference [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 1 -2.3 <
+ '2100/01/01;00:00:00' -1 -1 1 -2.3 <
+ tble
+  trgr
+TRGR id 'ARK_1022'nm 'ARK_IJmuid_nw_startpmp1' ty 1 tp 0 ml 'ARK_11_13900' ts '-1' ch 0 ql 'ARK_0' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 1 -0.32 <
+ '2100/12/31;00:00:00' -1 -1 1 -0.32 <
+ tble
+  trgr
+TRGR id 'ARK_1024'nm 'ARK_IJmuid_nw_startpmp2' ty 1 tp 3 ml '-1' ts 'S_ARK_8' ch 0 ql 'ARK_0' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Gate Height [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 0 0.01 <
+ '2100/12/31;00:00:00' -1 -1 0 0.01 <
+ tble
+  trgr
+TRGR id 'ARK_1026'nm 'ARK_IJmuid_nw_stoppmp1' ty 1 tp 3 ml '-1' ts 'S_ARK_8' ch 0 ql 'ARK_0' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Gate Height [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 1 0.011 <
+ '2100/12/31;00:00:00' -1 -1 1 0.011 <
+ tble
+  trgr
+TRGR id 'ARK_1027'nm 'ARK_IJmuid_nw_stoppmp2' ty 1 tp 0 ml 'ARK_11_13900' ts '-1' ch 0 ql 'ARK_0' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 0 -0.5 <
+ '2100/12/31;00:00:00' -1 -1 0 -0.5 <
+ tble
+  trgr
+TRGR id 'ARK_1029'nm 'ARK_IJmuid_nw_stoppmp3' ty 1 tp 1 ml '-1' ts 'S_ARK_8' ch 0 ql 'ARK_0' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Head Difference [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 0 -2.705 <
+ '2100/12/31;00:00:00' -1 -1 0 -2.705 <
+ tble
+  trgr
+TRGR id 'ARK_1468'nm 'ARK_IJmuid_nw_stoppmp4' ty 1 tp 1 ml '-1' ts 'S_ARK_8' ch 0 ql 'ARK_0' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Head Difference [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 1 0.205 <
+ '2100/12/31;00:00:00' -1 -1 1 0.205 <
+ tble
+  trgr
+TRGR id 'ARK_1470'nm 'ARK_IJmuid_stoppomp4' ty 1 tp 1 ml '-1' ts 'S_ARK_8' ch 0 ql 'ARK_0' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Head Difference [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 1 0.005 <
+ '2100/12/31;00:00:00' -1 -1 1 0.005 <
+ tble
+  trgr
+TRGR id 'ARK_1904'nm 'ARK_IJmuid_nw_startpmp4' ty 1 tp 1 ml '-1' ts 'S_ARK_8' ch 0 ql 'ARK_0' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Head Difference [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 0 0.2 <
+ '2101/01/01;00:00:00' -1 -1 0 0.2 <
+ tble
+  trgr
+TRGR id 'ARK_1906'nm 'ARK_IJmuid_nw_startpmp3' ty 1 tp 1 ml '-1' ts 'S_ARK_8' ch 0 ql 'ARK_0' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Head Difference [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 1 -2.7 <
+ '2101/01/01;00:00:00' -1 -1 1 -2.7 <
+ tble
+  trgr
+TRGR id 'ARK_1908'nm 'ARK_IJmuid_startpomp4' ty 1 tp 1 ml '-1' ts 'S_ARK_8' ch 0 ql 'ARK_0' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Head Difference [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 0 0 <
+ '2101/01/01;00:00:00' -1 -1 0 0 <
+ tble
+  trgr
+TRGR id 'ARK_2350'nm 'ARK_IJmuid_nw2_startpmp1' ty 1 tp 0 ml 'ARK_11_13900' ts '-1' ch 0 ql 'ARK_0' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 1 -0.32 <
+ '2101/01/01;00:00:00' -1 -1 1 -0.32 <
+ tble
+  trgr
+TRGR id 'ARK_2352'nm 'ARK_IJmuid_nw2_startpmp2' ty 1 tp 3 ml '-1' ts 'S_ARK_8' ch 0 ql 'ARK_0' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Gate Height [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 0 0.01 <
+ '2101/01/01;00:00:00' -1 -1 0 0.01 <
+ tble
+  trgr
+TRGR id 'ARK_2354'nm 'ARK_IJmuid_nw2_startpmp3' ty 1 tp 1 ml '-1' ts 'S_ARK_8' ch 0 ql 'ARK_0' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Head Difference [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 1 -2.7 <
+ '2101/01/01;00:00:00' -1 -1 1 -2.7 <
+ tble
+  trgr
+TRGR id 'ARK_2356'nm 'ARK_IJmuid_nw2_startpmp4' ty 1 tp 1 ml '-1' ts 'S_ARK_8' ch 0 ql 'ARK_0' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Head Difference [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 0 0.2 <
+ '2101/01/01;00:00:00' -1 -1 0 0.2 <
+ tble
+  trgr
+TRGR id 'ARK_2358'nm 'ARK_IJmuid_nw2_faalstart' ty 0 tp 0 ml '-1' ts '-1' ch 0 ql 'ARK_0' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1951/01/01;00:00:00' 1 -1 -1 9.9999e+009 <
+ '1951/01/04;00:00:00' 0 -1 -1 9.9999e+009 <
+ '1951/01/05;00:10:00' 1 -1 -1 9.9999e+009 <
+ '2101/01/01;00:00:00' 0 -1 -1 9.9999e+009 <
+ tble
+  trgr
+TRGR id 'ARK_2361'nm 'ARK_IJmuid_nw2_faalstop' ty 0 tp 0 ml '-1' ts '-1' ch 0 ql 'ARK_0' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1951/01/01;00:00:00' 0 -1 -1 9.9999e+009 <
+ '1951/01/04;00:10:00' 1 -1 -1 9.9999e+009 <
+ '1951/01/05;00:00:00' 0 -1 -1 9.9999e+009 <
+ '2101/01/01;00:00:00' 1 -1 -1 9.9999e+009 <
+ tble
+  trgr
+TRGR id 'ARK_2364'nm 'ARK_IJmuid_nw2_stoppmp1' ty 1 tp 3 ml '-1' ts 'S_ARK_8' ch 0 ql 'ARK_0' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Gate Height [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 1 0.011 <
+ '2101/01/01;00:00:00' -1 -1 1 0.011 <
+ tble
+  trgr
+TRGR id 'ARK_2365'nm 'ARK_IJmuid_nw2_stoppmp2' ty 1 tp 0 ml 'ARK_11_13900' ts '-1' ch 0 ql 'ARK_0' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 0 -0.5 <
+ '2101/01/01;00:00:00' -1 -1 0 -0.5 <
+ tble
+  trgr
+TRGR id 'ARK_2366'nm 'ARK_IJmuid_nw2_stoppmp3' ty 1 tp 1 ml '-1' ts 'S_ARK_8' ch 0 ql 'ARK_0' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Head Difference [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 0 -2.705 <
+ '2101/01/01;00:00:00' -1 -1 0 -2.705 <
+ tble
+  trgr
+TRGR id 'ARK_2367'nm 'ARK_IJmuid_nw2_stoppmp4' ty 1 tp 1 ml '-1' ts 'S_ARK_8' ch 0 ql 'ARK_0' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Head Difference [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 1 0.205 <
+ '2101/01/01;00:00:00' -1 -1 1 0.205 <
+ tble
+  trgr
+TRGR id 'ARK_2837'nm 'ARK_IJm_nw2_zom_faalstart' ty 0 tp 0 ml '-1' ts '-1' ch 0 ql 'ARK_0' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1951/01/01;00:00:00' 1 -1 -1 9.9999e+009 <
+ '1951/01/04;00:00:00' 0 -1 -1 9.9999e+009 <
+ '1951/01/05;00:10:00' 1 -1 -1 9.9999e+009 <
+ '2101/01/01;00:00:00' 0 -1 -1 9.9999e+009 <
+ tble
+  trgr
+TRGR id 'ARK_2839'nm 'ARK_IJm_nw2_zom_faalstop' ty 0 tp 0 ml '-1' ts '-1' ch 0 ql 'ARK_0' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1951/01/01;00:00:00' 0 -1 -1 9.9999e+009 <
+ '1951/01/04;00:10:00' 1 -1 -1 9.9999e+009 <
+ '1951/01/05;00:00:00' 0 -1 -1 9.9999e+009 <
+ '2101/01/01;00:00:00' 1 -1 -1 9.9999e+009 <
+ tble
+  trgr
+TRGR id 'YSV_P_5520270'nm 'YSV_Ramspol_dh_dicht' ty 1 tp 1 ml '-1' ts 'S_YSV_5640401' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Head Difference [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1900/01/01;00:00:00' -1 -1 0 0 <
+ '3001/01/01;00:00:00' -1 -1 0 0 <
+ tble
+  trgr
+TRGR id 'YSV_P_5520271'nm 'YSV_Ramspol_h_dicht' ty 1 tp 0 ml 'YSV_5581983_500' ts '-1' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1900/01/01;00:00:00' -1 -1 1 0.5 <
+ '3001/01/01;00:00:00' -1 -1 1 0.5 <
+ tble
+  trgr
+TRGR id 'YSV_P_5520276'nm 'YSV_Ramspol_dh_open' ty 1 tp 1 ml '-1' ts 'S_YSV_5640401' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Head Difference [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1900/01/01;00:00:00' -1 -1 1 0 <
+ '3001/01/01;00:00:00' -1 -1 1 0 <
+ tble
+  trgr
+TRGR id 'YSV_P_5540208'nm 'YSV_Ramspol_h_open' ty 1 tp 0 ml 'YSV_5581983_500' ts '-1' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1900/01/01;00:00:00' -1 -1 0 0.5 <
+ '3001/01/01;00:00:00' -1 -1 0 0.5 <
+ tble
+  trgr
+TRGR id 'YSV_P_5570502'nm 'YSV_denoev_open_trig' ty 1 tp 1 ml '-1' ts 'S_YSV_P_5540635' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Head Difference [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1975/12/25;00:00:00' -1 -1 1 0 <
+ '2060/12/25;00:00:00' -1 -1 1 0 <
+ tble
+  trgr
+TRGR id 'YSV_P_5570503'nm 'YSV_denoev_sluit_trig' ty 1 tp 1 ml '-1' ts 'S_YSV_P_5540635' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Head Difference [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1975/12/25;00:00:00' -1 -1 0 0 <
+ '2060/12/25;00:00:00' -1 -1 0 0 <
+ tble
+  trgr
+TRGR id 'YSV_P_5570504'nm 'YSV_kornwdz_open_trig' ty 1 tp 1 ml '-1' ts 'S_YSV_P_5540636' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Head Difference [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1975/12/25;00:00:00' -1 -1 1 0 <
+ '2060/12/25;00:00:00' -1 -1 1 0 <
+ tble
+  trgr
+TRGR id 'YSV_P_5570505'nm 'YSV_kornwdz_sluit_trig' ty 1 tp 1 ml '-1' ts 'S_YSV_P_5540636' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Head Difference [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1975/12/25;00:00:00' -1 -1 0 0 <
+ '2060/12/25;00:00:00' -1 -1 0 0 <
+ tble
+  trgr
+TRGR id 'YSV_P_5570506'nm 'YSV_wltak19_sluit' ty 1 tp 0 ml 'YSV_P_P_19_10000' ts '-1' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1975/12/25;00:00:00' -1 -1 0 -0.4 <
+ '2060/12/25;00:00:00' -1 -1 0 -0.4 <
+ tble
+  trgr
+TRGR id 'YSV_P_5570507'nm 'YSV_wltak19_open' ty 1 tp 0 ml 'YSV_P_P_19_10000' ts '-1' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1975/12/25;00:00:00' -1 -1 1 -0.4 <
+ '2060/12/25;00:00:00' -1 -1 1 -0.4 <
+ tble
+  trgr
+TRGR id 'YSV_5644440'nm 'YSV_Zwolle-dh-dicht' ty 1 tp 1 ml '-1' ts 'S_YSV_5643721' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Head Difference [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1990/01/01;00:00:00' -1 -1 0 0 <
+ '2020/12/31;00:00:00' -1 -1 0 0 <
+ tble
+  trgr
+TRGR id 'YSV_5644441'nm 'YSV_Zwolle-dh-open' ty 1 tp 1 ml 'YSV_P_47_9999900000' ts 'S_YSV_5643721' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Head Difference [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1990/01/01;00:00:00' -1 -1 1 0 <
+ '2020/12/31;00:00:00' -1 -1 1 0 <
+ tble
+  trgr
+TRGR id 'YSV_5644442'nm 'YSV_Zwolle-ks-dicht' ty 1 tp 0 ml 'YSV_P_23389_500' ts '-1' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1990/01/01;00:00:00' -1 -1 1 1 <
+ '2020/12/31;00:00:00' -1 -1 1 1 <
+ tble
+  trgr
+TRGR id 'YSV_5644443'nm 'YSV_Zwolle-ks-open' ty 1 tp 0 ml 'YSV_P_23389_500' ts '-1' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1990/01/01;00:00:00' -1 -1 0 1 <
+ '2020/12/31;00:00:00' -1 -1 0 1 <
+ tble
+  trgr
+TRGR id 'RND_3924'nm 'RND_Rogsch--pos-verval' ty 1 tp 1 ml '-1' ts 'C_RND_3921##S_RND_2243' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Head Difference [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1975/12/25;00:00:00' -1 -1 1 0 <
+ '2060/12/25;00:00:00' -1 -1 1 0 <
+ tble
+  trgr
+TRGR id 'RND_3925'nm 'RND_Rogsch-negverval' ty 1 tp 1 ml '-1' ts 'C_RND_3921##S_RND_2243' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Head Difference [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1975/12/25;00:00:00' -1 -1 0 0 <
+ '2060/12/25;00:00:00' -1 -1 0 0 <
+ tble
+  trgr
+TRGR id 'RND_3926'nm 'RND_Vmr-wl-pos' ty 1 tp 0 ml 'RND_55_1540' ts '-1' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1975/12/25;00:00:00' -1 -1 1 -0.3 <
+ '2060/12/25;00:00:00' -1 -1 1 -0.3 <
+ tble
+  trgr
+TRGR id 'RND_3927'nm 'RND_Vmr-wl-neg' ty 1 tp 0 ml 'RND_55_1540' ts '-1' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1975/12/25;00:00:00' -1 -1 0 -0.3 <
+ '2060/12/25;00:00:00' -1 -1 0 -0.3 <
+ tble
+  trgr
+TRGR id 'RND_3929'nm 'RND_Rog-spui-neg' ty 1 tp 1 ml '-1' ts 'C_RND_3921##S_RND_2243' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Head Difference [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1975/12/25;00:00:00' -1 -1 0 0 <
+ '2060/12/25;00:00:00' -1 -1 0 0 <
+ tble
+  trgr
+TRGR id 'RND_3930'nm 'RND_Rog-spui-pos' ty 1 tp 1 ml '-1' ts 'C_RND_3921##S_RND_2243' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Head Difference [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1975/12/25;00:00:00' -1 -1 1 0.04 <
+ '2060/12/25;00:00:00' -1 -1 1 0.04 <
+ tble
+  trgr
+TRGR id 'RND_4060'nm 'RND_Vmr-10cm-pos' ty 1 tp 0 ml 'RND_55_1540' ts '-1' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1975/12/25;00:00:00' -1 -1 1 -0.1 <
+ '2060/12/25;00:00:00' -1 -1 1 -0.1 <
+ tble
+  trgr
+TRGR id 'RND_4061'nm 'RND_Vmr-10cm-neg' ty 1 tp 0 ml 'RND_55_1540' ts '-1' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1975/12/25;00:00:00' -1 -1 0 -0.1 <
+ '2060/12/25;00:00:00' -1 -1 0 -0.1 <
+ tble
+  trgr
+TRGR id 'RND_4063'nm 'RND_Rog-sluis-open' ty 1 tp 1 ml '-1' ts 'C_RND_3921##S_RND_2243' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Head Difference [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1975/12/25;00:00:00' -1 -1 0 1 <
+ '2060/12/25;00:00:00' -1 -1 0 1 <
+ tble
+  trgr
+TRGR id 'RND_4064'nm 'RND_Rog-sluis-dicht' ty 1 tp 1 ml '-1' ts 'C_RND_3921##S_RND_2243' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Head Difference [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1975/12/25;00:00:00' -1 -1 1 1 <
+ '2060/12/25;00:00:00' -1 -1 1 1 <
+ tble
+  trgr
+TRGR id 'RND_4199'nm 'RND_Nijkerk-wl-pos' ty 1 tp 0 ml 'RND_34_1400' ts '-1' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1975/12/25;00:00:00' -1 -1 1 -0.3 <
+ '2060/12/25;00:00:00' -1 -1 1 -0.3 <
+ tble
+  trgr
+TRGR id 'RND_4201'nm 'RND_Nijk-negver10' ty 1 tp 1 ml '-1' ts 'S_RND_2242' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Head Difference [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1975/12/25;00:00:00' -1 -1 0 -0.1 <
+ '2060/12/25;00:00:00' -1 -1 0 -0.1 <
+ tble
+  trgr
+TRGR id 'RND_4202'nm 'RND_Nijkerk-wl-neg' ty 1 tp 0 ml 'RND_34_1400' ts '-1' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1975/12/25;00:00:00' -1 -1 0 -0.3 <
+ '2060/12/25;00:00:00' -1 -1 0 -0.3 <
+ tble
+  trgr
+TRGR id 'RND_4203'nm 'RND_Nijk-posver05' ty 1 tp 1 ml '-1' ts 'S_RND_2242' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Head Difference [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1975/12/25;00:00:00' -1 -1 1 0.05 <
+ '2060/12/25;00:00:00' -1 -1 1 0.05 <
+ tble
+  trgr
+TRGR id '5582702'nm 'Mak_Krabsl_Verval-pos' ty 1 tp 1 ml '-1' ts 'S_MAK_1714' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Head Difference [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1990/01/01;00:00:00' -1 -1 1 0 <
+ '2050/12/31;00:00:00' -1 -1 1 0 <
+ tble
+  trgr
+TRGR id '5582703'nm 'Mak_Krabsl_Verval-neg' ty 1 tp 1 ml '-1' ts 'S_MAK_1714' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Head Difference [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1990/01/01;00:00:00' -1 -1 0 0 <
+ '2050/12/31;00:00:00' -1 -1 0 0 <
+ tble
+  trgr
+TRGR id '5582704'nm 'Mak_meerpeil-pos' ty 1 tp 0 ml 'MAK_39_8000' ts '-1' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1990/01/01;00:00:00' -1 -1 1 -0.35 <
+ '2050/12/31;00:00:00' -1 -1 1 -0.35 <
+ tble
+  trgr
+TRGR id '5582706'nm 'Mak_meerpeil-neg' ty 1 tp 0 ml 'MAK_39_8000' ts '-1' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1990/01/01;00:00:00' -1 -1 0 -0.35 <
+ '2050/12/31;00:00:00' -1 -1 0 -0.35 <
+ tble
+  trgr
+TRGR id '5582708'nm 'Mak-houtrb-Verval-pos' ty 1 tp 1 ml '-1' ts 'S_MAK_5193' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Head Difference [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1990/01/01;00:00:00' -1 -1 1 0 <
+ '2050/12/31;00:00:00' -1 -1 1 0 <
+ tble
+  trgr
+TRGR id '5582709'nm 'Mak-houtrb-Verval-neg' ty 1 tp 1 ml '-1' ts 'S_MAK_5193' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Head Difference [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1990/01/01;00:00:00' -1 -1 0 0 <
+ '2050/12/31;00:00:00' -1 -1 0 0 <
+ tble
+  trgr
+TRGR id '5619851'nm 'NDB_hvl_OpenVerval_trig' ty 1 tp 1 ml '-1' ts 'C_NDB_2##S_NDB_13' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Head Difference [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1975/01/01;00:00:00' -1 -1 1 0.1 <
+ '2075/01/01;00:00:00' -1 -1 1 0.1 <
+ tble
+  trgr
+TRGR id '5619852'nm 'NDB_hvl_SluitVerval_Trig' ty 1 tp 1 ml '-1' ts 'C_NDB_2##S_NDB_13' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Head Difference [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1975/01/01;00:00:00' -1 -1 0 0 <
+ '2075/01/01;00:00:00' -1 -1 0 0 <
+ tble
+  trgr
+TRGR id '5619853'nm 'NDB_SVKH_OpenVerval' ty 1 tp 1 ml '-1' ts 'C_NDB_4##S_NDB_4' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Head Difference [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1975/01/01;00:00:00' -1 -1 1 0.05 <
+ '2075/01/01;00:00:00' -1 -1 1 0.05 <
+ tble
+  trgr
+TRGR id '5619854'nm 'NDB_SVKH_bG_beweegt' ty 1 tp 3 ml '-1' ts 'C_NDB_4##S_NDB_6' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Gate Height [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1975/01/01;00:00:00' -1 -1 1 0.5 <
+ '2075/01/01;00:00:00' -1 -1 1 0.5 <
+ tble
+  trgr
+TRGR id '5619855'nm 'NDB_GeenStormvloed' ty 0 tp 0 ml '-1' ts '-1' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1975/01/01;00:00:00' 0 -1 -1 9.9999e+009 <
+ '2075/01/01;00:00:00' 0 -1 -1 9.9999e+009 <
+ tble
+  trgr
+TRGR id '5619856'nm 'NDB_Stormvloed' ty 0 tp 0 ml '-1' ts '-1' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1975/01/01;00:00:00' 0 -1 -1 9.9999e+009 <
+ '2075/01/01;00:00:00' 0 -1 -1 9.9999e+009 <
+ tble
+  trgr
+TRGR id '5619857'nm 'NDB_MasterSVKH' ty 0 tp 0 ml '-1' ts '-1' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1975/01/01;00:00:00' 0 -1 -1 9.9999e+009 <
+ '2075/01/01;00:00:00' 0 -1 -1 9.9999e+009 <
+ tble
+  trgr
+TRGR id '5619858'nm 'NDB_SVKH_SluitVerval' ty 1 tp 1 ml '-1' ts 'C_NDB_4##S_NDB_4' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Head Difference [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1975/01/01;00:00:00' -1 -1 0 0 <
+ '2075/01/01;00:00:00' -1 -1 0 0 <
+ tble
+  trgr
+TRGR id '5619859'nm 'NDB_SVKH_sG_beweegt' ty 1 tp 3 ml '-1' ts 'C_NDB_4##S_NDB_6' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Gate Height [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1975/01/01;00:00:00' -1 -1 1 0.5 <
+ '2075/01/01;00:00:00' -1 -1 1 0.5 <
+ tble
+  trgr
+TRGR id '5622866'nm 'NDB_SVKH_sS_beweegt' ty 1 tp 4 ml '-1' ts 'C_NDB_4##S_NDB_7' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Crest Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1975/01/01;00:00:00' -1 -1 1 3.5 <
+ '2075/01/01;00:00:00' -1 -1 1 3.5 <
+ tble
+  trgr
+TRGR id '5622869'nm 'NDB_MasterSVKW' ty 0 tp 0 ml '-1' ts '-1' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1975/01/01;00:00:00' 0 -1 -1 9.9999e+009 <
+ '2075/01/01;00:00:00' 0 -1 -1 9.9999e+009 <
+ tble
+  trgr
+TRGR id '5622870'nm 'NDB_SVKW_Opgedreven' ty 1 tp 3 ml '-1' ts 'C_NDB_3##S_NDB_1' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Gate Height [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1975/01/01;00:00:00' -1 -1 1 9.9 <
+ '2075/01/01;00:00:00' -1 -1 1 9.9 <
+ tble
+  trgr
+TRGR id '5622871'nm 'NDB_SVKW_Ingevaren' ty 1 tp 5 ml '-1' ts 'C_NDB_3##S_NDB_1' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Crest Width [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1975/01/01;00:00:00' -1 -1 1 359.9 <
+ '2075/01/01;00:00:00' -1 -1 1 359.9 <
+ tble
+  trgr
+TRGR id '5622872'nm 'NDB_SVKW_DrijfVerval' ty 1 tp 1 ml '-1' ts 'C_NDB_3##S_NDB_2' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Head Difference [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1975/01/01;00:00:00' -1 -1 1 0.1 <
+ '2075/01/01;00:00:00' -1 -1 1 0.1 <
+ tble
+  trgr
+TRGR id '5622873'nm 'NDB_SVKW_b_beweegt' ty 1 tp 3 ml '-1' ts 'C_NDB_3##S_NDB_1' ch 1 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Gate Height [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1975/01/01;00:00:00' -1 -1 1 9.9999e+009 <
+ '2075/01/01;00:00:00' -1 -1 1 9.9999e+009 <
+ tble
+  trgr
+TRGR id '5622874'nm 'NDB_SVKW_ZinkVerval' ty 1 tp 1 ml '-1' ts 'C_NDB_3##S_NDB_2' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Head Difference [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1975/01/01;00:00:00' -1 -1 0 0 <
+ '2075/01/01;00:00:00' -1 -1 0 0 <
+ tble
+  trgr
+TRGR id '5622875'nm 'NDB_SVKW_c_Beweegt' ty 1 tp 4 ml '-1' ts 'C_NDB_3##S_NDB_3' ch 1 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Crest Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1975/01/01;00:00:00' -1 -1 1 9.9999e+009 <
+ '2075/01/01;00:00:00' -1 -1 1 9.9999e+009 <
+ tble
+  trgr
+TRGR id '5625690'nm 'NDB_SVKH_bS_beweegt' ty 1 tp 4 ml '-1' ts 'C_NDB_4##S_NDB_5' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Crest Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1975/01/01;00:00:00' -1 -1 1 3.5 <
+ '2075/01/01;00:00:00' -1 -1 1 3.5 <
+ tble
+  trgr
+TRGR id '5628503'nm 'RND_Nijk-pos-Verval' ty 1 tp 1 ml '-1' ts 'S_RND_2242' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Head Difference [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 1 0 <
+ '2075/01/01;00:00:00' -1 -1 1 0 <
+ tble
+  trgr
+TRGR id '5628504'nm 'RND_Nijk-neg_Verval' ty 1 tp 1 ml '-1' ts 'S_RND_2242' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Head Difference [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 0 0 <
+ '2075/01/01;00:00:00' -1 -1 0 0 <
+ tble
+  trgr
+TRGR id '5628506'nm 'RND_Rogspui-50cmVerval' ty 1 tp 1 ml '-1' ts 'C_RND_3921##S_RND_2243' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Head Difference [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 0 0.5 <
+ '2075/01/01;00:00:00' -1 -1 0 0.5 <
+ tble
+  trgr
+TRGR id '5628508'nm 'RND_Rogschut-100cmverval' ty 1 tp 1 ml '-1' ts 'C_RND_3921##S_RND_2243' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Head Difference [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 1 1 <
+ '2075/01/01;00:00:00' -1 -1 1 1 <
+ tble
+  trgr
+TRGR id '5628510'nm 'RND_Rogschu_85cmVosmr' ty 1 tp 0 ml 'YSV_P_40506_0' ts '-1' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Water Level [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 1 0.85 <
+ '2075/01/01;00:00:00' -1 -1 1 0.85 <
+ tble
+  trgr
+TRGR id '5664381'nm 'ARK_Zeebg-stloz2' ty 1 tp 1 ml '-1' ts 'S_5636453' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Head Difference [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1970/01/01;00:00:00' -1 -1 1 0 <
+ '2010/12/31;00:00:00' -1 -1 1 0 <
+ tble
+  trgr
+TRGR id '5664383'nm 'ARK_Zeebg-xloz3' ty 1 tp 1 ml '-1' ts 'S_5636453' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Head Difference [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1970/01/01;00:00:00' -1 -1 0 0 <
+ '2010/12/31;00:00:00' -1 -1 0 0 <
+ tble
+  trgr
+TRGR id '5668089'nm 'ARK_IJfront-di-dh' ty 1 tp 1 ml '-1' ts 'S_ARK_7' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Head Difference [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 0 0 <
+ '2050/12/31;00:00:00' -1 -1 0 0 <
+ tble
+  trgr
+TRGR id '5668090'nm 'ARK_IJfront_op-dh' ty 1 tp 1 ml '-1' ts 'S_ARK_7' ch 0 ql '-1' tt tr 'Trigger' 1 0 '' pdin CLTT 'Time' 'On/Off' 'And/Or' 'Operation' 'Head Difference [m]' cltt CLID '(null)' '(null)' '(null)' '(null)' '(null)' clid TBLE
+ '1950/01/01;00:00:00' -1 -1 1 0 <
+ '2050/12/31;00:00:00' -1 -1 1 0 <
+ tble
+  trgr

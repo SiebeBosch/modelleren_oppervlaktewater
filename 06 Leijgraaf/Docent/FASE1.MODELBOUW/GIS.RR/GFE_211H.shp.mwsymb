@@ -1,0 +1,11 @@
+<MapWinGIS OcxVersion="4.9.3.4" FileType="LayerFile" FileVersion="2" FilenamesEncoding="utf8">
+  <Layer LayerType="Shapefile" LayerName="GFE_211H" LayerVisible="1" LayerKey="" Filename="">
+    <ShapefileClass>
+      <DefaultDrawingOptions FillColor="5676533" LineColor="3552822" />
+      <ShapefileCategoriesClass ClassificationField="-1" />
+      <LabelsClass Generated="0" Positioning="1" TextRenderingHint="3" />
+      <ChartsClass />
+      <CategoryIndices Count="83">-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,</CategoryIndices>
+    </ShapefileClass>
+  </Layer>
+</MapWinGIS>

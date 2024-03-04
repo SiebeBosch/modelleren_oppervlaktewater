@@ -1,0 +1,13 @@
+[General]
+Version=1.00
+Date=June 1997
+
+[Options]
+Mode=Actual
+UsePrecipitation=0
+UseWind=0
+PrecipTimeHorizon=3
+WindTimeHorizon=3
+Precipformat=ASC
+Control=3B
+

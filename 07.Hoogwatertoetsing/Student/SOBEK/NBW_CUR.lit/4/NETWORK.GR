@@ -1,0 +1,1164 @@
+GR_1.2
+GRID id 'rUpGFE94' ci 'rUpGFE94' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'rrcfGFE94' 'rUpGFE94_1' 227718.849742103 556531.309440849 '' '' '' <
+9.99999999997227 0 'rUpGFE94_3' 'cnGFE94' '' 227713.413635438 556539.702815875 '' '' '' <
+tble grid
+GRID id 'rDownGFE94' ci 'rDownGFE94' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'cnGFE94' 'rDownGFE94_1' 227713.413635438 556539.702815875 '' '' '' <
+10.00000000007 0 'rDownGFE94_2' 'cGFE94_1' '' 227707.977528773 556548.096190901 '' 'cGFE94_1' '' <
+tble grid
+GRID id 'rUpGFE96' ci 'rUpGFE96' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'rrcfGFE96' 'rUpGFE96_1' 227307.232691975 556415.747010928 '' '' '' <
+9.99999999964173 0 'rUpGFE96_3' 'cnGFE96' '' 227315.821346788 556410.624998775 '' '' '' <
+tble grid
+GRID id 'rDownGFE96' ci 'rDownGFE96' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'cnGFE96' 'rDownGFE96_1' 227315.821346788 556410.624998775 '' '' '' <
+10.000000000432 0 'rDownGFE96_2' 'cGFE96_1' '' 227324.410001602 556405.502986622 '' 'cGFE96_1' '' <
+tble grid
+GRID id 'rUpGFE100' ci 'rUpGFE100' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'rrcfGFE100' 'rUpGFE100_1' 227483.787410509 556695.611611822 '' '' '' <
+10.0000000004629 0 'rUpGFE100_3' 'cnGFE100' '' 227490.472205256 556688.174305912 '' '' '' <
+tble grid
+GRID id 'rDownGFE100' ci 'rDownGFE100' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'cnGFE100' 'rDownGFE100_1' 227490.472205256 556688.174305912 '' '' '' <
+9.99999999978193 0 'rDownGFE100_2' '5' '' 227497.157000002 556680.737000002 '' '5' '' <
+tble grid
+GRID id 'rUpGFE102' ci 'rUpGFE102' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'rrcfGFE102' 'rUpGFE102_1' 226787.171794748 556338.81635546 '' '' '' <
+10.0000000001296 0 'rUpGFE102_3' 'cnGFE102' '' 226794.802894539 556332.353669023 '' '' '' <
+tble grid
+GRID id 'rDownGFE102' ci 'rDownGFE102' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'cnGFE102' 'rDownGFE102_1' 226794.802894539 556332.353669023 '' '' '' <
+10.0000000002048 0 'rDownGFE102_2' 'cGFE102_1' '' 226802.43399433 556325.890982586 '' 'cGFE102_1' '' <
+tble grid
+GRID id 'rUpGFE103' ci 'rUpGFE103' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'rrcfGFE103' 'rUpGFE103_1' 226928.980111303 556248.395386542 '' '' '' <
+10.0000000005989 0 'rUpGFE103_3' 'cnGFE103' '' 226924.821555653 556257.489693273 '' '' '' <
+tble grid
+GRID id 'rDownGFE103' ci 'rDownGFE103' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'cnGFE103' 'rDownGFE103_1' 226924.821555653 556257.489693273 '' '' '' <
+9.9999999996461 0 'rDownGFE103_2' '10_50' '' 226920.663000003 556266.584000003 '' '10_50' '' <
+tble grid
+GRID id 'rUpGFE108' ci 'rUpGFE108' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'rrcfGFE108' 'rUpGFE108_1' 225190.841773836 556447.946792628 '' '' '' <
+9.9999999996973 0 'rUpGFE108_3' 'cnGFE108' '' 225180.882209213 556447.048420481 '' '' '' <
+tble grid
+GRID id 'rDownGFE108' ci 'rDownGFE108' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'cnGFE108' 'rDownGFE108_1' 225180.882209213 556447.048420481 '' '' '' <
+10.003862653809 0 'rDownGFE108_2' 'cGFE108_1' '' 225170.922649265 556446.107977161 '' 'cGFE108_1' '' <
+tble grid
+GRID id 'rUpGFE217' ci 'rUpGFE217' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'rrcfGFE217' 'rUpGFE217_1' 225070.037036974 556338.057745776 '' '' '' <
+10.0000000002387 0 'rUpGFE217_3' 'cnGFE217' '' 225079.248919616 556341.948917604 '' '' '' <
+tble grid
+GRID id 'rDownGFE217' ci 'rDownGFE217' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'cnGFE217' 'rDownGFE217_1' 225079.248919616 556341.948917604 '' '' '' <
+10.0000000002202 0 'rDownGFE217_2' '6_22' '' 225088.460802258 556345.840089432 '' '6_22' '' <
+tble grid
+GRID id 'rUpGFE111' ci 'rUpGFE111' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'rrcfGFE111' 'rUpGFE111_1' 225837.380102672 555891.490827012 '' '' '' <
+9.999999999769 0 'rUpGFE111_3' 'cnGFE111' '' 225828.584091644 555896.247946938 '' '' '' <
+tble grid
+GRID id 'rDownGFE111' ci 'rDownGFE111' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'cnGFE111' 'rDownGFE111_1' 225828.584091644 555896.247946938 '' '' '' <
+10.0000000001666 0 'rDownGFE111_2' 'cGFE111_1' '' 225819.788080615 555901.005066863 '' 'cGFE111_1' '' <
+tble grid
+GRID id 'rUpGFE112' ci 'rUpGFE112' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'rrcfGFE112' 'rUpGFE112_1' 225377.904506568 556142.644819475 '' '' '' <
+9.99999999956599 0 'rUpGFE112_3' 'cnGFE112' '' 225387.453253283 556145.614909737 '' '' '' <
+tble grid
+GRID id 'rDownGFE112' ci 'rDownGFE112' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'cnGFE112' 'rDownGFE112_1' 225387.453253283 556145.614909737 '' '' '' <
+10.0000000002275 0 'rDownGFE112_2' '6_36' '' 225397.001999999 556148.584999998 '' '6_36' '' <
+tble grid
+GRID id 'rUpGFE114' ci 'rUpGFE114' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'rrcfGFE114' 'rUpGFE114_1' 224841.002810571 555318.640934478 '' '' '' <
+10.0000000005402 0 'rUpGFE114_3' 'cnGFE114' '' 224850.416413228 555322.014965454 '' '' '' <
+tble grid
+GRID id 'rDownGFE114' ci 'rDownGFE114' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'cnGFE114' 'rDownGFE114_1' 224850.416413228 555322.014965454 '' '' '' <
+9.9999999999622 0 'rDownGFE114_2' 'cGFE114_1' '' 224859.830015884 555325.388996431 '' 'cGFE114_1' '' <
+tble grid
+GRID id 'rUpGFE115' ci 'rUpGFE115' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'rrcfGFE115' 'rUpGFE115_1' 225294.087442214 555964.155823317 '' '' '' <
+10.0000000004073 0 'rUpGFE115_3' 'cnGFE115' '' 225292.985211363 555974.094892044 '' '' '' <
+tble grid
+GRID id 'rDownGFE115' ci 'rDownGFE115' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'cnGFE115' 'rDownGFE115_1' 225292.985211363 555974.094892044 '' '' '' <
+9.9999999994849 0 'rDownGFE115_2' 'cGFE115_1' '' 225291.882980512 555984.03396077 '' 'cGFE115_1' '' <
+tble grid
+GRID id 'rUpGFE116' ci 'rUpGFE116' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'rrcfGFE116' 'rUpGFE116_1' 224831.629712629 555784.595044757 '' '' '' <
+9.99999999932037 0 'rUpGFE116_3' 'cnGFE116' '' 224841.072541104 555787.886395601 '' '' '' <
+tble grid
+GRID id 'rDownGFE116' ci 'rDownGFE116' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'cnGFE116' 'rDownGFE116_1' 224841.072541104 555787.886395601 '' '' '' <
+10.0000000003206 0 'rDownGFE116_2' '125' '' 224850.51536958 555791.177746445 '' '125' '' <
+tble grid
+GRID id 'rUpGFE117' ci 'rUpGFE117' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'rrcfGFE117' 'rUpGFE117_1' 225068.54626182 555632.358237847 '' '' '' <
+10.0000000000039 0 'rUpGFE117_3' 'cnGFE117' '' 225070.471182142 555642.171223211 '' '' '' <
+tble grid
+GRID id 'rDownGFE117' ci 'rDownGFE117' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'cnGFE117' 'rDownGFE117_1' 225070.471182142 555642.171223211 '' '' '' <
+10.0000000000039 0 'rDownGFE117_2' '119' '' 225072.396102464 555651.984208575 '' '119' '' <
+tble grid
+GRID id 'rUpGFE118' ci 'rUpGFE118' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'rrcfGFE118' 'rUpGFE118_1' 225890.673469126 555117.253259688 '' '' '' <
+9.99999999979681 0 'rUpGFE118_3' 'cnGFE118' '' 225899.452234564 555122.042129845 '' '' '' <
+tble grid
+GRID id 'rDownGFE118' ci 'rDownGFE118' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'cnGFE118' 'rDownGFE118_1' 225899.452234564 555122.042129845 '' '' '' <
+9.99999999979681 0 'rDownGFE118_2' '10_24' '' 225908.231000002 555126.831000002 '' '10_24' '' <
+tble grid
+GRID id 'rUpGFE120' ci 'rUpGFE120' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'rrcfGFE120' 'rUpGFE120_1' 225418.817707058 554349.490619284 '' '' '' <
+10.0000000005988 0 'rUpGFE120_3' 'cnGFE120' '' 225413.546350405 554340.992807857 '' '' '' <
+tble grid
+GRID id 'rDownGFE120' ci 'rDownGFE120' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'cnGFE120' 'rDownGFE120_1' 225413.546350405 554340.992807857 '' '' '' <
+10.0000000000618 0 'rDownGFE120_2' 'cGFE120_1' '' 225408.274993753 554332.49499643 '' 'cGFE120_1' '' <
+tble grid
+GRID id 'rUpGFE15' ci 'rUpGFE15' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'rrcfGFE15' 'rUpGFE15_1' 226136.876754801 555002.960600703 '' '' '' <
+9.99999999938083 0 'rUpGFE15_3' 'cnGFE15' '' 226132.891508308 555012.132176924 '' '' '' <
+tble grid
+GRID id 'rDownGFE15' ci 'rDownGFE15' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'cnGFE15' 'rDownGFE15_1' 226132.891508308 555012.132176924 '' '' '' <
+10.0000000002466 0 'rDownGFE15_2' '123' '' 226128.906261815 555021.303753146 '' '123' '' <
+tble grid
+GRID id 'rUpGFE128' ci 'rUpGFE128' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'rrcfGFE128' 'rUpGFE128_1' 226143.290668812 555035.199394022 '' '' '' <
+10.000000000454 0 'rUpGFE128_3' 'cnGFE128' '' 226136.098465313 555028.251573584 '' '' '' <
+tble grid
+GRID id 'rDownGFE128' ci 'rDownGFE128' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'cnGFE128' 'rDownGFE128_1' 226136.098465313 555028.251573584 '' '' '' <
+9.99999999982318 0 'rDownGFE128_2' '123' '' 226128.906261815 555021.303753146 '' '123' '' <
+tble grid
+GRID id 'rUpGFE129' ci 'rUpGFE129' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'rrcfGFE129' 'rUpGFE129_1' 226861.194973085 555254.177993141 '' '' '' <
+10.0000000002092 0 'rUpGFE129_3' 'cnGFE129' '' 226859.250257396 555244.368911589 '' '' '' <
+tble grid
+GRID id 'rDownGFE129' ci 'rDownGFE129' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'cnGFE129' 'rDownGFE129_1' 226859.250257396 555244.368911589 '' '' '' <
+9.99999999929561 0 'rDownGFE129_2' 'cGFE129_1' '' 226857.305541707 555234.559830038 '' 'cGFE129_1' '' <
+tble grid
+GRID id 'rUpGFE13' ci 'rUpGFE13' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'rrcfGFE13' 'rUpGFE13_1' 227285.329854645 555260.001889933 '' '' '' <
+9.99999999936663 0 'rUpGFE13_3' 'cnGFE13' '' 227275.954930799 555263.481947816 '' '' '' <
+tble grid
+GRID id 'rDownGFE13' ci 'rDownGFE13' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'cnGFE13' 'rDownGFE13_1' 227275.954930799 555263.481947816 '' '' '' <
+10.0000000006589 0 'rDownGFE13_2' 'cGFE13_1' '' 227266.580006952 555266.9620057 '' 'cGFE13_1' '' <
+tble grid
+GRID id 'rUpGFE75' ci 'rUpGFE75' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'rrcfGFE75' 'rUpGFE75_1' 227018.456771004 554837.962036163 '' '' '' <
+9.99999999963817 0 'rUpGFE75_3' 'cnGFE75' '' 227010.705543433 554844.280142773 '' '' '' <
+tble grid
+GRID id 'rDownGFE75' ci 'rDownGFE75' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'cnGFE75' 'rDownGFE75_1' 227010.705543433 554844.280142773 '' '' '' <
+9.99999999968916 0 'rDownGFE75_2' 'cGFE75_1' '' 227002.954315862 554850.598249383 '' 'cGFE75_1' '' <
+tble grid
+GRID id 'rUpGFE219' ci 'rUpGFE219' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'rrcfGFE219' 'rUpGFE219_1' 226832.3648527 554546.888830908 '' '' '' <
+10.0000000004289 0 'rUpGFE219_3' 'cnGFE219' '' 226824.751926351 554553.372915455 '' '' '' <
+tble grid
+GRID id 'rDownGFE219' ci 'rDownGFE219' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'cnGFE219' 'rDownGFE219_1' 226824.751926351 554553.372915455 '' '' '' <
+9.99999999965341 0 'rDownGFE219_2' '15_21' '' 226817.139000003 554559.857000002 '' '15_21' '' <
+tble grid
+GRID id 'rUpGFE186' ci 'rUpGFE186' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'rrcfGFE186' 'rUpGFE186_1' 225526.230047544 554044.117070473 '' '' '' <
+10.0000000004548 0 'rUpGFE186_3' 'cnGFE186' '' 225517.697582284 554038.90199266 '' '' '' <
+tble grid
+GRID id 'rDownGFE186' ci 'rDownGFE186' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'cnGFE186' 'rDownGFE186_1' 225517.697582284 554038.90199266 '' '' '' <
+9.99999999958563 0 'rDownGFE186_2' 'cGFE186_1' '' 225509.165117025 554033.686914847 '' 'cGFE186_1' '' <
+tble grid
+GRID id 'rUpGFE188' ci 'rUpGFE188' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'rrcfGFE188' 'rUpGFE188_1' 226617.279303959 554204.397062556 '' '' '' <
+10.0000000006647 0 'rUpGFE188_3' 'cnGFE188' '' 226612.64815201 554213.260043524 '' '' '' <
+tble grid
+GRID id 'rDownGFE188' ci 'rDownGFE188' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'cnGFE188' 'rDownGFE188_1' 226612.64815201 554213.260043524 '' '' '' <
+9.99999999936749 0 'rDownGFE188_2' 'cGFE188_1' '' 226608.017000062 554222.123024491 '' 'cGFE188_1' '' <
+tble grid
+GRID id 'rUpGFE1908' ci 'rUpGFE1908' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'rrcfGFE1908' 'rUpGFE1908_1' 225298.119284128 554149.777446355 '' '' '' <
+10.000000000272 0 'rUpGFE1908_3' 'cnGFE1908' '' 225301.420616405 554159.216789828 '' '' '' <
+tble grid
+GRID id 'rDownGFE1908' ci 'rDownGFE1908' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'cnGFE1908' 'rDownGFE1908_1' 225301.420616405 554159.216789828 '' '' '' <
+9.99999999983541 0 'rDownGFE1908_2' '10_10' '' 225304.721948681 554168.656133301 '' '10_10' '' <
+tble grid
+GRID id 'rUpGFE1910' ci 'rUpGFE1910' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'rrcfGFE1910' 'rUpGFE1910_1' 224630.047876666 553794.941266738 '' '' '' <
+9.99999999983493 0 'rUpGFE1910_3' 'cnGFE1910' '' 224622.062438333 553800.960633368 '' '' '' <
+tble grid
+GRID id 'rDownGFE1910' ci 'rDownGFE1910' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'cnGFE1910' 'rDownGFE1910_1' 224622.062438333 553800.960633368 '' '' '' <
+10.0000000004656 0 'rDownGFE1910_2' '201' '' 224614.077 553806.979999999 '' '201' '' <
+tble grid
+GRID id 'rUpGFE192' ci 'rUpGFE192' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'rrcfGFE192' 'rUpGFE192_1' 224300.352743684 553142.834852713 '' '' '' <
+10.0000000005972 0 'rUpGFE192_3' 'cnGFE192' '' 224291.192872874 553146.846930324 '' '' '' <
+tble grid
+GRID id 'rDownGFE192' ci 'rDownGFE192' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'cnGFE192' 'rDownGFE192_1' 224291.192872874 553146.846930324 '' '' '' <
+9.99999999931718 0 'rDownGFE192_2' 'cGFE192_1' '' 224282.033002065 553150.859007934 '' 'cGFE192_1' '' <
+tble grid
+GRID id 'rUpGFE193' ci 'rUpGFE193' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'rrcfGFE193' 'rUpGFE193_1' 224329.936065927 552449.504560906 '' '' '' <
+9.99999999912123 0 'rUpGFE193_3' 'cnGFE193' '' 224320.188045513 552451.735277829 '' '' '' <
+tble grid
+GRID id 'rDownGFE193' ci 'rDownGFE193' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'cnGFE193' 'rDownGFE193_1' 224320.188045513 552451.735277829 '' '' '' <
+10.0000000002936 0 'rDownGFE193_2' 'cGFE193_1' '' 224310.440025098 552453.965994753 '' 'cGFE193_1' '' <
+tble grid
+GRID id 'rUpGFE195' ci 'rUpGFE195' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'rrcfGFE195' 'rUpGFE195_1' 223921.570540955 552407.481906249 '' '' '' <
+9.99999999985365 0 'rUpGFE195_3' 'cnGFE195' '' 223912.971787069 552412.586946073 '' '' '' <
+tble grid
+GRID id 'rDownGFE195' ci 'rDownGFE195' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'cnGFE195' 'rDownGFE195_1' 223912.971787069 552412.586946073 '' '' '' <
+9.99999999985365 0 'rDownGFE195_2' 'cGFE195_1' '' 223904.373033183 552417.691985897 '' 'cGFE195_1' '' <
+tble grid
+GRID id 'rUpGFE199' ci 'rUpGFE199' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'rrcfGFE199' 'rUpGFE199_1' 223814.202765786 552261.213345237 '' '' '' <
+9.99999999939113 0 'rUpGFE199_3' 'cnGFE199' '' 223817.302882893 552270.720672617 '' '' '' <
+tble grid
+GRID id 'rDownGFE199' ci 'rDownGFE199' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'cnGFE199' 'rDownGFE199_1' 223817.302882893 552270.720672617 '' '' '' <
+10.0000000003782 0 'rDownGFE199_2' '24_36' '' 223820.403 552280.227999998 '' '24_36' '' <
+tble grid
+GRID id 'rUpGFE222' ci 'rUpGFE222' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'rrcfGFE222' 'rUpGFE222_1' 223841.579924239 551640.198163573 '' '' '' <
+10.000000000427 0 'rUpGFE222_3' 'cnGFE222' '' 223832.175455529 551643.597570623 '' '' '' <
+tble grid
+GRID id 'rDownGFE222' ci 'rDownGFE222' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'cnGFE222' 'rDownGFE222_1' 223832.175455529 551643.597570623 '' '' '' <
+9.99999999984041 0 'rDownGFE222_2' 'cGFE222_1' '' 223822.77098682 551646.996977674 '' 'cGFE222_1' '' <
+tble grid
+GRID id 'rUpGFE200' ci 'rUpGFE200' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'rrcfGFE200' 'rUpGFE200_1' 224505.578825569 551163.424298799 '' '' '' <
+10.0000000000223 0 'rUpGFE200_3' 'cnGFE200' '' 224496.229918078 551166.973654899 '' '' '' <
+tble grid
+GRID id 'rDownGFE200' ci 'rDownGFE200' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'cnGFE200' 'rDownGFE200_1' 224496.229918078 551166.973654899 '' '' '' <
+10.0000000005756 0 'rDownGFE200_2' 'cGFE200_1' '' 224486.881010586 551170.523010998 '' 'cGFE200_1' '' <
+tble grid
+GRID id 'rUpGFE223' ci 'rUpGFE223' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'rrcfGFE223' 'rUpGFE223_1' 223917.275480099 552050.90680284 '' '' '' <
+10.0000000000029 0 'rUpGFE223_3' 'cnGFE223' '' 223908.591740048 552055.86590142 '' '' '' <
+tble grid
+GRID id 'rDownGFE223' ci 'rDownGFE223' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'cnGFE223' 'rDownGFE223_1' 223908.591740048 552055.86590142 '' '' '' <
+9.99999999994516 0 'rDownGFE223_2' '22_34' '' 223899.907999997 552060.825 '' '22_34' '' <
+tble grid
+GRID id 'rUpGFE201' ci 'rUpGFE201' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'rrcfGFE201' 'rUpGFE201_1' 224724.047335103 552185.845815753 '' '' '' <
+10.0000000002921 0 'rUpGFE201_3' 'cnGFE201' '' 224717.217212984 552193.149885293 '' '' '' <
+tble grid
+GRID id 'rDownGFE201' ci 'rDownGFE201' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'cnGFE201' 'rDownGFE201_1' 224717.217212984 552193.149885293 '' '' '' <
+9.99999999959637 0 'rDownGFE201_2' 'cGFE201_1' '' 224710.387090866 552200.453954833 '' 'cGFE201_1' '' <
+tble grid
+GRID id 'rUpGFE202' ci 'rUpGFE202' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'rrcfGFE202' 'rUpGFE202_1' 225088.989533883 552471.77675574 '' '' '' <
+9.99999999982612 0 'rUpGFE202_3' 'cnGFE202' '' 225098.708790694 552469.423875157 '' '' '' <
+tble grid
+GRID id 'rDownGFE202' ci 'rDownGFE202' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'cnGFE202' 'rDownGFE202_1' 225098.708790694 552469.423875157 '' '' '' <
+10.0000000000444 0 'rDownGFE202_2' 'cGFE202_1' '' 225108.428047505 552467.070994573 '' 'cGFE202_1' '' <
+tble grid
+GRID id 'rUpGFE203' ci 'rUpGFE203' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'rrcfGFE203' 'rUpGFE203_1' 225139.762299565 552202.549259588 '' '' '' <
+10.0000000004608 0 'rUpGFE203_3' 'cnGFE203' '' 225144.626040851 552211.286766138 '' '' '' <
+tble grid
+GRID id 'rDownGFE203' ci 'rDownGFE203' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'cnGFE203' 'rDownGFE203_1' 225144.626040851 552211.286766138 '' '' '' <
+9.99999999986361 0 'rDownGFE203_2' 'cGFE203_1' '' 225149.489782136 552220.024272688 '' 'cGFE203_1' '' <
+tble grid
+GRID id 'rUpGFE206' ci 'rUpGFE206' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'rrcfGFE206' 'rUpGFE206_1' 225297.527401596 552114.360912203 '' '' '' <
+10.0000000000359 0 'rUpGFE206_3' 'cnGFE206' '' 225293.804200798 552123.6419561 '' '' '' <
+tble grid
+GRID id 'rDownGFE206' ci 'rDownGFE206' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'cnGFE206' 'rDownGFE206_1' 225293.804200798 552123.6419561 '' '' '' <
+9.99999999967834 0 'rDownGFE206_2' '20_8' '' 225290.081000001 552132.922999997 '' '20_8' '' <
+tble grid
+GRID id 'rUpGFE208' ci 'rUpGFE208' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'rrcfGFE208' 'rUpGFE208_1' 225310.026315081 552134.400973726 '' '' '' <
+9.99999999976143 0 'rUpGFE208_3' 'cnGFE208' '' 225300.053657541 552133.661986862 '' '' '' <
+tble grid
+GRID id 'rDownGFE208' ci 'rDownGFE208' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'cnGFE208' 'rDownGFE208_1' 225300.053657541 552133.661986862 '' '' '' <
+9.99999999983026 0 'rDownGFE208_2' '20_8' '' 225290.081000001 552132.922999997 '' '20_8' '' <
+tble grid
+GRID id 'rUpGFE224' ci 'rUpGFE224' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'rrcfGFE224' 'rUpGFE224_1' 225483.652238108 553065.593035047 '' '' '' <
+10.0000000002936 0 'rUpGFE224_3' 'cnGFE224' '' 225480.977126123 553055.957487534 '' '' '' <
+tble grid
+GRID id 'rDownGFE224' ci 'rDownGFE224' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'cnGFE224' 'rDownGFE224_1' 225480.977126123 553055.957487534 '' '' '' <
+9.99999999913149 0 'rDownGFE224_2' 'cGFE224_1' '' 225478.302014139 553046.321940022 '' 'cGFE224_1' '' <
+tble grid
+GRID id 'rUpGFE24' ci 'rUpGFE24' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'rrcfGFE24' 'rUpGFE24_1' 225649.08188716 553009.913663788 '' '' '' <
+9.99999999992354 0 'rUpGFE24_3' 'cnGFE24' '' 225643.885445699 553001.369835832 '' '' '' <
+tble grid
+GRID id 'rDownGFE24' ci 'rDownGFE24' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'cnGFE24' 'rDownGFE24_1' 225643.885445699 553001.369835832 '' '' '' <
+9.99999999952392 0 'rDownGFE24_2' 'cGFE24_1' '' 225638.689004239 552992.826007876 '' 'cGFE24_1' '' <
+tble grid
+GRID id 'rUpGFE25' ci 'rUpGFE25' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'rrcfGFE25' 'rUpGFE25_1' 225836.640887342 552971.403880186 '' '' '' <
+9.99999999991104 0 'rUpGFE25_3' 'cnGFE25' '' 225826.713443672 552970.201440093 '' '' '' <
+tble grid
+GRID id 'rDownGFE25' ci 'rDownGFE25' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'cnGFE25' 'rDownGFE25_1' 225826.713443672 552970.201440093 '' '' '' <
+9.99999999991104 0 'rDownGFE25_2' '17_7' '' 225816.786000002 552968.999 '' '17_7' '' <
+tble grid
+GRID id 'rUpGFE225' ci 'rUpGFE225' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'rrcfGFE225' 'rUpGFE225_1' 225701.62056095 552748.252781207 '' '' '' <
+9.99999999983646 0 'rUpGFE225_3' 'cnGFE225' '' 225692.824275642 552753.009393949 '' '' '' <
+tble grid
+GRID id 'rDownGFE225' ci 'rDownGFE225' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'cnGFE225' 'rDownGFE225_1' 225692.824275642 552753.009393949 '' '' '' <
+10.0000000002639 0 'rDownGFE225_2' 'cGFE225_1' '' 225684.027990333 552757.76600669 '' 'cGFE225_1' '' <
+tble grid
+GRID id 'rUpGFE125' ci 'rUpGFE125' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'rrcfGFE125' 'rUpGFE125_1' 224147.208480396 552840.058028774 '' '' '' <
+9.9999999998088 0 'rUpGFE125_3' 'cnGFE125' '' 224139.31423447 552846.196504257 '' '' '' <
+tble grid
+GRID id 'rDownGFE125' ci 'rDownGFE125' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'cnGFE125' 'rDownGFE125_1' 224139.31423447 552846.196504257 '' '' '' <
+9.99999999973734 0 'rDownGFE125_2' 'cGFE125_1' '' 224131.419988544 552852.33497974 '' 'cGFE125_1' '' <
+tble grid
+GRID id 'rUpGFE130' ci 'rUpGFE130' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'rrcfGFE130' 'rUpGFE130_1' 226683.12147353 555906.493248609 '' '' '' <
+9.99999999989365 0 'rUpGFE130_3' 'cnGFE130' '' 226689.782746946 555913.951628894 '' '' '' <
+tble grid
+GRID id 'rDownGFE130' ci 'rDownGFE130' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'cnGFE130' 'rDownGFE130_1' 226689.782746946 555913.951628894 '' '' '' <
+9.99999999985819 0 'rDownGFE130_2' 'cGFE130_1' '' 226696.444020363 555921.410009178 '' 'cGFE130_1' '' <
+tble grid
+GRID id 'Nieuw_9' ci 'Nieuw_9' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' '6_36' 'Nieuw_9_1' 225397.001999999 556148.584999998 '' '6_36' '' <
+70.0081169892844 0 'Nieuw_9_1' 'fxcp_reach87_70' 'Nieuw_9_s1' 225456.544901513 556111.764091214 '' 'fxcp_reach87_70' '' <
+90.0081169893571 0 'Nieuw_9_2' 'fxcp_reach87_90' 'Nieuw_9_s2' 225473.555143803 556101.24498207 '' 'fxcp_reach87_90' '' <
+293.859176292837 0 'Nieuw_9_3' 'fxcp_reach87_294' 'Nieuw_9_s3' 225646.34472437 555993.089578892 '' 'fxcp_reach87_294' '' <
+497.710235595419 0 'Nieuw_9_4' 'cGFE111_1' '' 225819.788080615 555901.005066863 '' 'cGFE111_1' '' <
+tble grid
+GRID id '2' ci '2' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' '36' '2_1' 226764.590000001 557144.029999999 '' '36' '' <
+284.335285386756 0 '2_3' 'fxcp_reach88_284' '2_s1' 227004.768462225 556991.865301123 '' 'fxcp_reach88_284' '' <
+304.335285387199 0 '2_4' 'fxcp_reach88_304' '2_s2' 227021.720791504 556981.253125332 '' 'fxcp_reach88_304' '' <
+527.132425991028 0 '2_5' 'fxcp_reach88_527' '2_s4' 227209.935252678 556862.033349228 '' 'fxcp_reach88_527' '' <
+749.929566595659 0 '2_s4' 'fxcp_reach88_750' '2_s3' 227398.44221987 556743.293459625 '' 'fxcp_reach88_750' '' <
+769.92956659578 0 '2_6' 'fxcp_reach88_770' '2_s5' 227415.393474882 556732.680746551 '' 'fxcp_reach88_770' '' <
+849.102946544482 0 '2_7' 'fxcp_reach88_849' '2_s6' 227482.226390483 556690.235580479 '' 'fxcp_reach88_849' '' <
+866.799250987232 0 '2_8' '5' '' 227497.157000002 556680.737000002 '' '5' '' <
+tble grid
+GRID id 'Nieuw_7' ci 'Nieuw_7' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' '1' 'Nieuw_7_1' 228118.127000003 557795.957000002 '' '1' '' <
+17.4666719798907 0 'Nieuw_7_2' 'fxcp_reach89_17' 'Nieuw_7_s1' 228102.910029838 557787.495411378 '' 'fxcp_reach89_17' '' <
+330.854282433291 0 'Nieuw_7_4' 'fxcp_reach89_331' 'Nieuw_7_s2' 227817.209626924 557658.864609287 '' 'fxcp_reach89_331' '' <
+370.43445918446 0 'Nieuw_7_5' 'fxcp_reach89_370' 'Nieuw_7_s3' 227781.894498311 557641.102475335 '' 'fxcp_reach89_370' '' <
+410.014635936396 0 'Nieuw_7_6' 'fxcp_reach89_410' 'Nieuw_7_s4' 227745.714499478 557625.05261315 '' 'fxcp_reach89_410' '' <
+670.957348331793 0 'Nieuw_7_7' 'fxcp_reach89_671' 'Nieuw_7_s5' 227508.886996808 557515.494768661 '' 'fxcp_reach89_671' '' <
+690.957348331508 0 'Nieuw_7_8' 'fxcp_reach89_691' 'Nieuw_7_s6' 227490.753098492 557507.059027327 '' 'fxcp_reach89_691' '' <
+966.482381479335 0 'Nieuw_7_10' 'fxcp_reach89_966' 'Nieuw_7_s7' 227240.289943471 557392.253824454 '' 'fxcp_reach89_966' '' <
+986.482381478942 0 'Nieuw_7_11' 'fxcp_reach89_986' 'Nieuw_7_s8' 227222.129881786 557383.874554821 '' 'fxcp_reach89_986' '' <
+1322.96308042789 0 'Nieuw_7_12' 'fxcp_reach89_1323' 'Nieuw_7_s9' 226916.555720047 557243.024440242 '' 'fxcp_reach89_1323' '' <
+1342.96308042868 0 'Nieuw_7_13' 'fxcp_reach89_1343' 'Nieuw_7_s10' 226898.118606946 557235.273771877 '' 'fxcp_reach89_1343' '' <
+1507.74476967244 0 'Nieuw_7_14' 'fxcp_reach89_1508' 'Nieuw_7_s11' 226748.681238816 557165.850214985 '' 'fxcp_reach89_1508' '' <
+1527.74476967203 0 'Nieuw_7_15' 'fxcp_reach89_1528' 'Nieuw_7_s12' 226730.53926502 557157.431855081 '' 'fxcp_reach89_1528' '' <
+1708.77273171566 0 'Nieuw_7_16' 'fxcp_reach89_1709' 'Nieuw_7_s13' 226565.936871259 557082.087783521 '' 'fxcp_reach89_1709' '' <
+1728.77273171611 0 'Nieuw_7_17' 'fxcp_reach89_1729' 'Nieuw_7_s14' 226547.687871868 557073.904017808 '' 'fxcp_reach89_1729' '' <
+1906.38231198451 0 'Nieuw_7_18' 'fxcp_reach89_1906' 'Nieuw_7_s15' 226385.974802449 557000.463591218 '' 'fxcp_reach89_1906' '' <
+1926.38231198448 0 'Nieuw_7_19' 'fxcp_reach89_1926' 'Nieuw_7_s16' 226367.776850196 556992.167158762 '' 'fxcp_reach89_1926' '' <
+2109.6697581083 0 'Nieuw_7_20' 'fxcp_reach89_2110' 'Nieuw_7_s17' 226200.871406357 556916.429561843 '' 'fxcp_reach89_2110' '' <
+2129.66975810856 0 'Nieuw_7_21' 'fxcp_reach89_2130' 'Nieuw_7_s18' 226182.719615736 556908.032389863 '' 'fxcp_reach89_2130' '' <
+2310.07595979722 0 'Nieuw_7_s18' 'fxcp_reach89_2310' 'Nieuw_7_s19' 226018.984805661 556832.287359812 '' 'fxcp_reach89_2310' '' <
+2330.07595979661 0 'Nieuw_7_22' 'fxcp_reach89_2330' 'Nieuw_7_s20' 226000.819594018 556823.919274628 '' 'fxcp_reach89_2330' '' <
+2523.35029621673 0 'Nieuw_7_23' 'fxcp_reach89_2523' 'Nieuw_7_s21' 225824.032146633 556745.91476807 '' 'fxcp_reach89_2523' '' <
+2543.35029621669 0 'Nieuw_7_24' 'fxcp_reach89_2543' 'Nieuw_7_s22' 225805.826816641 556737.634311568 '' 'fxcp_reach89_2543' '' <
+2647.95723015828 0 'Nieuw_7_s22' 'fxcp_reach89_2648' 'Nieuw_7_s23' 225711.609709753 556692.194031237 '' 'fxcp_reach89_2648' '' <
+2687.66399431171 0 'Nieuw_7_25' 'fxcp_reach89_2688' 'Nieuw_7_s24' 225675.548667594 556675.581256828 '' 'fxcp_reach89_2688' '' <
+2727.37075846528 0 'Nieuw_7_26' 'fxcp_reach89_2727' 'Nieuw_7_s25' 225645.097576294 556652.407897761 '' 'fxcp_reach89_2727' '' <
+3094.05932393246 0 'Nieuw_7_27' 'fxcp_reach89_3094' 'Nieuw_7_s26' 225311.155857083 556509.317731525 '' 'fxcp_reach89_3094' '' <
+3114.05932386 0 'Nieuw_7_28' 'fxcp_reach89_3114' 'Nieuw_7_s27' 225292.933408863 556501.075097177 '' 'fxcp_reach89_3114' '' <
+3247.88013592048 0 'Nieuw_7_29' 'cGFE108_1' '' 225170.922649265 556446.107977161 '' 'cGFE108_1' '' <
+tble grid
+GRID id 'Nieuw_3' ci 'Nieuw_3' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' '10_50' 'Nieuw_3_1' 226920.663000003 556266.584000003 '' '10_50' '' <
+207.516052756965 0 'Nieuw_3_1' 'fxcp_reach90_208' 'Nieuw_3_s2' 227098.026136543 556160.428811428 '' 'fxcp_reach90_208' '' <
+415.032105513913 0 'Nieuw_3_2' 'fxcp_reach90_415' 'Nieuw_3_s1' 227230.979519863 556258.234570906 '' 'fxcp_reach90_415' '' <
+435.032105513789 0 'Nieuw_3_3' 'fxcp_reach90_435' 'Nieuw_3_s3' 227240.185445535 556275.944730437 '' 'fxcp_reach90_435' '' <
+589.560800552553 0 'Nieuw_3_4' 'cGFE96_1' '' 227324.410001602 556405.502986622 '' 'cGFE96_1' '' <
+tble grid
+GRID id '6' ci '6' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' '80' '6_1' 224386.04472431 556102.969680747 '' '80' '' <
+214.287821910606 0 '6_4' 'fxcp_reach91_214' '6_s2' 224581.023852834 556191.86518069 '' 'fxcp_reach91_214' '' <
+428.57564382086 0 '6_5' 'fxcp_reach91_429' '6_s3' 224776.075307853 556280.527235955 '' 'fxcp_reach91_429' '' <
+642.863465731449 0 '6_6' 'fxcp_reach91_643' '6_s1' 224973.639283744 556358.032555056 '' 'fxcp_reach91_643' '' <
+662.863465730554 0 '6_7' 'fxcp_reach91_663' '6_s4' 224991.771702412 556366.471476386 '' 'fxcp_reach91_663' '' <
+771.833739799415 0 '6_8' '6_22' '' 225088.460802258 556345.840089432 '' '6_22' '' <
+tble grid
+GRID id 'Nieuw_13' ci 'Nieuw_13' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' '105' 'Nieuw_13_1' 225075.983494268 555655.734298581 '' '105' '' <
+214.767154208744 0 'Nieuw_13_2' 'fxcp_reach92_215' 'Nieuw_13_s1' 225196.144332379 555832.535526895 '' 'fxcp_reach92_215' '' <
+234.767154209474 0 'Nieuw_13_3' 'fxcp_reach92_235' 'Nieuw_13_s2' 225207.031854251 555849.312352206 '' 'fxcp_reach92_235' '' <
+393.985720634194 0 'Nieuw_13_s2' 'cGFE115_1' '' 225291.882980512 555984.03396077 '' 'cGFE115_1' '' <
+tble grid
+GRID id '9' ci '9' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' '125' '9_1' 224850.51536958 555791.177746445 '' '125' '' <
+14.5551399593966 0 '9_2' 'fxcp_reach93_15' '9_s1' 224863.084502188 555783.851249613 '' 'fxcp_reach93_15' '' <
+181.160343891282 0 '9_3' 'fxcp_reach93_181' '9_s2' 225004.037737849 555695.090593203 '' 'fxcp_reach93_181' '' <
+223.732740271274 0 '9_4' 'fxcp_reach93_224' '9_s3' 225040.125174043 555672.524685207 '' 'fxcp_reach93_224' '' <
+261.986158685122 0 '9_6' '119' '' 225072.396102464 555651.984208575 '' '119' '' <
+tble grid
+GRID id '10' ci '10' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' '138' '10_1' 225124.427999998 553886.522000002 '' '138' '' <
+41.9746090547612 0 '10_2' 'fxcp_reach94_42' '10_s1' 225146.942257493 553921.934273883 '' 'fxcp_reach94_42' '' <
+88.8535481609202 0 '10_4' 'fxcp_reach94_89' '10_s2' 225172.741564718 553961.074612587 '' 'fxcp_reach94_89' '' <
+155.302676333273 0 '10_s2' 'fxcp_reach94_155' '10_s3' 225208.409345153 554017.139687991 '' 'fxcp_reach94_155' '' <
+175.302676333028 0 '10_5' 'fxcp_reach94_175' '10_s4' 225219.081294152 554034.05427557 '' 'fxcp_reach94_175' '' <
+311.623879643794 0 '10_6' 'fxcp_reach94_312' '10_s5' 225292.098066472 554149.166538218 '' 'fxcp_reach94_312' '' <
+334.844704748095 0 '10_7' '10_10' '' 225304.721948681 554168.656133301 '' '10_10' '' <
+tble grid
+GRID id 'Nieuw_21' ci 'Nieuw_21' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' '15_21' 'Nieuw_21_1' 226817.139000003 554559.857000002 '' '15_21' '' <
+20.3638667553617 0 'Nieuw_21_2' 'fxcp_reach95_20' 'Nieuw_21_s1' 226828.623957691 554576.673147484 '' 'fxcp_reach95_20' '' <
+345.110094070257 0 'Nieuw_21_4' 'cGFE75_1' '' 227002.954315862 554850.598249383 '' 'cGFE75_1' '' <
+tble grid
+GRID id '13' ci '13' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' '201' '13_1' 224614.077 553806.979999999 '' '201' '' <
+77.0259889120377 0 '13_2' 'fxcp_reach96_77' '13_s1' 224578.788677164 553738.512947782 '' 'fxcp_reach96_77' '' <
+97.0259889115999 0 '13_3' 'fxcp_reach96_97' '13_s2' 224569.572508518 553720.762955509 '' 'fxcp_reach96_97' '' <
+160.829337001478 0 '13_s2' 'fxcp_reach96_161' '13_s3' 224540.174561347 553664.135864537 '' 'fxcp_reach96_161' '' <
+180.82933700206 0 '13_4' 'fxcp_reach96_181' '13_s4' 224531.031315789 553646.348198571 '' 'fxcp_reach96_181' '' <
+279.265740995211 0 '13_5' '256' '' 224465.460934641 553590.263426915 '' '256' '' <
+tble grid
+GRID id '14' ci '14' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' '205' '14_1' 226904.865000001 553164.524999999 '' '205' '' <
+47.8303751548416 0 '14_2' 'fxcp_reach97_48' '14_s1' 226863.79361907 553189.037985453 '' 'fxcp_reach97_48' '' <
+304.153141949093 0 '14_4' 'fxcp_reach97_304' '14_s2' 226646.2449599 553324.576880253 '' 'fxcp_reach97_304' '' <
+560.475908742734 0 '14_6' 'fxcp_reach97_560' '14_s3' 226429.210260066 553460.948797614 '' 'fxcp_reach97_560' '' <
+816.798674510577 0 '14_7' '14_5' '' 226211.937 553596.936000001 '' '14_5' '' <
+tble grid
+GRID id 'Nieuw_27' ci 'Nieuw_27' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' '10_38' 'Nieuw_27_1' 226439.492999999 555515.274999999 '' '10_38' '' <
+240.296417236827 0 'Nieuw_27_2' 'fxcp_reach98_240' 'Nieuw_27_s1' 226567.968522631 555718.342496712 '' 'fxcp_reach98_240' '' <
+480.592834473155 0 'Nieuw_27_3' 'cGFE130_1' '' 226696.444020363 555921.410009178 '' 'cGFE130_1' '' <
+tble grid
+GRID id 'Nieuw_29' ci 'Nieuw_29' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' '17_7' 'Nieuw_29_1' 225816.786000002 552968.999 '' '17_7' '' <
+18.2222664161546 0 'Nieuw_29_2' 'fxcp_reach99_18' 'Nieuw_29_s1' 225801.292453256 552978.590715309 '' 'fxcp_reach99_18' '' <
+147.680679363742 0 'Nieuw_29_3' 'fxcp_reach99_148' 'Nieuw_29_s2' 225691.219977808 553046.734173041 '' 'fxcp_reach99_148' '' <
+237.241363524874 0 'Nieuw_29_5' 'cGFE24_1' '' 225638.689004239 552992.826007876 '' 'cGFE24_1' '' <
+tble grid
+GRID id '17' ci '17' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' '257' '17_1' 226119.092 553446.609 '' '257' '' <
+282.62214660691 0 '17_3' 'fxcp_reach100_283' '17_s1' 225968.187570433 553207.646386 '' 'fxcp_reach100_283' '' <
+565.244267127128 0 '17_4' '17_7' '' 225816.786000002 552968.999 '' '17_7' '' <
+tble grid
+GRID id '21' ci '21' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' '301' '21_1' 226288.934999999 552187.929999998 '' '301' '' <
+48.5430436553678 0 '21_2' 'fxcp_reach101_49' '21_s1' 226245.773011031 552210.144180056 '' 'fxcp_reach101_49' '' <
+184.839347435682 0 '21_s1' 'fxcp_reach101_185' '21_s2' 226129.403866652 552280.92567269 '' 'fxcp_reach101_185' '' <
+204.839347435701 0 '21_3' 'fxcp_reach101_205' '21_s3' 226114.472287161 552294.046989346 '' 'fxcp_reach101_205' '' <
+336.505595056774 0 '21_4' 'fxcp_reach101_337' '21_s4' 226003.225259947 552364.474964602 '' 'fxcp_reach101_337' '' <
+356.5055950566 0 '21_5' 'fxcp_reach101_357' '21_s5' 225986.311678825 552375.148762317 '' 'fxcp_reach101_357' '' <
+577.833256614454 0 '21_7' 'fxcp_reach101_578' '21_s7' 225798.92331091 552492.926134221 '' 'fxcp_reach101_578' '' <
+799.160918171846 0 '21_8' 'fxcp_reach101_799' '21_s6' 225611.68321989 552610.937026495 '' 'fxcp_reach101_799' '' <
+816.973117602993 0 '21_9' '288' '' 225596.517659066 552620.27815506 '' '288' '' <
+tble grid
+GRID id 'Nieuw_36' ci 'Nieuw_36' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' '276' 'Nieuw_36_1' 225006.426999999 552308.127999998 '' '276' '' <
+244.449478360624 0 'Nieuw_36_2' 'fxcp_reach102_244' 'Nieuw_36_s1' 224876.601653559 552101.003316701 '' 'fxcp_reach102_244' '' <
+264.449478361369 0 'Nieuw_36_3' 'fxcp_reach102_264' 'Nieuw_36_s2' 224860.467687692 552108.024036327 '' 'fxcp_reach102_264' '' <
+413.280986654229 0 'Nieuw_36_s2' 'fxcp_reach102_413' 'Nieuw_36_s3' 224734.301563262 552186.923746901 '' 'fxcp_reach102_413' '' <
+440.757677078337 0 'Nieuw_36_4' 'cGFE201_1' '' 224710.387090866 552200.453954833 '' 'cGFE201_1' '' <
+tble grid
+GRID id 'Nieuw_34' ci 'Nieuw_34' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' '309' 'Nieuw_34_1' 224343.821000002 550923.405000001 '' '309' '' <
+16.922146846365 0 'Nieuw_34_2' 'fxcp_reach103_17' 'Nieuw_34_s1' 224348.38262388 550939.568163157 '' 'fxcp_reach103_17' '' <
+80.9691709658698 0 'Nieuw_34_3' 'fxcp_reach103_81' 'Nieuw_34_s2' 224381.128149182 550994.611345035 '' 'fxcp_reach103_81' '' <
+98.4107175848958 0 'Nieuw_34_4' 'fxcp_reach103_98' 'Nieuw_34_s3' 224390.085474088 551009.577070595 '' 'fxcp_reach103_98' '' <
+115.852264203691 0 'Nieuw_34_5' 'fxcp_reach103_116' 'Nieuw_34_s4' 224399.083026328 551024.518675821 '' 'fxcp_reach103_116' '' <
+253.578671993384 0 'Nieuw_34_s4' 'fxcp_reach103_254' 'Nieuw_34_s5' 224470.076802204 551142.53751834 '' 'fxcp_reach103_254' '' <
+271.792039544996 0 'Nieuw_34_6' 'fxcp_reach103_272' 'Nieuw_34_s6' 224479.454175783 551158.151344754 '' 'fxcp_reach103_272' '' <
+286.221731185643 0 'Nieuw_34_7' 'cGFE200_1' '' 224486.881010586 551170.523010998 '' 'cGFE200_1' '' <
+tble grid
+GRID id '25' ci '25' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' '357' '25_1' 224989.106900002 551646.552599997 '' '357' '' <
+75.3481081249823 0 '25_2' 'fxcp_reach104_75' '25_s1' 225030.36658191 551709.566279075 '' 'fxcp_reach104_75' '' <
+95.3481081251797 0 '25_3' 'fxcp_reach104_95' '25_s2' 225033.446421231 551729.327721071 '' 'fxcp_reach104_95' '' <
+334.510726011193 0 '25_5' 'fxcp_reach104_335' '25_s3' 225162.618737643 551930.556656046 '' 'fxcp_reach104_335' '' <
+573.673359985831 0 '25_6' '20_8' '' 225290.081000001 552132.922999997 '' '20_8' '' <
+tble grid
+GRID id '26' ci '26' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' '15_21' '26_1' 226817.139000003 554559.857000002 '' '15_21' '' <
+16.1522003587605 0 '26_2' 'fxcp_reach105_16' '26_s1' 226803.485589664 554568.487061563 '' 'fxcp_reach105_16' '' <
+132.93761548619 0 '26_4' 'fxcp_reach105_133' '26_s2' 226704.669196886 554630.728855141 '' 'fxcp_reach105_133' '' <
+152.937615486603 0 '26_5' 'fxcp_reach105_153' '26_s3' 226687.670712102 554641.266953407 '' 'fxcp_reach105_153' '' <
+331.655149418724 0 '26_7' 'fxcp_reach105_332' '26_s4' 226535.732752355 554735.366967185 '' 'fxcp_reach105_332' '' <
+357.767160713539 0 '26_8' 'fxcp_reach105_358' '26_s5' 226513.539015388 554749.124698586 '' 'fxcp_reach105_358' '' <
+383.87917200908 0 '26_9' 'fxcp_reach105_384' '26_s6' 226491.400836285 554762.971588849 '' 'fxcp_reach105_384' '' <
+491.023550741029 0 '26_10' 'fxcp_reach105_491' '26_s7' 226400.599945454 554819.849670024 '' 'fxcp_reach105_491' '' <
+536.046863647115 0 '26_11' 'fxcp_reach105_536' '26_s8' 226362.446942321 554843.75462774 '' 'fxcp_reach105_536' '' <
+581.070176554691 0 '26_12' 'fxcp_reach105_581' '26_s9' 226324.30814557 554867.682223107 '' 'fxcp_reach105_581' '' <
+649.560407602788 0 '26_s9' 'fxcp_reach105_650' '26_s10' 226266.352226765 554904.179116461 '' 'fxcp_reach105_650' '' <
+669.560407602897 0 '26_13' 'fxcp_reach105_670' '26_s11' 226249.443972186 554914.86136599 '' 'fxcp_reach105_670' '' <
+807.896717928124 0 '26_15' 'fxcp_reach105_808' '26_s12' 226132.150851708 554988.200536149 '' 'fxcp_reach105_808' '' <
+828.895589140951 0 '26_16' 'fxcp_reach105_829' '26_s13' 226116.45903202 554999.771881194 '' 'fxcp_reach105_829' '' <
+853.766355902883 0 '26_17' '123' '' 226128.906261815 555021.303753146 '' '123' '' <
+tble grid
+GRID id '27' ci '27' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' '256' '27_1' 224465.460934641 553590.263426915 '' '256' '' <
+36.4773222628459 0 '27_3' '93' '' 224432.229411686 553605.305398912 '' '93' '' <
+tble grid
+GRID id '33' ci '33' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' '10_24' '33_1' 225908.231000002 555126.831000002 '' '10_24' '' <
+81.7357797821547 0 '33_3' 'fxcp_reach107_82' '33_s1' 225983.08932245 555100.21057198 '' 'fxcp_reach107_82' '' <
+228.809769867512 0 '33_7' 'fxcp_reach107_229' '33_s2' 226110.026639968 555029.556694691 '' 'fxcp_reach107_229' '' <
+252.391611858599 0 '33_8' '123' '' 226128.906261815 555021.303753146 '' '123' '' <
+tble grid
+GRID id 'Nieuw_39' ci 'Nieuw_39' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' '20_8' 'Nieuw_39_1' 225290.081000001 552132.922999997 '' '20_8' '' <
+7.29180089880045 0 'Nieuw_39_3' 'fxcp_reach108_7' 'Nieuw_39_s1' 225283.872500733 552136.74725119 '' 'fxcp_reach108_7' '' <
+19.7224011967861 0 'Nieuw_39_4' 'fxcp_reach108_20' 'Nieuw_39_s2' 225273.303054239 552143.289914402 '' 'fxcp_reach108_20' '' <
+165.386013984674 0 'Nieuw_39_s2' 'cGFE203_1' '' 225149.489782136 552220.024272688 '' 'cGFE203_1' '' <
+tble grid
+GRID id 'Nieuw_41' ci 'Nieuw_41' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' '17_7' 'Nieuw_41_1' 225816.786000002 552968.999 '' '17_7' '' <
+249.488143921433 0 'Nieuw_41_2' 'cGFE225_1' '' 225684.027990333 552757.76600669 '' 'cGFE225_1' '' <
+tble grid
+GRID id '35' ci '35' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' '119' '35_1' 225072.396102464 555651.984208575 '' '119' '' <
+1.7130482330015 0 '35_3' 'fxcp_reach110_2' '35_s1' 225073.580260387 555653.222071355 '' 'fxcp_reach110_2' '' <
+5.18965846745443 0 '35_5' '105' '' 225075.983494268 555655.734298581 '' '105' '' <
+tble grid
+GRID id '29' ci '29' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' '123' '29_1' 226128.906261815 555021.303753146 '' '123' '' <
+26.304910922424 0 '29_4' 'fxcp_reach111_26' '29_s1' 226142.907823399 555043.572668967 '' 'fxcp_reach111_26' '' <
+288.770644268175 0 '29_6' 'fxcp_reach111_289' '29_s3' 226282.613658699 555265.767495108 '' 'fxcp_reach111_289' '' <
+551.236377614725 0 '29_7' 'fxcp_reach111_551' '29_s2' 226422.319490635 555487.962323365 '' 'fxcp_reach111_551' '' <
+566.678375918339 0 '29_8' '10_36' '' 226430.539000002 555501.034999998 '' '10_36' '' <
+tble grid
+GRID id '7' ci '7' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' '288' '7_1' 225596.517659066 552620.27815506 '' '288' '' <
+154.261911949841 0 '7_3' 'fxcp_reach112_154' '7_s1' 225465.636652812 552701.929240052 '' 'fxcp_reach112_154' '' <
+174.261911950718 0 '7_4' 'fxcp_reach112_174' '7_s2' 225449.146000132 552713.201015196 '' 'fxcp_reach112_174' '' <
+319.302448902358 0 '7_s2' 'fxcp_reach112_319' '7_s3' 225325.761537487 552789.444255795 '' 'fxcp_reach112_319' '' <
+339.302448902429 0 '7_5' 'fxcp_reach112_339' '7_s4' 225308.872031088 552800.154459134 '' 'fxcp_reach112_339' '' <
+606.897763989722 0 '7_7' 'fxcp_reach112_607' '7_s5' 225239.185522808 552980.428969575 '' 'fxcp_reach112_607' '' <
+874.493079076993 0 '7_8' 'fxcp_reach112_874' '7_s6' 225380.17877173 553207.865921906 '' 'fxcp_reach112_874' '' <
+1142.08850258981 0 '7_9' '277' '' 225522.723999997 553434.320999999 '' '277' '' <
+tble grid
+GRID id 'Nieuw_17' ci 'Nieuw_17' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' '306' 'Nieuw_17_1' 227132.394493275 555060.451493027 '' '306' '' <
+160.774510565943 0 'Nieuw_17_2' 'fxcp_reach113_161' 'Nieuw_17_s1' 226996.798591649 555146.812850839 '' 'fxcp_reach113_161' '' <
+180.774510565268 0 'Nieuw_17_3' 'fxcp_reach113_181' 'Nieuw_17_s2' 226979.887831904 555157.491075732 '' 'fxcp_reach113_181' '' <
+325.571065902825 0 'Nieuw_17_s2' 'cGFE129_1' '' 226857.305541707 555234.559830038 '' 'cGFE129_1' '' <
+tble grid
+GRID id 'Nieuw_25' ci 'Nieuw_25' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' '14_5' 'Nieuw_25_1' 226211.937 553596.936000001 '' '14_5' '' <
+18.5403734083217 0 'Nieuw_25_2' 'fxcp_reach114_19' 'Nieuw_25_s1' 226221.829435472 553612.616725958 '' 'fxcp_reach114_19' '' <
+259.058886901347 0 'Nieuw_25_4' 'fxcp_reach114_259' 'Nieuw_25_s2' 226350.451359028 553815.854266681 '' 'fxcp_reach114_259' '' <
+499.577400394132 0 'Nieuw_25_5' 'fxcp_reach114_500' 'Nieuw_25_s3' 226479.242021396 554018.984786508 '' 'fxcp_reach114_500' '' <
+740.095913886756 0 'Nieuw_25_6' 'cGFE188_1' '' 226608.017000062 554222.123024491 '' 'cGFE188_1' '' <
+tble grid
+GRID id 'Nieuw_19' ci 'Nieuw_19' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' '195' 'Nieuw_19_1' 227398.665999999 555475.395 '' '195' '' <
+246.761393666013 0 'Nieuw_19_3' 'cGFE13_1' '' 227266.580006952 555266.9620057 '' 'cGFE13_1' '' <
+tble grid
+GRID id '116' ci '116' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' '10_36' '116_1' 226430.539000002 555501.034999998 '' '10_36' '' <
+16.8211686862875 0 '116_2' '10_38' '' 226439.492999999 555515.274999999 '' '10_38' '' <
+tble grid
+GRID id 'Nieuw_5' ci 'Nieuw_5' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' '59' 'Nieuw_5_1' 226499.648000003 556516.600999998 '' '59' '' <
+14.654108314937 0 'Nieuw_5_2' 'fxcp_reach117_15' 'Nieuw_5_s1' 226512.047554467 556508.791138309 '' 'fxcp_reach117_15' '' <
+175.213385596379 0 'Nieuw_5_3' 'fxcp_reach117_175' 'Nieuw_5_s2' 226647.904532903 556423.221500403 '' 'fxcp_reach117_175' '' <
+195.213385596405 0 'Nieuw_5_4' 'fxcp_reach117_195' 'Nieuw_5_s3' 226664.827501259 556412.562553831 '' 'fxcp_reach117_195' '' <
+343.792631190965 0 'Nieuw_5_5' 'fxcp_reach117_344' 'Nieuw_5_s4' 226790.547594838 556333.377641809 '' 'fxcp_reach117_344' '' <
+357.840284347503 0 'Nieuw_5_6' 'cGFE102_1' '' 226802.43399433 556325.890982586 '' 'cGFE102_1' '' <
+tble grid
+GRID id '118' ci '118' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' '119' '118_1' 225072.396102464 555651.984208575 '' '119' '' <
+86.94999516634 0 '118_2' 'fxcp_reach118_87' '118_s1' 225145.872997986 555605.492973683 '' 'fxcp_reach118_87' '' <
+106.949995165832 0 '118_3' 'fxcp_reach118_107' '118_s2' 225162.800913702 555594.841885969 '' 'fxcp_reach118_107' '' <
+231.242278756381 0 '118_4' 'fxcp_reach118_231' '118_s3' 225268.001406251 555528.649528951 '' 'fxcp_reach118_231' '' <
+251.242278756157 0 '118_5' 'fxcp_reach118_251' '118_s4' 225284.937601204 555518.011640646 '' 'fxcp_reach118_251' '' <
+398.089378173214 0 '118_7' 'fxcp_reach118_398' '118_s5' 225409.442578441 555440.149061377 '' 'fxcp_reach118_398' '' <
+411.2580367614 0 '118_8' 'fxcp_reach118_411' '118_s6' 225420.598501349 555433.152002154 '' 'fxcp_reach118_411' '' <
+424.426695349873 0 '118_9' 'fxcp_reach118_424' '118_s7' 225431.738444233 555426.129533302 '' 'fxcp_reach118_424' '' <
+563.801023989142 0 '118_10' 'fxcp_reach118_564' '118_s8' 225549.599445408 555351.738755072 '' 'fxcp_reach118_564' '' <
+583.801023989386 0 '118_11' 'fxcp_reach118_584' '118_s9' 225566.532352504 555341.095641101 '' 'fxcp_reach118_584' '' <
+729.43229615891 0 '118_12' 'fxcp_reach118_729' '118_s10' 225689.913352027 555263.729004943 '' 'fxcp_reach118_729' '' <
+749.432296159185 0 '118_13' 'fxcp_reach118_749' '118_s11' 225706.857626779 555253.103961266 '' 'fxcp_reach118_749' '' <
+895.555293018542 0 '118_s11' 'fxcp_reach118_896' '118_s12' 225830.654867292 555175.475529286 '' 'fxcp_reach118_896' '' <
+941.701056067274 0 '118_14' 'fxcp_reach118_942' '118_s13' 225869.750203651 555150.960510989 '' 'fxcp_reach118_942' '' <
+987.121370776423 0 '118_16' '10_24' '' 225908.231000002 555126.831000002 '' '10_24' '' <
+tble grid
+GRID id '119' ci '119' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' '24_36' '119_1' 223820.403 552280.227999998 '' '24_36' '' <
+20.8093398992318 0 '119_3' '234' '' 223802.310751894 552290.509010912 '' '234' '' <
+tble grid
+GRID id '120' ci '120' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' '22_34' '120_1' 223899.907999997 552060.825 '' '22_34' '' <
+284.011769692554 0 '120_3' 'fxcp_reach120_284' '120_s1' 223827.736379791 552265.993745471 '' 'fxcp_reach120_284' '' <
+301.552875009742 0 '120_5' '24_36' '' 223820.403 552280.227999998 '' '24_36' '' <
+tble grid
+GRID id 'Nieuw_31' ci 'Nieuw_31' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'cGFE193_1' 'Nieuw_31_1' 224310.440025098 552453.965994753 '' 'cGFE193_1' '' <
+349.568345500381 0 'Nieuw_31_4' 'fxcp_reach121_350' 'Nieuw_31_s1' 224012.789445039 552628.760252699 '' 'fxcp_reach121_350' '' <
+369.568345499824 0 'Nieuw_31_5' 'fxcp_reach121_370' 'Nieuw_31_s2' 224003.697487498 552610.94751907 '' 'fxcp_reach121_370' '' <
+494.621623652324 0 'Nieuw_31_6' 'fxcp_reach121_495' 'Nieuw_31_s3' 223946.748351303 552499.616171719 '' 'fxcp_reach121_495' '' <
+514.621623653375 0 'Nieuw_31_7' 'fxcp_reach121_515' 'Nieuw_31_s4' 223937.559763212 552481.851885949 '' 'fxcp_reach121_515' '' <
+586.856323242255 0 'Nieuw_31_s4' 'cGFE195_1' '' 223904.373033183 552417.691985897 '' 'cGFE195_1' '' <
+tble grid
+GRID id 'Nieuw_23' ci 'Nieuw_23' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' '14_5' 'Nieuw_23_1' 226211.937 553596.936000001 '' '14_5' '' <
+70.5958755287618 0 'Nieuw_23_2' 'fxcp_reach122_71' 'Nieuw_23_s1' 226151.879124217 553634.04160922 '' 'fxcp_reach122_71' '' <
+90.5958755289441 0 'Nieuw_23_3' 'fxcp_reach122_91' 'Nieuw_23_s2' 226134.516040836 553643.94228882 '' 'fxcp_reach122_91' '' <
+156.003231121441 0 'Nieuw_23_4' 'fxcp_reach122_156' 'Nieuw_23_s3' 226078.763764634 553678.144713645 '' 'fxcp_reach122_156' '' <
+169.126753511984 0 'Nieuw_23_5' 'fxcp_reach122_169' 'Nieuw_23_s4' 226067.591757231 553685.030261472 '' 'fxcp_reach122_169' '' <
+182.250275903358 0 'Nieuw_23_6' 'fxcp_reach122_182' 'Nieuw_23_s5' 226056.487766534 553692.024812831 '' 'fxcp_reach122_182' '' <
+305.677037800784 0 'Nieuw_23_8' 'fxcp_reach122_306' 'Nieuw_23_s6' 225952.587009192 553758.649119028 '' 'fxcp_reach122_306' '' <
+320.152382994474 0 'Nieuw_23_10' 'fxcp_reach122_320' 'Nieuw_23_s7' 225940.386179713 553766.437239111 '' 'fxcp_reach122_320' '' <
+334.62772818886 0 'Nieuw_23_11' 'fxcp_reach122_335' 'Nieuw_23_s8' 225928.27202132 553774.357752628 '' 'fxcp_reach122_335' '' <
+420.185818789357 0 'Nieuw_23_12' 'fxcp_reach122_420' 'Nieuw_23_s9' 225855.8236084 553819.868847792 '' 'fxcp_reach122_420' '' <
+440.185818790299 0 'Nieuw_23_13' 'fxcp_reach122_440' 'Nieuw_23_s10' 225839.072616641 553830.771071499 '' 'fxcp_reach122_440' '' <
+566.027303553197 0 'Nieuw_23_14' 'fxcp_reach122_566' 'Nieuw_23_s11' 225731.931928104 553896.77273093 '' 'fxcp_reach122_566' '' <
+586.027303554017 0 'Nieuw_23_15' 'fxcp_reach122_586' 'Nieuw_23_s12' 225714.797711098 553907.088670423 '' 'fxcp_reach122_586' '' <
+827.519196033029 0 'Nieuw_23_16' 'cGFE186_1' '' 225509.165117025 554033.686914847 '' 'cGFE186_1' '' <
+tble grid
+GRID id '123' ci '123' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' '5' '123_1' 227497.157000002 556680.737000002 '' '5' '' <
+113.838959991753 0 '123_3' 'fxcp_reach123_114' '123_s1' 227557.632556623 556777.182683872 '' 'fxcp_reach123_114' '' <
+125.148880097586 0 '123_5' '245' '' 227563.996529517 556786.532235013 '' '245' '' <
+tble grid
+GRID id '124' ci '124' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' '6_22' '124_1' 225088.460802258 556345.840089432 '' '6_22' '' <
+21.5217864464354 0 '124_2' 'fxcp_reach124_22' '124_s1' 225105.792040001 556333.080172107 '' 'fxcp_reach124_22' '' <
+82.4952507881769 0 '124_s1' 'fxcp_reach124_82' '124_s2' 225156.206754777 556298.913341299 '' 'fxcp_reach124_82' '' <
+102.495250788298 0 '124_3' 'fxcp_reach124_102' '124_s3' 225173.381166951 556288.665737707 '' 'fxcp_reach124_102' '' <
+344.119998953787 0 '124_5' 'fxcp_reach124_344' '124_s4' 225378.069677007 556160.275373561 '' 'fxcp_reach124_344' '' <
+366.370811152751 0 '124_6' '6_36' '' 225397.001999999 556148.584999998 '' '6_36' '' <
+tble grid
+GRID id 'Nieuw_11' ci 'Nieuw_11' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' '112' 'Nieuw_11_1' 224423.084000003 555110.722 '' '112' '' <
+272.199623108283 0 'Nieuw_11_3' 'fxcp_reach125_272' 'Nieuw_11_s1' 224571.129405968 554882.308394121 '' 'fxcp_reach125_272' '' <
+544.399246215863 0 'Nieuw_11_4' 'fxcp_reach125_544' 'Nieuw_11_s2' 224716.998880997 555093.679500676 '' 'fxcp_reach125_544' '' <
+816.598869324198 0 'Nieuw_11_5' 'cGFE114_1' '' 224859.830015884 555325.388996431 '' 'cGFE114_1' '' <
+tble grid
+GRID id 'Nieuw_45' ci 'Nieuw_45' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' '246' 'Nieuw_45_1' 224039.591000001 552679.199 '' '246' '' <
+99.7035631993983 0 'Nieuw_45_2' 'fxcp_reach126_100' 'Nieuw_45_s1' 224086.364391494 552767.250407501 '' 'fxcp_reach126_100' '' <
+119.703563199297 0 'Nieuw_45_3' 'fxcp_reach126_120' 'Nieuw_45_s2' 224095.661016309 552784.955195807 '' 'fxcp_reach126_120' '' <
+196.01840972932 0 'Nieuw_45_s2' 'cGFE125_1' '' 224131.419988544 552852.33497974 '' 'cGFE125_1' '' <
+tble grid
+GRID id '128' ci '128' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' '20_8' '128_1' 225290.081000001 552132.922999997 '' '20_8' '' <
+238.25477321602 0 '128_2' 'fxcp_reach127_238' '128_s2' 225417.059350672 552334.521202918 '' 'fxcp_reach127_238' '' <
+476.50954643168 0 '128_3' 'fxcp_reach127_477' '128_s1' 225544.037702859 552536.119404884 '' 'fxcp_reach127_477' '' <
+524.399371132533 0 '128_5' 'fxcp_reach127_524' '128_s3' 225569.56063945 552576.641189361 '' 'fxcp_reach127_524' '' <
+575.694259184631 0 '128_7' '288' '' 225596.517659066 552620.27815506 '' '288' '' <
+tble grid
+GRID id 'Nieuw_15' ci 'Nieuw_15' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' '10_10' 'Nieuw_15_1' 225304.721948681 554168.656133301 '' '10_10' '' <
+22.8218433363063 0 'Nieuw_15_4' 'fxcp_reach128_23' 'Nieuw_15_s1' 225316.833597569 554187.713260562 '' 'fxcp_reach128_23' '' <
+194.062968254014 0 'Nieuw_15_5' 'cGFE120_1' '' 225408.274993753 554332.49499643 '' 'cGFE120_1' '' <
+tble grid
+GRID id 'Nieuw_1' ci 'Nieuw_1' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' '65' 'Nieuw_1_1' 227484.624999997 555610.704999997 '' '65' '' <
+12.71090303526 0 'Nieuw_1_2' 'fxcp_reach129_13' 'Nieuw_1_s1' 227491.370563214 555621.478320416 '' 'fxcp_reach129_13' '' <
+231.777481812213 0 'Nieuw_1_4' 'fxcp_reach129_232' 'Nieuw_1_s3' 227607.643858995 555807.141146688 '' 'fxcp_reach129_232' '' <
+450.844060587986 0 'Nieuw_1_5' 'fxcp_reach129_451' 'Nieuw_1_s4' 227724.543738408 555992.408571298 '' 'fxcp_reach129_451' '' <
+669.910639365557 0 'Nieuw_1_6' 'fxcp_reach129_670' 'Nieuw_1_s5' 227840.884137801 556178.029204624 '' 'fxcp_reach129_670' '' <
+888.977218140999 0 'Nieuw_1_s5' 'fxcp_reach129_889' 'Nieuw_1_s2' 227958.245635632 556362.895557412 '' 'fxcp_reach129_889' '' <
+908.977218140795 0 'Nieuw_1_7' 'fxcp_reach129_909' 'Nieuw_1_s6' 227969.680216074 556379.304407771 '' 'fxcp_reach129_909' '' <
+1062.3258656997 0 'Nieuw_1_8' 'fxcp_reach129_1062' 'Nieuw_1_s7' 227846.223123531 556461.86164469 '' 'fxcp_reach129_1062' '' <
+1082.32586569905 0 'Nieuw_1_9' 'fxcp_reach129_1082' 'Nieuw_1_s8' 227829.450930693 556472.756301504 '' 'fxcp_reach129_1082' '' <
+1225.27250862124 0 'Nieuw_1_10' 'cGFE94_1' '' 227707.977528773 556548.096190901 '' 'cGFE94_1' '' <
+tble grid
+GRID id 'Nieuw_2' ci 'Nieuw_2' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'cGFE94_1' 'Nieuw_2_1' 227707.977528773 556548.096190901 '' 'cGFE94_1' '' <
+229.345100343614 0 'Nieuw_2_2' 'fxcp_reach130_229' 'Nieuw_2_s1' 227513.93092187 556670.341502707 '' 'fxcp_reach130_229' '' <
+249.079150521919 0 'Nieuw_2_3' '5' '' 227497.157000002 556680.737000002 '' '5' '' <
+tble grid
+GRID id 'Nieuw_4' ci 'Nieuw_4' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'cGFE96_1' 'Nieuw_4_1' 227324.410001602 556405.502986622 '' 'cGFE96_1' '' <
+324.954663614069 0 'Nieuw_4_3' '5' '' 227497.157000002 556680.737000002 '' '5' '' <
+tble grid
+GRID id 'Nieuw_6' ci 'Nieuw_6' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'cGFE102_1' 'Nieuw_6_1' 226802.43399433 556325.890982586 '' 'cGFE102_1' '' <
+37.4248830492031 0 'Nieuw_6_2' 'fxcp_reach132_37' 'Nieuw_6_s1' 226832.758018178 556327.221481045 '' 'fxcp_reach132_37' '' <
+114.629713007502 0 'Nieuw_6_3' 'fxcp_reach132_115' 'Nieuw_6_s2' 226898.140790048 556286.164460799 '' 'fxcp_reach132_115' '' <
+144.593953605734 0 'Nieuw_6_5' '10_50' '' 226920.663000003 556266.584000003 '' '10_50' '' <
+tble grid
+GRID id 'Nieuw_8' ci 'Nieuw_8' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'cGFE108_1' 'Nieuw_8_1' 225170.922649265 556446.107977161 '' 'cGFE108_1' '' <
+7.96374098552152 0 '1' 'fxcp_reach89_3238' '3' 225163.656305286 556442.848925817 '1' 'fxcp_reach89_3238' '3' <
+133.455808092054 0 'Nieuw_8_3' '6_22' '' 225088.460802258 556345.840089432 '' '6_22' '' <
+tble grid
+GRID id 'Nieuw_10' ci 'Nieuw_10' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'cGFE111_1' 'Nieuw_10_1' 225819.788080615 555901.005066863 '' 'cGFE111_1' '' <
+279.262367905818 0 'Nieuw_10_2' 'fxcp_reach134_279' 'Nieuw_10_s2' 226057.687180424 555754.746917008 '' 'fxcp_reach134_279' '' <
+558.524735810573 0 'Nieuw_10_3' 'fxcp_reach134_559' 'Nieuw_10_s1' 226294.368401309 555606.537710251 '' 'fxcp_reach134_559' '' <
+578.524735811193 0 'Nieuw_10_4' 'fxcp_reach134_579' 'Nieuw_10_s3' 226311.342617881 555595.960566413 '' 'fxcp_reach134_579' '' <
+661.546871387272 0 'Nieuw_10_5' 'fxcp_reach134_662' 'Nieuw_10_s4' 226381.681996957 555551.858780887 '' 'fxcp_reach134_662' '' <
+675.497865085302 0 'Nieuw_10_6' 'fxcp_reach134_675' 'Nieuw_10_s5' 226393.470383226 555544.397938292 '' 'fxcp_reach134_675' '' <
+729.960942414782 0 'Nieuw_10_7' '10_38' '' 226439.492999999 555515.274999999 '' '10_38' '' <
+tble grid
+GRID id 'Nieuw_12' ci 'Nieuw_12' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'cGFE114_1' 'Nieuw_12_1' 224859.830015884 555325.388996431 '' 'cGFE114_1' '' <
+192.589971483143 0 'Nieuw_12_2' 'fxcp_reach135_193' 'Nieuw_12_s2' 224962.377186984 555488.407323055 '' 'fxcp_reach135_193' '' <
+385.179942965917 0 'Nieuw_12_3' 'fxcp_reach135_385' 'Nieuw_12_s1' 225065.873561954 555650.559111806 '' 'fxcp_reach135_385' '' <
+396.679924966175 0 'Nieuw_12_4' '105' '' 225075.983494268 555655.734298581 '' '105' '' <
+tble grid
+GRID id 'Nieuw_14' ci 'Nieuw_14' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'cGFE115_1' 'Nieuw_14_1' 225291.882980512 555984.03396077 '' 'cGFE115_1' '' <
+172.099577923158 0 'Nieuw_14_2' 'fxcp_reach136_172' 'Nieuw_14_s1' 225383.900465834 556129.467956508 '' 'fxcp_reach136_172' '' <
+195.281307064033 0 'Nieuw_14_3' '6_36' '' 225397.001999999 556148.584999998 '' '6_36' '' <
+tble grid
+GRID id 'Nieuw_16' ci 'Nieuw_16' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'cGFE120_1' 'Nieuw_16_1' 225408.274993753 554332.49499643 '' 'cGFE120_1' '' <
+234.647876739339 0 'Nieuw_16_2' 'fxcp_reach137_235' 'Nieuw_16_s1' 225532.477916665 554531.575853066 '' 'fxcp_reach137_235' '' <
+469.295753479045 0 'Nieuw_16_3' 'fxcp_reach137_469' 'Nieuw_16_s2' 225658.731437699 554729.355087346 '' 'fxcp_reach137_469' '' <
+703.943630218648 0 'Nieuw_16_4' 'fxcp_reach137_704' 'Nieuw_16_s3' 225783.496274944 554928.084016348 '' 'fxcp_reach137_704' '' <
+938.59144711721 0 'Nieuw_16_5' '10_24' '' 225908.231000002 555126.831000002 '' '10_24' '' <
+tble grid
+GRID id 'Nieuw_18' ci 'Nieuw_18' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'cGFE129_1' 'Nieuw_18_1' 226857.305541707 555234.559830038 '' 'cGFE129_1' '' <
+236.228975211895 0 'Nieuw_18_2' 'fxcp_reach138_236' 'Nieuw_18_s2' 226657.125649116 555359.986316441 '' 'fxcp_reach138_236' '' <
+472.457950422789 0 'Nieuw_18_4' 'fxcp_reach138_472' 'Nieuw_18_s1' 226456.719017161 555485.046687583 '' 'fxcp_reach138_472' '' <
+484.798493432474 0 'Nieuw_18_5' 'fxcp_reach138_485' 'Nieuw_18_s3' 226446.238752096 555491.562287781 '' 'fxcp_reach138_485' '' <
+503.134884511553 0 'Nieuw_18_6' '10_36' '' 226430.539000002 555501.034999998 '' '10_36' '' <
+tble grid
+GRID id 'Nieuw_20' ci 'Nieuw_20' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'cGFE13_1' 'Nieuw_20_1' 227266.580006952 555266.9620057 '' 'cGFE13_1' '' <
+235.067903876801 0 'Nieuw_20_2' 'fxcp_reach139_235' 'Nieuw_20_s1' 227141.302605849 555068.061484291 '' 'fxcp_reach139_235' '' <
+247.046795499319 0 'Nieuw_20_3' '306' '' 227132.394493275 555060.451493027 '' '306' '' <
+tble grid
+GRID id 'Nieuw_22' ci 'Nieuw_22' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'cGFE75_1' 'Nieuw_22_1' 227002.954315862 554850.598249383 '' 'cGFE75_1' '' <
+239.82270175723 0 'Nieuw_22_2' 'fxcp_reach140_240' 'Nieuw_22_s1' 227131.756376124 555052.894187823 '' 'fxcp_reach140_240' '' <
+250.314021851517 0 'Nieuw_22_3' 'fxcp_reach140_250' 'Nieuw_22_s2' 227133.150378812 555059.982454445 '' 'fxcp_reach140_250' '' <
+251.203606100737 0 'Nieuw_22_4' '306' '' 227132.394493275 555060.451493027 '' '306' '' <
+tble grid
+GRID id 'Nieuw_24' ci 'Nieuw_24' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'cGFE186_1' 'Nieuw_24_1' 225509.165117025 554033.686914847 '' 'cGFE186_1' '' <
+221.963363557821 0 'Nieuw_24_3' 'fxcp_reach141_222' 'Nieuw_24_s1' 225321.04729496 554151.489893188 '' 'fxcp_reach141_222' '' <
+246.151400040229 0 'Nieuw_24_4' '10_10' '' 225304.721948681 554168.656133301 '' '10_10' '' <
+tble grid
+GRID id 'Nieuw_26' ci 'Nieuw_26' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'cGFE188_1' 'Nieuw_26_1' 226608.017000062 554222.123024491 '' 'cGFE188_1' '' <
+254.872307281183 0 'Nieuw_26_3' 'fxcp_reach142_255' 'Nieuw_26_s1' 226744.806434657 554437.17755359 '' 'fxcp_reach142_255' '' <
+274.87230728061 0 'Nieuw_26_4' 'fxcp_reach142_275' 'Nieuw_26_s2' 226755.415070414 554454.132105998 '' 'fxcp_reach142_275' '' <
+397.744063473354 0 'Nieuw_26_5' '15_21' '' 226817.139000003 554559.857000002 '' '15_21' '' <
+tble grid
+GRID id 'Nieuw_28' ci 'Nieuw_28' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'cGFE192_1' 'Nieuw_28_1' 224282.033002065 553150.859007934 '' 'cGFE192_1' '' <
+80.9546770683307 0 'Nieuw_28_2' 'fxcp_reach143_81' 'Nieuw_28_s1' 224316.050446159 553223.841587408 '' 'fxcp_reach143_81' '' <
+401.899462226878 0 'Nieuw_28_3' 'fxcp_reach143_402' 'Nieuw_28_s2' 224461.750962535 553509.674385382 '' 'fxcp_reach143_402' '' <
+449.07480601491 0 'Nieuw_28_5' 'fxcp_reach143_449' 'Nieuw_28_s3' 224483.108306131 553551.738347806 '' 'fxcp_reach143_449' '' <
+501.834600351263 0 'Nieuw_28_7' '256' '' 224465.460934641 553590.263426915 '' '256' '' <
+tble grid
+GRID id 'Nieuw_30' ci 'Nieuw_30' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' '330' 'Nieuw_30_1' 223629.189000002 551270.350999997 '' '330' '' <
+13.7883917275958 0 'Nieuw_30_2' 'fxcp_reach144_14' 'Nieuw_30_s1' 223635.324482784 551282.696511499 '' 'fxcp_reach144_14' '' <
+218.63732249486 0 'Nieuw_30_3' 'fxcp_reach144_219' 'Nieuw_30_s2' 223729.533209833 551464.596988165 '' 'fxcp_reach144_219' '' <
+423.486253261378 0 'Nieuw_30_4' 'cGFE222_1' '' 223822.77098682 551646.996977674 '' 'cGFE222_1' '' <
+tble grid
+GRID id 'Nieuw_32' ci 'Nieuw_32' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'cGFE195_1' 'Nieuw_32_1' 223904.373033183 552417.691985897 '' 'cGFE195_1' '' <
+79.1310090980035 0 'Nieuw_32_2' 'fxcp_reach145_79' 'Nieuw_32_s1' 223866.334851761 552348.94274547 '' 'fxcp_reach145_79' '' <
+120.249393045374 0 'Nieuw_32_3' 'fxcp_reach145_120' 'Nieuw_32_s2' 223840.993166385 552317.941053636 '' 'fxcp_reach145_120' '' <
+153.977196704223 0 'Nieuw_32_6' 'fxcp_reach145_154' 'Nieuw_32_s3' 223825.034036306 552288.229526295 '' 'fxcp_reach145_154' '' <
+163.222260170185 0 'Nieuw_32_7' '24_36' '' 223820.403 552280.227999998 '' '24_36' '' <
+tble grid
+GRID id 'Nieuw_33' ci 'Nieuw_33' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'cGFE222_1' 'Nieuw_33_1' 223822.77098682 551646.996977674 '' 'cGFE222_1' '' <
+253.385235151957 0 'Nieuw_33_3' 'fxcp_reach146_253' 'Nieuw_33_s2' 223891.712168835 551858.963685505 '' 'fxcp_reach146_253' '' <
+506.77047030327 0 'Nieuw_33_4' 'fxcp_reach146_507' 'Nieuw_33_s1' 223888.440556676 552049.041829274 '' 'fxcp_reach146_507' '' <
+523.514112575904 0 'Nieuw_33_5' '22_34' '' 223899.907999997 552060.825 '' '22_34' '' <
+tble grid
+GRID id 'Nieuw_35' ci 'Nieuw_35' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'cGFE200_1' 'Nieuw_35_1' 224486.881010586 551170.523010998 '' 'cGFE200_1' '' <
+119.54647645762 0 'Nieuw_35_2' 'fxcp_reach147_120' 'Nieuw_35_s1' 224548.199440984 551273.145488918 '' 'fxcp_reach147_120' '' <
+137.884299761126 0 'Nieuw_35_3' 'fxcp_reach147_138' 'Nieuw_35_s2' 224557.585827344 551288.898948957 '' 'fxcp_reach147_138' '' <
+156.222123064311 0 'Nieuw_35_4' 'fxcp_reach147_156' 'Nieuw_35_s3' 224566.978812881 551304.648475496 '' 'fxcp_reach147_156' '' <
+273.008958330124 0 'Nieuw_35_5' 'fxcp_reach147_273' 'Nieuw_35_s4' 224626.892408286 551404.895757503 '' 'fxcp_reach147_273' '' <
+290.893136415121 0 'Nieuw_35_6' 'fxcp_reach147_291' 'Nieuw_35_s5' 224636.077897822 551420.240808791 '' 'fxcp_reach147_291' '' <
+308.777314501319 0 'Nieuw_35_7' 'fxcp_reach147_309' 'Nieuw_35_s6' 224645.280752171 551435.575452486 '' 'fxcp_reach147_309' '' <
+444.944971089484 0 'Nieuw_35_8' 'fxcp_reach147_445' 'Nieuw_35_s7' 224713.938254281 551553.164140636 '' 'fxcp_reach147_445' '' <
+463.018914120362 0 'Nieuw_35_9' 'fxcp_reach147_463' 'Nieuw_35_s8' 224721.313459583 551569.487267694 '' 'fxcp_reach147_463' '' <
+481.092857151627 0 'Nieuw_35_10' 'fxcp_reach147_481' 'Nieuw_35_s9' 224707.607813943 551579.714025258 '' 'fxcp_reach147_481' '' <
+716.439989887373 0 'Nieuw_35_11' 'fxcp_reach147_716' 'Nieuw_35_s10' 224504.751932139 551699.019736318 '' 'fxcp_reach147_716' '' <
+951.787122622219 0 'Nieuw_35_12' 'fxcp_reach147_952' 'Nieuw_35_s11' 224301.790719587 551818.162006104 '' 'fxcp_reach147_952' '' <
+1187.13425535746 0 'Nieuw_35_13' 'fxcp_reach147_1187' 'Nieuw_35_s12' 224098.932079202 551937.479007388 '' 'fxcp_reach147_1187' '' <
+1422.48134290708 0 'Nieuw_35_15' '22_34' '' 223899.907999997 552060.825 '' '22_34' '' <
+tble grid
+GRID id 'Nieuw_37' ci 'Nieuw_37' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'cGFE201_1' 'Nieuw_37_1' 224710.387090866 552200.453954833 '' 'cGFE201_1' '' <
+41.962532344678 0 'Nieuw_37_3' 'fxcp_reach148_42' 'Nieuw_37_s1' 224675.147874025 552223.235405028 '' 'fxcp_reach148_42' '' <
+257.764148862572 0 'Nieuw_37_4' 'fxcp_reach148_258' 'Nieuw_37_s2' 224493.598127618 552339.849171084 '' 'fxcp_reach148_258' '' <
+473.565761565736 0 'Nieuw_37_6' 'cGFE193_1' '' 224310.440025098 552453.965994753 '' 'cGFE193_1' '' <
+tble grid
+GRID id 'Nieuw_38' ci 'Nieuw_38' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'cGFE202_1' 'Nieuw_38_1' 225108.428047505 552467.070994573 '' 'cGFE202_1' '' <
+188.857645224321 0 'Nieuw_38_2' '276' '' 225006.426999999 552308.127999998 '' '276' '' <
+tble grid
+GRID id 'Nieuw_40' ci 'Nieuw_40' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'cGFE203_1' 'Nieuw_40_1' 225149.489782136 552220.024272688 '' 'cGFE203_1' '' <
+151.380481875768 0 'Nieuw_40_2' 'fxcp_reach150_151' 'Nieuw_40_s1' 225020.599526842 552299.417812296 '' 'fxcp_reach150_151' '' <
+168.015621999665 0 'Nieuw_40_3' '276' '' 225006.426999999 552308.127999998 '' '276' '' <
+tble grid
+GRID id 'Nieuw_42' ci 'Nieuw_42' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'cGFE224_1' 'Nieuw_42_1' 225478.302014139 553046.321940022 '' 'cGFE224_1' '' <
+288.941000400982 0 'Nieuw_42_3' 'fxcp_reach151_289' 'Nieuw_42_s1' 225322.216816642 552803.167024721 '' 'fxcp_reach151_289' '' <
+308.941000401164 0 'Nieuw_42_4' 'fxcp_reach151_309' 'Nieuw_42_s2' 225311.669743704 552786.174214845 '' 'fxcp_reach151_309' '' <
+387.586418674229 0 'Nieuw_42_5' 'fxcp_reach151_388' 'Nieuw_42_s3' 225269.396980971 552719.856970669 '' 'fxcp_reach151_388' '' <
+407.586418673909 0 'Nieuw_42_6' 'fxcp_reach151_408' 'Nieuw_42_s4' 225258.616677842 552703.01104937 '' 'fxcp_reach151_408' '' <
+687.272766114241 0 'Nieuw_42_7' 'cGFE202_1' '' 225108.428047505 552467.070994573 '' 'cGFE202_1' '' <
+tble grid
+GRID id 'Nieuw_43' ci 'Nieuw_43' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'cGFE24_1' 'Nieuw_43_1' 225638.689004239 552992.826007876 '' 'cGFE24_1' '' <
+59.3404865199162 0 'Nieuw_43_2' 'fxcp_reach152_59' 'Nieuw_43_s1' 225601.411890492 552965.992745096 '' 'fxcp_reach152_59' '' <
+177.192619458062 0 'Nieuw_43_3' 'fxcp_reach152_177' 'Nieuw_43_s2' 225503.558151113 553031.672048728 '' 'fxcp_reach152_177' '' <
+193.857403091674 0 'Nieuw_43_4' 'fxcp_reach152_194' 'Nieuw_43_s3' 225489.677060919 553040.88201284 '' 'fxcp_reach152_194' '' <
+206.466308593748 0 'Nieuw_43_5' 'cGFE224_1' '' 225478.302014139 553046.321940022 '' 'cGFE224_1' '' <
+tble grid
+GRID id 'Nieuw_44' ci 'Nieuw_44' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'cGFE225_1' 'Nieuw_44_1' 225684.027990333 552757.76600669 '' 'cGFE225_1' '' <
+139.586836110334 0 'Nieuw_44_4' 'fxcp_reach153_140' 'Nieuw_44_s1' 225609.14276069 552639.966655263 '' 'fxcp_reach153_140' '' <
+162.976033323508 0 'Nieuw_44_5' '288' '' 225596.517659066 552620.27815506 '' '288' '' <
+tble grid
+GRID id 'Nieuw_46' ci 'Nieuw_46' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'cGFE125_1' 'Nieuw_46_1' 224131.419988544 552852.33497974 '' 'cGFE125_1' '' <
+86.9621860499183 0 'Nieuw_46_3' 'fxcp_reach154_87' 'Nieuw_46_s1' 224170.591952959 552929.975040311 '' 'fxcp_reach154_87' '' <
+239.131823483081 0 'Nieuw_46_s1' 'fxcp_reach154_239' 'Nieuw_46_s2' 224239.135773465 553065.832845486 '' 'fxcp_reach154_239' '' <
+259.131823483444 0 'Nieuw_46_4' 'fxcp_reach154_259' 'Nieuw_46_s3' 224248.144217112 553083.689159299 '' 'fxcp_reach154_259' '' <
+334.366378783754 0 'Nieuw_46_5' 'cGFE192_1' '' 224282.033002065 553150.859007934 '' 'cGFE192_1' '' <
+tble grid
+GRID id 'Nieuw_47' ci 'Nieuw_47' re 0 dc 0 gr gr 
+'GridPoint Table' PDIN 0 0 '' pdin CLTT 'Location' '1/R' cltt CLID '' '' clid
+TBLE
+0 0 '' 'cGFE130_1' 'Nieuw_47_1' 226696.444020363 555921.410009178 '' 'cGFE130_1' '' <
+81.4643323341933 0 'Nieuw_47_3' 'fxcp_reach155_81' 'Nieuw_47_s1' 226740.433248662 555989.962261316 '' 'fxcp_reach155_81' '' <
+389.475428248937 0 'Nieuw_47_5' 'fxcp_reach155_389' 'Nieuw_47_s2' 226904.997567022 556250.326018936 '' 'fxcp_reach155_389' '' <
+412.737263061119 0 'Nieuw_47_6' '10_50' '' 226920.663000003 556266.584000003 '' '10_50' '' <
+tble grid

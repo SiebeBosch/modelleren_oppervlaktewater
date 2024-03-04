@@ -1,0 +1,2722 @@
+GLFR st 0 dd 1.65 s1 0.0474 s2 0.55 p1 -6 p2 2.75 p3 5.5 p4 4.125 p5 -0.2 p6 2.447 a1 0.0005 a2 6e-005 ra 1
+BDFR id '0' ci '0' mf 4 mt cp 0 0.003 0 mr cp 0 0.003 0 s1 6 s2 6 bdfr glfr
+BDFR id '21' ci '21' mf 7 mt cp 0 33.8 0 mr cp 0 33.8 0 s1 6 s2 6 sf 4 st cp 0 0.003 0 sr cp 0 0.003 bdfr
+BDFR id '22' ci '22' mf 7 mt cp 0 33.8 0 mr cp 0 33.8 0 s1 6 s2 6 sf 4 st cp 0 0.003 0 sr cp 0 0.003 bdfr
+BDFR id '23' ci '23' mf 7 mt cp 0 33.8 0 mr cp 0 33.8 0 s1 6 s2 6 sf 4 st cp 0 0.003 0 sr cp 0 0.003 bdfr
+BDFR id '24' ci '24' mf 7 mt cp 0 33.8 0 mr cp 0 33.8 0 s1 6 s2 6 sf 4 st cp 0 0.003 0 sr cp 0 0.003 bdfr
+BDFR id '25' ci '25' mf 7 mt cp 0 33.8 0 mr cp 0 33.8 0 s1 6 s2 6 sf 4 st cp 0 0.003 0 sr cp 0 0.003 bdfr
+BDFR id '26' ci '26' mf 7 mt cp 0 33.8 0 mr cp 0 33.8 0 s1 6 s2 6 sf 4 st cp 0 0.003 0 sr cp 0 0.003 bdfr
+BDFR id '27' ci '27' mf 7 mt cp 0 33.8 0 mr cp 0 33.8 0 s1 6 s2 6 sf 4 st cp 0 0.003 0 sr cp 0 0.003 bdfr
+BDFR id '28' ci '28' mf 7 mt cp 0 33.8 0 mr cp 0 33.8 0 s1 6 s2 6 sf 4 st cp 0 0.003 0 sr cp 0 0.003 bdfr
+BDFR id '29' ci '29' mf 7 mt cp 0 33.8 0 mr cp 0 33.8 0 s1 6 s2 6 sf 4 st cp 0 0.003 0 sr cp 0 0.003 bdfr
+BDFR id '30' ci '30' mf 7 mt cp 0 33.8 0 mr cp 0 33.8 0 s1 6 s2 6 sf 4 st cp 0 0.003 0 sr cp 0 0.003 bdfr
+BDFR id '31' ci '31' mf 7 mt cp 0 33.8 0 mr cp 0 33.8 0 s1 6 s2 6 sf 4 st cp 0 0.003 0 sr cp 0 0.003 bdfr
+BDFR id '32' ci '32' mf 7 mt cp 0 33.8 0 mr cp 0 33.8 0 s1 6 s2 6 sf 4 st cp 0 0.003 0 sr cp 0 0.003 bdfr
+BDFR id '33' ci '33' mf 7 mt cp 0 33.8 0 mr cp 0 33.8 0 s1 6 s2 6 sf 4 st cp 0 0.003 0 sr cp 0 0.003 bdfr
+BDFR id '34' ci '34' mf 7 mt cp 0 33.8 0 mr cp 0 33.8 0 s1 6 s2 6 sf 4 st cp 0 0.003 0 sr cp 0 0.003 bdfr
+BDFR id '35' ci '35' mf 7 mt cp 0 33.8 0 mr cp 0 33.8 0 s1 6 s2 6 sf 4 st cp 0 0.003 0 sr cp 0 0.003 bdfr
+BDFR id '36' ci '36' mf 7 mt cp 0 33.8 0 mr cp 0 33.8 0 s1 6 s2 6 sf 4 st cp 0 0.003 0 sr cp 0 0.003 bdfr
+BDFR id '37' ci '37' mf 7 mt cp 0 33.8 0 mr cp 0 33.8 0 s1 6 s2 6 sf 4 st cp 0 0.003 0 sr cp 0 0.003 bdfr
+BDFR id '38' ci '38' mf 7 mt cp 0 33.8 0 mr cp 0 33.8 0 s1 6 s2 6 sf 4 st cp 0 0.003 0 sr cp 0 0.003 bdfr
+BDFR id '39' ci '39' mf 7 mt cp 0 33.8 0 mr cp 0 33.8 0 s1 6 s2 6 sf 4 st cp 0 0.003 0 sr cp 0 0.003 bdfr
+BDFR id '40' ci '40' mf 7 mt cp 0 33.8 0 mr cp 0 33.8 0 s1 6 s2 6 sf 4 st cp 0 0.003 0 sr cp 0 0.003 bdfr
+BDFR id '41' ci '41' mf 7 mt cp 0 33.8 0 mr cp 0 33.8 0 s1 6 s2 6 sf 4 st cp 0 0.003 0 sr cp 0 0.003 bdfr
+BDFR id '42' ci '42' mf 7 mt cp 0 33.8 0 mr cp 0 33.8 0 s1 6 s2 6 sf 4 st cp 0 0.003 0 sr cp 0 0.003 bdfr
+BDFR id '43' ci '43' mf 7 mt cp 0 33.8 0 mr cp 0 33.8 0 s1 6 s2 6 sf 4 st cp 0 0.003 0 sr cp 0 0.003 bdfr
+BDFR id '44' ci '44' mf 7 mt cp 0 33.8 0 mr cp 0 33.8 0 s1 6 s2 6 sf 4 st cp 0 0.003 0 sr cp 0 0.003 bdfr
+BDFR id '45' ci '45' mf 7 mt cp 0 33.8 0 mr cp 0 33.8 0 s1 6 s2 6 sf 4 st cp 0 0.003 0 sr cp 0 0.003 bdfr
+BDFR id '46' ci '46' mf 7 mt cp 0 33.8 0 mr cp 0 33.8 0 s1 6 s2 6 sf 4 st cp 0 0.003 0 sr cp 0 0.003 bdfr
+BDFR id '47' ci '47' mf 7 mt cp 0 33.8 0 mr cp 0 33.8 0 s1 6 s2 6 sf 4 st cp 0 0.003 0 sr cp 0 0.003 bdfr
+BDFR id '48' ci '48' mf 7 mt cp 0 33.8 0 mr cp 0 33.8 0 s1 6 s2 6 sf 4 st cp 0 0.003 0 sr cp 0 0.003 bdfr
+BDFR id '49' ci '49' mf 7 mt cp 0 33.8 0 mr cp 0 33.8 0 s1 6 s2 6 sf 4 st cp 0 0.003 0 sr cp 0 0.003 bdfr
+BDFR id '50' ci '50' mf 7 mt cp 0 33.8 0 mr cp 0 33.8 0 s1 6 s2 6 sf 4 st cp 0 0.003 0 sr cp 0 0.003 bdfr
+BDFR id '51' ci '51' mf 7 mt cp 0 33.8 0 mr cp 0 33.8 0 s1 6 s2 6 sf 4 st cp 0 0.003 0 sr cp 0 0.003 bdfr
+BDFR id '52' ci '52' mf 7 mt cp 0 33.8 0 mr cp 0 33.8 0 s1 6 s2 6 sf 4 st cp 0 0.003 0 sr cp 0 0.003 bdfr
+BDFR id '54' ci '54' mf 7 mt cp 0 33.8 0 mr cp 0 33.8 0 s1 6 s2 6 sf 4 st cp 0 0.003 0 sr cp 0 0.003 bdfr
+BDFR id '55' ci '55' mf 7 mt cp 0 33.8 0 mr cp 0 33.8 0 s1 6 s2 6 sf 4 st cp 0 0.003 0 sr cp 0 0.003 bdfr
+BDFR id '56' ci '56' mf 7 mt cp 0 33.8 0 mr cp 0 33.8 0 s1 6 s2 6 sf 4 st cp 0 0.003 0 sr cp 0 0.003 bdfr
+BDFR id '57' ci '57' mf 7 mt cp 0 33.8 0 mr cp 0 33.8 0 s1 6 s2 6 sf 4 st cp 0 0.003 0 sr cp 0 0.003 bdfr
+BDFR id '58' ci '58' mf 7 mt cp 0 33.8 0 mr cp 0 33.8 0 s1 6 s2 6 sf 4 st cp 0 0.003 0 sr cp 0 0.003 bdfr
+BDFR id '59' ci '59' mf 7 mt cp 0 33.8 0 mr cp 0 33.8 0 s1 6 s2 6 sf 4 st cp 0 0.003 0 sr cp 0 0.003 bdfr
+BDFR id '60' ci '60' mf 7 mt cp 0 33.8 0 mr cp 0 33.8 0 s1 6 s2 6 sf 4 st cp 0 0.003 0 sr cp 0 0.003 bdfr
+BDFR id '61' ci '61' mf 7 mt cp 0 33.8 0 mr cp 0 33.8 0 s1 6 s2 6 sf 4 st cp 0 0.003 0 sr cp 0 0.003 bdfr
+BDFR id '62' ci '62' mf 7 mt cp 0 33.8 0 mr cp 0 33.8 0 s1 6 s2 6 sf 4 st cp 0 0.003 0 sr cp 0 0.003 bdfr
+BDFR id '73' ci '73' mf 7 mt cp 0 33.8 0 mr cp 0 33.8 0 s1 6 s2 6 sf 4 st cp 0 0.003 0 sr cp 0 0.003 bdfr
+BDFR id '75' ci '75' mf 7 mt cp 0 33.8 0 mr cp 0 33.8 0 s1 6 s2 6 sf 4 st cp 0 0.003 0 sr cp 0 0.003 bdfr
+BDFR id '76' ci '76' mf 7 mt cp 0 33.8 0 mr cp 0 33.8 0 s1 6 s2 6 sf 4 st cp 0 0.003 0 sr cp 0 0.003 bdfr
+BDFR id '77' ci '77' mf 7 mt cp 0 33.8 0 mr cp 0 33.8 0 s1 6 s2 6 sf 4 st cp 0 0.003 0 sr cp 0 0.003 bdfr
+BDFR id '79' ci '79' mf 7 mt cp 0 33.8 0 mr cp 0 33.8 0 s1 6 s2 6 sf 4 st cp 0 0.003 0 sr cp 0 0.003 bdfr
+BDFR id '80' ci '80' mf 7 mt cp 0 33.8 0 mr cp 0 33.8 0 s1 6 s2 6 sf 4 st cp 0 0.003 0 sr cp 0 0.003 bdfr
+BDFR id '81' ci '81' mf 7 mt cp 0 33.8 0 mr cp 0 33.8 0 s1 6 s2 6 sf 4 st cp 0 0.003 0 sr cp 0 0.003 bdfr
+BDFR id '63' ci '63' mf 7 mt cp 0 33.8 0 mr cp 0 33.8 0 s1 6 s2 6 sf 4 st cp 0 0.003 0 sr cp 0 0.003 bdfr
+BDFR id '82' ci '82' mf 7 mt cp 0 33.8 0 mr cp 0 33.8 0 s1 6 s2 6 sf 4 st cp 0 0.003 0 sr cp 0 0.003 bdfr
+BDFR id '83' ci '83' mf 7 mt cp 0 33.8 0 mr cp 0 33.8 0 s1 6 s2 6 sf 4 st cp 0 0.003 0 sr cp 0 0.003 bdfr
+BDFR id '85' ci '85' mf 7 mt cp 0 33.8 0 mr cp 0 33.8 0 s1 6 s2 6 sf 4 st cp 0 0.003 0 sr cp 0 0.003 bdfr
+STFR id '170-K1' ci '170-K1' mf 3 mt cp 0 45 0 mr cp 0 45 0 s1 6 s2 6 sf 4 st cp 0 0.003 0 sr cp 0 0.003 stfr
+STFR id '160-K3' ci '160-K3' mf 3 mt cp 0 75 0 mr cp 0 75 0 s1 6 s2 6 sf 4 st cp 0 0.003 0 sr cp 0 0.003 stfr
+STFR id '150-K1' ci '150-K1' mf 3 mt cp 0 75 0 mr cp 0 75 0 s1 6 s2 6 sf 4 st cp 0 0.003 0 sr cp 0 0.003 stfr
+STFR id '150-K5' ci '150-K5' mf 3 mt cp 0 75 0 mr cp 0 75 0 s1 6 s2 6 sf 4 st cp 0 0.003 0 sr cp 0 0.003 stfr
+STFR id '175-K1' ci '175-K1' mf 3 mt cp 0 45 0 mr cp 0 45 0 s1 6 s2 6 sf 3 st cp 0 45 0 sr cp 0 45 stfr
+STFR id '175-K3' ci '175-K3' mf 3 mt cp 0 45 0 mr cp 0 45 0 s1 6 s2 6 sf 3 st cp 0 45 0 sr cp 0 45 stfr
+STFR id '175-K5' ci '175-K5' mf 3 mt cp 0 45 0 mr cp 0 45 0 s1 6 s2 6 sf 3 st cp 0 45 0 sr cp 0 45 stfr
+STFR id '180-K3' ci '180-K3' mf 3 mt cp 0 45 0 mr cp 0 45 0 s1 6 s2 6 sf 3 st cp 0 45 0 sr cp 0 45 stfr
+STFR id '200-K3' ci '200-K3' mf 3 mt cp 0 70 0 mr cp 0 70 0 s1 6 s2 6 sf 3 st cp 0 45 0 sr cp 0 45 stfr
+STFR id '220-K4' ci '220-K4' mf 3 mt cp 0 45 0 mr cp 0 45 0 s1 6 s2 6 sf 4 st cp 0 0.003 0 sr cp 0 0.003 stfr
+STFR id '220-K6' ci '220-K6' mf 3 mt cp 0 75 0 mr cp 0 75 0 s1 6 s2 6 sf 4 st cp 0 0.003 0 sr cp 0 0.003 stfr
+STFR id '220-K2' ci '220-K2' mf 3 mt cp 0 75 0 mr cp 0 75 0 s1 6 s2 6 sf 4 st cp 0 0.003 0 sr cp 0 0.003 stfr
+STFR id '195A-K3' ci '195A-K3' mf 3 mt cp 0 45 0 mr cp 0 45 0 s1 6 s2 6 sf 3 st cp 0 45 0 sr cp 0 45 stfr
+STFR id '200A-K4' ci '200A-K4' mf 3 mt cp 0 45 0 mr cp 0 45 0 s1 6 s2 6 sf 3 st cp 0 45 0 sr cp 0 45 stfr
+STFR id '225A-K2' ci '225A-K2' mf 3 mt cp 0 45 0 mr cp 0 45 0 s1 6 s2 6 sf 3 st cp 0 45 0 sr cp 0 45 stfr
+STFR id '230A-K5' ci '230A-K5' mf 3 mt cp 0 45 0 mr cp 0 45 0 s1 6 s2 6 sf 3 st cp 0 45 0 sr cp 0 45 stfr
+STFR id '400-K1' ci '400-K1' mf 3 mt cp 0 45 0 mr cp 0 45 0 s1 6 s2 6 sf 4 st cp 0 0.003 0 sr cp 0 0.003 stfr
+STFR id '340-K1' ci '340-K1' mf 3 mt cp 0 75 0 mr cp 0 75 0 s1 6 s2 6 sf 3 st cp 0 45 0 sr cp 0 45 stfr
+STFR id '335-K1' ci '335-K1' mf 3 mt cp 0 75 0 mr cp 0 75 0 s1 6 s2 6 sf 4 st cp 0 0.003 0 sr cp 0 0.003 stfr
+STFR id '270-K1' ci '270-K1' mf 3 mt cp 0 70 0 mr cp 0 70 0 s1 6 s2 6 sf 3 st cp 0 45 0 sr cp 0 45 stfr
+STFR id '260-K4' ci '260-K4' mf 3 mt cp 0 70 0 mr cp 0 70 0 s1 6 s2 6 sf 4 st cp 0 0.003 0 sr cp 0 0.003 stfr
+STFR id '260-K6' ci '260-K6' mf 3 mt cp 0 75 0 mr cp 0 75 0 s1 6 s2 6 sf 4 st cp 0 0.003 0 sr cp 0 0.003 stfr
+STFR id '250-K1' ci '250-K1' mf 3 mt cp 0 70 0 mr cp 0 70 0 s1 6 s2 6 sf 4 st cp 0 0.003 0 sr cp 0 0.003 stfr
+STFR id '250-K3' ci '250-K3' mf 3 mt cp 0 75 0 mr cp 0 75 0 s1 6 s2 6 sf 4 st cp 0 0.003 0 sr cp 0 0.003 stfr
+STFR id '280-K2' ci '280-K2' mf 3 mt cp 0 75 0 mr cp 0 75 0 s1 6 s2 6 sf 4 st cp 0 0.003 0 sr cp 0 0.003 stfr
+STFR id '280-K8' ci '280-K8' mf 3 mt cp 0 75 0 mr cp 0 75 0 s1 6 s2 6 sf 4 st cp 0 0.003 0 sr cp 0 0.003 stfr
+STFR id '390-K1' ci '390-K1' mf 3 mt cp 0 60 0 mr cp 0 60 0 s1 6 s2 6 sf 3 st cp 0 45 0 sr cp 0 45 stfr
+STFR id '380-K3' ci '380-K3' mf 3 mt cp 0 60 0 mr cp 0 60 0 s1 6 s2 6 sf 3 st cp 0 45 0 sr cp 0 45 stfr
+STFR id '380-K5' ci '380-K5' mf 3 mt cp 0 60 0 mr cp 0 60 0 s1 6 s2 6 sf 3 st cp 0 45 0 sr cp 0 45 stfr
+STFR id '370-K1' ci '370-K1' mf 3 mt cp 0 60 0 mr cp 0 60 0 s1 6 s2 6 sf 3 st cp 0 45 0 sr cp 0 45 stfr
+STFR id '370-K3' ci '370-K3' mf 3 mt cp 0 60 0 mr cp 0 60 0 s1 6 s2 6 sf 3 st cp 0 45 0 sr cp 0 45 stfr
+STFR id '350-K2' ci '350-K2' mf 3 mt cp 0 75 0 mr cp 0 75 0 s1 6 s2 6 sf 3 st cp 0 45 0 sr cp 0 45 stfr
+STFR id '350-K3' ci '350-K3' mf 3 mt cp 0 75 0 mr cp 0 75 0 s1 6 s2 6 sf 3 st cp 0 45 0 sr cp 0 45 stfr
+STFR id '450-K1' ci '450-K1' mf 3 mt cp 0 75 0 mr cp 0 75 0 s1 6 s2 6 sf 3 st cp 0 45 0 sr cp 0 45 stfr
+STFR id '450-K3' ci '450-K3' mf 3 mt cp 0 75 0 mr cp 0 75 0 s1 6 s2 6 sf 3 st cp 0 45 0 sr cp 0 45 stfr
+STFR id '490-K3' ci '490-K3' mf 3 mt cp 0 75 0 mr cp 0 75 0 s1 6 s2 6 sf 3 st cp 0 45 0 sr cp 0 45 stfr
+STFR id '490-K4' ci '490-K4' mf 3 mt cp 0 75 0 mr cp 0 75 0 s1 6 s2 6 sf 3 st cp 0 45 0 sr cp 0 45 stfr
+STFR id '510-K9' ci '510-K9' mf 3 mt cp 0 75 0 mr cp 0 75 0 s1 6 s2 6 sf 3 st cp 0 45 0 sr cp 0 45 stfr
+STFR id '510-K10' ci '510-K10' mf 3 mt cp 0 75 0 mr cp 0 75 0 s1 6 s2 6 sf 3 st cp 0 45 0 sr cp 0 45 stfr
+STFR id '500-K3' ci '500-K3' mf 3 mt cp 0 75 0 mr cp 0 75 0 s1 6 s2 6 sf 3 st cp 0 45 0 sr cp 0 45 stfr
+STFR id '500-K12' ci '500-K12' mf 3 mt cp 0 75 0 mr cp 0 75 0 s1 6 s2 6 sf 3 st cp 0 45 0 sr cp 0 45 stfr
+STFR id '500-K15' ci '500-K15' mf 3 mt cp 0 75 0 mr cp 0 75 0 s1 6 s2 6 sf 3 st cp 0 45 0 sr cp 0 45 stfr
+STFR id '330-K2' ci '330-K2' mf 3 mt cp 0 75 0 mr cp 0 75 0 s1 6 s2 6 sf 4 st cp 0 0.003 0 sr cp 0 0.003 stfr
+STFR id '320-K1' ci '320-K1' mf 3 mt cp 0 70 0 mr cp 0 70 0 s1 6 s2 6 sf 4 st cp 0 0.003 0 sr cp 0 0.003 stfr
+CRFR id '66' nm 'Friction' cs '66'
+lt ys
+TBLE
+-1.375 -.25 <
+-.25 1.375 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '70' nm 'Friction' cs '70'
+lt ys
+TBLE
+-4.682498 -1.742502 <
+-1.742502 4.682498 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '69' nm 'Friction' cs '69'
+lt ys
+TBLE
+-4.682498 -1.742502 <
+-1.742502 4.682498 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '51' nm 'Friction' cs '51'
+lt ys
+TBLE
+-1.9 -.25 <
+-.25 1.9 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '52' nm 'Friction' cs '52'
+lt ys
+TBLE
+-1.9 -.25 <
+-.25 1.9 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '8' nm 'Friction' cs '8'
+lt ys
+TBLE
+-1.675 -.25 <
+-.25 1.675 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '160' nm 'Friction' cs '160'
+lt ys
+TBLE
+-5.4 -3 <
+-3 5.4 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '159' nm 'Friction' cs '159'
+lt ys
+TBLE
+-6.225 -3 <
+-3 6.225 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '153' nm 'Friction' cs '153'
+lt ys
+TBLE
+-2.475 -.75 <
+-.75 2.475 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '154' nm 'Friction' cs '154'
+lt ys
+TBLE
+-2.475 -.75 <
+-.75 2.475 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '30' nm 'Friction' cs '30'
+lt ys
+TBLE
+-2.675 -.5 <
+-.5 2.675 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '31' nm 'Friction' cs '31'
+lt ys
+TBLE
+-2.675 -.5 <
+-.5 2.675 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '117' nm 'Friction' cs '117'
+lt ys
+TBLE
+-3.3 -1.5 <
+-1.5 3.3 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '118' nm 'Friction' cs '118'
+lt ys
+TBLE
+-3.3 -1.5 <
+-1.5 3.3 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '9' nm 'Friction' cs '9'
+lt ys
+TBLE
+-1.675 -.25 <
+-.25 1.675 <
+tble
+ft ys
+TBLE
+3 45 <
+3 45 <
+tble
+fr ys
+TBLE
+3 45 <
+3 45 <
+tble crfr
+CRFR id '119' nm 'Friction' cs '119'
+lt ys
+TBLE
+-4 -2.5 <
+-2.5 4 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '120' nm 'Friction' cs '120'
+lt ys
+TBLE
+-4 -2.5 <
+-2.5 4 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '121' nm 'Friction' cs '121'
+lt ys
+TBLE
+-3.5 -2 <
+-2 3.5 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '122' nm 'Friction' cs '122'
+lt ys
+TBLE
+-3.5 -2 <
+-2 3.5 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '123' nm 'Friction' cs '123'
+lt ys
+TBLE
+-3.875 -2 <
+-2 3.875 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '124' nm 'Friction' cs '124'
+lt ys
+TBLE
+-3.875 -2 <
+-2 3.875 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '129' nm 'Friction' cs '129'
+lt ys
+TBLE
+-1.95 -.75 <
+-.75 1.95 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '130' nm 'Friction' cs '130'
+lt ys
+TBLE
+-2.7 -1.5 <
+-1.5 2.7 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '131' nm 'Friction' cs '131'
+lt ys
+TBLE
+-2.7 -1.5 <
+-1.5 2.7 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '134' nm 'Friction' cs '134'
+lt ys
+TBLE
+-2.7 -1.5 <
+-1.5 2.7 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '132' nm 'Friction' cs '132'
+lt ys
+TBLE
+-4.075 -2.5 <
+-2.5 4.075 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '133' nm 'Friction' cs '133'
+lt ys
+TBLE
+-4.075 -2.5 <
+-2.5 4.075 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '170' nm 'Friction' cs '170'
+lt ys
+TBLE
+-2.7 -1.5 <
+-1.5 2.7 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '169' nm 'Friction' cs '169'
+lt ys
+TBLE
+-2.7 -1.5 <
+-1.5 2.7 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '32' nm 'Friction' cs '32'
+lt ys
+TBLE
+-2.675 -.5 <
+-.5 2.675 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '33' nm 'Friction' cs '33'
+lt ys
+TBLE
+-2.675 -.5 <
+-.5 2.675 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '34' nm 'Friction' cs '34'
+lt ys
+TBLE
+-2.35 -1 <
+-1 2.35 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '35' nm 'Friction' cs '35'
+lt ys
+TBLE
+-2.675 -.6499999 <
+-.6499999 2.675 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '36' nm 'Friction' cs '36'
+lt ys
+TBLE
+-2.675 -.6499999 <
+-.6499999 2.675 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '37' nm 'Friction' cs '37'
+lt ys
+TBLE
+-3.585001 -1.414999 <
+-1.414999 3.585001 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '38' nm 'Friction' cs '38'
+lt ys
+TBLE
+-3.920001 -1.079999 <
+-1.079999 3.920001 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '39' nm 'Friction' cs '39'
+lt ys
+TBLE
+-2.5 -.25 <
+-.25 2.5 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '40' nm 'Friction' cs '40'
+lt ys
+TBLE
+-2.5 -.25 <
+-.25 2.5 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '41' nm 'Friction' cs '41'
+lt ys
+TBLE
+-1.45 -.25 <
+-.25 1.45 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '42' nm 'Friction' cs '42'
+lt ys
+TBLE
+-1.45 -.25 <
+-.25 1.45 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '43' nm 'Friction' cs '43'
+lt ys
+TBLE
+-4.370001 -1.529999 <
+-1.529999 4.370001 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '44' nm 'Friction' cs '44'
+lt ys
+TBLE
+-4.020002 -1.18 <
+-1.18 4.020002 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '45' nm 'Friction' cs '45'
+lt ys
+TBLE
+-2.425 -.25 <
+-.25 2.425 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '46' nm 'Friction' cs '46'
+lt ys
+TBLE
+-2.425 -.25 <
+-.25 2.425 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '47' nm 'Friction' cs '47'
+lt ys
+TBLE
+-1.15 -.2500001 <
+-.2500001 1.15 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '48' nm 'Friction' cs '48'
+lt ys
+TBLE
+-1.15 -.2500001 <
+-.2500001 1.15 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '49' nm 'Friction' cs '49'
+lt ys
+TBLE
+-1.15 -.2500001 <
+-.2500001 1.15 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '50' nm 'Friction' cs '50'
+lt ys
+TBLE
+-1.75 -.25 <
+-.25 1.75 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '53' nm 'Friction' cs '53'
+lt ys
+TBLE
+-4.449999 -1.650001 <
+-1.650001 4.449999 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '54' nm 'Friction' cs '54'
+lt ys
+TBLE
+-4.449999 -1.650001 <
+-1.650001 4.449999 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '55' nm 'Friction' cs '55'
+lt ys
+TBLE
+-4.769998 -1.730002 <
+-1.730002 4.769998 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '56' nm 'Friction' cs '56'
+lt ys
+TBLE
+-4.769998 -3.229997 <
+-3.229997 4.769998 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '57' nm 'Friction' cs '57'
+lt ys
+TBLE
+-5.032499 -1.692501 <
+-1.692501 5.032499 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '58' nm 'Friction' cs '58'
+lt ys
+TBLE
+-5.032499 -1.692501 <
+-1.692501 5.032499 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '59' nm 'Friction' cs '59'
+lt ys
+TBLE
+-5.032499 -1.692501 <
+-1.692501 5.032499 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '60' nm 'Friction' cs '60'
+lt ys
+TBLE
+-5.032499 -1.692501 <
+-1.692501 5.032499 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '61' nm 'Friction' cs '61'
+lt ys
+TBLE
+-3.494999 2.554999 <
+2.554999 3.494999 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '62' nm 'Friction' cs '62'
+lt ys
+TBLE
+-3.494999 1.055001 <
+1.055001 3.494999 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '67' nm 'Friction' cs '67'
+lt ys
+TBLE
+-4.682498 -1.742502 <
+-1.742502 4.682498 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '68' nm 'Friction' cs '68'
+lt ys
+TBLE
+-4.682498 -1.742502 <
+-1.742502 4.682498 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '10' nm 'Friction' cs '10'
+lt ys
+TBLE
+-1.6 -.25 <
+-.25 1.6 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '11' nm 'Friction' cs '11'
+lt ys
+TBLE
+-1.6 -.25 <
+-.25 1.6 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '63' nm 'Friction' cs '63'
+lt ys
+TBLE
+-7.45 -.25 <
+-.25 7.45 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '64' nm 'Friction' cs '64'
+lt ys
+TBLE
+-3.55 -.25 <
+-.25 3.55 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '71' nm 'Friction' cs '71'
+lt ys
+TBLE
+-4.682498 -1.742502 <
+-1.742502 4.682498 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '72' nm 'Friction' cs '72'
+lt ys
+TBLE
+-4.682498 -1.742502 <
+-1.742502 4.682498 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '74' nm 'Friction' cs '74'
+lt ys
+TBLE
+-2.5 -.25 <
+-.25 2.5 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '75' nm 'Friction' cs '75'
+lt ys
+TBLE
+-4.3 -.25 <
+-.25 4.3 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '76' nm 'Friction' cs '76'
+lt ys
+TBLE
+-1.6 -.25 <
+-.25 1.6 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '77' nm 'Friction' cs '77'
+lt ys
+TBLE
+-1.6 -.25 <
+-.25 1.6 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '78' nm 'Friction' cs '78'
+lt ys
+TBLE
+-1.6 -.25 <
+-.25 1.6 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '79' nm 'Friction' cs '79'
+lt ys
+TBLE
+-1.75 -.25 <
+-.25 1.75 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '81' nm 'Friction' cs '81'
+lt ys
+TBLE
+-4.6 -1 <
+-1 4.6 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '82' nm 'Friction' cs '82'
+lt ys
+TBLE
+-3.4 -1 <
+-1 3.4 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '83' nm 'Friction' cs '83'
+lt ys
+TBLE
+-2.6 -.5 <
+-.5 2.6 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '84' nm 'Friction' cs '84'
+lt ys
+TBLE
+-3.2 -.5 <
+-.5 3.2 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '12' nm 'Friction' cs '12'
+lt ys
+TBLE
+-1.675 -.25 <
+-.25 1.675 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '13' nm 'Friction' cs '13'
+lt ys
+TBLE
+-1.675 -.25 <
+-.25 1.675 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '85' nm 'Friction' cs '85'
+lt ys
+TBLE
+-1 -.25 <
+-.25 1 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '86' nm 'Friction' cs '86'
+lt ys
+TBLE
+-1 -.25 <
+-.25 1 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '87' nm 'Friction' cs '87'
+lt ys
+TBLE
+-2.275 -.25 <
+-.25 2.275 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '88' nm 'Friction' cs '88'
+lt ys
+TBLE
+-2.8 -.2499998 <
+-.2499998 2.8 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '89' nm 'Friction' cs '89'
+lt ys
+TBLE
+-3.775 -.2499998 <
+-.2499998 3.775 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '90' nm 'Friction' cs '90'
+lt ys
+TBLE
+-3.775 -.2499998 <
+-.2499998 3.775 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '91' nm 'Friction' cs '91'
+lt ys
+TBLE
+-3.775 -.2499998 <
+-.2499998 3.775 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '92' nm 'Friction' cs '92'
+lt ys
+TBLE
+-1.75 -.2499999 <
+-.2499999 1.75 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '93' nm 'Friction' cs '93'
+lt ys
+TBLE
+-2.65 -.2499998 <
+-.2499998 2.65 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '94' nm 'Friction' cs '94'
+lt ys
+TBLE
+-2.65 -.2499998 <
+-.2499998 2.65 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '95' nm 'Friction' cs '95'
+lt ys
+TBLE
+-3.05 -.3500001 <
+-.3500001 3.05 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '96' nm 'Friction' cs '96'
+lt ys
+TBLE
+-3.05 -.3500001 <
+-.3500001 3.05 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '97' nm 'Friction' cs '97'
+lt ys
+TBLE
+-2.6 -.5 <
+-.5 2.6 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '98' nm 'Friction' cs '98'
+lt ys
+TBLE
+-2.6 -.5 <
+-.5 2.6 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '135' nm 'Friction' cs '135'
+lt ys
+TBLE
+-1.7 -.5 <
+-.5 1.7 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '136' nm 'Friction' cs '136'
+lt ys
+TBLE
+-1.7 -.5 <
+-.5 1.7 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '137' nm 'Friction' cs '137'
+lt ys
+TBLE
+-1.7 -.5 <
+-.5 1.7 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '138' nm 'Friction' cs '138'
+lt ys
+TBLE
+-1.7 -.5 <
+-.5 1.7 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '139' nm 'Friction' cs '139'
+lt ys
+TBLE
+-1.7 -.5 <
+-.5 1.7 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '140' nm 'Friction' cs '140'
+lt ys
+TBLE
+-1.7 -.5 <
+-.5 1.7 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '99' nm 'Friction' cs '99'
+lt ys
+TBLE
+-3.395 .9550011 <
+.9550011 3.395 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '100' nm 'Friction' cs '100'
+lt ys
+TBLE
+-3.395 .9550011 <
+.9550011 3.395 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '101' nm 'Friction' cs '101'
+lt ys
+TBLE
+-3.569999 1.330001 <
+1.330001 3.569999 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR  id '102' nm 'Friction' cs '102'
+lt ys
+TBLE
+-3.569999 -2.069999 <
+-2.069999 3.569999 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '103' nm 'Friction' cs '103'
+lt ys
+TBLE
+-3.569999 1.330001 <
+1.330001 3.569999 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '104' nm 'Friction' cs '104'
+lt ys
+TBLE
+-3.369999 1.530001 <
+1.530001 3.369999 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '105' nm 'Friction' cs '105'
+lt ys
+TBLE
+-5.094999 2.155001 <
+2.155001 5.094999 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '106' nm 'Friction' cs '106'
+lt ys
+TBLE
+-5.094999 2.155001 <
+2.155001 5.094999 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '14' nm 'Friction' cs '14'
+lt ys
+TBLE
+-1.6 -.25 <
+-.25 1.6 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '15' nm 'Friction' cs '15'
+lt ys
+TBLE
+-1.6 -.25 <
+-.25 1.6 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '107' nm 'Friction' cs '107'
+lt ys
+TBLE
+-4.744999 2.205001 <
+2.205001 4.744999 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '108' nm 'Friction' cs '108'
+lt ys
+TBLE
+-4.744999 2.205001 <
+2.205001 4.744999 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '109' nm 'Friction' cs '109'
+lt ys
+TBLE
+-4.744999 2.205001 <
+2.205001 4.744999 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '111' nm 'Friction' cs '111'
+lt ys
+TBLE
+-5.094999 2.155001 <
+2.155001 5.094999 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '112' nm 'Friction' cs '112'
+lt ys
+TBLE
+-5.094999 2.155001 <
+2.155001 5.094999 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '113' nm 'Friction' cs '113'
+lt ys
+TBLE
+-5.27 2.130001 <
+2.130001 5.27 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '114' nm 'Friction' cs '114'
+lt ys
+TBLE
+-5.27 2.130001 <
+2.130001 5.27 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '115' nm 'Friction' cs '115'
+lt ys
+TBLE
+-4.125 -1.5 <
+-1.5 4.125 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '116' nm 'Friction' cs '116'
+lt ys
+TBLE
+-4.125 -1.5 <
+-1.5 4.125 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '167' nm 'Friction' cs '167'
+lt ys
+TBLE
+-2.28 -1 <
+-1 2.28 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '168' nm 'Friction' cs '168'
+lt ys
+TBLE
+-2.2 -1 <
+-1 2.2 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '141' nm 'Friction' cs '141'
+lt ys
+TBLE
+-4.64 -2 <
+-2 4.64 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '142' nm 'Friction' cs '142'
+lt ys
+TBLE
+-4.625 -2 <
+-2 4.625 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '143' nm 'Friction' cs '143'
+lt ys
+TBLE
+-5.125 -2.5 <
+-2.5 5.125 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '144' nm 'Friction' cs '144'
+lt ys
+TBLE
+-5.125 -2.5 <
+-2.5 5.125 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '145' nm 'Friction' cs '145'
+lt ys
+TBLE
+-3.15 -1.5 <
+-1.5 3.15 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '146' nm 'Friction' cs '146'
+lt ys
+TBLE
+-3.15 -1.5 <
+-1.5 3.15 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '16' nm 'Friction' cs '16'
+lt ys
+TBLE
+-2.1 -.75 <
+-.75 2.1 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '17' nm 'Friction' cs '17'
+lt ys
+TBLE
+-2.1 -.75 <
+-.75 2.1 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '147' nm 'Friction' cs '147'
+lt ys
+TBLE
+-3.15 -1.5 <
+-1.5 3.15 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '148' nm 'Friction' cs '148'
+lt ys
+TBLE
+-3.15 -1.5 <
+-1.5 3.15 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '149' nm 'Friction' cs '149'
+lt ys
+TBLE
+-3.65 -2 <
+-2 3.65 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '150' nm 'Friction' cs '150'
+lt ys
+TBLE
+-3.65 -2 <
+-2 3.65 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '151' nm 'Friction' cs '151'
+lt ys
+TBLE
+-4.475 -2 <
+-2 4.475 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '152' nm 'Friction' cs '152'
+lt ys
+TBLE
+-4.475 -2 <
+-2 4.475 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '18' nm 'Friction' cs '18'
+lt ys
+TBLE
+-2.1 -.75 <
+-.75 2.1 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '19' nm 'Friction' cs '19'
+lt ys
+TBLE
+-2.1 -.75 <
+-.75 2.1 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '4' nm 'Friction' cs '4'
+lt ys
+TBLE
+-1.6 -.25 <
+-.25 1.6 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '5' nm 'Friction' cs '5'
+lt ys
+TBLE
+-1.6 -.25 <
+-.25 1.6 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '6' nm 'Friction' cs '6'
+lt ys
+TBLE
+-2.575 -.25 <
+-.25 2.575 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '7' nm 'Friction' cs '7'
+lt ys
+TBLE
+-2.575 -.25 <
+-.25 2.575 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '20' nm 'Friction' cs '20'
+lt ys
+TBLE
+-2.425 -.25 <
+-.25 2.425 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '21' nm 'Friction' cs '21'
+lt ys
+TBLE
+-2.425 -.25 <
+-.25 2.425 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '155' nm 'Friction' cs '155'
+lt ys
+TBLE
+-4.8 -3 <
+-3 4.8 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '156' nm 'Friction' cs '156'
+lt ys
+TBLE
+-3.45 -1.5 <
+-1.5 3.45 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '157' nm 'Friction' cs '157'
+lt ys
+TBLE
+-4.8 -3 <
+-3 4.8 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '158' nm 'Friction' cs '158'
+lt ys
+TBLE
+-4.8 -3 <
+-3 4.8 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '22' nm 'Friction' cs '22'
+lt ys
+TBLE
+-2.05 -.2500001 <
+-.2500001 2.05 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '23' nm 'Friction' cs '23'
+lt ys
+TBLE
+-2.05 -.2500001 <
+-.2500001 2.05 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '24' nm 'Friction' cs '24'
+lt ys
+TBLE
+-2.45 -.65 <
+-.65 2.45 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '25' nm 'Friction' cs '25'
+lt ys
+TBLE
+-2.45 -.65 <
+-.65 2.45 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '26' nm 'Friction' cs '26'
+lt ys
+TBLE
+-1.75 -.25 <
+-.25 1.75 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '27' nm 'Friction' cs '27'
+lt ys
+TBLE
+-1.75 -.25 <
+-.25 1.75 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '165' nm 'Friction' cs '165'
+lt ys
+TBLE
+-2.7 -1.5 <
+-1.5 2.7 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '28' nm 'Friction' cs '28'
+lt ys
+TBLE
+-1.45 -.25 <
+-.25 1.45 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '29' nm 'Friction' cs '29'
+lt ys
+TBLE
+-1.45 -.25 <
+-.25 1.45 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '164' nm 'Friction' cs '164'
+lt ys
+TBLE
+-2.7 -1.5 <
+-1.5 2.7 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '163' nm 'Friction' cs '163'
+lt ys
+TBLE
+-2.7 -1.5 <
+-1.5 2.7 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '162' nm 'Friction' cs '162'
+lt ys
+TBLE
+-2.7 -1.5 <
+-1.5 2.7 <
+tble
+ft ys
+TBLE
+5 1 <
+5 1 <
+tble
+fr ys
+TBLE
+5 1 <
+5 1 <
+tble crfr
+CRFR id '161' nm 'Friction' cs '161'
+lt ys
+TBLE
+-2.7 -1.5 <
+-1.5 2.7 <
+tble
+ft ys
+TBLE
+5 1 <
+5 1 <
+tble
+fr ys
+TBLE
+5 1 <
+5 1 <
+tble crfr
+CRFR id '127' nm 'Friction' cs '127'
+lt ys
+TBLE
+-2.7 -1.5 <
+-1.5 2.7 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '128' nm 'Friction' cs '128'
+lt ys
+TBLE
+-2.7 -1.5 <
+-1.5 2.7 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '125' nm 'Friction' cs '125'
+lt ys
+TBLE
+-2.25 -.75 <
+-.75 2.25 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '126' nm 'Friction' cs '126'
+lt ys
+TBLE
+-2.25 -.75 <
+-.75 2.25 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR id '171' nm 'Friction' cs '171'
+lt ys
+TBLE
+-2.575 -.25 <
+-.25 2.575 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr
+CRFR  id '172' nm 'Friction' cs '172'
+lt ys
+TBLE
+-1.7 -0.5 <
+-0.5 1.7 <
+tble
+ft ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble
+fr ys
+TBLE
+7 33.8 <
+7 33.8 <
+tble crfr

@@ -1,0 +1,123 @@
+[Map]
+Version=Mapper 3.02 Beta
+Window=0,0,15360,10230
+ZoomExtent=77933.38,391797.3,79814.68,393009.4
+ViewExtent=77933.38,391797.3,79814.68,393009.4
+BorderStyle= 0 
+Transparent= 0 
+Text=E:\SOB_LITE\NEW.LIT\FIXED\HOLLAND.MAP
+ForeColor=0
+BackColor=FFFF80
+FontName=MS Serif
+FontSize=6
+FontBold= 0 
+FontItalic= 0 
+FontUnderLine= 0 
+FontStrikethru= 0 
+UnitMeter=0
+
+[Legend]
+Visible= 0 
+BorderStyle=-1 
+Transparent=-1 
+Position=77933.38,393009.4
+Text=
+ForeColor=0
+BackColor=FFFFFF
+FontName=MS Serif
+FontSize=6
+FontBold= 0 
+FontItalic= 0 
+FontUnderLine= 0 
+FontStrikethru= 0 
+
+[Title]
+Visible= 0 
+BorderStyle= 0 
+Transparent= 0 
+Position=77933.38,393009.4
+Text=Titel
+ForeColor=0
+BackColor=FFFFFF
+FontName=Arial
+FontSize=12
+FontBold= 0 
+FontItalic= 0 
+FontUnderLine= 0 
+FontStrikethru= 0 
+
+[Info]
+Visible= 0 
+BorderStyle= 0 
+Transparent= 0 
+Position=77933.38,393009.4
+Text=Titel
+ForeColor=0
+BackColor=FFFFFF
+FontName=Arial
+FontSize=9
+FontBold= 0 
+FontItalic= 0 
+FontUnderLine= 0 
+FontStrikethru= 0 
+
+[Layer1]
+Path=RD_PROV.MPL
+Name=Provincies      
+LineStyle= 0 
+LineColor=408000
+LineWidth=0
+PointStyle= 0 
+PointSize=0
+FillStyle= 0 
+FillColor=F0FBFF
+MinZoom=0
+MaxZoom=0
+Visible= 0 
+Selectable= 0 
+
+[Layer2]
+Path=RD_STAD.MPL
+Name=Bebouwd gebied  
+LineStyle= 0 
+LineColor=0
+LineWidth=0
+PointStyle= 0 
+PointSize=0
+FillStyle= 0 
+FillColor=8080FF
+MinZoom=0
+MaxZoom=0
+Visible= 0 
+Selectable=-1 
+
+[Layer3]
+Path=RD_WEGEN.MPL
+Name=Wegen           
+LineStyle= 0 
+LineColor=FF
+LineWidth=0
+PointStyle= 0 
+PointSize=0
+FillStyle= 0 
+FillColor=FF
+MinZoom=0
+MaxZoom=0
+Visible= 0 
+Selectable=-1 
+
+[Layer4]
+Path=RD_WATER.MPL
+Name=Waterlopen      
+LineStyle= 0 
+LineColor=0
+LineWidth=0
+PointStyle= 0 
+PointSize=0
+FillStyle= 0 
+FillColor=FFFF00
+MinZoom=0
+MaxZoom=0
+Visible= 0 
+Selectable=-1 
+

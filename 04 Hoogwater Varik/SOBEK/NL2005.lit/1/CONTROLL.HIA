@@ -1,0 +1,19 @@
+[General]
+FileType=DelftIO HIA file
+DioVersion=1.08.00
+HiaVersion=1.00
+ 
+[DioCheck]
+NumberOfParameters=1
+NumberOfLocations=8
+T0=2000.01.01 00:00:00
+TimeStepUnit=Second
+TimeStepMultiplyer=60
+ 
+[Long Parameters]
+ 
+[Long Locations]
+3=RT_driel omloop dicht
+6=RT_Amero omloop dicht
+8=RT_Hages omloop dicht
+ 

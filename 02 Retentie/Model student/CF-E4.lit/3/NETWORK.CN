@@ -1,0 +1,25 @@
+CN_1.1
+FLBO id '699' ci '699' flbo
+FLNO id '175' nm '175' ci '175' flno 
+FLNO id '155' nm '155' ci '155' flno
+FLNO id '150' nm '150' ci '150' flno
+FLNO id '195A' nm '195A' ci '195A' flno 
+FLNO id '200' nm '200' ci '200' flno
+FLNO id '210' nm '210' ci '210' flno
+FLNO id '450' nm '450' ci '450' flno 
+FLNO id '420' nm '420' ci '420' flno
+FLNO id '400' nm '400' ci '400' flno
+FLNX id '335' nm '335' ci '335' flnx
+FLNX id '300' nm '300' ci '300' flnx
+FLNX id '260' nm '260' ci '260' flnx
+FLNX id '250' nm '250' ci '250' flnx
+FLNX id '280' nm '280' ci '280' flnx
+FLNO id '370' nm '370' ci '370' flno
+FLNX id '350' nm '350' ci '350' flnx
+FLBX id '3' nm '' ci '52' lc 264.747608105999 flbx 
+FLNO id '366' nm '366' ci '366' flno
+FLNO id '365' nm '365' ci '365' flno
+FLNO id '510' nm '510' ci '510' flno
+FLNO id '500' nm '500' ci '500' flno
+FLNO id '1040' nm '1040' ci '1040' flno
+FLNX id '320' nm '320' ci '320' flnx

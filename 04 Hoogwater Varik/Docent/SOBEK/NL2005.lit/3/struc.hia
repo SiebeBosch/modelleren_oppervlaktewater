@@ -1,0 +1,29 @@
+[General]
+FileType=DelftIO HIA file
+DioVersion=1.08.00
+HiaVersion=1.00
+ 
+[DioCheck]
+NumberOfParameters=5
+NumberOfLocations=25
+T0=1995.01.01 00:00:00
+TimeStepUnit=Second
+TimeStepMultiplyer=60
+ 
+[Long Parameters]
+3=Waterlevel down (m AD)
+5=Gate lower edge level (m AD)
+ 
+[Long Locations]
+ 
+[Location Descriptions]
+11=C_NDB_2##S_NDB_13
+12=C_RT_2237##S_RT_01
+14=C_RT_02##S_RT_03
+16=C_RT_03##S_RT_05
+21=NDB_svkw
+22=NDB_haringvlietsluizen
+23=NDB_svkh
+24=RT_Driel compound
+25=RT_Amero compound
+ 

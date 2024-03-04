@@ -1,0 +1,13 @@
+  Following dimensions have been set:
+  Number of nodes       =          15
+  Number of 3B-branches =           7
+  Meteostations         =           1
+Warning:Error: Node is not correctly connected to other nodes 3
+  Unpaved areas         =           7
+  Crops                 =          16
+  KvdL history          =         960
+  Boundary nodes        =           8
+Warning: Only one weatherstation in rainfall file. No check of meteostation names performed; all nodes use this one and only meteostation.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+  Start event            1
+ Succesfull logout of Sobek_3b 
+

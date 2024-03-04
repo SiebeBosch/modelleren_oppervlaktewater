@@ -1,0 +1,55 @@
+STDS id '170-K1' nm '' ty 10 tc 1 ll -1.15 rl -1.15 dl 8 si 'Round 500 mm' li 0.7 lo 1 ov 0 tv 0 rt 0 stds
+STDS id '160-K3' nm '' ty 10 tc 1 ll 1.02 rl 0.95 dl 6 si 'Round 300 mm' li 0.7 lo 1 ov 0 tv 0 rt 0 stds
+STDS id '150-K1' nm '' ty 10 tc 1 ll 3.32 rl 3.3 dl 5 si 'Round 200 mm' li 0.7 lo 1 ov 0 tv 0 rt 0 stds
+STDS id '150-K5' nm '' ty 10 tc 1 ll 2.69 rl 2.45 dl 8 si 'Egg Shape .3 m' li 0.7 lo 1 ov 0 tv 0 rt 0 stds
+STDS id '175-K1' nm '' ty 10 tc 1 ll -1.7 rl -1.7 dl 8 si 'Round 1250 mm' li 0.7 lo 1 ov 0 tv 0 rt 0 stds
+STDS id '175-K3' nm '' ty 10 tc 1 ll -1.7 rl -1.7 dl 8 si 'Round 1250 mm' li 0.7 lo 1 ov 0 tv 0 rt 0 stds
+STDS id '175-K5' nm '' ty 10 tc 1 ll -1.7 rl -1.7 dl 8 si 'Round 1250 mm' li 0.7 lo 1 ov 0 tv 0 rt 0 stds
+STDS id '180-K3' nm '' ty 10 tc 1 ll -1.7 rl -1.7 dl 8 si 'Round 1250 mm' li 0.7 lo 1 ov 0 tv 0 rt 0 stds
+STDS id 'S5' nm '' ty 6 cl -0.65 cw 2 ce 1 sc 1 rt 1 stds
+STDS id '200-K3' nm '' ty 10 tc 1 ll -1.1 rl -1.1 dl 8 si 'Round 500 mm' li 0.7 lo 1 ov 0 tv 0 rt 0 stds
+STDS id '220-K4' nm '' ty 10 tc 1 ll 2.29 rl 2.93 dl 28 si 'Round 300 mm' li 0.7 lo 1 ov 0 tv 0 rt 0 stds
+STDS id '220-K6' nm '' ty 10 tc 1 ll 0.15 rl 0 dl 8 si 'Egg Shape .3 m' li 0.7 lo 1 ov 0 tv 0 rt 0 stds
+STDS id '220-K2' nm '' ty 12 tb 4 si 'Arch Shape 1.0 m' pw 3 vf 1.5 li 0.25 lo 0.25 dl 1 rl 2.56 rt 0 stds
+STDS id '195A-K3' nm '' ty 10 tc 1 ll -1.85 rl -1.85 dl 8 si 'Round 1250 mm' li 0.7 lo 1 ov 0 tv 0 rt 0 stds
+STDS id '200A-K4' nm '' ty 10 tc 1 ll -1.85 rl -1.85 dl 8 si 'Round 1250 mm' li 0.7 lo 1 ov 0 tv 0 rt 0 stds
+STDS id '225A-K2' nm '' ty 10 tc 1 ll -1.85 rl -1.85 dl 8 si 'Round 1250 mm' li 0.7 lo 1 ov 0 tv 0 rt 0 stds
+STDS id '230A-K5' nm '' ty 10 tc 1 ll -1.85 rl -1.85 dl 8 si 'Round 1250 mm' li 0.7 lo 1 ov 0 tv 0 rt 0 stds
+STDS id 'S6' nm '' ty 6 cl -0.65 cw 2 ce 1 sc 1 rt 1 stds
+STDS id '400-K1' nm '' ty 12 tb 4 si 'Cunette 1.6 m' pw 3 vf 1.5 li 0.25 lo 0.25 dl 11 rl -1.1 rt 0 stds
+STDS id '340-K1' nm '' ty 10 tc 1 ll -1 rl -1.08 dl 10 si 'Round 880 mm' li 0.7 lo 1 ov 0 tv 0 rt 0 stds
+STDS id '335-K1' nm '' ty 10 tc 1 ll -0.13 rl -0.17 dl 5 si 'Round 880 mm' li 0.7 lo 1 ov 0 tv 0 rt 0 stds
+STDS id '270-K1' nm '' ty 10 tc 1 ll 0.85 rl 0.85 dl 5 si 'Round 500 mm' li 0.7 lo 1 ov 0 tv 0 rt 0 stds
+STDS id '260-K4' nm '' ty 10 tc 1 ll 0.95 rl 1.01 dl 3 si 'Round 300 mm' li 0.7 lo 1 ov 0 tv 0 rt 0 stds
+STDS id '260-K6' nm '' ty 12 tb 4 si 'Arch Shape 1.0 m' pw 3 vf 1.5 li 0.25 lo 0.25 dl 10 rl 0.85 rt 0 stds
+STDS id '250-K1' nm '' ty 10 tc 1 ll 0.37 rl 0.6 dl 9 si 'Round 300 mm' li 0.7 lo 1 ov 0 tv 0 rt 0 stds
+STDS id '250-K3' nm '' ty 12 tb 4 si 'Arch Shape 1.0 m' pw 3 vf 1.5 li 0.25 lo 0.25 dl 8 rl 0.4 rt 0 stds
+STDS id '280-K2' nm '' ty 10 tc 1 ll 2.12 rl 2.16 dl 6 si 'Round 160 mm' li 0.7 lo 1 ov 0 tv 0 rt 0 stds
+STDS id '280-K8' nm '' ty 10 tc 1 ll 1.9 rl 1.9 dl 3 si 'Round 250 mm' li 0.7 lo 1 ov 0 tv 0 rt 0 stds
+STDS id '390-K1' nm '' ty 10 tc 1 ll -1.2 rl -1.2 dl 8 si 'Round 600 mm' li 0.7 lo 1 ov 0 tv 0 rt 0 stds
+STDS id '380-K3' nm '' ty 10 tc 1 ll -1.2 rl -1.2 dl 8 si 'Round 600 mm' li 0.7 lo 1 ov 0 tv 0 rt 0 stds
+STDS id '380-K5' nm '' ty 10 tc 1 ll -1.2 rl -1.2 dl 8 si 'Round 600 mm' li 0.7 lo 1 ov 0 tv 0 rt 0 stds
+STDS id '370-K1' nm '' ty 10 tc 1 ll -1.2 rl -1.2 dl 8 si 'Round 600 mm' li 0.7 lo 1 ov 0 tv 0 rt 0 stds
+STDS id '370-K3' nm '' ty 10 tc 1 ll -1.2 rl -1.2 dl 8 si 'Round 600 mm' li 0.7 lo 1 ov 0 tv 0 rt 0 stds
+STDS id '350-K2' nm '' ty 10 tc 1 ll -0.09 rl 0.93 dl 9 si 'Round 600 mm' li 0.7 lo 1 ov 0 tv 0 rt 0 stds
+STDS id '350-K3' nm '' ty 10 tc 1 ll -1.08 rl -1.11 dl 2 si 'Round 600 mm' li 0.7 lo 1 ov 0 tv 0 rt 0 stds
+STDS id '450-K1' nm '' ty 10 tc 1 ll -1.9 rl -1.9 dl 6 si '2' li 0.7 lo 1 ov 0 tv 0 rt 0 stds
+STDS id '450-K3' nm '' ty 10 tc 1 ll -1.9 rl -1.9 dl 6 si '2' li 0.7 lo 1 ov 0 tv 0 rt 0 stds
+STDS id '490-K3' nm '' ty 10 tc 1 ll -1.9 rl -1.9 dl 6 si '2' li 0.7 lo 1 ov 0 tv 0 rt 0 stds
+STDS id '490-K4' nm '' ty 10 tc 1 ll -1.9 rl -1.9 dl 6 si '2' li 0.7 lo 1 ov 0 tv 0 rt 0 stds
+STDS id 'S7' nm '' ty 6 cl -0.6 cw 1.5 ce 1 sc 1 rt 1 stds
+STDS id '510-K9' nm '' ty 10 tc 1 ll -1.31 rl -1.31 dl 5 si 'Round 880 mm' li 0.7 lo 1 ov 0 tv 0 rt 0 stds
+STDS id '510-K10' nm '' ty 10 tc 1 ll -1.42 rl -1.39 dl 5 si 'Round 880 mm' li 0.7 lo 1 ov 0 tv 0 rt 0 stds
+STDS id '500-K3' nm '' ty 10 tc 1 ll -1.05 rl -1.04 dl 5 si 'Round 500 mm' li 0.7 lo 1 ov 0 tv 0 rt 0 stds
+STDS id '500-K12' nm '' ty 10 tc 1 ll -1.11 rl -1.17 dl 8 si 'Round 880 mm' li 0.7 lo 1 ov 0 tv 0 rt 0 stds
+STDS id '500-K15' nm '' ty 10 tc 1 ll -0.98 rl -0.94 dl 10 si 'Round 880 mm' li 0.7 lo 1 ov 0 tv 0 rt 0 stds
+STDS id 'S10' nm '' ty 6 cl -0.6 cw 2 ce 1 sc 1 rt 1 stds
+STDS id '330-K2' nm '' ty 10 tc 1 ll 2.8 rl 2.8 dl 8 si 'Round 500 mm' li 0.7 lo 1 ov 0 tv 0 rt 0 stds
+STDS id '320-K1' nm '' ty 10 tc 1 ll 3 rl 3 dl 8 si 'Round 300 mm' li 0.7 lo 1 ov 0 tv 0 rt 0 stds
+STDS id 'S4' nm '' ty 6 cl 0 cw 2 ce 1 sc 1 rt 1 stds
+STDS id 'GEMAAL' nm '' ty 9 dn 1 rt cr 0 1 0 ct lt 1
+TBLE
+1.5 -0.75 -0.85 0 0 <
+3 -0.7 -0.8 0 0 <
+tble stds
+STDS id 'S13' nm '' ty 6 cl -0.1 cw 2 ce 1 sc 1 rt 1 stds

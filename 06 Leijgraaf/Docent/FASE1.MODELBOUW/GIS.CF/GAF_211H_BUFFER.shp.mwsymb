@@ -1,0 +1,11 @@
+<MapWinGIS OcxVersion="4.9.3.4" FileType="LayerFile" FileVersion="2" FilenamesEncoding="utf8">
+  <Layer LayerType="Shapefile" LayerName="GAF_211H_BUFFER" LayerVisible="1" LayerKey="" Filename="">
+    <ShapefileClass>
+      <DefaultDrawingOptions FillColor="5676533" FillTransparency="116.000000" LineColor="9868950" />
+      <ShapefileCategoriesClass ClassificationField="-1" />
+      <LabelsClass Generated="0" Positioning="1" TextRenderingHint="3" />
+      <ChartsClass />
+      <CategoryIndices Count="1">-1,</CategoryIndices>
+    </ShapefileClass>
+  </Layer>
+</MapWinGIS>

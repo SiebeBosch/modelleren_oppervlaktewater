@@ -1,0 +1,6 @@
+CNTL id 'S5' nm 'PID' ct 3 ac 1 ca 0 cf 1 cb '26' cl 408.1678 cp 0 ui -1.3 ua 0 u0 -0.65 pf 1 if 0.1 df 0 va 0.05 bl 1 sp tc 0  -0.7 0 cntl
+CNTL id 'S6' nm 'PID' ct 3 ac 1 ca 0 cf 1 cb '38' cl 276.2737 cp 0 ui -1.2 ua -0.55 u0 -0.65 pf 1 if 0.1 df 0 va 0.05 bl 1 sp tc 0  -0.7 0 cntl
+CNTL id 'S7' nm 'PID' ct 3 ac 1 ca 0 cf 1 cb '59' cl 46.48751 cp 0 ui -1.05 ua 0.7 u0 -0.6 pf 1 if 0.1 df 0 va 0.05 bl 1 sp tc 0  -0.6 0 cntl
+CNTL id 'S10' nm 'PID' ct 3 ac 1 ca 0 cf 1 cb '73' cl 218.2684 cp 0 ui -1.3 ua 0 u0 -0.6 pf 1 if 0.1 df 0 va 0.05 bl 1 sp tc 0  -0.55 0 cntl
+CNTL id 'S4' nm 'PID' ct 3 ac 1 ca 0 cf 1 cb '82' cl 651.8837 cp 0 ui -0.7 ua 0.7 u0 0 pf 1 if 0.1 df 0 va 0.05 bl 1 sp tc 0  0 0 cntl
+CNTL id 'S13' nm 'PID' ct 3 ac 1 ca 0 cf 1 cb '85' cl 203.5929 cp 0 ui -0.5 ua 0.7 u0 -0.1 pf 1 if 0.1 df 0 va 0.05 bl 1 sp tc 0  -0.1 0 cntl

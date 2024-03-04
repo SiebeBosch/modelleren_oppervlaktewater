@@ -1,0 +1,53 @@
+Information about Simulation
+============================
+
+Simulation Mode              : Run channel flow module stand-alone
+
+Start                        : 22-September-1999 09:34:40
+End                          : 22-September-1999 09:34:56
+
+Rainfall-Runoff Module used  : No
+Channel Module used          : Yes
+Sewer Module used            : No
+Real Time Control Module used: No
+Water Quality Module used    : No
+Waste Load Module used       : No
+Ground Water Module used     : No
+Simulation parallel          : No
+Flow modules unsteady        : Yes
+
+
+Balance of Channel Flow Module
+==============================
+
+External structure                  Spilled volume (m3)
+
+Boundaries in (m3)                 :       864000.00
+Boundaries out (m3)                :       777665.66
+Structures in (m3)                 :             .00
+Structures out (m3)                :             .00
+Lateral disch. in (m3)             :        28800.00
+Lateral disch. out (m3)            :       115137.72
+Storage (m3)                       :           -3.38
+Error (m3)                         :             .00
+
+
+Version Information of Modules
+==============================
+
+Vervang  : 05-03-98 02:28:44 PM
+Caseman  : 31-12-98 01:00:36 PM
+CmUtil   : 29-06-98 12:07:08 PM
+CmUpdate : 05-01-99 10:22:02 AM
+3B       : 14-01-99 03:19:52 PM
+3BP      : 03-09-98 04:26:56 PM
+3bAscBin : 09-02-99 09:13:34 AM
+Flow     : 27-08-99 03:29:12 PM
+RTC      : 22-03-99 10:10:28 AM
+Predict  : 22-03-99 10:10:34 AM
+Couple   : 21-01-99 02:10:08 PM
+Delwaq1  : 04-09-98 10:11:42 AM
+Delwaq1p : 31-07-98 07:54:42 AM
+Delwaq2  : 24-09-98 03:20:02 PM
+Waterbal : 22-03-99 03:41:26 PM
+

@@ -1,0 +1,56 @@
+Information about Simulation
+============================
+
+Simulation Mode              : Run channel flow module stand-alone
+
+Start                        : 13-November-2000 08:46:36
+End                          : 13-November-2000 08:47:15
+
+Rainfall-Runoff Module used  : No
+Channel Module used          : Yes
+Sewer Module used            : No
+Real Time Control Module used: No
+Water Quality Module used    : No
+Waste Load Module used       : No
+Ground Water Module used     : No
+Simulation parallel          : No
+Flow modules unsteady        : Yes
+
+
+Balance of Channel Flow Module
+==============================
+
+External structure                  Spilled volume (m3)
+
+Boundaries in (m3)                 :      2592000.00
+Boundaries out (m3)                :      2587067.76
+Structures in (m3)                 :             .00
+Structures out (m3)                :             .00
+Lateral disch. in (m3)             :             .00
+Lateral disch. out (m3)            :             .00
+Storage (m3)                       :         4932.24
+Error (m3)                         :             .00
+
+
+Version Information of Modules
+==============================
+
+Vervang  : 27/06/00 11:28:08 AM, Version: 4.05.012
+Caseman  : 13/06/00 04:27:58 PM, Version: 4.05.022
+CmUtil   : 24/03/00 12:06:14 PM, Version: 4.05.01
+CmUpdate : 16/03/00 12:28:04 PM, Version: 4.05
+3B       : 11/10/00 07:10:40 PM, Version: 3.207.11
+Parsen   : 19/10/00 01:56:12 PM, Version: 
+Parsen2D : 21/08/00 11:53:50 AM, Version: 1.00.12
+Flow     : 02/11/00 12:51:38 PM, Version: 
+RTC      : 05/09/00 03:03:04 PM, Version: 2.07.04 
+WLM      : 18/11/98 10:17:18 PM, Version: 2.00
+Couple   : 03/11/00 02:04:46 PM, Version: 
+Delwaq1  : 07/06/00 04:13:04 PM, Version: 
+Delwaq1p : 07/06/00 04:14:16 PM, Version: 
+Delwaq2  : 07/06/00 04:14:32 PM, Version: 
+Waterbal : 26/10/99 10:45:00 AM, Version: 
+Simulate : 16/10/00 09:33:36 AM, Version: 2.01.0030
+
+SOBEKVersion   = Sobek Advanced Version 2.16.000.04 ß
+

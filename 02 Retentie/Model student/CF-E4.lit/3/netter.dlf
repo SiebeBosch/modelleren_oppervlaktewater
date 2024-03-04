@@ -1,0 +1,16 @@
+DLF1.0
+[Rainfall Runoff Module: simulation results]
+FILE "@balansdt.his"     LAYER " " TYPE network VAR 1 HISLOC 2 LINKSEP "l_" = Balances per timestep
+FILE "@upflowdt.his"     LAYER " " TYPE node VAR 1 HISLOC 2                 = Unpaved nodes
+[Rainfall Runoff Module: Dimensions]
+FILE "@3bareas.his"      LAYER " " TYPE network VAR 1 HISLOC 2 LINKSEP "l_" = Node areas
+[Flow Module: Levels and Flows]
+FILE "@calcpnt.his"     LAYER " " TYPE node VAR 1 HISLOC 2                 = Results at nodes
+FILE "@reachseg.his"    LAYER " " TYPE reachgridvirtual VAR 1 HISLOC 2     = Results at reach segments
+FILE "@qlat.his"        LAYER " " TYPE network VAR 1 HISLOC 2 LINKSEP "l_" = Lateral Flows
+FILE "@struc.his"       LAYER " " TYPE network VAR 1 HISLOC 2 LINKSEP "l_" = Results at structures
+FILE "@flowanal.his"    LAYER " " TYPE reachgridvirtual VAR 6 HISLOC 2     = Simulation info at the reach segments
+[Flow Module: Dimensions]
+FILE "@calcdim.his"     LAYER " " TYPE node VAR 1 HISLOC 2                 = Nodes
+FILE "@reachdim.his"    LAYER " " TYPE reachgridvirtual VAR 1 HISLOC 2     = Reach Segments
+FILE "@strucdim.his"    LAYER " " TYPE network VAR 1 HISLOC 2 LINKSEP "l_" = Structures

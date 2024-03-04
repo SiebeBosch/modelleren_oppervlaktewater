@@ -1,0 +1,1678 @@
+@(#)Deltares, SOBEKSIM Version 4.03.49.15739, Mar 30 2011, 14:45:17
+opened file : C:\Sobek212\Programs\flow\sobeksim.lng
+closed file : C:\Sobek212\Programs\flow\sobeksim.lng
+ConvtabYzprof
+Opened file : branch.tbl
+closed file : branch.tbl
+Opened file : node.tbl
+closed file : node.tbl
+Opened file : qlat.tbl
+closed file : qlat.tbl
+Opened file : grid.tbl
+closed file : grid.tbl
+Opened file : reachdwn.tbl
+closed file : reachdwn.tbl
+Opened file : reachup.tbl
+closed file : reachup.tbl
+Opened file : structup.tbl
+closed file : structup.tbl
+Opened file : structdwn.tbl
+closed file : structdwn.tbl
+Opened file : casedesc.cmt
+closed file : casedesc.cmt
+ Warning in subroutine flcnpa
+ Controllable parameter changed after restart in structure Orifice, id= KDU7513
+ Warning in subroutine flcnpa
+ Controllable parameter changed after restart in structure Orifice, id= KDU6955
+ Warning in subroutine flcnpa
+ Controllable parameter changed after restart in structure Orifice, id= KDU7364
+Minimum Length set for reachsegment Nieuw_22_s2       0.889587      1.000000
+ Warning in subroutine plinfl
+ Street level lower than well depth in node cnGFE94 . Street level set one meter
+  above well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node cnGFE96 . Street level set one meter
+  above well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node cnGFE100 . Street level set one mete
+ r above well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node cnGFE102 . Street level set one mete
+ r above well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node cnGFE103 . Street level set one mete
+ r above well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node cnGFE108 . Street level set one mete
+ r above well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node cnGFE217 . Street level set one mete
+ r above well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node cnGFE111 . Street level set one mete
+ r above well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node cnGFE114 . Street level set one mete
+ r above well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node cnGFE115 . Street level set one mete
+ r above well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node cnGFE116 . Street level set one mete
+ r above well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node cnGFE117 . Street level set one mete
+ r above well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node cnGFE118 . Street level set one mete
+ r above well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node cnGFE120 . Street level set one mete
+ r above well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node cnGFE15 . Street level set one meter
+  above well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node cnGFE128 . Street level set one mete
+ r above well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node cnGFE129 . Street level set one mete
+ r above well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node cnGFE13 . Street level set one meter
+  above well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node cnGFE75 . Street level set one meter
+  above well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node cnGFE219 . Street level set one mete
+ r above well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node cnGFE186 . Street level set one mete
+ r above well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node cnGFE188 . Street level set one mete
+ r above well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node cnGFE1908 . Street level set one met
+ er above well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node cnGFE1910 . Street level set one met
+ er above well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node cnGFE192 . Street level set one mete
+ r above well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node cnGFE193 . Street level set one mete
+ r above well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node cnGFE195 . Street level set one mete
+ r above well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node cnGFE199 . Street level set one mete
+ r above well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node cnGFE222 . Street level set one mete
+ r above well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node cnGFE200 . Street level set one mete
+ r above well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node cnGFE223 . Street level set one mete
+ r above well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node cnGFE201 . Street level set one mete
+ r above well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node cnGFE202 . Street level set one mete
+ r above well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node cnGFE203 . Street level set one mete
+ r above well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node cnGFE206 . Street level set one mete
+ r above well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node cnGFE208 . Street level set one mete
+ r above well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node cnGFE224 . Street level set one mete
+ r above well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node cnGFE24 . Street level set one meter
+  above well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node cnGFE25 . Street level set one meter
+  above well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node cnGFE225 . Street level set one mete
+ r above well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node cnGFE125 . Street level set one mete
+ r above well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node cnGFE130 . Street level set one mete
+ r above well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node 6_36 . Street level set one meter ab
+ ove well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node 10_50 . Street level set one meter a
+ bove well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node 125 . Street level set one meter abo
+ ve well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node 15_21 . Street level set one meter a
+ bove well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node 201 . Street level set one meter abo
+ ve well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node 17_7 . Street level set one meter ab
+ ove well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node 10_24 . Street level set one meter a
+ bove well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node 20_8 . Street level set one meter ab
+ ove well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node 119 . Street level set one meter abo
+ ve well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node 123 . Street level set one meter abo
+ ve well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node 24_36 . Street level set one meter a
+ bove well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node 22_34 . Street level set one meter a
+ bove well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node cGFE193_1 . Street level set one met
+ er above well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node 5 . Street level set one meter above
+  well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node 6_22 . Street level set one meter ab
+ ove well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node 10_10 . Street level set one meter a
+ bove well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node cGFE94_1 . Street level set one mete
+ r above well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node cGFE96_1 . Street level set one mete
+ r above well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node cGFE102_1 . Street level set one met
+ er above well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node cGFE108_1 . Street level set one met
+ er above well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node cGFE111_1 . Street level set one met
+ er above well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node cGFE114_1 . Street level set one met
+ er above well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node cGFE115_1 . Street level set one met
+ er above well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node cGFE120_1 . Street level set one met
+ er above well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node cGFE129_1 . Street level set one met
+ er above well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node cGFE13_1 . Street level set one mete
+ r above well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node cGFE75_1 . Street level set one mete
+ r above well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node cGFE186_1 . Street level set one met
+ er above well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node cGFE188_1 . Street level set one met
+ er above well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node cGFE192_1 . Street level set one met
+ er above well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node cGFE195_1 . Street level set one met
+ er above well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node cGFE222_1 . Street level set one met
+ er above well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node cGFE200_1 . Street level set one met
+ er above well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node cGFE201_1 . Street level set one met
+ er above well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node cGFE202_1 . Street level set one met
+ er above well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node cGFE203_1 . Street level set one met
+ er above well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node cGFE224_1 . Street level set one met
+ er above well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node cGFE24_1 . Street level set one mete
+ r above well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node cGFE225_1 . Street level set one met
+ er above well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node cGFE125_1 . Street level set one met
+ er above well depth
+ Warning in subroutine plinfl
+ Street level lower than well depth in node cGFE130_1 . Street level set one met
+ er above well depth
+ Left side of Culvert, id= KDU616 lies under local profile
+ bottom level of the branch at the left side of the culvert is decreased from    8.74 to   8.70
+ Right side of Culvert, id= KDU616 lies under local profile
+ bottom level of the branch at the right side of the culvert is decreased from   8.73 to   8.70
+ Left side of Culvert, id= KDU615 lies under local profile
+ bottom level of the branch at the left side of the culvert is decreased from    8.73 to   8.49
+ Left side of Culvert, id= KDU5996 lies under local profile
+ bottom level of the branch at the left side of the culvert is decreased from    9.53 to   9.44
+ Right side of Culvert, id= KDU5996 lies under local profile
+ bottom level of the branch at the right side of the culvert is decreased from   9.54 to   9.44
+ Left side of Culvert, id= KDU4679 lies under local profile
+ bottom level of the branch at the left side of the culvert is decreased from    9.44 to   9.09
+ Right side of Culvert, id= KDU4679 lies under local profile
+ bottom level of the branch at the right side of the culvert is decreased from   9.54 to   9.09
+ Left side of Culvert, id= KDU4187 lies under local profile
+ bottom level of the branch at the left side of the culvert is decreased from    9.64 to   9.24
+ Right side of Culvert, id= KDU4187 lies under local profile
+ bottom level of the branch at the right side of the culvert is decreased from   9.65 to   9.24
+ Left side of Culvert, id= KDU2389 lies under local profile
+ bottom level of the branch at the left side of the culvert is decreased from    9.74 to   9.25
+ Right side of Culvert, id= KDU2389 lies under local profile
+ bottom level of the branch at the right side of the culvert is decreased from   9.74 to   9.25
+ Left side of Culvert, id= KDU385 lies under local profile
+ bottom level of the branch at the left side of the culvert is decreased from    9.75 to   9.34
+ Right side of Culvert, id= KDU385 lies under local profile
+ bottom level of the branch at the right side of the culvert is decreased from   9.72 to   9.34
+ Left side of Culvert, id= KDU650 lies under local profile
+ bottom level of the branch at the left side of the culvert is decreased from    9.54 to   8.30
+ Right side of Culvert, id= KDU650 lies under local profile
+ bottom level of the branch at the right side of the culvert is decreased from   9.52 to   8.21
+ Left side of Culvert, id= KDU649 lies under local profile
+ bottom level of the branch at the left side of the culvert is decreased from    9.47 to   8.49
+ Right side of Culvert, id= KDU649 lies under local profile
+ bottom level of the branch at the right side of the culvert is decreased from   9.47 to   8.46
+ Left side of Culvert, id= KDU6918 lies under local profile
+ bottom level of the branch at the left side of the culvert is decreased from    9.53 to   8.60
+ Right side of Culvert, id= KDU6918 lies under local profile
+ bottom level of the branch at the right side of the culvert is decreased from   9.53 to   8.66
+ Left side of Culvert, id= KDU647 lies under local profile
+ bottom level of the branch at the left side of the culvert is decreased from    9.56 to   8.50
+ Right side of Culvert, id= KDU647 lies under local profile
+ bottom level of the branch at the right side of the culvert is decreased from   9.54 to   8.67
+ Left side of Culvert, id= KDU646 lies under local profile
+ bottom level of the branch at the left side of the culvert is decreased from    9.31 to   8.62
+ Right side of Culvert, id= KDU646 lies under local profile
+ bottom level of the branch at the right side of the culvert is decreased from   9.29 to   8.70
+ Left side of Culvert, id= KDU6929 lies under local profile
+ bottom level of the branch at the left side of the culvert is decreased from    9.10 to   8.85
+ Right side of Culvert, id= KDU6929 lies under local profile
+ bottom level of the branch at the right side of the culvert is decreased from   9.08 to   8.56
+ Left side of Culvert, id= KDU6930 lies under local profile
+ bottom level of the branch at the left side of the culvert is decreased from    8.94 to   8.74
+ Right side of Culvert, id= KDU6930 lies under local profile
+ bottom level of the branch at the right side of the culvert is decreased from   8.90 to   8.69
+ Left side of Culvert, id= KDU1159 lies under local profile
+ bottom level of the branch at the left side of the culvert is decreased from    8.55 to   8.04
+ Right side of Culvert, id= KDU1159 lies under local profile
+ bottom level of the branch at the right side of the culvert is decreased from   8.51 to   8.02
+ Left side of Culvert, id= KDU7681 lies under local profile
+ bottom level of the branch at the left side of the culvert is decreased from    8.10 to   8.01
+ Right side of Culvert, id= KDU7681 lies under local profile
+ bottom level of the branch at the right side of the culvert is decreased from   8.06 to   8.01
+ Right side of Culvert, id= KDU4991 lies under local profile
+ bottom level of the branch at the right side of the culvert is decreased from   8.48 to   8.30
+ Left side of Culvert, id= KDU639 lies under local profile
+ bottom level of the branch at the left side of the culvert is decreased from    8.34 to   8.06
+ Right side of Culvert, id= KDU639 lies under local profile
+ bottom level of the branch at the right side of the culvert is decreased from   8.30 to   8.05
+ Left side of Culvert, id= KDU659 lies under local profile
+ bottom level of the branch at the left side of the culvert is decreased from    9.49 to   9.39
+ Right side of Culvert, id= KDU659 lies under local profile
+ bottom level of the branch at the right side of the culvert is decreased from   9.49 to   9.42
+ Left side of Culvert, id= KDU660 lies under local profile
+ bottom level of the branch at the left side of the culvert is decreased from    9.42 to   9.40
+ Right side of Culvert, id= KDU660 lies under local profile
+ bottom level of the branch at the right side of the culvert is decreased from   9.46 to   9.44
+ Left side of Culvert, id= KDU661 lies under local profile
+ bottom level of the branch at the left side of the culvert is decreased from    9.42 to   9.34
+ Right side of Culvert, id= KDU661 lies under local profile
+ bottom level of the branch at the right side of the culvert is decreased from   9.41 to   9.34
+ Left side of Culvert, id= KDU662 lies under local profile
+ bottom level of the branch at the left side of the culvert is decreased from    9.33 to   9.28
+ Right side of Culvert, id= KDU605 lies under local profile
+ bottom level of the branch at the right side of the culvert is decreased from   9.40 to   9.18
+ Left side of Culvert, id= KDU694 lies under local profile
+ bottom level of the branch at the left side of the culvert is decreased from    8.80 to   8.40
+ Right side of Culvert, id= KDU694 lies under local profile
+ bottom level of the branch at the right side of the culvert is decreased from   8.78 to   8.40
+ Right side of Culvert, id= KDU668 lies under local profile
+ bottom level of the branch at the right side of the culvert is decreased from   9.88 to   9.42
+ Left side of Culvert, id= KDU669 lies under local profile
+ bottom level of the branch at the left side of the culvert is decreased from    9.83 to   9.36
+ Left side of Culvert, id= KDU679 lies under local profile
+ bottom level of the branch at the left side of the culvert is decreased from    9.18 to   8.85
+ Right side of Culvert, id= KDU679 lies under local profile
+ bottom level of the branch at the right side of the culvert is decreased from   9.18 to   8.85
+ Left side of Culvert, id= KDU680 lies under local profile
+ bottom level of the branch at the left side of the culvert is decreased from    9.18 to   8.79
+ Left side of Culvert, id= KDU10400 lies under local profile
+ bottom level of the branch at the left side of the culvert is decreased from    9.66 to   9.60
+ Right side of Culvert, id= KDU10400 lies under local profile
+ bottom level of the branch at the right side of the culvert is decreased from   9.66 to   9.60
+ Right side of Culvert, id= KDU10402 lies under local profile
+ bottom level of the branch at the right side of the culvert is decreased from   9.66 to   9.60
+ Left side of Culvert, id= KDU4983 lies under local profile
+ bottom level of the branch at the left side of the culvert is decreased from    9.66 to   9.36
+ Right side of Culvert, id= KDU4983 lies under local profile
+ bottom level of the branch at the right side of the culvert is decreased from   9.66 to   9.36
+ Left side of Culvert, id= KDU4984 lies under local profile
+ bottom level of the branch at the left side of the culvert is decreased from    9.36 to   9.32
+ Right side of Culvert, id= KDU621 lies under local profile
+ bottom level of the branch at the right side of the culvert is decreased from   9.60 to   9.47
+ Left side of Culvert, id= KDU623 lies under local profile
+ bottom level of the branch at the left side of the culvert is decreased from    9.47 to   9.38
+ Right side of Culvert, id= KDU623 lies under local profile
+ bottom level of the branch at the right side of the culvert is decreased from   9.45 to   9.36
+ Left side of Culvert, id= KDU4990 lies under local profile
+ bottom level of the branch at the left side of the culvert is decreased from    9.36 to   9.26
+ Right side of Culvert, id= KDU4990 lies under local profile
+ bottom level of the branch at the right side of the culvert is decreased from   9.43 to   9.20
+ Left side of Culvert, id= KDU625 lies under local profile
+ bottom level of the branch at the left side of the culvert is decreased from    9.35 to   9.28
+ Right side of Culvert, id= KDU625 lies under local profile
+ bottom level of the branch at the right side of the culvert is decreased from   9.34 to   9.27
+ Left side of Culvert, id= KDU626 lies under local profile
+ bottom level of the branch at the left side of the culvert is decreased from    9.32 to   9.13
+ Right side of Culvert, id= KDU626 lies under local profile
+ bottom level of the branch at the right side of the culvert is decreased from   9.31 to   9.20
+ Left side of Culvert, id= KDU627 lies under local profile
+ bottom level of the branch at the left side of the culvert is decreased from    9.19 to   9.14
+ Right side of Culvert, id= KDU627 lies under local profile
+ bottom level of the branch at the right side of the culvert is decreased from   9.19 to   9.13
+ Left side of Culvert, id= KDU628 lies under local profile
+ bottom level of the branch at the left side of the culvert is decreased from    9.13 to   9.06
+ Right side of Culvert, id= KDU630 lies under local profile
+ bottom level of the branch at the right side of the culvert is decreased from   9.20 to   8.88
+ Left side of Culvert, id= KDU629 lies under local profile
+ bottom level of the branch at the left side of the culvert is decreased from    9.07 to   8.85
+ Right side of Culvert, id= KDU677 lies under local profile
+ bottom level of the branch at the right side of the culvert is decreased from   9.53 to   9.45
+ Right side of Culvert, id= KDU640 lies under local profile
+ bottom level of the branch at the right side of the culvert is decreased from   7.80 to   7.53
+ Left side of Culvert, id= KDU687 lies under local profile
+ bottom level of the branch at the left side of the culvert is decreased from    9.64 to   9.41
+ Right side of Culvert, id= KDU687 lies under local profile
+ bottom level of the branch at the right side of the culvert is decreased from   9.61 to   9.41
+ Left side of Culvert, id= KDU607 lies under local profile
+ bottom level of the branch at the left side of the culvert is decreased from    8.88 to   8.50
+ Right side of Culvert, id= KDU607 lies under local profile
+ bottom level of the branch at the right side of the culvert is decreased from   8.88 to   8.50
+ Left side of Culvert, id= KDU7770 lies under local profile
+ bottom level of the branch at the left side of the culvert is decreased from    8.95 to   8.89
+ Right side of Culvert, id= KDU7770 lies under local profile
+ bottom level of the branch at the right side of the culvert is decreased from   8.94 to   8.88
+ Left side of Culvert, id= KDU7769 lies under local profile
+ bottom level of the branch at the left side of the culvert is decreased from    8.88 to   8.73
+ Left side of Culvert, id= KDU637 lies under local profile
+ bottom level of the branch at the left side of the culvert is decreased from    8.36 to   8.20
+ Right side of Culvert, id= KDU637 lies under local profile
+ bottom level of the branch at the right side of the culvert is decreased from   8.38 to   8.19
+ Left side of Culvert, id= KDU636 lies under local profile
+ bottom level of the branch at the left side of the culvert is decreased from    8.46 to   8.40
+ Right side of Culvert, id= KDU636 lies under local profile
+ bottom level of the branch at the right side of the culvert is decreased from   8.47 to   8.42
+ Left side of Culvert, id= KDU634 lies under local profile
+ bottom level of the branch at the left side of the culvert is decreased from    9.28 to   8.96
+ Right side of Culvert, id= KDU634 lies under local profile
+ bottom level of the branch at the right side of the culvert is decreased from   9.26 to   8.95
+ Left side of Culvert, id= KDU633 lies under local profile
+ bottom level of the branch at the left side of the culvert is decreased from    9.19 to   9.09
+ Right side of Culvert, id= KDU633 lies under local profile
+ bottom level of the branch at the right side of the culvert is decreased from   9.19 to   8.99
+ Left side of Culvert, id= KDU632 lies under local profile
+ bottom level of the branch at the left side of the culvert is decreased from    9.25 to   8.95
+ Right side of Culvert, id= KDU632 lies under local profile
+ bottom level of the branch at the right side of the culvert is decreased from   9.27 to   8.95
+ Right side of Culvert, id= KDU685 lies under local profile
+ bottom level of the branch at the right side of the culvert is decreased from   8.23 to   8.21
+ Left side of Culvert, id= KDU682 lies under local profile
+ bottom level of the branch at the left side of the culvert is decreased from    9.19 to   8.51
+ Right side of Culvert, id= KDU682 lies under local profile
+ bottom level of the branch at the right side of the culvert is decreased from   9.19 to   8.49
+ Left side of Culvert, id= KDU653 lies under local profile
+ bottom level of the branch at the left side of the culvert is decreased from    9.36 to   9.32
+ Right side of Culvert, id= KDU653 lies under local profile
+ bottom level of the branch at the right side of the culvert is decreased from   9.35 to   9.32
+ Left side of Culvert, id= KDU655 lies under local profile
+ bottom level of the branch at the left side of the culvert is decreased from    9.32 to   9.31
+ Right side of Culvert, id= KDU655 lies under local profile
+ bottom level of the branch at the right side of the culvert is decreased from   9.32 to   9.31
+ Left side of Culvert, id= KDU688 lies under local profile
+ bottom level of the branch at the left side of the culvert is decreased from    8.59 to   8.46
+ Right side of Culvert, id= KDU688 lies under local profile
+ bottom level of the branch at the right side of the culvert is decreased from   8.59 to   8.45
+ Left side of Culvert, id= KDU674 lies under local profile
+ bottom level of the branch at the left side of the culvert is decreased from   10.10 to   9.99
+ Right side of Culvert, id= KDU674 lies under local profile
+ bottom level of the branch at the right side of the culvert is decreased from  10.16 to  10.14
+ Left side of Culvert, id= KDU19687 lies under local profile
+ bottom level of the branch at the left side of the culvert is decreased from    9.03 to   9.00
+ Right side of Culvert, id= KDU19687 lies under local profile
+ bottom level of the branch at the right side of the culvert is decreased from   9.03 to   9.00
+ Left side of Culvert, id= KDU612 lies under local profile
+ bottom level of the branch at the left side of the culvert is decreased from    8.59 to   8.40
+ Right side of Culvert, id= KDU612 lies under local profile
+ bottom level of the branch at the right side of the culvert is decreased from   8.57 to   8.40
+ Left side of Culvert, id= KDU613 lies under local profile
+ bottom level of the branch at the left side of the culvert is decreased from    8.65 to   8.41
+ Right side of Culvert, id= KDU613 lies under local profile
+ bottom level of the branch at the right side of the culvert is decreased from   8.67 to   8.41
+ Left side of Culvert, id= KDU614 lies under local profile
+ bottom level of the branch at the left side of the culvert is decreased from    8.66 to   8.22
+ Left side of Culvert, id= KDU7683 lies under local profile
+ bottom level of the branch at the left side of the culvert is decreased from    8.72 to   8.61
+ Left side of Culvert, id= KDU651 lies under local profile
+ bottom level of the branch at the left side of the culvert is decreased from    7.45 to   7.21
+ Right side of Culvert, id= KDU651 lies under local profile
+ bottom level of the branch at the right side of the culvert is decreased from   7.44 to   7.24
+ Left side of Culvert, id= KDU642 lies under local profile
+ bottom level of the branch at the left side of the culvert is decreased from    7.75 to   7.74
+ Left side of Culvert, id= KDU608 lies under local profile
+ bottom level of the branch at the left side of the culvert is decreased from    8.73 to   8.33
+ Right side of Culvert, id= KDU608 lies under local profile
+ bottom level of the branch at the right side of the culvert is decreased from   8.50 to   8.33
+ Left side of Culvert, id= KDU9938 lies under local profile
+ bottom level of the branch at the left side of the culvert is decreased from    9.19 to   8.97
+ Left side of Culvert, id= KDU606 lies under local profile
+ bottom level of the branch at the left side of the culvert is decreased from    9.30 to   8.57
+ Right side of Culvert, id= KDU606 lies under local profile
+ bottom level of the branch at the right side of the culvert is decreased from   8.88 to   8.54
+ Left side of Culvert, id= KDU658 lies under local profile
+ bottom level of the branch at the left side of the culvert is decreased from    9.29 to   9.25
+ Right side of Culvert, id= KDU691 lies under local profile
+ bottom level of the branch at the right side of the culvert is decreased from   8.67 to   8.19
+ Left side of Culvert, id= KDU692 lies under local profile
+ bottom level of the branch at the left side of the culvert is decreased from    8.79 to   8.19
+ Right side of Culvert, id= KDU692 lies under local profile
+ bottom level of the branch at the right side of the culvert is decreased from   8.77 to   8.22
+ Left side of Culvert, id= KDU2149 lies under local profile
+ bottom level of the branch at the left side of the culvert is decreased from    9.79 to   9.44
+ Right side of Culvert, id= KDU2149 lies under local profile
+ bottom level of the branch at the right side of the culvert is decreased from   9.79 to   9.44
+ Left side of Culvert, id= KDU683 lies under local profile
+ bottom level of the branch at the left side of the culvert is decreased from    8.73 to   8.49
+ Right side of Culvert, id= KDU683 lies under local profile
+ bottom level of the branch at the right side of the culvert is decreased from   8.68 to   8.46
+ Left side of Culvert, id= KDU684 lies under local profile
+ bottom level of the branch at the left side of the culvert is decreased from    8.68 to   8.22
+ Left side of Culvert, id= KDU4985 lies under local profile
+ bottom level of the branch at the left side of the culvert is decreased from    9.56 to   9.25
+ Right side of Culvert, id= KDU4985 lies under local profile
+ bottom level of the branch at the right side of the culvert is decreased from   9.54 to   9.26
+ Right side of Culvert, id= KDU4986 lies under local profile
+ bottom level of the branch at the right side of the culvert is decreased from   9.53 to   9.26
+ Left side of Culvert, id= KDU4987 lies under local profile
+ bottom level of the branch at the left side of the culvert is decreased from    9.47 to   9.29
+ Right side of Culvert, id= KDU4987 lies under local profile
+ bottom level of the branch at the right side of the culvert is decreased from   9.46 to   9.25
+ Left side of Culvert, id= KDU4988 lies under local profile
+ bottom level of the branch at the left side of the culvert is decreased from    9.25 to   9.13
+ Right side of Culvert, id= KDU4988 lies under local profile
+ bottom level of the branch at the right side of the culvert is decreased from   9.46 to   9.31
+ Left side of Culvert, id= KDU4989 lies under local profile
+ bottom level of the branch at the left side of the culvert is decreased from    9.42 to   9.33
+ Left side of Culvert, id= KDU686 lies under local profile
+ bottom level of the branch at the left side of the culvert is decreased from    9.40 to   9.24
+ Right side of Culvert, id= KDU686 lies under local profile
+ bottom level of the branch at the right side of the culvert is decreased from   9.37 to   9.23
+ Left side of Culvert, id= KDU678 lies under local profile
+ bottom level of the branch at the left side of the culvert is decreased from    9.34 to   9.10
+ Left side of Culvert, id= KSY38 lies under local profile
+ bottom level of the branch at the left side of the culvert is decreased from    9.37 to   9.18
+ Right side of Culvert, id= KSY38 lies under local profile
+ bottom level of the branch at the right side of the culvert is decreased from   9.32 to   9.12
+ Left side of Culvert, id= KDU673 lies under local profile
+ bottom level of the branch at the left side of the culvert is decreased from    9.27 to   9.13
+ Right side of Culvert, id= KDU673 lies under local profile
+ bottom level of the branch at the right side of the culvert is decreased from   9.27 to   9.13
+ Right side of Culvert, id= KDU670 lies under local profile
+ bottom level of the branch at the right side of the culvert is decreased from   9.76 to   9.35
+ Left side of Culvert, id= KDU671 lies under local profile
+ bottom level of the branch at the left side of the culvert is decreased from    9.76 to   9.37
+ Right side of Culvert, id= KDU689 lies under local profile
+ bottom level of the branch at the right side of the culvert is decreased from   8.60 to   8.45
+ Left side of Culvert, id= KDU690 lies under local profile
+ bottom level of the branch at the left side of the culvert is decreased from    8.66 to   8.19
+ Right side of Culvert, id= KDU690 lies under local profile
+ bottom level of the branch at the right side of the culvert is decreased from   8.66 to   8.37
+ Right side of Culvert, id= KDU609 lies under local profile
+ bottom level of the branch at the right side of the culvert is decreased from   8.31 to   8.25
+ Warning in subroutine initial
+ Gate opening height adjusted to bed level in structure Orifice, id= KDU7513
+ Warning in subroutine initial
+ Crest level adjusted to bed level in structure Orifice, id= KDU6955
+ Warning in subroutine initial
+ Gate opening height adjusted to bed level in structure Orifice, id= KDU6955
+ Warning in subroutine initial
+ Crest level adjusted to bed level in structure Orifice, id= KDU7364
+ Warning in subroutine initial
+ Gate opening height adjusted to bed level in structure Orifice, id= KDU7364
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 1 Level of structure Culvert, id= KDU616 =       8.700000
+Adjacent level of link 2_s4 =       8.736689
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 2 Level of structure Culvert, id= KDU616 =       8.700000
+Adjacent level of link 2_s5 =       8.732872
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 1 Level of structure Culvert, id= KDU615 =       8.490000
+Adjacent level of link 2_s5 =       8.730000
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+Adjacent structures, better keep 1 normal link in between them Culvert, id= KDU615 Culvert, id= KDU614
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 1 Level of structure Culvert, id= KDU5996 =       9.440000
+Adjacent level of link Nieuw_7_s1 =       9.532943
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+Adjacent structures, better keep 1 normal link in between them Culvert, id= KDU5996 Culvert, id= KDU4679
+Adjacent structures, better keep 1 normal link in between them Culvert, id= KDU4679 Culvert, id= KDU5996
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 2 Level of structure Culvert, id= KDU4679 =       9.090000
+Adjacent level of link Nieuw_7_s4 =       9.542452
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 1 Level of structure Culvert, id= KDU4187 =       9.240000
+Adjacent level of link Nieuw_7_s4 =       9.637101
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 2 Level of structure Culvert, id= KDU4187 =       9.240000
+Adjacent level of link Nieuw_7_s6 =       9.645894
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 1 Level of structure Culvert, id= KDU2389 =       9.250000
+Adjacent level of link Nieuw_7_s6 =       9.740134
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 2 Level of structure Culvert, id= KDU2389 =       9.250000
+Adjacent level of link Nieuw_7_s8 =       9.741272
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 1 Level of structure Culvert, id= KDU385 =       9.340000
+Adjacent level of link Nieuw_7_s8 =       9.750156
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 2 Level of structure Culvert, id= KDU385 =       9.340000
+Adjacent level of link Nieuw_7_s10 =       9.723124
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 1 Level of structure Culvert, id= KDU650 =       8.300000
+Adjacent level of link Nieuw_7_s10 =       9.538056
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 2 Level of structure Culvert, id= KDU650 =       8.210000
+Adjacent level of link Nieuw_7_s12 =       9.515881
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 1 Level of structure Culvert, id= KDU649 =       8.490000
+Adjacent level of link Nieuw_7_s12 =       9.467400
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 2 Level of structure Culvert, id= KDU649 =       8.460000
+Adjacent level of link Nieuw_7_s14 =       9.474621
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 1 Level of structure Culvert, id= KDU6918 =       8.600000
+Adjacent level of link Nieuw_7_s14 =       9.530447
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 2 Level of structure Culvert, id= KDU6918 =       8.660000
+Adjacent level of link Nieuw_7_s16 =       9.534471
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 1 Level of structure Culvert, id= KDU647 =       8.500000
+Adjacent level of link Nieuw_7_s16 =       9.561725
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 2 Level of structure Culvert, id= KDU647 =       8.670000
+Adjacent level of link Nieuw_7_s18 =       9.536883
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 1 Level of structure Culvert, id= KDU646 =       8.620000
+Adjacent level of link Nieuw_7_s18 =       9.312810
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 2 Level of structure Culvert, id= KDU646 =       8.700000
+Adjacent level of link Nieuw_7_s20 =       9.287969
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 1 Level of structure Culvert, id= KDU6929 =       8.850000
+Adjacent level of link Nieuw_7_s20 =       9.098140
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 2 Level of structure Culvert, id= KDU6929 =       8.560000
+Adjacent level of link Nieuw_7_s22 =       9.079182
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+Adjacent structures, better keep 1 normal link in between them Culvert, id= KDU6930 Weir, id= KST0356
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 2 Level of structure Culvert, id= KDU6930 =       8.690000
+Adjacent level of link Nieuw_7_s25 =       8.904749
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 1 Level of structure Culvert, id= KDU1159 =       8.040000
+Adjacent level of link Nieuw_7_s25 =       8.552876
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 2 Level of structure Culvert, id= KDU1159 =       8.020000
+Adjacent level of link Nieuw_7_s27 =       8.505257
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 1 Level of structure Culvert, id= KDU7681 =       8.010000
+Adjacent level of link 6_s3 =       8.102215
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 2 Level of structure Culvert, id= KDU7681 =       8.010000
+Adjacent level of link 6_s4 =       8.055324
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 2 Level of structure Culvert, id= KDU4991 =       8.300000
+Adjacent level of link 9_s1 =       8.480000
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 1 Level of structure Culvert, id= KDU639 =       8.060000
+Adjacent level of link 9_s1 =       8.338934
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+Adjacent structures, better keep 1 normal link in between them Culvert, id= KDU639 Culvert, id= KDU9851
+Adjacent structures, better keep 1 normal link in between them Culvert, id= KDU9851 Culvert, id= KDU639
+Adjacent structures, better keep 1 normal link in between them Culvert, id= KDU9851 Weir, id= KST0055
+Adjacent structures, better keep 1 normal link in between them Culvert, id= KDU659 Culvert, id= KDU660
+Adjacent structures, better keep 1 normal link in between them Culvert, id= KDU660 Culvert, id= KDU659
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 2 Level of structure Culvert, id= KDU660 =       9.440000
+Adjacent level of link 10_s2 =       9.462194
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 1 Level of structure Culvert, id= KDU661 =       9.340000
+Adjacent level of link 10_s2 =       9.420120
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 2 Level of structure Culvert, id= KDU661 =       9.340000
+Adjacent level of link 10_s4 =       9.407456
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 1 Level of structure Culvert, id= KDU662 =       9.280000
+Adjacent level of link 10_s4 =       9.330000
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+Adjacent structures, better keep 1 normal link in between them Culvert, id= KDU662 Weir, id= KST0012
+Adjacent structures, better keep 1 normal link in between them Culvert, id= KDU662 Culvert, id= KDU658
+Adjacent structures, better keep 1 normal link in between them Culvert, id= KDU605 Culvert, id= KDU621
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 1 Level of structure Culvert, id= KDU605 =       9.230000
+Adjacent level of link Nieuw_26_s2 =       9.420000
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 2 Level of structure Culvert, id= KDU605 =       9.180000
+Adjacent level of link Nieuw_21_s1 =       9.400000
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 1 Level of structure Culvert, id= KDU694 =       8.400000
+Adjacent level of link 13_s2 =       8.804708
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 2 Level of structure Culvert, id= KDU694 =       8.400000
+Adjacent level of link 13_s4 =       8.782344
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 1 Level of structure Culvert, id= KDU668 =       9.440000
+Adjacent level of link 17_s1 =       9.840000
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 1 Level of structure Culvert, id= KDU668 =       9.440000
+Adjacent level of link Nieuw_41_1 =       9.820000
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 2 Level of structure Culvert, id= KDU668 =       9.420000
+Adjacent level of link Nieuw_29_s1 =       9.880000
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 1 Level of structure Culvert, id= KDU669 =       9.360000
+Adjacent level of link Nieuw_29_s1 =       9.832125
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+Adjacent structures, better keep 1 normal link in between them Culvert, id= KDU669 Culvert, id= KDU670
+Adjacent structures, better keep 1 normal link in between them Culvert, id= KDU7478 Orifice, id= KDU7364
+Adjacent structures, better keep 1 normal link in between them Culvert, id= KDU7478 Orifice, id= KDU7495
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 1 Level of structure Culvert, id= KDU679 =       8.850000
+Adjacent level of link Nieuw_36_1 =       9.180000
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 2 Level of structure Culvert, id= KDU679 =       8.850000
+Adjacent level of link Nieuw_36_s2 =       9.180000
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 1 Level of structure Culvert, id= KDU680 =       8.790000
+Adjacent level of link Nieuw_36_s2 =       9.180000
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+Adjacent structures, better keep 1 normal link in between them Culvert, id= KDU680 Weir, id= KST0533
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 1 Level of structure Culvert, id= KDU10400 =       9.600000
+Adjacent level of link Nieuw_34_s1 =       9.660000
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+Adjacent structures, better keep 1 normal link in between them Culvert, id= KDU10400 Culvert, id= KDU10402
+Adjacent structures, better keep 1 normal link in between them Culvert, id= KDU10402 Culvert, id= KDU10400
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 2 Level of structure Culvert, id= KDU10402 =       9.600000
+Adjacent level of link Nieuw_34_s4 =       9.660000
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 1 Level of structure Culvert, id= KDU4983 =       9.360000
+Adjacent level of link Nieuw_34_s4 =       9.660000
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+Adjacent structures, better keep 1 normal link in between them Culvert, id= KDU4983 Culvert, id= KDU4984
+Adjacent structures, better keep 1 normal link in between them Culvert, id= KDU4984 Culvert, id= KDU4983
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 2 Level of structure Culvert, id= KDU4984 =       9.370000
+Adjacent level of link Nieuw_35_1 =       9.630000
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+Adjacent structures, better keep 1 normal link in between them Culvert, id= KDU621 Culvert, id= KDU605
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 2 Level of structure Culvert, id= KDU621 =       9.470000
+Adjacent level of link 26_s1 =       9.600000
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 1 Level of structure Culvert, id= KDU623 =       9.380000
+Adjacent level of link 26_s3 =       9.466180
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+Adjacent structures, better keep 1 normal link in between them Culvert, id= KDU623 Culvert, id= KDU4990
+Adjacent structures, better keep 1 normal link in between them Culvert, id= KDU4990 Culvert, id= KDU623
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 2 Level of structure Culvert, id= KDU4990 =       9.200000
+Adjacent level of link 26_s6 =       9.428712
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+Adjacent structures, better keep 1 normal link in between them Culvert, id= KDU624 Culvert, id= KDU625
+Adjacent structures, better keep 1 normal link in between them Culvert, id= KDU625 Culvert, id= KDU624
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 2 Level of structure Culvert, id= KDU625 =       9.270000
+Adjacent level of link 26_s9 =       9.338584
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 1 Level of structure Culvert, id= KDU626 =       9.130000
+Adjacent level of link 26_s9 =       9.316646
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 2 Level of structure Culvert, id= KDU626 =       9.200000
+Adjacent level of link 26_s11 =       9.310239
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 1 Level of structure Culvert, id= KDU627 =       9.140000
+Adjacent level of link 26_s11 =       9.190000
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+Adjacent structures, better keep 1 normal link in between them Culvert, id= KDU627 Culvert, id= KDU628
+Adjacent structures, better keep 1 normal link in between them Culvert, id= KDU628 Culvert, id= KDU627
+Adjacent structures, better keep 1 normal link in between them Culvert, id= KDU628 Culvert, id= KDU629
+Adjacent structures, better keep 1 normal link in between them Culvert, id= KDU628 Weir, id= KST0009
+Adjacent structures, better keep 1 normal link in between them Culvert, id= KDU630 Culvert, id= KDU631
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 1 Level of structure Culvert, id= KDU630 =       8.950000
+Adjacent level of link Nieuw_16_s3 =       9.130000
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 2 Level of structure Culvert, id= KDU630 =       8.880000
+Adjacent level of link 33_s1 =       9.197751
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 1 Level of structure Culvert, id= KDU629 =       8.850000
+Adjacent level of link 33_s1 =       9.070000
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+Adjacent structures, better keep 1 normal link in between them Culvert, id= KDU629 Culvert, id= KDU628
+Adjacent structures, better keep 1 normal link in between them Culvert, id= KDU629 Weir, id= KST0009
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 1 Level of structure Culvert, id= KDU677 =       9.430000
+Adjacent level of link 128_1 =       9.840000
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+Adjacent structures, better keep 1 normal link in between them Culvert, id= KDU677 Weir, id= KST0152
+Adjacent structures, better keep 1 normal link in between them Culvert, id= KDU640 Weir, id= KST0055
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 2 Level of structure Culvert, id= KDU640 =       7.530000
+Adjacent level of link Nieuw_13_1 =       7.800000
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+Adjacent structures, better keep 1 normal link in between them Culvert, id= KDU640 Culvert, id= KDU14048
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 2 Level of structure Culvert, id= KDU82 =       8.550000
+Adjacent level of link 116_1 =       8.690000
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+Adjacent structures, better keep 1 normal link in between them Culvert, id= KDU82 Culvert, id= KDU608
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 1 Level of structure Culvert, id= KDU687 =       9.410000
+Adjacent level of link 7_s2 =       9.635388
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 2 Level of structure Culvert, id= KDU687 =       9.410000
+Adjacent level of link 7_s4 =       9.613738
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 1 Level of structure Culvert, id= KDU607 =       8.500000
+Adjacent level of link Nieuw_17_1 =       8.880000
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 2 Level of structure Culvert, id= KDU607 =       8.500000
+Adjacent level of link Nieuw_17_s2 =       8.880000
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 1 Level of structure Culvert, id= KDU7770 =       8.890000
+Adjacent level of link Nieuw_5_s1 =       8.953348
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 2 Level of structure Culvert, id= KDU7770 =       8.880000
+Adjacent level of link Nieuw_5_s3 =       8.939015
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 1 Level of structure Culvert, id= KDU7769 =       8.730000
+Adjacent level of link Nieuw_5_s3 =       8.880000
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+Adjacent structures, better keep 1 normal link in between them Culvert, id= KDU7769 Culvert, id= KDU10082
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 1 Level of structure Culvert, id= KDU637 =       8.200000
+Adjacent level of link 118_1 =       8.359097
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 2 Level of structure Culvert, id= KDU637 =       8.190000
+Adjacent level of link 118_s2 =       8.381461
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 1 Level of structure Culvert, id= KDU636 =       8.400000
+Adjacent level of link 118_s2 =       8.461313
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 2 Level of structure Culvert, id= KDU636 =       8.420000
+Adjacent level of link 118_s4 =       8.470510
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 1 Level of structure Culvert, id= KDU634 =       8.960000
+Adjacent level of link 118_s7 =       9.277694
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 2 Level of structure Culvert, id= KDU634 =       8.950000
+Adjacent level of link 118_s9 =       9.264662
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 1 Level of structure Culvert, id= KDU633 =       9.090000
+Adjacent level of link 118_s9 =       9.186256
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 2 Level of structure Culvert, id= KDU633 =       8.990000
+Adjacent level of link 118_s11 =       9.194226
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 1 Level of structure Culvert, id= KDU632 =       8.950000
+Adjacent level of link 118_s11 =       9.252458
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+Adjacent structures, better keep 1 normal link in between them Culvert, id= KDU632 Culvert, id= KDU631
+Adjacent structures, better keep 1 normal link in between them Culvert, id= KDU631 Culvert, id= KDU632
+Adjacent structures, better keep 1 normal link in between them Culvert, id= KDU631 Culvert, id= KDU630
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 2 Level of structure Culvert, id= KDU631 =       9.020000
+Adjacent level of link Nieuw_16_s3 =       9.130000
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+Adjacent structures, better keep 1 normal link in between them Culvert, id= KDU685 Weir, id= KST0383
+Adjacent structures, better keep 1 normal link in between them Culvert, id= KDU685 Culvert, id= KDU684
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 1 Level of structure Culvert, id= KDU682 =       8.510000
+Adjacent level of link Nieuw_31_s2 =       9.190000
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 2 Level of structure Culvert, id= KDU682 =       8.490000
+Adjacent level of link Nieuw_31_s4 =       9.190000
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+Adjacent structures, better keep 1 normal link in between them Culvert, id= KDU652 Weir, id= KST0532
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 1 Level of structure Culvert, id= KDU653 =       9.320000
+Adjacent level of link Nieuw_23_s8 =       9.361231
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 2 Level of structure Culvert, id= KDU653 =       9.320000
+Adjacent level of link Nieuw_23_s10 =       9.352678
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 1 Level of structure Culvert, id= KDU655 =       9.310000
+Adjacent level of link Nieuw_23_s10 =       9.316239
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 2 Level of structure Culvert, id= KDU655 =       9.310000
+Adjacent level of link Nieuw_23_s12 =       9.321031
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 1 Level of structure Culvert, id= KDU688 =       8.460000
+Adjacent level of link Nieuw_45_1 =       8.590000
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 2 Level of structure Culvert, id= KDU688 =       8.450000
+Adjacent level of link Nieuw_45_s2 =       8.590000
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 1 Level of structure Culvert, id= KDU674 =       9.990000
+Adjacent level of link 128_s2 =      10.101952
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+Adjacent structures, better keep 1 normal link in between them Culvert, id= KDU674 Orifice, id= KDU7364
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 2 Level of structure Culvert, id= KDU19687 =       9.000000
+Adjacent level of link Nieuw_1_s1 =       9.030000
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 1 Level of structure Culvert, id= KDU612 =       8.400000
+Adjacent level of link Nieuw_1_s5 =       8.586347
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 2 Level of structure Culvert, id= KDU612 =       8.400000
+Adjacent level of link Nieuw_1_s6 =       8.573053
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 1 Level of structure Culvert, id= KDU613 =       8.410000
+Adjacent level of link Nieuw_1_s6 =       8.652467
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 2 Level of structure Culvert, id= KDU613 =       8.410000
+Adjacent level of link Nieuw_1_s8 =       8.669736
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 1 Level of structure Culvert, id= KDU614 =       8.220000
+Adjacent level of link Nieuw_2_1 =       8.660000
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+Adjacent structures, better keep 1 normal link in between them Culvert, id= KDU614 Culvert, id= KDU615
+Adjacent structures, better keep 1 normal link in between them Culvert, id= KDU10082 Culvert, id= KDU7769
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 1 Level of structure Culvert, id= KDU7683 =       8.610000
+Adjacent level of link Nieuw_6_s1 =       8.724914
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+Adjacent structures, better keep 1 normal link in between them Culvert, id= KDU7683 Culvert, id= KDU610
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 1 Level of structure Culvert, id= KDU651 =       7.210000
+Adjacent level of link Nieuw_10_s2 =       7.449562
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 2 Level of structure Culvert, id= KDU651 =       7.240000
+Adjacent level of link Nieuw_10_s3 =       7.440668
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+Adjacent structures, better keep 1 normal link in between them Culvert, id= KDU14048 Culvert, id= KDU640
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 1 Level of structure Culvert, id= KDU642 =       7.740000
+Adjacent level of link Nieuw_14_1 =       7.750000
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+Adjacent structures, better keep 1 normal link in between them Culvert, id= KDU642 Weir, id= KST0210
+Adjacent structures, better keep 1 normal link in between them Culvert, id= KDU608 Weir, id= KST0014
+Adjacent structures, better keep 1 normal link in between them Culvert, id= KDU608 Culvert, id= KDU82
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 2 Level of structure Culvert, id= KDU608 =       8.330000
+Adjacent level of link 116_1 =       8.690000
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 1 Level of structure Culvert, id= KDU9938 =       8.970000
+Adjacent level of link Nieuw_20_1 =       9.190000
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+Adjacent structures, better keep 1 normal link in between them Culvert, id= KDU9938 Culvert, id= KDU606
+Adjacent structures, better keep 1 normal link in between them Culvert, id= KDU606 Weir, id= KST0149
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 2 Level of structure Culvert, id= KDU606 =       8.540000
+Adjacent level of link Nieuw_17_1 =       8.880000
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+Adjacent structures, better keep 1 normal link in between them Culvert, id= KDU606 Culvert, id= KDU9938
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 1 Level of structure Culvert, id= KDU658 =       9.250000
+Adjacent level of link Nieuw_24_1 =       9.290000
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+Adjacent structures, better keep 1 normal link in between them Culvert, id= KDU658 Culvert, id= KDU662
+Adjacent structures, better keep 1 normal link in between them Culvert, id= KDU658 Weir, id= KST0012
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 1 Level of structure Culvert, id= KDU691 =       8.210000
+Adjacent level of link Nieuw_46_s3 =       8.670000
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 2 Level of structure Culvert, id= KDU691 =       8.190000
+Adjacent level of link Nieuw_28_s1 =       8.670000
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 1 Level of structure Culvert, id= KDU692 =       8.190000
+Adjacent level of link Nieuw_28_s1 =       8.791595
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+Adjacent structures, better keep 1 normal link in between them Culvert, id= KDU692 Culvert, id= KDU6908
+Adjacent structures, better keep 1 normal link in between them Culvert, id= KDU6908 Culvert, id= KDU692
+Adjacent structures, better keep 1 normal link in between them Culvert, id= KDU6908 Weir, id= kst_23888888
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 2 Level of structure Culvert, id= KDU2149 =       9.440000
+Adjacent level of link Nieuw_30_s1 =       9.790000
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 1 Level of structure Culvert, id= KDU683 =       8.490000
+Adjacent level of link Nieuw_32_1 =       8.730946
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+Adjacent structures, better keep 1 normal link in between them Culvert, id= KDU683 Weir, id= KST0142
+Adjacent structures, better keep 1 normal link in between them Culvert, id= KDU684 Weir, id= KST0142
+Adjacent structures, better keep 1 normal link in between them Culvert, id= KDU684 Culvert, id= KDU685
+Adjacent structures, better keep 1 normal link in between them Culvert, id= KDU684 Weir, id= KST0383
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 1 Level of structure Culvert, id= KDU4985 =       9.250000
+Adjacent level of link Nieuw_35_1 =       9.555259
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+Adjacent structures, better keep 1 normal link in between them Culvert, id= KDU4985 Culvert, id= KDU4986
+Adjacent structures, better keep 1 normal link in between them Culvert, id= KDU4986 Culvert, id= KDU4985
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 2 Level of structure Culvert, id= KDU4986 =       9.260000
+Adjacent level of link Nieuw_35_s3 =       9.531638
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 1 Level of structure Culvert, id= KDU4987 =       9.290000
+Adjacent level of link Nieuw_35_s3 =       9.466455
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+Adjacent structures, better keep 1 normal link in between them Culvert, id= KDU4987 Culvert, id= KDU4988
+Adjacent structures, better keep 1 normal link in between them Culvert, id= KDU4988 Culvert, id= KDU4987
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 2 Level of structure Culvert, id= KDU4988 =       9.310000
+Adjacent level of link Nieuw_35_s6 =       9.460439
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 1 Level of structure Culvert, id= KDU4989 =       9.330000
+Adjacent level of link Nieuw_35_s6 =       9.420655
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+Adjacent structures, better keep 1 normal link in between them Culvert, id= KDU4989 Culvert, id= KDU686
+Adjacent structures, better keep 1 normal link in between them Culvert, id= KDU686 Culvert, id= KDU4989
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 2 Level of structure Culvert, id= KDU686 =       9.230000
+Adjacent level of link Nieuw_35_s9 =       9.372924
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 1 Level of structure Culvert, id= KDU678 =       9.100000
+Adjacent level of link Nieuw_40_1 =       9.340000
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 2 Level of structure Culvert, id= KDU678 =       9.240000
+Adjacent level of link Nieuw_38_1 =       9.250000
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 1 Level of structure Culvert, id= KSY38 =       9.180000
+Adjacent level of link Nieuw_42_1 =       9.365950
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 2 Level of structure Culvert, id= KSY38 =       9.120000
+Adjacent level of link Nieuw_42_s2 =       9.324759
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 1 Level of structure Culvert, id= KDU673 =       9.130000
+Adjacent level of link Nieuw_42_s2 =       9.270938
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 2 Level of structure Culvert, id= KDU673 =       9.130000
+Adjacent level of link Nieuw_42_s4 =       9.267754
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+Adjacent structures, better keep 1 normal link in between them Culvert, id= KDU670 Culvert, id= KDU669
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 2 Level of structure Culvert, id= KDU670 =       9.350000
+Adjacent level of link Nieuw_43_s1 =       9.760000
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+Adjacent structures, better keep 1 normal link in between them Culvert, id= KDU671 Weir, id= KST0201
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 2 Level of structure Culvert, id= KDU671 =       9.270000
+Adjacent level of link Nieuw_42_1 =       9.400000
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 1 Level of structure Culvert, id= KDU689 =       8.450000
+Adjacent level of link Nieuw_45_s2 =       8.590000
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 2 Level of structure Culvert, id= KDU689 =       8.450000
+Adjacent level of link Nieuw_46_s1 =       8.602238
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 1 Level of structure Culvert, id= KDU690 =       8.190000
+Adjacent level of link Nieuw_46_s1 =       8.656993
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 2 Level of structure Culvert, id= KDU690 =       8.370000
+Adjacent level of link Nieuw_46_s3 =       8.664189
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 1 Level of structure Culvert, id= KDU609 =       8.250000
+Adjacent level of link Nieuw_27_s1 =       8.530000
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+
+Applied Automaticstruclinkbobadjustmenttreshold=       0.000000
+Link level higher than adjacent structure level, time consuming structure drying can be prevented by lowering link level
+Side 2 Level of structure Culvert, id= KDU609 =       8.250000
+Adjacent level of link Nieuw_47_s1 =       8.310230
+Increase Automaticstruclinkbobadjustmenttreshold in sobeksim.ini to adjust adjacent linklevel automatically       0.000000
+
+Adjacent structures, better keep 1 normal link in between them Culvert, id= KDU610 Culvert, id= KDU7683
+ Warning in subroutine initial
+ Extreme differences in bottomlevels of connected reaches in node cnGFE112
+ Warning in subroutine initial
+ Surface level is lower than bottom level+ground layer in reachsegment rDownGFE9
+ 4_1
+ Warning in subroutine initial
+ Surface level is lower than bottom level+ground layer in reachsegment rDownGFE9
+ 6_1
+ Warning in subroutine initial
+ Surface level is lower than bottom level+ground layer in reachsegment rDownGFE1
+ 00_1
+ Warning in subroutine initial
+ Surface level is lower than bottom level+ground layer in reachsegment rDownGFE1
+ 02_1
+ Warning in subroutine initial
+ Surface level is lower than bottom level+ground layer in reachsegment rDownGFE1
+ 03_1
+ Warning in subroutine initial
+ Surface level is lower than bottom level+ground layer in reachsegment rDownGFE1
+ 08_1
+ Warning in subroutine initial
+ Surface level is lower than bottom level+ground layer in reachsegment rDownGFE2
+ 17_1
+ Warning in subroutine initial
+ Surface level is lower than bottom level+ground layer in reachsegment rDownGFE1
+ 11_1
+ Warning in subroutine initial
+ Surface level is lower than bottom level+ground layer in reachsegment rDownGFE1
+ 12_1
+ Warning in subroutine initial
+ Surface level is lower than bottom level+ground layer in reachsegment rDownGFE1
+ 14_1
+ Warning in subroutine initial
+ Surface level is lower than bottom level+ground layer in reachsegment rDownGFE1
+ 15_1
+ Warning in subroutine initial
+ Surface level is lower than bottom level+ground layer in reachsegment rDownGFE1
+ 16_1
+ Warning in subroutine initial
+ Surface level is lower than bottom level+ground layer in reachsegment rDownGFE1
+ 17_1
+ Warning in subroutine initial
+ Surface level is lower than bottom level+ground layer in reachsegment rDownGFE1
+ 18_1
+ Warning in subroutine initial
+ Surface level is lower than bottom level+ground layer in reachsegment rDownGFE1
+ 20_1
+ Warning in subroutine initial
+ Surface level is lower than bottom level+ground layer in reachsegment rDownGFE1
+ 5_1
+ Warning in subroutine initial
+ Surface level is lower than bottom level+ground layer in reachsegment rDownGFE1
+ 28_1
+ Warning in subroutine initial
+ Surface level is lower than bottom level+ground layer in reachsegment rDownGFE1
+ 29_1
+ Warning in subroutine initial
+ Surface level is lower than bottom level+ground layer in reachsegment rDownGFE1
+ 3_1
+ Warning in subroutine initial
+ Surface level is lower than bottom level+ground layer in reachsegment rDownGFE7
+ 5_1
+ Warning in subroutine initial
+ Surface level is lower than bottom level+ground layer in reachsegment rDownGFE2
+ 19_1
+ Warning in subroutine initial
+ Surface level is lower than bottom level+ground layer in reachsegment rDownGFE1
+ 86_1
+ Warning in subroutine initial
+ Surface level is lower than bottom level+ground layer in reachsegment rDownGFE1
+ 88_1
+ Warning in subroutine initial
+ Surface level is lower than bottom level+ground layer in reachsegment rDownGFE1
+ 908_1
+ Warning in subroutine initial
+ Surface level is lower than bottom level+ground layer in reachsegment rDownGFE1
+ 910_1
+ Warning in subroutine initial
+ Surface level is lower than bottom level+ground layer in reachsegment rDownGFE1
+ 92_1
+ Warning in subroutine initial
+ Surface level is lower than bottom level+ground layer in reachsegment rDownGFE1
+ 93_1
+ Warning in subroutine initial
+ Surface level is lower than bottom level+ground layer in reachsegment rDownGFE1
+ 95_1
+ Warning in subroutine initial
+ Surface level is lower than bottom level+ground layer in reachsegment rDownGFE1
+ 99_1
+ Warning in subroutine initial
+ Surface level is lower than bottom level+ground layer in reachsegment rDownGFE2
+ 22_1
+ Warning in subroutine initial
+ Surface level is lower than bottom level+ground layer in reachsegment rDownGFE2
+ 00_1
+ Warning in subroutine initial
+ Surface level is lower than bottom level+ground layer in reachsegment rDownGFE2
+ 23_1
+ Warning in subroutine initial
+ Surface level is lower than bottom level+ground layer in reachsegment rDownGFE2
+ 01_1
+ Warning in subroutine initial
+ Surface level is lower than bottom level+ground layer in reachsegment rDownGFE2
+ 02_1
+ Warning in subroutine initial
+ Surface level is lower than bottom level+ground layer in reachsegment rDownGFE2
+ 03_1
+ Warning in subroutine initial
+ Surface level is lower than bottom level+ground layer in reachsegment rDownGFE2
+ 06_1
+ Warning in subroutine initial
+ Surface level is lower than bottom level+ground layer in reachsegment rDownGFE2
+ 08_1
+ Warning in subroutine initial
+ Surface level is lower than bottom level+ground layer in reachsegment rDownGFE2
+ 24_1
+ Warning in subroutine initial
+ Surface level is lower than bottom level+ground layer in reachsegment rDownGFE2
+ 4_1
+ Warning in subroutine initial
+ Surface level is lower than bottom level+ground layer in reachsegment rDownGFE2
+ 5_1
+ Warning in subroutine initial
+ Surface level is lower than bottom level+ground layer in reachsegment rDownGFE2
+ 25_1
+ Warning in subroutine initial
+ Surface level is lower than bottom level+ground layer in reachsegment rDownGFE1
+ 25_1
+ Warning in subroutine initial
+ Surface level is lower than bottom level+ground layer in reachsegment rDownGFE1
+ 30_1
+setback dt=     393.750000
+setback dt=     225.000000
+opened file : ..\work\flow_bal.out
+closed file : ..\work\flow_bal.out
+cpu computation =     176.906250
+---------------------------------
+Normal end of Sobeksim
+closed file : ..\work\sobek.log

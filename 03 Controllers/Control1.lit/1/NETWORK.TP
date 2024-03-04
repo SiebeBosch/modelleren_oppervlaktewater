@@ -1,0 +1,14 @@
+TP_1.0
+NODE id '1' nm '' px 78100 py 392400 node
+NODE id '6' nm '' px 79201.77 py 392400 node
+NODE id '5' nm '' px 78605.54 py 392400 node
+NODE id '8' nm '' px 78900 py 392100 node
+NODE id '7' nm '' px 78900 py 392700 node
+NODE id '4' nm '' px 79600 py 392400 node
+BRCH id '2' nm '' bn '1' en '5' al 505.5391 brch
+BRCH id '3' nm '' bn '6' en '4' al 398.2266 brch
+BRCH id '1' nm '' bn '5' en '7' al 420.3656 brch
+BRCH id '4' nm '' bn '5' en '8' al 420.3656 brch
+BRCH id '5' nm '' bn '8' en '6' al 425.5199 brch
+BRCH id '6' nm '' bn '7' en '6' al 425.5199 brch
+BRCH id '7' nm '' bn '8' en '7' al 600 brch

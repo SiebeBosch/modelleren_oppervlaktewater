@@ -1,0 +1,11 @@
+BBB2.2
+*
+* Configuration file
+* Filename for Rainfall-Runoff:
+* 1. Node data
+* 2. Link data
+* 3. Lateral data
+*
+'.\node_3b.tp'
+'.\link_3b.tp'
+'.\3bRunoff.tp'

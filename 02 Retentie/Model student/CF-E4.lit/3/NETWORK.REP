@@ -1,0 +1,591 @@
+====================================================================================
+                                       General Data
+====================================================================================
+
+Date                          : 14 June 2002
+Time                          : 14:00:04
+Version                       : 1.6
+Number of branches            : 87
+Number of Nodes               : 88
+Number of Structures          : 115
+Number of Boundary Nodes      : 1
+Number of Laterals (Nodes)    : 0
+Number of Laterals (Branches) : 0
+
+
+
+
+======================================================================
+                                   Branch and Reach Data             |
+======================================================================
+|                  |         |                   |                   |
+|    Reach ID      | Length  |   Begin Node      |   End Node        |
+|                  |   [m]   |                   |                   |
+======================================================================
+
+1                     493.228 58                  59
+2                     307.890 59                  60
+3                     278.938 55                  60
+4                     246.239 60                  70
+5                     714.353 70                  80
+6                     536.286 10                  20
+7                      52.360 50                  80
+8                     300.475 40                  50
+9                     176.365 30                  40
+10                    960.945 90                  95
+11                     43.665 80                  100
+12                    564.946 95                  100
+13                    330.456 100                 110
+14                    575.164 110                 116
+15                     40.482 115                 116
+16                     84.995 116                 120
+17                    314.844 120                 140
+18                    280.472 135                 140
+19                    668.214 130                 135
+20                    219.206 140                 175
+21                    283.039 170                 175
+22                    334.547 160                 170
+23                    207.254 155                 160
+24                   1229.486 150                 160
+25                    407.202 175                 180
+26                    425.473 180                 190
+27                    521.179 190                 195A
+28                    191.128 200                 190
+29                    368.446 220                 200
+30                    213.507 210                 220
+31                    228.572 200A                195A
+32                    108.985 225A                200A
+33                    139.787 225A                230A
+34                    322.504 230A                450
+35                    217.666 440A                450
+36                    473.308 430A                440A
+37                    554.577 420                 430A
+38                    284.470 410                 420
+39                    138.756 405                 410
+40                    157.584 400                 405
+41                    574.626 340                 400
+42                    305.805 335                 340
+43                    263.503 300                 335
+44                    219.459 290                 300
+45                    144.005 270                 290
+46                    285.616 260                 270
+47                    557.274 250                 270
+48                   1032.292 280                 290
+49                    244.318 390                 400
+50                    236.732 380                 390
+51                    553.115 370                 380
+52                   1196.280 350                 370
+53                    438.734 360                 370
+54                    244.261 368                 370
+55                    717.847 366                 368
+56                   1205.448 365                 366
+57                   1092.222 450                 490
+58                    672.866 490                 530
+59                     58.350 520                 530
+60                    463.117 510                 520
+61                    722.551 500                 510
+62                    213.144 530                 600
+64                    619.810 950                 960
+65                    107.256 960                 970
+66                    477.044 970                 980
+67                    833.106 980                 990
+68                    358.180 990                 1000
+69                     91.813 1000                1010
+70                   1132.588 1010                1020
+71                    475.314 1030                1020
+72                    348.272 1030                1040
+73                    240.014 1040                490
+75                    293.096 1050                1040
+76                     64.035 445                 195A
+77                    315.509 1100                510
+78                    130.237 20                  50
+79                   1175.567 330                 335
+80                    177.595 310                 330
+81                    218.197 320                 330
+74                     55.225 1045                1050
+63                     58.657 600                 698
+82                    684.017 1060                698
+83                     43.924 698                 699
+84                     57.593 1056                1060
+85                    222.566 680                 698
+86                     78.828 670                 680
+87                    253.474 54                  980
+
+
+
+==========================================================================================================================================================================================
+                                    Cross Sections
+==========================================================================================================================================================================================
+|                   |         |                   |                             |                             |              |         |         |         |         |
+|   Reach ID        |Location |    Node ID        |       Node Name             |  Cross Section Definition   |   Type       |Bot.Width|Max.Width|SideSlope|  Radius |
+|                   |   [m]   |                   |                             |                             |              |  [m]    |    [m]  |  [h:v]  |    [m]  |
+==========================================================================================================================================================================================
+
+1                      10.132  DP-58-1             DP-58-1                       asy_DP-58-1                   Asymm.Trapez.               3.200
+1                     476.042  DP-58-2             DP-58-2                       asy_DP-58-2                   Asymm.Trapez.               3.200
+2                      17.277  DP-59-1             DP-59-1                       asy_DP-59-1                   Asymm.Trapez.               5.150
+2                     291.884  DP-59-2             DP-59-2                       asy_DP-59-2                   Asymm.Trapez.               5.150
+3                      12.618  DP-55-1             DP-55-1                       asy_DP-55-1                   Asymm.Trapez.               4.200
+3                     272.841  DP-55-2             DP-55-2                       asy_DP-55-2                   Asymm.Trapez.               4.200
+4                       8.702  DP-60-1             DP-60-1                       asy_DP-60-1                   Asymm.Trapez.               4.850
+4                     238.302  DP-60-2             DP-60-2                       asy_DP-60-2                   Asymm.Trapez.               4.850
+5                       5.744  DP-70-1             DP-70-1                       asy_DP-70-1                   Asymm.Trapez.               4.100
+5                     704.575  DP-70-2             DP-70-2                       asy_DP-70-2                   Asymm.Trapez.               4.100
+6                      14.282  DP-10-1             DP-10-1                       asy_DP-10-1                   Asymm.Trapez.               3.350
+6                     512.905  DP-10-2             DP-10-2                       asy_DP-10-2                   Asymm.Trapez.               3.350
+7                       4.941  DP-50-1             DP-50-1                       asy_DP-50-1                   Asymm.Trapez.               4.200
+7                      39.304  DP-50-2             DP-50-2                       asy_DP-50-2                   Asymm.Trapez.               4.200
+8                      11.977  DP-40-1             DP-40-1                       asy_DP-40-1                   Asymm.Trapez.               3.200
+8                     292.628  DP-40-2             DP-40-2                       asy_DP-40-2                   Asymm.Trapez.               3.200
+9                       5.637  DP-30-1             DP-30-1                       asy_DP-30-1                   Asymm.Trapez.               3.350
+9                     167.965  DP-30-2             DP-30-2                       asy_DP-30-2                   Asymm.Trapez.               3.350
+10                      9.928  DP-90-1             DP-90-1                       asy_DP-90-1                   Asymm.Trapez.               3.500
+10                    941.505  DP-90-2             DP-90-2                       asy_DP-90-2                   Asymm.Trapez.               3.500
+11                      6.518  DP-80-1             DP-80-1                       asy_DP-80-1                   Asymm.Trapez.               4.900
+11                     36.622  DP-80-2             DP-80-2                       asy_DP-80-2                   Asymm.Trapez.               4.900
+12                      7.400  DP-95-1             DP-95-1                       asy_DP-95-1                   Asymm.Trapez.               2.900
+12                    558.206  DP-95-2             DP-95-2                       asy_DP-95-2                   Asymm.Trapez.               2.900
+13                     11.008  DP-100-1            DP-100-1                      asy_DP-100-1                  Asymm.Trapez.               5.350
+13                    317.843  DP-100-2            DP-100-2                      asy_DP-100-2                  Asymm.Trapez.               5.350
+14                      5.331  DP-110-1            DP-110-1                      asy_DP-110-1                  Asymm.Trapez.               5.350
+14                    563.663  DP-110-2            DP-110-2                      asy_DP-110-2                  Asymm.Trapez.               5.350
+15                      7.194  DP-115-1            DP-115-1                      asy_DP-115-1                  Asymm.Trapez.               4.700
+15                     27.799  DP-115-2            DP-115-2                      asy_Default (7)               Asymm.Trapez.               5.150
+16                     12.565  DP-116-1            DP-116-1                      asy_DP-116-1                  Asymm.Trapez.               5.350
+16                     77.967  DP-116-2            DP-116-2                      asy_DP-116-2                  Asymm.Trapez.               5.350
+17                      7.681  DP-120-1            DP-120-1                      asy_DP-120-1                  Asymm.Trapez.               7.170
+17                    301.263  DP-120-2            DP-120-2                      asy_DP-120-2                  Asymm.Trapez.               7.840
+18                     19.036  DP-135-1            DP-135-1                      asy_DP-135-1                  Asymm.Trapez.               2.900
+18                    273.847  DP-135-2            DP-135-2                      asy_DP-135-2                  Asymm.Trapez.               2.900
+19                     18.628  DP-130-1            DP-130-1                      asy_DP-130-1                  Asymm.Trapez.               5.000
+19                    661.491  DP-130-2            DP-130-2                      asy_DP-130-2                  Asymm.Trapez.               5.000
+20                      8.610  DP-140-1            DP-140-1                      asy_DP-140-1                  Asymm.Trapez.               8.740
+20                    206.106  DP-140-2            DP-140-2                      asy_DP-140-2                  Asymm.Trapez.               8.040
+21                     11.038  DP-170-1            DP-170-1                      asy_DP-170-1                  Asymm.Trapez.               3.800
+21                    265.617  DP-170-2            DP-170-2                      asy_DP-170-2                  Asymm.Trapez.               3.800
+22                     13.419  DP-160-1            DP-160-1                      asy_DP-160-1                  Asymm.Trapez.               2.300
+22                    325.105  DP-160-2            DP-160-2                      asy_DP-160-2                  Asymm.Trapez.               3.500
+23                     13.612  DP-155-1            DP-155-1                      asy_DP-155-1                  Asymm.Trapez.               2.300
+23                    199.438  DP-155-2            DP-155-2                      asy_DP-155-2                  Asymm.Trapez.               2.300
+24                     20.650  DP-150-1            DP-150-1                      asy_DP-150-1                  Asymm.Trapez.               4.850
+24                   1217.951  DP-150-2            DP-150-2                      asy_DP-150-2                  Asymm.Trapez.               4.850
+25                      8.059  DP-175-1            DP-175-1                      asy_DP-175-1                  Asymm.Trapez.               8.900
+25                    394.633  DP-175-2            DP-175-2                      asy_DP-175-2                  Asymm.Trapez.               8.900
+26                      9.070  DP-180-1            DP-180-1                      asy_DP-180-1                  Asymm.Trapez.               9.540
+26                    410.988  DP-180-2            DP-180-2                      asy_DP-180-2                  Asymm.Trapez.               9.540
+27                      8.628  DP-190-1            DP-190-1                      asy_DP-190-1                  Asymm.Trapez.              10.565
+27                    510.958  DP-190-2            DP-190-2                      asy_DP-190-2                  Asymm.Trapez.              10.565
+28                      5.445  DP-200-1            DP-200-1                      asy_DP-200-1                  Asymm.Trapez.               6.990
+28                    184.853  DP-200-2            DP-200-2                      asy_DP-200-2                  Asymm.Trapez.               6.990
+29                     10.025  DP-220-1            DP-220-1                      asy_DP-220-1                  Asymm.Trapez.               7.100
+29                    360.378  DP-220-2            DP-220-2                      asy_DP-220-2                  Asymm.Trapez.               2.750
+30                      7.205  DP-210-1            DP-210-1                      asy_DP-210-1                  Asymm.Trapez.              14.900
+30                    206.158  DP-210-2            DP-210-2                      asy_DP-210-2                  Asymm.Trapez.               7.100
+31                     15.788  DP-195A-2           DP-195A-2                     asy_DP-195A-2                 Asymm.Trapez.              10.565
+31                    217.161  DP-195A-1           DP-195A-1                     asy_DP-195A-1                 Asymm.Trapez.              10.565
+32                     15.320  DP-200A-2           DP-200A-2                     asy_DP-200A-2                 Asymm.Trapez.               9.865
+32                    100.404  DP-200A-1           DP-200A-1                     asy_DP-200A-1                 Asymm.Trapez.               9.865
+33                      7.690  DP-225A-1           DP-225A-1                     asy_DP-225A-1                 Asymm.Trapez.               9.865
+33                    128.419  DP-225A-2           DP-225A-2                     asy_DP-225A-2                 Asymm.Trapez.               9.865
+34                     16.159  DP-230A-1           DP-230A-1                     asy_DP-230A-1                 Asymm.Trapez.               9.865
+34                    314.405  DP-230A-2           DP-230A-2                     asy_DP-230A-2                 Asymm.Trapez.               9.865
+35                     21.514  DP-440A-1           DP-440A-1                     asy_DP-440A1                  Asymm.Trapez.               9.250
+35                    209.215  DP-440A-2           DP-440A-2                     asy_DP-440A-2                 Asymm.Trapez.               9.250
+36                     11.885  DP-430A-1           DP-430A-1                     asy_DP-430A-1                 Asymm.Trapez.              10.540
+36                    465.514  DP-430A-2           DP-430A-2                     asy_DP-430A-2                 Asymm.Trapez.              10.540
+37                     18.552  DP-420-1            DP-420-1                      asy_DP-420-1                  Asymm.Trapez.              10.190
+37                    545.402  DP-420-2            DP-420-2                      asy_DP-420-2                  Asymm.Trapez.              10.190
+38                     12.018  DP-410-1            DP-410-1                      asy_DP-410-1                  Asymm.Trapez.               9.490
+38                    270.475  DP-410-2            DP-410-2                      asy_DP-410-2                  Asymm.Trapez.               9.490
+39                      6.439  DP-405-1            DP-405-1                      asy_DP-405-1                  Asymm.Trapez.               9.490
+39                    131.105  DP-405-2            DP-405-2                      asy_DP-405-2                  Asymm.Trapez.               9.490
+40                     16.105  DP-400-1            DP-400-1                      asy_DP-400-1                  Asymm.Trapez.              10.190
+40                    143.422  DP-400-2            DP-400-2                      asy_DP-400-2                  Asymm.Trapez.              10.190
+41                     10.040  DP-340-1            DP-340-1                      asy_DP-340-1                  Asymm.Trapez.               5.300
+41                    565.126  DP-340-2            DP-340-2                      asy_DP-340-2                  Asymm.Trapez.               5.300
+42                      7.777  DP-335-1            DP-335-1                      asy_DP-335-1                  Asymm.Trapez.               7.550
+42                    284.427  DP-335-2            DP-335-2                      asy_DP-335-2                  Asymm.Trapez.               3.500
+43                      5.951  DP-300-1            DP-300-1                      asy_DP-300-1                  Asymm.Trapez.               5.200
+43                    254.612  DP-300-2            DP-300-2                      asy_DP-300-2                  Asymm.Trapez.               6.400
+44                      8.633  DP-290-1            DP-290-1                      asy_DP-290-1                  Asymm.Trapez.               9.200
+44                    209.174  DP-290-2            DP-290-2                      asy_DP-290-2                  Asymm.Trapez.               6.800
+45                     10.916  DP-270-1            DP-270-1                      asy_DP-270-1                  Asymm.Trapez.               3.200
+45                    137.091  DP-270-2            DP-270-2                      asy_DP-270-2                  Asymm.Trapez.               3.200
+46                      8.911  DP-260-1            DP-260-1                      asy_DP-260-1                  Asymm.Trapez.               8.600
+46                    279.622  DP-260-2            DP-260-2                      asy_DP-260-2                  Asymm.Trapez.               3.200
+47                      9.839  DP-250-1            DP-250-1                      asy_DP-100-1                  Asymm.Trapez.               5.350
+47                    550.054  DP-250-2            DP-250-2                      asy_DP-250-2                  Asymm.Trapez.               5.000
+48                      9.967  DP-280-1            DP-280-1                      asy_DP-270-1                  Asymm.Trapez.               3.200
+48                   1021.740  DP-280-2            DP-280-2                      asy_DP-280-2                  Asymm.Trapez.               3.500
+49                     13.950  DP-390-1            DP-390-1                      asy_DP-390-1                  Asymm.Trapez.               7.140
+49                    234.751  DP-390-2            DP-390-2                      asy_DP-390-2                  Asymm.Trapez.               6.740
+50                     12.560  DP-380-1            DP-380-1                      asy_DP-380-1                  Asymm.Trapez.               7.140
+50                    227.595  DP-380-2            DP-380-2                      asy_DP-380-2                  Asymm.Trapez.               7.140
+51                     20.349  DP-370-1            DP-370-1                      asy_DP-370-1                  Asymm.Trapez.               7.290
+51                    542.208  DP-370-2            DP-370-2                      asy_DP-370-2                  Asymm.Trapez.               7.290
+52                      6.059  DP-350-1            DP-350-1                      asy_DP-350-1                  Asymm.Trapez.               6.100
+52                   1187.774  DP-350-2            DP-350-2                      asy_DP-350-2                  Asymm.Trapez.               6.100
+53                     15.225  DP-360-1            DP-360-1                      asy_DP-360-1                  Asymm.Trapez.               5.200
+53                    424.393  DP-360-2            DP-360-2                      asy_DP-360-2                  Asymm.Trapez.               5.200
+54                     12.302  DP-368-1            DP-368-1                      asy_DP-368-1                  Asymm.Trapez.               3.400
+54                    230.163  DP-368-2            DP-368-2                      asy_DP-368-2                  Asymm.Trapez.               3.400
+55                      8.034  DP-366-1            DP-366-1                      asy_DP-366-1                  Asymm.Trapez.               3.400
+55                    705.770  DP-366-2            DP-366-2                      asy_DP-366-2                  Asymm.Trapez.               3.400
+56                     14.163  DP-365-1            DP-365-1                      asy_DP-365-1                  Asymm.Trapez.               3.400
+56                   1194.693  DP-365-2            DP-365-2                      asy_DP-365-2                  Asymm.Trapez.               3.400
+57                      9.964  DP-450-1            DP-450-1                      asy_DP-450-1                  Asymm.Trapez.              10.280
+57                   1080.349  DP-450-2            DP-450-2                      asy_DP-450-2                  Asymm.Trapez.              10.250
+58                      7.925  DP-490-1            DP-490-1                      asy_DP-490-1                  Asymm.Trapez.              10.250
+58                    661.972  DP-490-2            DP-490-2                      asy_DP-490-2                  Asymm.Trapez.              10.250
+59                      7.288  DP-520-1            DP-520-1                      asy_DP-520-1                  Asymm.Trapez.               7.300
+59                     44.288  DP-520-2            DP-520-2                      asy_DP-520-2                  Asymm.Trapez.               7.300
+60                     18.560  DP-510-1            DP-510-1                      asy_DP-510-1                  Asymm.Trapez.               6.300
+60                    453.444  DP-510-2            DP-510-2                      asy_DP-510-2                  Asymm.Trapez.               6.300
+61                      9.868  DP-500-1            DP-500-1                      asy_DP-500-1                  Asymm.Trapez.               6.300
+61                    711.802  DP-500-2            DP-500-2                      asy_DP-500-2                  Asymm.Trapez.               6.300
+62                      7.003  DP-530-1            DP-530-1                      asy_DP-530-1                  Asymm.Trapez.               9.950
+64                      7.664  DP-950-1            DP-950-1                      asy_DP-950-1                  Asymm.Trapez.               5.400
+64                    614.006  DP-950-2            DP-950-2                      asy_DP-950-1                  Asymm.Trapez.               5.400
+65                      4.977  DP-960-1            DP-960-1                      asy_DP-960-1                  Asymm.Trapez.               5.400
+65                     99.363  DP-960-2            DP-960-2                      asy_DP-960-2                  Asymm.Trapez.               5.400
+66                      5.125  DP-970-1            DP-970-1                      asy_DP-970-1                  Asymm.Trapez.               5.400
+66                    461.361  DP-970-2            DP-970-2                      asy_DP-970-2                  Asymm.Trapez.               5.400
+67                      8.502  DP-980-1            DP-980-1                      asy_DP-980-1                  Asymm.Trapez.               5.400
+67                    802.762  DP-980-2            DP-980-2                      asy_DP-980-2                  Asymm.Trapez.               5.400
+68                      8.539  DP-990-1            DP-990-1                      asy_DP-990-1                  Asymm.Trapez.               4.500
+68                    325.044  DP-990-2            DP-990-2                      asy_DP-990-2                  Asymm.Trapez.               4.500
+69                      6.353  DP-1000-1           DP-1000-1                     asy_DP-1000-1                 Asymm.Trapez.               4.950
+69                     84.135  DP-1000-2           DP-1000-2                     asy_DP-1000-2                 Asymm.Trapez.               4.950
+70                      8.949  DP-1010-1           DP-1010-1                     asy_DP-1010-1                 Asymm.Trapez.               6.600
+70                   1114.781  DP-1010-2           DP-1010-2                     asy_DP-1010-2                 Asymm.Trapez.               6.600
+71                      9.026  DP-1020-2           DP-1020-2                     asy_DP-1020-2                 Asymm.Trapez.               8.000
+71                    465.763  DP-1020-1           DP-1020-1                     asy_DP-1020-1                 Asymm.Trapez.               8.000
+72                     11.014  DP-1030-1           DP-1030-1                     asy_DP-1030-1                 Asymm.Trapez.               7.000
+72                    340.698  DP-1030-2           DP-1030-2                     asy_DP-1030-2                 Asymm.Trapez.               7.000
+73                     10.860  DP-1040-1           DP-1040-1                     asy_DP-1040-1                 Asymm.Trapez.               7.750
+73                    216.691  DP-1040-2           DP-1040-2                     asy_DP-1040-2                 Asymm.Trapez.               7.750
+75                      7.460  DP-1050-1           DP-1050-1                     asy_DP-1050-1                 Asymm.Trapez.               5.400
+75                    278.291  DP-1050-2           DP-1050-2                     asy_DP-1050-2                 Asymm.Trapez.               5.400
+76                      6.433  DP-445-1            DP-445-1                      asy_DP-445-1                  Asymm.Trapez.               4.560
+76                     55.973  DP-445-2            DP-445-2                      asy_DP-445-2                  Asymm.Trapez.               4.400
+77                     14.221  DP-1100-1           DP-1100-1                     asy_DP-1100-1                 Asymm.Trapez.               5.400
+77                    307.422  DP-1100-2           DP-1100-2                     asy_DP-1100-2                 Asymm.Trapez.               5.400
+78                      8.269  DP-20-1             DP-20-1                       asy_DP-20-1                   Asymm.Trapez.               3.200
+78                    120.742  DP-20-2             DP-20-2                       asy_DP-20-2                   Asymm.Trapez.               3.200
+79                     20.125  DP-330-1            DP-330-1                      asy_DP-330-1                  Asymm.Trapez.               7.550
+79                   1158.503  DP-330-2            DP-330-2                      asy_DP-330-2                  Asymm.Trapez.               7.550
+80                      7.558  DP-310-1            DP-310-1                      asy_DP-310-1                  Asymm.Trapez.               2.000
+80                    161.911  DP-310-2            DP-310-2                      asy_DP-310-2                  Asymm.Trapez.               2.000
+81                      8.519  DP-320-1            DP-320-1                      asy_DP-320-1                  Asymm.Trapez.               4.550
+81                    211.337  DP-320-2            DP-320-2                      asy_DP-320-2                  Asymm.Trapez.               5.600
+74                     25.000  DP-1045-1           DP-1045-1                     asy_DP-1045-1                 Asymm.Trapez.               3.900
+63                     49.827  DP-530-2            DP-530-2                      asy_DP-530-2                  Asymm.Trapez.               9.950
+82                     10.813  DP-1060-1           DP-1060-1                     asy_DP-1060-1                 Asymm.Trapez.               8.150
+82                    649.293  DP-1060-2           DP-1060-2                     asy_DP-1060-2                 Asymm.Trapez.               8.150
+83                      3.697  DP-698-1            DP-698-1                      asy_DP-698-1                  Asymm.Trapez.              12.450
+83                     22.025  DP-698-2            DP-698-2                      asy_DP-698-2                  Asymm.Trapez.              10.800
+84                      7.686  DP-1056-1           DP-1056-1                     asy_DP-1056-1                 Asymm.Trapez.               5.400
+85                     11.199  DP-680-1            DP-680-1                      asy_DP-680-1                  Asymm.Trapez.               9.600
+85                    205.257  DP-680-2            DP-680-2                      asy_DP-680-2                  Asymm.Trapez.               9.600
+86                      4.891  DP-670-1            DP-670-1                      asy_DP-670-1                  Asymm.Trapez.               9.600
+86                     73.019  DP-670-2            DP-670-2                      asy_DP-670-2                  Asymm.Trapez.               6.900
+87                    156.286  dp-980a-1           dp-980a-1                     asy_DP-980a-1                 Asymm.Trapez.               3.400
+
+
+
+======================================================================
+                           Boundary Nodes
+======================================================================
+|                  |                   |              |              |
+|      ID          |      Name         |    Flow      |  Water Level |
+|                  |                   |   [m³/s]     |   [m NAP]    |
+======================================================================
+
+699                 699                                    0.620
+
+
+
+
+
+
+=====================================================================================
+                 Structure Data (Weirs)
+=====================================================================================
+|                  |                   |              |         |         |         |
+|      ID          |      Name         |  Type        |  Flow   |Cr.Level |Cr.Width |
+|                  |                   |              |Direction| [m+ref] |   [m]   |
+=====================================================================================
+
+S8                  S8                   Weir          positive      0.620     2.000 
+S1                  S1                   Weir          positive      0.000     1.000 
+S9                  S9                   Weir          positive     -0.500     2.000 
+S2                  S2                   Weir          positive     -0.250     1.000 
+S5                  S5                   Weir          positive     -0.650     2.000 
+S6                  S6                   Weir          positive     -0.650     2.000 
+S7                  S7                   Weir          positive     -0.600     1.500 
+S11                 S11                  Weir          positive      0.100     1.000 
+S12                 S12                  Weir          positive      0.000     1.000 
+S3                  S3                   Weir          positive     -0.350     2.000 
+S10                 S10                  Weir          positive     -0.600     2.000 
+S4                  S4                   Weir          positive      0.000     2.000 
+S13                 S13                  Weir          positive     -0.100     2.000 
+
+
+
+===============================================================================================
+                                 Structure Data (Pumps)
+===============================================================================================
+|                  |                   |              |         |         |         |         |
+|      ID          |      Name         |  Type        |  Flow   | Control |Pump Cap.|Red.curve|
+|                  |                   |              |Direction|   Pump  | [m³/s]  | [yes/no]|
+===============================================================================================
+
+GEMAAL              GEMAAL               Pump          positive  suct. side    3.000  NO       
+
+
+
+=========================================================================================================
+                    Structure Data (Bridges)
+=========================================================================================================
+|                  |                   |              |         |         |         |         |         |
+|      ID          |      Name         |    Type      |Bot.Level| Length  | Width   | Cross.  | Cross.  |
+|                  |                   |              | [m+ref] |   [m]   |   [m]   |  type   |  name   |
+=========================================================================================================
+
+220-K2              220-K2               Fixed Bed         2.560     1.000
+410-K1              410-K1               Fixed Bed        -1.300     7.000
+400-K1              400-K1               Fixed Bed        -1.100    11.000
+260-K5              260-K5               Fixed Bed         0.710     5.000
+260-K6              260-K6               Fixed Bed         0.850    10.000
+250-K3              250-K3               Fixed Bed         0.400     8.000
+1010-K1             1010-K1              Fixed Bed        -1.200     6.000
+1010-K2             1010-K2              Fixed Bed        -1.200     6.000
+1020-K3             1020-K3              Fixed Bed        -1.000    15.000
+
+
+
+=============================================================================================================================
+                                 Structure Data (Culvert, Siphon)
+=============================================================================================================================
+|                  |                   |              |         |         |         |         |         |         |         |
+|      ID          |      Name         |    Type      |  Flow   |L.Bottom |R.Bottom | Length  | Width   | Cross.  | Cross.  |
+|                  |                   |              |Direction| [m+ref] | [m+ref] |   [m]   |   [m]   |  type   |  name   |
+=============================================================================================================================
+
+O2                  O2                   Inv.Siphon    both         -0.950    -0.950    20.000     0.500  Round     Round 500 mm
+O1                  O1                   Inv.Siphon    both         -0.950    -0.950    20.000     0.500  Round     Round 500 mm
+090-K1              090-K1               Culvert       both          0.300     0.300     8.000     0.500  Round     Round 500 mm
+O3                  O3                   Inv.Siphon    both         -1.000    -1.000    20.000     0.700  Round     Round 700 mm
+100-K1              100-K1               Culvert       both         -1.150    -1.150     8.000     0.800  Round     Round 800 mm
+120-K1              120-K1               Culvert       both         -1.500    -1.500     8.000     1.000  Round     Round 1000 mm
+120-K3              120-K3               Culvert       both         -1.500    -1.500     8.000     1.000  Round     Round 1000 mm
+120-K4              120-K4               Culvert       both         -1.500    -1.500     8.000     1.000  Round     Round 1000 mm
+130-K8              130-K8               Culvert       both          0.730     0.110    19.000     0.500  Round     Round 500 mm
+135-K9              135-K9               Culvert       both          0.120     0.040     4.000     0.500  Round     Round 500 mm
+135-K10             135-K10              Culvert       both         -0.670    -0.610    10.000     0.500  Round     Round 500 mm
+130-K2              130-K2               Culvert       both          2.650     2.880     5.000     0.000  Egg       Egg Shape .3 m
+130-K3              130-K3               Culvert       both          2.400     2.530     5.000     0.000  Egg       Egg Shape .3 m
+130-K4              130-K4               Culvert       both          2.210     2.140     5.000     0.000  Egg       Egg Shape .3 m
+130-K5              130-K5               Culvert       both          1.200     1.190    16.000     0.000  Egg       Egg Shape .3 m
+130-K6              130-K6               Culvert       both          0.900     0.870    36.000     0.000  Egg       Egg Shape .3 m
+130-K7              130-K7               Culvert       both          0.750     0.770     5.000     0.000  Egg       Egg Shape .3 m
+140-K1              140-K1               Culvert       both         -1.700    -1.700     8.000     1.250  Round     Round 1250 mm
+140-K3              140-K3               Culvert       both         -1.700    -1.700     5.000     1.250  Round     Round 1250 mm
+170-K1              170-K1               Culvert       both         -1.150    -1.150     8.000     0.500  Round     Round 500 mm
+160-K1              160-K1               Culvert       both          1.430     1.440     6.000     0.400  Round     Round 400 mm
+160-K2              160-K2               Culvert       both          1.220     1.210     3.000     0.300  Round     Round 300 mm
+160-K3              160-K3               Culvert       both          1.020     0.950     6.000     0.300  Round     Round 300 mm
+160-K4              160-K4               Culvert       both          0.950     0.480    16.000     0.300  Round     Round 300 mm
+150-K1              150-K1               Culvert       both          3.320     3.300     5.000     0.200  Round     Round 200 mm
+150-K2              150-K2               Culvert       both          2.700     2.740     4.000     0.000  Egg       Egg Shape .3 m
+150-K5              150-K5               Culvert       both          2.690     2.450     8.000     0.000  Egg       Egg Shape .3 m
+150-K6              150-K6               Culvert       both          2.310     2.370     7.000     0.400  Round     Round 400 mm
+175-K1              175-K1               Culvert       both         -1.700    -1.700     8.000     1.250  Round     Round 1250 mm
+175-K3              175-K3               Culvert       both         -1.700    -1.700     8.000     1.250  Round     Round 1250 mm
+175-K5              175-K5               Culvert       both         -1.700    -1.700     8.000     1.250  Round     Round 1250 mm
+175-K6              175-K6               Culvert       both         -1.700    -1.700     8.000     1.250  Round     Round 1250 mm
+180-K1              180-K1               Culvert       both         -1.700    -1.700     8.000     1.250  Round     Round 1250 mm
+180-K3              180-K3               Culvert       both         -1.700    -1.700     8.000     1.250  Round     Round 1250 mm
+180-K5              180-K5               Culvert       both         -1.700    -1.700     8.000     1.250  Round     Round 1250 mm
+180-K6              180-K6               Culvert       both         -1.700    -1.700     8.000     1.250  Round     Round 1250 mm
+200-K3              200-K3               Culvert       both         -1.100    -1.100     8.000     0.500  Round     Round 500 mm
+220-K4              220-K4               Culvert       both          2.290     2.930    28.000     0.300  Round     Round 300 mm
+220-K5              220-K5               Culvert       both          1.940     1.630     5.000     0.300  Round     Round 300 mm
+220-K6              220-K6               Culvert       both          0.150     0.000     8.000     0.000  Egg       Egg Shape .3 m
+210-K3              210-K3               Culvert       both          2.280     2.330    22.000     0.300  Round     Round 300 mm
+195A-K3             195A-K3              Culvert       both         -1.850    -1.850     8.000     1.250  Round     Round 1250 mm
+195A-K2             195A-K2              Culvert       both         -1.850    -1.850     8.000     1.250  Round     Round 1250 mm
+200A-K4             200A-K4              Culvert       both         -1.850    -1.850     8.000     1.250  Round     Round 1250 mm
+225A-K2             225A-K2              Culvert       both         -1.850    -1.850     8.000     1.250  Round     Round 1250 mm
+230A-K5             230A-K5              Culvert       both         -1.850    -1.850     8.000     1.250  Round     Round 1250 mm
+230A-K6             230A-K6              Culvert       both         -1.850    -1.850     8.000     1.250  Round     Round 1250 mm
+O4                  O4                   Inv.Siphon    both         -1.100    -1.100    30.000     3.200  Asymm.Tra asy_DP-58-1
+340-K1              340-K1               Culvert       both         -1.000    -1.080    10.000     0.800  Round     Round 800 mm
+335-K1              335-K1               Culvert       both         -0.130    -0.170     5.000     0.800  Round     Round 800 mm
+335-K2              335-K2               Culvert       both         -0.310    -0.290    16.000     0.800  Round     Round 800 mm
+270-K1              270-K1               Culvert       both          0.850     0.850     5.000     0.500  Round     Round 500 mm
+260-K4              260-K4               Culvert       both          0.950     1.010     3.000     0.300  Round     Round 300 mm
+250-K1              250-K1               Culvert       both          0.370     0.600     9.000     0.300  Round     Round 300 mm
+250-K2              250-K2               Culvert       both          0.570     0.500     8.000     0.300  Round     Round 300 mm
+280-K1              280-K1               Culvert       both          2.000     2.000     5.000     0.500  Round     Round 500 mm
+280-K2              280-K2               Culvert       both          2.120     2.160     6.000     0.160  Round     Round 160 mm
+280-K3              280-K3               Culvert       both          1.850     1.850     4.000     0.250  Round     Round 250 mm
+280-K4              280-K4               Culvert       both          1.890     1.890    13.000     0.250  Round     Round 250 mm
+280-K5              280-K5               Culvert       both          2.030     2.030     4.000     0.250  Round     Round 250 mm
+280-K6              280-K6               Culvert       both          1.880     1.880    17.000     0.250  Round     Round 250 mm
+280-K7              280-K7               Culvert       both          2.030     2.160     5.000     0.300  Round     Round 300 mm
+280-K8              280-K8               Culvert       both          1.900     1.900     3.000     0.250  Round     Round 250 mm
+390-K1              390-K1               Culvert       both         -1.200    -1.200     8.000     0.600  Round     Round 600 mm
+380-K3              380-K3               Culvert       both         -1.200    -1.200     8.000     0.600  Round     Round 600 mm
+380-K5              380-K5               Culvert       both         -1.200    -1.200     8.000     0.600  Round     Round 600 mm
+370-K1              370-K1               Culvert       both         -1.200    -1.200     8.000     0.600  Round     Round 600 mm
+370-K3              370-K3               Culvert       both         -1.200    -1.200     8.000     0.600  Round     Round 600 mm
+370-K5              370-K5               Culvert       both         -1.200    -1.200     8.000     0.600  Round     Round 600 mm
+350-K2              350-K2               Culvert       both         -0.090     0.930     9.000     0.600  Round     Round 600 mm
+350-K3              350-K3               Culvert       both         -1.080    -1.110     2.000     0.600  Round     Round 600 mm
+360-K1              360-K1               Culvert       both         -1.200    -1.200     8.000     0.300  Round     Round 300 mm
+450-K1              450-K1               Culvert       both         -1.900    -1.900     6.000     3.200  Asymm.Tra asy_DP-58-2
+450-K3              450-K3               Culvert       both         -1.900    -1.900     6.000     3.200  Asymm.Tra asy_DP-58-2
+490-K3              490-K3               Culvert       both         -1.900    -1.900     6.000     3.200  Asymm.Tra asy_DP-58-2
+490-K4              490-K4               Culvert       both         -1.900    -1.900     6.000     3.200  Asymm.Tra asy_DP-58-2
+510-K7              510-K7               Culvert       both         -1.180    -1.180     6.000     4.100  Asymm.Tra asy_DP-70-2
+510-K8              510-K8               Culvert       both         -1.200    -1.200     4.000     0.800  Round     Round 800 mm
+510-K9              510-K9               Culvert       both         -1.310    -1.310     5.000     0.800  Round     Round 800 mm
+510-K10             510-K10              Culvert       both         -1.420    -1.390     5.000     0.800  Round     Round 800 mm
+500-K2              500-K2               Culvert       both         -1.150    -1.030     5.000     0.800  Round     Round 800 mm
+500-K3              500-K3               Culvert       both         -1.050    -1.040     5.000     0.500  Round     Round 500 mm
+500-K4              500-K4               Culvert       both         -0.900    -0.940    10.000     0.800  Round     Round 800 mm
+500-K5              500-K5               Culvert       both         -0.790    -0.790     8.000     0.600  Round     Round 600 mm
+500-K11             500-K11              Culvert       both         -1.130    -1.320     5.000     1.000  Round     Round 1000 mm
+500-K12             500-K12              Culvert       both         -1.110    -1.170     8.000     0.800  Round     Round 800 mm
+500-K13             500-K13              Culvert       both         -1.180    -1.270     4.000     0.800  Round     Round 800 mm
+500-K14             500-K14              Culvert       both         -1.220    -1.280     8.000     0.800  Round     Round 800 mm
+500-K15             500-K15              Culvert       both         -0.980    -0.940    10.000     0.800  Round     Round 800 mm
+500-K16             500-K16              Culvert       both         -0.970    -0.970     6.000     0.700  Round     Round 700 mm
+330-K2              330-K2               Culvert       both          2.800     2.800     8.000     0.500  Round     Round 500 mm
+320-K1              320-K1               Culvert       both          3.000     3.000     8.000     0.300  Round     Round 300 mm
+
+
+
+====================================================================================================
+                                 Controller Data
+====================================================================================================
+|   Structure      |    Structure      |Controll.|                   |                   |         |
+|      ID          |      Name         |  Type   | Controlled Param. | Measured Parameter|Frequency|
+|                  |                   |         |                   |                   |         |
+====================================================================================================
+
+S8                  S8                   Interval  Crest Level         Water Level        3
+S1                  O2                   Interval  Crest Level         Water Level        1
+S9                  O1                   Interval  Crest Level         Water Level        1
+S2                  S1                   Interval  Crest Level         Water Level        1
+S5                  090-K1               Interval  Crest Level         Water Level        1
+S6                  O3                   Interval  Crest Level         Water Level        1
+S7                  100-K1               Interval  Crest Level         Water Level        1
+S11                 S9                   Interval  Crest Level         Water Level        1
+S12                 S2                   Interval  Crest Level         Water Level        1
+S3                  120-K1               Interval  Crest Level         Water Level        1
+S10                 120-K3               Interval  Crest Level         Water Level        1
+S4                  120-K4               Interval  Crest Level         Water Level        1
+S13                 130-K8               Interval  Crest Level         Water Level        1
+
+
+
+================================================================================
+               Friction Data
+================================================================================
+|                  |                   |                   |                   |
+|     Reach ID     |   Branch ID       |      Type         |      Value        |
+|                  |                   |                   |                   |
+================================================================================
+
+Public Definition                        White Colebrook             0.003
+
+1                   1                    De Bos & Bijkerk             33.8
+2                   2                    De Bos & Bijkerk             33.8
+3                   3                    De Bos & Bijkerk             33.8
+4                   4                    De Bos & Bijkerk             33.8
+5                   5                    De Bos & Bijkerk             33.8
+6                   6                    De Bos & Bijkerk             33.8
+7                   7                    De Bos & Bijkerk             33.8
+8                   11                   De Bos & Bijkerk             33.8
+9                   12                   De Bos & Bijkerk             33.8
+10                  13                   De Bos & Bijkerk             33.8
+11                  14                   De Bos & Bijkerk             33.8
+12                  15                   De Bos & Bijkerk             33.8
+13                  17                   De Bos & Bijkerk             33.8
+14                  8                    De Bos & Bijkerk             33.8
+15                  9                    De Bos & Bijkerk             33.8
+16                  10                   De Bos & Bijkerk             33.8
+17                  16                   De Bos & Bijkerk             33.8
+18                  18                   De Bos & Bijkerk             33.8
+19                  19                   De Bos & Bijkerk             33.8
+20                  20                   De Bos & Bijkerk             33.8
+21                  21                   De Bos & Bijkerk             33.8
+22                  22                   De Bos & Bijkerk             33.8
+23                  23                   De Bos & Bijkerk             33.8
+24                  24                   De Bos & Bijkerk             33.8
+25                  25                   De Bos & Bijkerk             33.8
+26                  26                   De Bos & Bijkerk             33.8
+27                  27                   De Bos & Bijkerk             33.8
+28                  28                   De Bos & Bijkerk             33.8
+29                  29                   De Bos & Bijkerk             33.8
+30                  30                   De Bos & Bijkerk             33.8
+31                  31                   De Bos & Bijkerk             33.8
+32                  32                   De Bos & Bijkerk             33.8
+33                  33                   De Bos & Bijkerk             33.8
+34                  34                   De Bos & Bijkerk             33.8
+35                  35                   De Bos & Bijkerk             33.8
+36                  36                   De Bos & Bijkerk             33.8
+37                  37                   De Bos & Bijkerk             33.8
+38                  38                   De Bos & Bijkerk             33.8
+39                  39                   De Bos & Bijkerk             33.8
+40                  40                   De Bos & Bijkerk             33.8
+41                  41                   De Bos & Bijkerk             33.8
+42                  42                   De Bos & Bijkerk             33.8
+43                  43                   De Bos & Bijkerk             33.8
+44                  44                   De Bos & Bijkerk             33.8
+45                  46                   De Bos & Bijkerk             33.8
+46                  47                   De Bos & Bijkerk             33.8
+47                  48                   De Bos & Bijkerk             33.8
+48                  49                   De Bos & Bijkerk             33.8
+49                  50                   De Bos & Bijkerk             33.8
+50                  51                   De Bos & Bijkerk             33.8
+51                  52                   De Bos & Bijkerk             33.8
+52                  53                   De Bos & Bijkerk             33.8
+53                  54                   De Bos & Bijkerk             33.8
+54                  55                   De Bos & Bijkerk             33.8
+55                  56                   De Bos & Bijkerk             33.8
+56                  57                   De Bos & Bijkerk             33.8
+57                  58                   De Bos & Bijkerk             33.8
+58                  59                   De Bos & Bijkerk             33.8
+59                  60                   De Bos & Bijkerk             33.8
+60                  61                   De Bos & Bijkerk             33.8
+61                  62                   De Bos & Bijkerk             33.8
+62                  63                   De Bos & Bijkerk             33.8
+64                  65                   De Bos & Bijkerk             33.8
+65                  66                   De Bos & Bijkerk             33.8
+66                  67                   De Bos & Bijkerk             33.8
+67                  68                   De Bos & Bijkerk             33.8
+68                  69                   De Bos & Bijkerk             33.8
+69                  70                   De Bos & Bijkerk             33.8
+70                  71                   De Bos & Bijkerk             33.8
+71                  72                   De Bos & Bijkerk             33.8
+72                  73                   De Bos & Bijkerk             33.8
+73                  45                   De Bos & Bijkerk             33.8
+75                  78                   De Bos & Bijkerk             33.8
+76                  87                   De Bos & Bijkerk             33.8
+77                  90                   De Bos & Bijkerk             33.8
+78                  6_23                 De Bos & Bijkerk             33.8
+79                  125                  De Bos & Bijkerk             33.8
+80                  126                  De Bos & Bijkerk             33.8
+81                  127                  De Bos & Bijkerk             33.8
+74                  149                  De Bos & Bijkerk             33.8
+63                  151                  De Bos & Bijkerk             33.8
+82                  152                  De Bos & Bijkerk             33.8
+83                  153                  De Bos & Bijkerk             33.8
+84                  155                  De Bos & Bijkerk             33.8
+85                  161                  De Bos & Bijkerk             33.8
+86                  162                  De Bos & Bijkerk             33.8
+87                  418                  White Colebrook             0.003
+

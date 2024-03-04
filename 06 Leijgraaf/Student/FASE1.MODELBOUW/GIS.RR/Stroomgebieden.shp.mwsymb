@@ -1,0 +1,235 @@
+<MapWinGIS OcxVersion="4.9.3.4" FileType="LayerFile" FileVersion="2" FilenamesEncoding="utf8">
+  <Layer LayerType="Shapefile" LayerName="Stroomgebieden" LayerVisible="1" LayerKey="" Filename="">
+    <ShapefileClass SelectionTransparency="148">
+      <DefaultDrawingOptions FillColor="0" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+      <ShapefileCategoriesClass ClassificationField="0" FieldType="0">
+        <ShapefileCategoryClass Name="101" Expression="[GAFIDENT] = &quot;101&quot;" ValueType="0" Value="101" MaxValue="101">
+          <ShapeDrawingOptionsClass FillColor="680970" FillColor2="680970" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="102" Expression="[GAFIDENT] = &quot;102&quot;" ValueType="0" Value="102" MaxValue="102">
+          <ShapeDrawingOptionsClass FillColor="746511" FillColor2="746511" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="103" Expression="[GAFIDENT] = &quot;103&quot;" ValueType="0" Value="103" MaxValue="103">
+          <ShapeDrawingOptionsClass FillColor="812308" FillColor2="812308" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="104" Expression="[GAFIDENT] = &quot;104&quot;" ValueType="0" Value="104" MaxValue="104">
+          <ShapeDrawingOptionsClass FillColor="943641" FillColor2="943641" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="105" Expression="[GAFIDENT] = &quot;105&quot;" ValueType="0" Value="105" MaxValue="105">
+          <ShapeDrawingOptionsClass FillColor="1009438" FillColor2="1009438" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="106" Expression="[GAFIDENT] = &quot;106&quot;" ValueType="0" Value="106" MaxValue="106">
+          <ShapeDrawingOptionsClass FillColor="1075235" FillColor2="1075235" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="107" Expression="[GAFIDENT] = &quot;107&quot;" ValueType="0" Value="107" MaxValue="107">
+          <ShapeDrawingOptionsClass FillColor="1206313" FillColor2="1206313" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="108" Expression="[GAFIDENT] = &quot;108&quot;" ValueType="0" Value="108" MaxValue="108">
+          <ShapeDrawingOptionsClass FillColor="1272110" FillColor2="1272110" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="109" Expression="[GAFIDENT] = &quot;109&quot;" ValueType="0" Value="109" MaxValue="109">
+          <ShapeDrawingOptionsClass FillColor="1403443" FillColor2="1403443" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="110" Expression="[GAFIDENT] = &quot;110&quot;" ValueType="0" Value="110" MaxValue="110">
+          <ShapeDrawingOptionsClass FillColor="1469240" FillColor2="1469240" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="111" Expression="[GAFIDENT] = &quot;111&quot;" ValueType="0" Value="111" MaxValue="111">
+          <ShapeDrawingOptionsClass FillColor="1535037" FillColor2="1535037" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="112" Expression="[GAFIDENT] = &quot;112&quot;" ValueType="0" Value="112" MaxValue="112">
+          <ShapeDrawingOptionsClass FillColor="1666370" FillColor2="1666370" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="113" Expression="[GAFIDENT] = &quot;113&quot;" ValueType="0" Value="113" MaxValue="113">
+          <ShapeDrawingOptionsClass FillColor="1731912" FillColor2="1731912" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="114" Expression="[GAFIDENT] = &quot;114&quot;" ValueType="0" Value="114" MaxValue="114">
+          <ShapeDrawingOptionsClass FillColor="1863245" FillColor2="1863245" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="116" Expression="[GAFIDENT] = &quot;116&quot;" ValueType="0" Value="116" MaxValue="116">
+          <ShapeDrawingOptionsClass FillColor="1929042" FillColor2="1929042" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="117" Expression="[GAFIDENT] = &quot;117&quot;" ValueType="0" Value="117" MaxValue="117">
+          <ShapeDrawingOptionsClass FillColor="1994839" FillColor2="1994839" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="118" Expression="[GAFIDENT] = &quot;118&quot;" ValueType="0" Value="118" MaxValue="118">
+          <ShapeDrawingOptionsClass FillColor="2126172" FillColor2="2126172" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="119" Expression="[GAFIDENT] = &quot;119&quot;" ValueType="0" Value="119" MaxValue="119">
+          <ShapeDrawingOptionsClass FillColor="2191714" FillColor2="2191714" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="120" Expression="[GAFIDENT] = &quot;120&quot;" ValueType="0" Value="120" MaxValue="120">
+          <ShapeDrawingOptionsClass FillColor="2323047" FillColor2="2323047" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="201" Expression="[GAFIDENT] = &quot;201&quot;" ValueType="0" Value="201" MaxValue="201">
+          <ShapeDrawingOptionsClass FillColor="2388844" FillColor2="2388844" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="202" Expression="[GAFIDENT] = &quot;202&quot;" ValueType="0" Value="202" MaxValue="202">
+          <ShapeDrawingOptionsClass FillColor="2454641" FillColor2="2454641" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="203" Expression="[GAFIDENT] = &quot;203&quot;" ValueType="0" Value="203" MaxValue="203">
+          <ShapeDrawingOptionsClass FillColor="2585974" FillColor2="2585974" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="204" Expression="[GAFIDENT] = &quot;204&quot;" ValueType="0" Value="204" MaxValue="204">
+          <ShapeDrawingOptionsClass FillColor="2651771" FillColor2="2651771" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="205" Expression="[GAFIDENT] = &quot;205&quot;" ValueType="0" Value="205" MaxValue="205">
+          <ShapeDrawingOptionsClass FillColor="2782849" FillColor2="2782849" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="206" Expression="[GAFIDENT] = &quot;206&quot;" ValueType="0" Value="206" MaxValue="206">
+          <ShapeDrawingOptionsClass FillColor="2848646" FillColor2="2848646" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="207" Expression="[GAFIDENT] = &quot;207&quot;" ValueType="0" Value="207" MaxValue="207">
+          <ShapeDrawingOptionsClass FillColor="2914443" FillColor2="2914443" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="208" Expression="[GAFIDENT] = &quot;208&quot;" ValueType="0" Value="208" MaxValue="208">
+          <ShapeDrawingOptionsClass FillColor="3045776" FillColor2="3045776" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="211" Expression="[GAFIDENT] = &quot;211&quot;" ValueType="0" Value="211" MaxValue="211">
+          <ShapeDrawingOptionsClass FillColor="3111573" FillColor2="3111573" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="213" Expression="[GAFIDENT] = &quot;213&quot;" ValueType="0" Value="213" MaxValue="213">
+          <ShapeDrawingOptionsClass FillColor="3242906" FillColor2="3242906" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="217" Expression="[GAFIDENT] = &quot;217&quot;" ValueType="0" Value="217" MaxValue="217">
+          <ShapeDrawingOptionsClass FillColor="3308448" FillColor2="3308448" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="224" Expression="[GAFIDENT] = &quot;224&quot;" ValueType="0" Value="224" MaxValue="224">
+          <ShapeDrawingOptionsClass FillColor="3374245" FillColor2="3374245" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="225" Expression="[GAFIDENT] = &quot;225&quot;" ValueType="0" Value="225" MaxValue="225">
+          <ShapeDrawingOptionsClass FillColor="3505578" FillColor2="3505578" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="227" Expression="[GAFIDENT] = &quot;227&quot;" ValueType="0" Value="227" MaxValue="227">
+          <ShapeDrawingOptionsClass FillColor="3571375" FillColor2="3571375" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="229" Expression="[GAFIDENT] = &quot;229&quot;" ValueType="0" Value="229" MaxValue="229">
+          <ShapeDrawingOptionsClass FillColor="3702708" FillColor2="3702708" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="230" Expression="[GAFIDENT] = &quot;230&quot;" ValueType="0" Value="230" MaxValue="230">
+          <ShapeDrawingOptionsClass FillColor="3768250" FillColor2="3768250" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="232" Expression="[GAFIDENT] = &quot;232&quot;" ValueType="0" Value="232" MaxValue="232">
+          <ShapeDrawingOptionsClass FillColor="3834047" FillColor2="3834047" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="234" Expression="[GAFIDENT] = &quot;234&quot;" ValueType="0" Value="234" MaxValue="234">
+          <ShapeDrawingOptionsClass FillColor="3965380" FillColor2="3965380" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="235" Expression="[GAFIDENT] = &quot;235&quot;" ValueType="0" Value="235" MaxValue="235">
+          <ShapeDrawingOptionsClass FillColor="4031431" FillColor2="4031431" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="238" Expression="[GAFIDENT] = &quot;238&quot;" ValueType="0" Value="238" MaxValue="238">
+          <ShapeDrawingOptionsClass FillColor="4163016" FillColor2="4163016" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="240" Expression="[GAFIDENT] = &quot;240&quot;" ValueType="0" Value="240" MaxValue="240">
+          <ShapeDrawingOptionsClass FillColor="4294857" FillColor2="4294857" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="243" Expression="[GAFIDENT] = &quot;243&quot;" ValueType="0" Value="243" MaxValue="243">
+          <ShapeDrawingOptionsClass FillColor="4426443" FillColor2="4426443" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="245" Expression="[GAFIDENT] = &quot;245&quot;" ValueType="0" Value="245" MaxValue="245">
+          <ShapeDrawingOptionsClass FillColor="4558284" FillColor2="4558284" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="246" Expression="[GAFIDENT] = &quot;246&quot;" ValueType="0" Value="246" MaxValue="246">
+          <ShapeDrawingOptionsClass FillColor="4689869" FillColor2="4689869" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="248" Expression="[GAFIDENT] = &quot;248&quot;" ValueType="0" Value="248" MaxValue="248">
+          <ShapeDrawingOptionsClass FillColor="4821710" FillColor2="4821710" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="250" Expression="[GAFIDENT] = &quot;250&quot;" ValueType="0" Value="250" MaxValue="250">
+          <ShapeDrawingOptionsClass FillColor="4953295" FillColor2="4953295" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="251" Expression="[GAFIDENT] = &quot;251&quot;" ValueType="0" Value="251" MaxValue="251">
+          <ShapeDrawingOptionsClass FillColor="5084880" FillColor2="5084880" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="253" Expression="[GAFIDENT] = &quot;253&quot;" ValueType="0" Value="253" MaxValue="253">
+          <ShapeDrawingOptionsClass FillColor="5216721" FillColor2="5216721" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="254" Expression="[GAFIDENT] = &quot;254&quot;" ValueType="0" Value="254" MaxValue="254">
+          <ShapeDrawingOptionsClass FillColor="5348307" FillColor2="5348307" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="256" Expression="[GAFIDENT] = &quot;256&quot;" ValueType="0" Value="256" MaxValue="256">
+          <ShapeDrawingOptionsClass FillColor="5480148" FillColor2="5480148" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="258" Expression="[GAFIDENT] = &quot;258&quot;" ValueType="0" Value="258" MaxValue="258">
+          <ShapeDrawingOptionsClass FillColor="5611733" FillColor2="5611733" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="261" Expression="[GAFIDENT] = &quot;261&quot;" ValueType="0" Value="261" MaxValue="261">
+          <ShapeDrawingOptionsClass FillColor="5743574" FillColor2="5743574" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="267" Expression="[GAFIDENT] = &quot;267&quot;" ValueType="0" Value="267" MaxValue="267">
+          <ShapeDrawingOptionsClass FillColor="5875159" FillColor2="5875159" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="269" Expression="[GAFIDENT] = &quot;269&quot;" ValueType="0" Value="269" MaxValue="269">
+          <ShapeDrawingOptionsClass FillColor="6007000" FillColor2="6007000" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="274" Expression="[GAFIDENT] = &quot;274&quot;" ValueType="0" Value="274" MaxValue="274">
+          <ShapeDrawingOptionsClass FillColor="6138585" FillColor2="6138585" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="275" Expression="[GAFIDENT] = &quot;275&quot;" ValueType="0" Value="275" MaxValue="275">
+          <ShapeDrawingOptionsClass FillColor="6270427" FillColor2="6270427" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="276" Expression="[GAFIDENT] = &quot;276&quot;" ValueType="0" Value="276" MaxValue="276">
+          <ShapeDrawingOptionsClass FillColor="6402012" FillColor2="6402012" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="277" Expression="[GAFIDENT] = &quot;277&quot;" ValueType="0" Value="277" MaxValue="277">
+          <ShapeDrawingOptionsClass FillColor="6533853" FillColor2="6533853" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="278" Expression="[GAFIDENT] = &quot;278&quot;" ValueType="0" Value="278" MaxValue="278">
+          <ShapeDrawingOptionsClass FillColor="6665438" FillColor2="6665438" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="279" Expression="[GAFIDENT] = &quot;279&quot;" ValueType="0" Value="279" MaxValue="279">
+          <ShapeDrawingOptionsClass FillColor="6797279" FillColor2="6797279" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="280" Expression="[GAFIDENT] = &quot;280&quot;" ValueType="0" Value="280" MaxValue="280">
+          <ShapeDrawingOptionsClass FillColor="6928864" FillColor2="6928864" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="282" Expression="[GAFIDENT] = &quot;282&quot;" ValueType="0" Value="282" MaxValue="282">
+          <ShapeDrawingOptionsClass FillColor="7060450" FillColor2="7060450" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="283" Expression="[GAFIDENT] = &quot;283&quot;" ValueType="0" Value="283" MaxValue="283">
+          <ShapeDrawingOptionsClass FillColor="7192291" FillColor2="7192291" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="284" Expression="[GAFIDENT] = &quot;284&quot;" ValueType="0" Value="284" MaxValue="284">
+          <ShapeDrawingOptionsClass FillColor="7323876" FillColor2="7323876" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="285" Expression="[GAFIDENT] = &quot;285&quot;" ValueType="0" Value="285" MaxValue="285">
+          <ShapeDrawingOptionsClass FillColor="7455717" FillColor2="7455717" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="287" Expression="[GAFIDENT] = &quot;287&quot;" ValueType="0" Value="287" MaxValue="287">
+          <ShapeDrawingOptionsClass FillColor="7587302" FillColor2="7587302" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="288" Expression="[GAFIDENT] = &quot;288&quot;" ValueType="0" Value="288" MaxValue="288">
+          <ShapeDrawingOptionsClass FillColor="7719143" FillColor2="7719143" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="290" Expression="[GAFIDENT] = &quot;290&quot;" ValueType="0" Value="290" MaxValue="290">
+          <ShapeDrawingOptionsClass FillColor="7850728" FillColor2="7850728" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="291" Expression="[GAFIDENT] = &quot;291&quot;" ValueType="0" Value="291" MaxValue="291">
+          <ShapeDrawingOptionsClass FillColor="7982570" FillColor2="7982570" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="292" Expression="[GAFIDENT] = &quot;292&quot;" ValueType="0" Value="292" MaxValue="292">
+          <ShapeDrawingOptionsClass FillColor="8114155" FillColor2="8114155" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="293" Expression="[GAFIDENT] = &quot;293&quot;" ValueType="0" Value="293" MaxValue="293">
+          <ShapeDrawingOptionsClass FillColor="8245996" FillColor2="8245996" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="294" Expression="[GAFIDENT] = &quot;294&quot;" ValueType="0" Value="294" MaxValue="294">
+          <ShapeDrawingOptionsClass FillColor="8377581" FillColor2="8377581" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="310" Expression="[GAFIDENT] = &quot;310&quot;" ValueType="0" Value="310" MaxValue="310">
+          <ShapeDrawingOptionsClass FillColor="8509422" FillColor2="8509422" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="320" Expression="[GAFIDENT] = &quot;320&quot;" ValueType="0" Value="320" MaxValue="320">
+          <ShapeDrawingOptionsClass FillColor="8641007" FillColor2="8641007" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+        </ShapefileCategoryClass>
+        <ShapefileCategoryClass Name="323" Expression="[GAFIDENT] = &quot;323&quot;" ValueType="0" Value="323" MaxValue="323">
+          <ShapeDrawingOptionsClass FillColor="8772849" FillColor2="8772849" FillHatchStyle="22" FillTransparency="218.000000" LineColor="9868950" LineTransparency="47.000000" />
+        </ShapefileCategoryClass>
+      </ShapefileCategoriesClass>
+      <LabelsClass Generated="0" Positioning="1" TextRenderingHint="5" />
+      <ChartsClass />
+      <Selection TotalCount="74" SelectedCount="1">00000000000000000000000000000000000000000000000000000000000000000000100000</Selection>
+      <CategoryIndices Count="74">6,11,7,13,3,5,8,9,10,4,0,2,17,14,1,18,16,15,12,23,24,68,54,64,50,45,46,43,27,22,48,41,30,49,58,52,20,21,38,28,31,35,37,26,25,69,67,66,65,53,19,71,57,60,61,62,63,73,72,47,32,33,34,56,42,44,40,39,36,59,70,29,51,55,</CategoryIndices>
+    </ShapefileClass>
+  </Layer>
+</MapWinGIS>

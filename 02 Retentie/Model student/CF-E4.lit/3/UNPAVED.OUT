@@ -1,0 +1,18 @@
+ Run datum (DD-MM-YY) and time:22-11-2002  15:15
+
+ Case name                                     
+
+
+
+ Maxima per event      
+
+ Event   Start     Node identification   Node       Groundwaterlevel    Surf_runoff   Discharge_soil Rainfall   Acceptable  gw   GWL on Surface  Cum.Exc.Threshold GWL 
+  nr  year-mon-day                       name          [m] surface level     [m3/s]          [m3/s]          [m3/s wrt surf.level [hour]
+===================================================================================================================================================================
+   1 2000 Jan   1   6                    6                      1.581        0.052        0.007        0.122        2.100            0               0.000
+   1 2000 Jan   1   10                   10                     2.294        0.104        0.101        0.244        3.300            0               0.000
+   1 2000 Jan   1   13                   13                     1.873        0.063        0.011        0.244        2.250            0               0.000
+   1 2000 Jan   1   14                   14                     0.957        0.225        0.008        0.244        1.800            0               0.000
+   1 2000 Jan   1   15                   15                     1.294        0.104        0.031        0.244        2.000            0               0.000
+   1 2000 Jan   1   16                   16                     2.608        0.049        0.006        0.244        2.900            0               0.000
+   1 2000 Jan   1   18                   18                     3.761        0.077        0.022        0.244        4.200            0               0.000

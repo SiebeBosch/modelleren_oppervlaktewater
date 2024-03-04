@@ -1,0 +1,293 @@
+TP_1.0
+NODE id 'N_NDB_0' nm 'NDB_node001' px 64040 py 444970 node
+NODE id 'N_NDB_2' nm 'NDB_node002' px 65478.9 py 444421 node
+NODE id 'N_NDB_3' nm 'NDB_node053' px 60743.8 py 442777 node
+NODE id 'N_NDB_4' nm 'NDB_node003' px 67851.8 py 443361 node
+NODE id 'N_NDB_5' nm 'NDB_node004' px 80570 py 434620 node
+NODE id 'N_NDB_6' nm 'NDB_node005' px 78450 py 433250 node
+NODE id 'N_NDB_7' nm 'NDB_node054' px 78371.9 py 432330 node
+NODE id 'N_NDB_8' nm 'NDB_node055' px 77860 py 432970 node
+NODE id 'N_NDB_9' nm 'NDB_node056' px 80495.1 py 432848 node
+NODE id 'N_NDB_10' nm 'NDB_node006' px 82990 py 434580 node
+NODE id 'N_NDB_12' nm 'NDB_node058' px 83177 py 433292 node
+NODE id 'N_NDB_13' nm 'NDB_node007' px 84517.9 py 434660 node
+NODE id 'N_NDB_11' nm 'NDB_node047' px 81390 py 434440 node
+NODE id 'N_NDB_14' nm 'NDB_node059' px 85570 py 433590 node
+NODE id 'N_NDB_15' nm 'NDB_node008' px 86680 py 434690 node
+NODE id 'N_NDB_16' nm 'NDB_node060' px 88131 py 432441 node
+NODE id 'N_NDB_17' nm 'NDB_node009' px 89590 py 435270 node
+NODE id 'N_NDB_18' nm 'NDB_node061' px 90375.3 py 433106 node
+NODE id 'N_NDB_19' nm 'NDB_node010' px 91570 py 434980 node
+NODE id 'N_NDB_20' nm 'NDB_node062' px 93191.9 py 434748 node
+NODE id 'N_NDB_21' nm 'NDB_node011' px 92480 py 435460 node
+NODE id 'N_NDB_22' nm 'NDB_node063' px 93309.2 py 435510 node
+NODE id 'N_NDB_23' nm 'NDB_node012' px 93010 py 436180 node
+NODE id 'N_NDB_24' nm 'NDB_node013' px 93954.7 py 436625 node
+NODE id 'N_NDB_25' nm 'NDB_node014' px 97680 py 435540 node
+NODE id 'N_NDB_26' nm 'NDB_node015' px 102090 py 433680 node
+NODE id 'N_NDB_27' nm 'NDB_node016' px 99320 py 436440 node
+NODE id 'N_NDB_28' nm 'NDB_node064' px 109970 py 446940 node
+NODE id 'N_NDB_32' nm 'NDB_node018' px 82084.4 py 431891 node
+NODE id 'N_NDB_33' nm 'NDB_node019' px 89130 py 428050 node
+NODE id 'N_NDB_34' nm 'NDB_node020' px 102240 py 423680 node
+NODE id 'N_NDB_35' nm 'NDB_node067' px 103700 py 422270 node
+NODE id 'N_NDB_36' nm 'NDB_node021' px 103075 py 424052 node
+NODE id 'N_NDB_37' nm 'NDB_node022' px 105535 py 426286 node
+NODE id 'N_NDB_38' nm 'NDB_node023' px 120430 py 425550 node
+NODE id 'N_NDB_43' nm 'NDB_node026' px 71441.9 py 422657 node
+NODE id 'N_NDB_44' nm 'NDB_node027' px 74180 py 422910 node
+NODE id 'N_NDB_45' nm 'NDB_node028' px 73918.1 py 420512 node
+NODE id 'N_NDB_46' nm 'NDB_node029' px 75500 py 418880 node
+NODE id 'N_NDB_47' nm 'NDB_node030' px 84298.1 py 416526 node
+NODE id 'N_NDB_48' nm 'NDB_node031' px 81740 py 415600 node
+NODE id 'N_NDB_49' nm 'NDB_node032' px 88140.5 py 413768 node
+NODE id 'N_NDB_50' nm 'NDB_node033' px 105995 py 415050 node
+NODE id 'N_NDB_51' nm 'NDB_node034' px 101754 py 415025 node
+NODE id 'N_NDB_52' nm 'NDB_node035' px 100471 py 413219 node
+NODE id 'N_NDB_53' nm 'NDB_node036' px 98266.4 py 413013 node
+NODE id 'N_NDB_55' nm 'NDB_node037' px 107276 py 415096 node
+NODE id 'N_NDB_56' nm 'NDB_node038' px 116589 py 414149 node
+NODE id 'N_NDB_65' nm 'NDB_node042' px 117950 py 418815 node
+NODE id 'N_NDB_66' nm 'NDB_node076' px 120152 py 423538 node
+NODE id 'N_NDB_68' nm 'NDB_node044' px 105500 py 427120 node
+NODE id 'N_NDB_67' nm 'NDB_node043' px 104837 py 428984 node
+NODE id 'N_NDB_70' nm 'NDB_node045' px 69360 py 439010 node
+NODE id 'N_NDB_73' nm 'NDB_node079' px 76209.6 py 432659 node
+NODE id 'N_NDB_74' nm 'NDB_node080' px 111900 py 422960 node
+NODE id 'N_NDB_75' nm 'NDB_node048' px 67879.1 py 443252 node
+NODE id 'N_NDB_76' nm 'NDB_node049' px 66070 py 443730 node
+NODE id 'N_NDB_77' nm 'NDB_node050' px 68432.2 py 442347 node
+NODE id 'N_NDB_78' nm 'NDB_node051' px 75160 py 435290 node
+NODE id 'N_NDB_79' nm 'NDB_node081' px 75410 py 434610 node
+NODE id 'N_NDB_80' nm 'NDB_node082' px 76232.1 py 434785 node
+NODE id 'N_NDB_81' nm 'NDB_node052' px 65888 py 442954 node
+NODE id 'N_NDB_83' nm 'NDB_node084' px 61860 py 442390 node
+NODE id 'N_NDB_84' nm 'NDB_node085' px 68533.6 py 440671 node
+NODE id 'N_NDB_85' nm 'NDB_node057' px 80975.4 py 433940 node
+NODE id 'N_NDB_41' nm 'NDB_node025' px 67740 py 423900 node
+NODE id 'N_NDB_86' nm 'NDB_node069' px 62647.5 py 428074 node
+NODE id 'N_NDB_87' nm 'NDB_node090' px 60978.7 py 431069 node
+NODE id 'N_NDB_88' nm 'NDB_node091' px 62399 py 432185 node
+NODE id 'N_NDB_90' nm 'NDB_node093' px 59456.9 py 431374 node
+NODE id 'N_NDB_89' nm 'NDB_node092' px 61029.4 py 434011 node
+NODE id 'N_NDB_94' nm 'NDB_node100' px 62421 py 439049 node
+NODE id 'N_NDB_82' nm 'NDB_node083' px 65207.4 py 441013 node
+NODE id 'N_NDB_93' nm 'NDB_node99' px 65287.7 py 440973 node
+NODE id 'N_NDB_69' nm 'NDB_node077' px 61760 py 440480 node
+NODE id 'N_NDB_4063' nm 'NDB_node101' px 62387 py 438955 node
+NODE id 'N_NDB_72' nm 'NDB_node078' px 67050 py 442240 node
+NODE id 'N_RT_004' nm 'RT_KopWaal_NDB' px 120525 py 425551 node
+NODE id 'N_RT_008' nm 'RT_KrilekMSW' px 102800 py 433850 node
+NODE id 'N_RT_001' nm 'RT_Lobith' px 204322 py 429166 node
+NODE id 'N_RT_002' nm 'RT_PankopMSW' px 200215 py 431638 node
+NODE id 'N_ARK_6144' nm 'ARK_TielwlMSW' px 159990 py 433341 node
+NODE id 'N_RT_005' nm 'RT_YsselkMSW' px 193800 py 440465 node
+NODE id 'N_ARK_0' nm 'ARK_km_929Lek' px 151711 py 441369 node
+NODE id 'N_RT_007' nm 'RT_km_937_36' px 137273 py 445176 node
+NODE id 'N_RT_2986' nm 'RT_km_939_50' px 135506 py 446117 node
+NODE id 'N_YSV_P_62062' nm 'YSV_Olst__MSW' px 203839 py 484051 node
+NODE id 'N_YSV_P_P_9' nm 'YSV_Ysm-Medblik' px 137395 py 530800 node
+NODE id 'N_YSV_P_P_4' nm 'YSV_Ysm-Kreilrd' px 137185 py 540490 node
+NODE id 'N_YSV_P_P_11' nm 'YSV_Ysm-Knwdz-bi' px 151270 py 564714 node
+NODE id 'N_YSV_P_P_7' nm 'YSV_Ysm-Stavoren' px 153255 py 543380 node
+NODE id 'N_YSV_P_P_12' nm 'YSV_Ysm-DOev-bi' px 132330 py 549837 node
+NODE id 'N_YSV_P_P_5' nm 'YSV_Ysm-N' px 145573 py 552405 node
+NODE id 'N_YSV_P_P_8' nm 'YSV_Ysm-Lemmer' px 175685 py 539178 node
+NODE id 'N_YSV_P_38559' nm 'YSV_Ketl-brug' px 172511 py 513876 node
+NODE id 'N_YSV_P_P_2' nm 'YSV_Ysm-houtrbsl' px 157850 py 505000 node
+NODE id 'N_YSV_P_P_6' nm 'YSV_Ysm-Mid' px 145272 py 538212 node
+NODE id 'N_YSV_P_P_17' nm 'YSV_Ysm-Z' px 161624 py 524653 node
+NODE id 'N_YSV_P_P_10' nm 'YSV_Ysm-RdamHoek' px 167425 py 530380 node
+NODE id 'N_YSV_P_P_3' nm 'YSV_Ysm-Enkhuiz' px 148005 py 523000 node
+NODE id 'N_YSV_P_P_18' nm 'YSV_Ysm-Kathoek' px 146770 py 529874 node
+NODE id 'N_YSV_P_P_25' nm 'YSV_Ysm-Afdyk-M' px 141628 py 557171 node
+NODE id 'N_YSV_P_P_26' nm 'YSV_Ysm-HetKlif' px 159885 py 538600 node
+NODE id 'N_YSV_P_P_27' nm 'YSV_Ysm-Hrbdyk-M' px 159639 py 515026 node
+NODE id 'N_YSV_P_5576557' nm 'YSV_IJsl-kamp9975' px 189521 py 509277 node
+NODE id 'N_YSV_P_62061' nm 'YSV_IJsl-Ketdiep' px 186007 py 510557 node
+NODE id 'N_YSV_5581966' nm 'YSV_Ketl-Kat-mond' px 185036 py 511233 node
+NODE id 'N_YSV_5581969' nm 'YSV_Ketl-oost' px 183097 py 512622 node
+NODE id 'N_YSV_5581965' nm 'YSV_Ketl-Yslmond' px 181439 py 510702 node
+NODE id 'N_YSV_5581971' nm 'YSV_Ketl-n01' px 181518 py 513628 node
+NODE id 'N_YSV_5581972' nm 'YSV_Ketl-n02' px 180000 py 513478 node
+NODE id 'N_YSV_5581974' nm 'YSV_Ketl-n03' px 177850 py 513867 node
+NODE id 'N_YSV_5581975' nm 'YSV_Ketl-n04' px 175074 py 513823 node
+NODE id 'N_YSV_5581976' nm 'YSV_Ketl-z03' px 177956 py 511471 node
+NODE id 'N_YSV_5581977' nm 'YSV_Ketl-z04' px 175790 py 511914 node
+NODE id 'N_YSV_5581978' nm 'YSV_Ketl-z05' px 172785 py 512760 node
+NODE id 'N_YSV_P_40496' nm 'YSV_Ketl-z02' px 180000 py 511048 node
+NODE id 'N_NDB_1' nm 'NDB_Maasmond' px 62730 py 445440 node
+NODE id 'N_NDB_71' nm 'NDB_node046' px 75480 py 433170 node
+NODE id 'N_NDB_92' nm 'NDB_Haringvliet-20' px 57935.1 py 436953 node
+NODE id 'N_NDB_91' nm 'NDB_Haringvliet' px 51848 py 431881 node
+NODE id 'N_NDB_54' nm 'NDB_node070' px 87245 py 412463 node
+NODE id 'N_YSV_P_P_13' nm 'YSV_Ysm-Knwdz-bu' px 151000 py 565515 node
+NODE id 'N_YSV_P_P_14' nm 'YSV_Ysm-DOev-bu' px 131975 py 550243 node
+BRCH id 'R_NDB_0' nm 'NDB_MAMO001' bn 'N_NDB_0' en 'N_NDB_1' al 1404.99999999999 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_1' nm 'NDB_MAMO002' bn 'N_NDB_2' en 'N_NDB_0' al 1557.54911582137 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_2' nm 'NDB_MAMO097' bn 'N_NDB_3' en 'N_NDB_0' al 4152.99999999999 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_3' nm 'NDB_NIWA003' bn 'N_NDB_4' en 'N_NDB_2' al 2657.00000000001 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_4' nm 'NDB_NIWA_SVKW' bn 'N_NDB_5' en 'N_NDB_4' al 16144.0000000001 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_5' nm 'NDB_BOLE005' bn 'N_NDB_6' en 'N_NDB_5' al 3084.99999999999 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_6' nm 'NDB_BOLE006' bn 'N_NDB_7' en 'N_NDB_6' al 1003.99999999998 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_7' nm 'NDB_BOLE007' bn 'N_NDB_8' en 'N_NDB_6' al 695.999999999999 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_8' nm 'NDB_PET3008' bn 'N_NDB_9' en 'N_NDB_5' al 1884.00000000001 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_9' nm 'NDB_NIMA010' bn 'N_NDB_10' en 'N_NDB_11' al 1631 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_10' nm 'NDB_PET1011' bn 'N_NDB_12' en 'N_NDB_10' al 1608 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_11' nm 'NDB_NIMA012' bn 'N_NDB_13' en 'N_NDB_10' al 1741.00000000003 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_12' nm 'NDB_NIMA083' bn 'N_NDB_11' en 'N_NDB_5' al 856.000000000001 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_13' nm 'NDB_PET2013' bn 'N_NDB_14' en 'N_NDB_13' al 1735.99999999996 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_14' nm 'NDB_NIMA014' bn 'N_NDB_15' en 'N_NDB_13' al 2189.91283399958 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_15' nm 'NDB_EMHA015' bn 'N_NDB_16' en 'N_NDB_15' al 3287.99999999999 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_16' nm 'NDB_NIMA016' bn 'N_NDB_17' en 'N_NDB_15' al 3075.99999999999 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_17' nm 'NDB_WAHA017' bn 'N_NDB_18' en 'N_NDB_17' al 2649 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_18' nm 'NDB_NIMA018' bn 'N_NDB_19' en 'N_NDB_17' al 2077 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_19' nm 'NDB_MAHA019' bn 'N_NDB_20' en 'N_NDB_19' al 1950.99999999997 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_20' nm 'NDB_NIMA020' bn 'N_NDB_21' en 'N_NDB_19' al 1074.00000000001 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_21' nm 'NDB_RIHA021' bn 'N_NDB_22' en 'N_NDB_21' al 965.99999999998 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_22' nm 'NDB_NIMA022' bn 'N_NDB_23' en 'N_NDB_21' al 921.000000000003 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_23' nm 'NDB_NIMA023' bn 'N_NDB_24' en 'N_NDB_23' al 1485.99999999992 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_24' nm 'NDB_NIMA_Rdam' bn 'N_NDB_24' en 'N_NDB_23' al 1143.99999999995 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_25' nm 'NDB_NIMA025' bn 'N_NDB_25' en 'N_NDB_24' al 5183.00000000001 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_26' nm 'NDB_NIMA026' bn 'N_NDB_26' en 'N_NDB_25' al 5014.00000000004 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_27' nm 'NDB_BAKI027' bn 'N_NDB_26' en 'N_NDB_27' al 4195.00000000001 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_28' nm 'NDB_HOIJ028' bn 'N_NDB_27' en 'N_NDB_25' al 2114.00000000001 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_29' nm 'NDB_HOIJ029' bn 'N_NDB_28' en 'N_NDB_27' al 18109.0000000001 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_33' nm 'NDB_OUMA033' bn 'N_NDB_32' en 'N_NDB_11' al 2913.00000000002 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_34' nm 'NDB_OumaSpijk' bn 'N_NDB_33' en 'N_NDB_32' al 8680.05373990374 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_35' nm 'NDB_OUMA035' bn 'N_NDB_34' en 'N_NDB_33' al 15735 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_36' nm 'NDB_KRAB036' bn 'N_NDB_35' en 'N_NDB_36' al 2008.00000000002 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_37' nm 'NDB_OUMA037' bn 'N_NDB_36' en 'N_NDB_34' al 914.116513361399 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_38' nm 'NDB_OumaDordR' bn 'N_NDB_37' en 'N_NDB_36' al 3634.99999999999 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_39' nm 'NDB_BEME039' bn 'N_NDB_38' en 'N_NDB_37' al 15273 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_43' nm 'NDB_HAVL043' bn 'N_NDB_43' en 'N_NDB_41' al 4267.00000000002 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_44' nm 'NDB_HAVL044' bn 'N_NDB_43' en 'N_NDB_41' al 6959.96941803546 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_45' nm 'NDB_HAVL045' bn 'N_NDB_44' en 'N_NDB_43' al 3996.2594558845 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_46' nm 'NDB_HAVL047' bn 'N_NDB_45' en 'N_NDB_43' al 4072.55448908785 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_47' nm 'NDB_HAVL046' bn 'N_NDB_45' en 'N_NDB_44' al 2412.25944085623 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_48' nm 'NDB_HAVL048' bn 'N_NDB_46' en 'N_NDB_45' al 3562.29328785435 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_49' nm 'NDB_HAVL049' bn 'N_NDB_47' en 'N_NDB_46' al 9815.4530547938 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_50' nm 'NDB_HAVL050' bn 'N_NDB_48' en 'N_NDB_46' al 7955.00000000001 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_51' nm 'NDB_HAVL051' bn 'N_NDB_47' en 'N_NDB_48' al 3928.458841103 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_52' nm 'NDB_HAVL052' bn 'N_NDB_49' en 'N_NDB_47' al 5098.99999999998 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_53' nm 'NDB_HAVL053' bn 'N_NDB_47' en 'N_NDB_48' al 3601.00000000002 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_54' nm 'NDB_HODI054' bn 'N_NDB_50' en 'N_NDB_51' al 4939 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_55' nm 'NDB_HODI055' bn 'N_NDB_51' en 'N_NDB_52' al 2215.338574575 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_56' nm 'NDB_HODI056' bn 'N_NDB_52' en 'N_NDB_53' al 2456.00000000001 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_57' nm 'NDB_HODI057' bn 'N_NDB_52' en 'N_NDB_53' al 2693.99999999996 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_58' nm 'NDB_HODI058' bn 'N_NDB_53' en 'N_NDB_49' al 10870.0000000001 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_59' nm 'NDB_HODI059' bn 'N_NDB_49' en 'N_NDB_54' al 1622 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_60' nm 'NDB_AMER060' bn 'N_NDB_55' en 'N_NDB_50' al 1290.99999999999 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_61' nm 'NDB_AMER061' bn 'N_NDB_56' en 'N_NDB_55' al 9726.7619044863 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_70' nm 'NDB_BIBO070' bn 'N_NDB_65' en 'N_NDB_55' al 14014 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_71' nm 'NDB_BIBO071' bn 'N_NDB_65' en 'N_NDB_56' al 5212.99999999999 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_72' nm 'NDB_BIBO072' bn 'N_NDB_66' en 'N_NDB_65' al 6079.00000000003 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_73' nm 'NDB_DOKI073' bn 'N_NDB_34' en 'N_NDB_51' al 8979.90944518504 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_74' nm 'NDB_NIME074' bn 'N_NDB_38' en 'N_NDB_50' al 19103.9999999999 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_75' nm 'NDB_NOOR075' bn 'N_NDB_68' en 'N_NDB_67' al 2488.99999999996 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_76' nm 'NDB_NOOR076' bn 'N_NDB_37' en 'N_NDB_68' al 893.999999999998 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_77' nm 'NDB_RIET077' bn 'N_NDB_68' en 'N_NDB_67' al 2174.00000000001 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_78' nm 'NDB_NOOR098' bn 'N_NDB_67' en 'N_NDB_26' al 5515.9137373068 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_80' nm 'NDB_HAKA079' bn 'N_NDB_70' en 'N_NDB_71' al 8864.00000000001 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_83' nm 'NDB_SEHA082' bn 'N_NDB_73' en 'N_NDB_71' al 1301.00000000002 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_84' nm 'NDB_SPUI084' bn 'N_NDB_33' en 'N_NDB_44' al 18143.0000000001 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_85' nm 'NDB_WANT085' bn 'N_NDB_74' en 'N_NDB_37' al 7377.99999999998 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_86' nm 'NDB_BRED086' bn 'N_NDB_75' en 'N_NDB_4' al 235.000000000029 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_87' nm 'NDB_CAKA087' bn 'N_NDB_76' en 'N_NDB_2' al 1024.99999999998 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_88' nm 'NDB_CAKA088' bn 'N_NDB_75' en 'N_NDB_76' al 2016.99999999998 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_89' nm 'NDB_CAKA089' bn 'N_NDB_77' en 'N_NDB_75' al 1067 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_90' nm 'NDB_CAKA090' bn 'N_NDB_78' en 'N_NDB_77' al 10085.8218838408 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_91' nm 'NDB_CAKA091' bn 'N_NDB_79' en 'N_NDB_78' al 724.999999999999 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_92' nm 'NDB_CAKA092' bn 'N_NDB_80' en 'N_NDB_78' al 1238.00000000002 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_93' nm 'NDB_BEKA093' bn 'N_NDB_81' en 'N_NDB_76' al 899.000000000002 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_95' nm 'NDB_BEKA095' bn 'N_NDB_83' en 'N_NDB_81' al 4067.29394069325 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_96' nm 'NDB_BEHA096' bn 'N_NDB_84' en 'N_NDB_77' al 1708 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_97' nm 'NDB_GEHA009' bn 'N_NDB_85' en 'N_NDB_5' al 817.999999999989 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_98' nm 'NDB_HAVL042' bn 'N_NDB_41' en 'N_NDB_86' al 6744.85001828506 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_100' nm 'NDB_ZEHV097' bn 'N_NDB_86' en 'N_NDB_88' al 4801.00000000001 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_101' nm 'NDB_ZEHV098' bn 'N_NDB_86' en 'N_NDB_87' al 3428.54465334783 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_102' nm 'NDB_ZEHV099' bn 'N_NDB_87' en 'N_NDB_88' al 2025.99999999999 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_103' nm 'NDB_ZEHV100' bn 'N_NDB_87' en 'N_NDB_90' al 2955.99999999997 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_104' nm 'NDB_ZEHV101' bn 'N_NDB_88' en 'N_NDB_89' al 2889.00000000003 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_105' nm 'NDB_ZEHV102' bn 'N_NDB_90' en 'N_NDB_89' al 3363 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_106' nm 'NDB_ZEHV103' bn 'N_NDB_89' en 'N_NDB_92' al 4830.44212366301 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_107' nm 'NDB_ZEHV104' bn 'N_NDB_90' en 'N_NDB_91' al 9551.00000000003 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_108' nm 'NDB_HAKA_SVKH' bn 'N_NDB_32' en 'N_NDB_71' al 7471.99999999999 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_109' nm 'NDB_MissiPi' bn 'N_NDB_94' en 'N_NDB_82' al 3409.00586095126 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_110' nm 'NDB_openbdam' bn 'N_NDB_82' en 'N_NDB_93' al 199.999999999972 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_111' nm 'NDB_MIHA094' bn 'N_NDB_82' en 'N_NDB_81' al 2256.21643462071 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_113' nm 'NDB_HAKA99' bn 'N_NDB_93' en 'N_NDB_70' al 4520.73 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_4066' nm 'NDB_HAKA_078a' bn 'N_NDB_69' en 'N_NDB_4063' al 2094.90999999998 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_4067' nm 'NDB_HAKA_078b' bn 'N_NDB_4063' en 'N_NDB_93' al 3533.60785741712 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_9445' nm 'NDB_openHHvn' bn 'N_NDB_94' en 'N_NDB_4063' al 99.9999999999999 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_14478' nm 'NDB_DIHA080' bn 'N_NDB_72' en 'N_NDB_70' al 4424.00000000002 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_23019' nm 'NDB_BOME040b' bn 'N_RT_004' en 'N_NDB_38' al 95.005263012109 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_NDB_23032' nm 'NDB_LEK_VAK159' bn 'N_RT_008' en 'N_NDB_26' al 1059.99999999998 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_RT_001' nm 'RT_Bovenryn' bn 'N_RT_001' en 'N_RT_002' al 4841.79598614617 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_RT_002' nm 'RT_Waal___1' bn 'N_RT_002' en 'N_ARK_6144' al 45719.0000000003 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_RT_003' nm 'RT_Waal___2' bn 'N_ARK_6144' en 'N_RT_004' al 46761.8766890275 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_RT_004' nm 'RT_Pankanaa' bn 'N_RT_002' en 'N_RT_005' al 11347.0000000001 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_RT_005' nm 'RT_Nederryn' bn 'N_RT_005' en 'N_ARK_0' al 48670.3846275924 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_RT_006' nm 'RT_Lek____1' bn 'N_ARK_0' en 'N_RT_007' al 18594.0970429739 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_RT_007' nm 'RT_Lek____2a' bn 'N_RT_007' en 'N_RT_2986' al 2217.4100371047 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_RT_008' nm 'RT_Yssel__1' bn 'N_RT_005' en 'N_YSV_P_62062' al 69209.5247299686 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_RT_2987' nm 'RT_Lek____2b' bn 'N_RT_2986' en 'N_RT_008' al 38578.9999999998 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_YSV_P_62068' nm 'RT_Yssel__2' bn 'N_YSV_P_62062' en 'N_YSV_P_5576557' al 40758.6081924405 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_YSV_P_P_8' nm 'YSV_Ym-W-01' bn 'N_YSV_P_P_9' en 'N_YSV_P_P_4' al 9692.3 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_YSV_P_P_9' nm 'YSV_Ym-NW-03' bn 'N_YSV_P_P_4' en 'N_YSV_P_P_12' al 10712.3 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_YSV_P_P_11' nm 'YSV_Ym-NO-01' bn 'N_YSV_P_P_11' en 'N_YSV_P_P_5' al 13563.4542060642 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_YSV_P_P_12' nm 'YSV_Ym-NO-02' bn 'N_YSV_P_P_7' en 'N_YSV_P_P_5' al 11851.8 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_YSV_P_P_13' nm 'YSV_Ym-NW-01' bn 'N_YSV_P_P_12' en 'N_YSV_P_P_5' al 14065.2 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_YSV_P_P_14' nm 'YSV_Ym-NW-02' bn 'N_YSV_P_P_4' en 'N_YSV_P_P_5' al 14572 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_YSV_P_P_15' nm 'YSV_Ym-W-02' bn 'N_YSV_P_P_4' en 'N_YSV_P_P_6' al 8401.9 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_YSV_P_P_16' nm 'YSV_Ym-W-03' bn 'N_YSV_P_P_9' en 'N_YSV_P_P_6' al 10815.9545579667 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_YSV_P_P_17' nm 'YSV_Ym-O-01' bn 'N_YSV_P_P_7' en 'N_YSV_P_P_6' al 9510.1 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_YSV_P_P_18' nm 'YSV_Ym-MidN02' bn 'N_YSV_P_P_5' en 'N_YSV_P_P_6' al 14197.1 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_YSV_P_P_10' nm 'YSV_Ym-AfdykO' bn 'N_YSV_P_P_11' en 'N_YSV_P_P_25' al 12285.5 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_YSV_P_P_4' nm 'YSV_Ym-NO-03' bn 'N_YSV_P_P_11' en 'N_YSV_P_P_7' al 21426.1471338176 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_YSV_P_P_1' nm 'YSV_Ym-LemZW' bn 'N_YSV_P_P_8' en 'N_YSV_P_P_10' al 12530.1 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_YSV_P_P_2' nm 'YSV_Ym-NOPdyk' bn 'N_YSV_P_38559' en 'N_YSV_P_P_10' al 17269.8990153388 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_YSV_P_P_5' nm 'YSV_Ym-mr-dyk' bn 'N_YSV_P_P_2' en 'N_YSV_P_38559' al 17343.8 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_YSV_P_P_19' nm 'YSV_Ym-mid' bn 'N_YSV_P_P_6' en 'N_YSV_P_P_17' al 21242.2782441056 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_YSV_P_P_20' nm 'YSV_Ym-Z-02' bn 'N_YSV_P_P_17' en 'N_YSV_P_38559' al 15318.9587766271 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_YSV_P_P_22' nm 'YSV_Ym-Z-01' bn 'N_YSV_P_P_10' en 'N_YSV_P_P_17' al 8151.69491578285 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_YSV_P_P_25' nm 'YSV_Ym-EnkhO' bn 'N_YSV_P_P_3' en 'N_YSV_P_P_17' al 13719.4 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_YSV_P_P_26' nm 'YSV_Ym-HutdkZ' bn 'N_YSV_P_P_2' en 'N_YSV_P_P_27' al 10369.8 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_YSV_P_P_29' nm 'YSV_Ym-W05' bn 'N_YSV_P_P_6' en 'N_YSV_P_P_18' al 8471.49620787261 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_YSV_P_P_30' nm 'YSV_Ym-KnwdzSl' bn 'N_YSV_P_P_11' en 'N_YSV_P_P_13' al 845.281609879216 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_YSV_P_P_31' nm 'YSV_Ym-DenOSl' bn 'N_YSV_P_P_12' en 'N_YSV_P_P_14' al 539.315306662068 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_YSV_P_P_3' nm 'YSV_Ym-EnkhN' bn 'N_YSV_P_P_18' en 'N_YSV_P_P_3' al 6984.0604951561 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_YSV_P_P_6' nm 'YSV_Ym-W-04' bn 'N_YSV_P_P_9' en 'N_YSV_P_P_18' al 9420.7 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_YSV_P_P_7' nm 'YSV_Ym-mid-W' bn 'N_YSV_P_P_18' en 'N_YSV_P_P_17' al 15745 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_YSV_P_P_33' nm 'YSV_Ym-AfdykW' bn 'N_YSV_P_P_25' en 'N_YSV_P_P_12' al 12354.6 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_YSV_P_P_34' nm 'YSV_Ym-MidN01' bn 'N_YSV_P_P_25' en 'N_YSV_P_P_5' al 6187 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_YSV_P_P_21' nm 'YSV_Ym-O-02' bn 'N_YSV_P_P_7' en 'N_YSV_P_P_26' al 8996.79999999987 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_YSV_P_P_23' nm 'YSV_Ym-LemNW' bn 'N_YSV_P_P_8' en 'N_YSV_P_P_26' al 15810.5687437233 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_YSV_P_P_24' nm 'YSV_Ym-O-03' bn 'N_YSV_P_P_6' en 'N_YSV_P_P_26' al 15424.1 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_YSV_P_P_27' nm 'YSV_Ym-mid-O' bn 'N_YSV_P_P_26' en 'N_YSV_P_P_17' al 14054.9966204194 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_YSV_P_P_28' nm 'YSV_Ym-Lem-W' bn 'N_YSV_P_P_26' en 'N_YSV_P_P_10' al 11154.3713404208 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_YSV_P_P_35' nm 'YSV_Ym-mid-Z' bn 'N_YSV_P_P_27' en 'N_YSV_P_P_17' al 9829.7 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_YSV_P_P_36' nm 'YSV_Ym-HutdkN' bn 'N_YSV_P_P_3' en 'N_YSV_P_P_27' al 14104.5 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_YSV_P_P_37' nm 'YSV_Ym-Z-03' bn 'N_YSV_P_P_27' en 'N_YSV_P_38559' al 12923.2690910621 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_YSV_P_5576558' nm 'RT_Yssel__3' bn 'N_YSV_P_5576557' en 'N_YSV_P_62061' al 4351.95039911638 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_YSV_5581981' nm 'YSV_Kl-Katdp' bn 'N_YSV_P_62061' en 'N_YSV_5581966' al 1183.14 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_YSV_5581982' nm 'YSV_Kl-zut01' bn 'N_YSV_5581966' en 'N_YSV_5581969' al 2385.17127267624 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_YSV_5581985' nm 'YSV_Kl-oot03' bn 'N_YSV_5581969' en 'N_YSV_5581971' al 1872.24 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_YSV_5581986' nm 'YSV_Kl-zut02' bn 'N_YSV_5581969' en 'N_YSV_5581965' al 2536.80192368265 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_YSV_5581987' nm 'YSV_Kl-oot04' bn 'N_YSV_5581965' en 'N_YSV_5581971' al 2927.07 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_YSV_5584868' nm 'YSV_Kl-nrt03' bn 'N_YSV_5581971' en 'N_YSV_5581972' al 1525.39306409856 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_YSV_5584870' nm 'YSV_Kl-nrt05' bn 'N_YSV_5581972' en 'N_YSV_5581974' al 2184.91 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_YSV_5584871' nm 'YSV_Kl-nrt06' bn 'N_YSV_5581974' en 'N_YSV_5581975' al 2776.35 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_YSV_5584872' nm 'YSV_Kl-nrt07' bn 'N_YSV_5581975' en 'N_YSV_P_38559' al 2563.55 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_YSV_5584874' nm 'YSV_Ketl-diep' bn 'N_YSV_P_62061' en 'N_YSV_5581965' al 4570.30075596782 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_YSV_5584882' nm 'YSV_Kl-wst01' bn 'N_YSV_5581976' en 'N_YSV_5581974' al 2398.34359506723 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_YSV_5584883' nm 'YSV_Kl-wst02' bn 'N_YSV_5581977' en 'N_YSV_5581974' al 2838.63 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_YSV_5584884' nm 'YSV_Kl-zut07' bn 'N_YSV_5581976' en 'N_YSV_5581977' al 2210.84 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_YSV_5584885' nm 'YSV_Kl-wst03' bn 'N_YSV_5581977' en 'N_YSV_5581975' al 2038.86 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_YSV_5584886' nm 'YSV_Kl-zut08' bn 'N_YSV_5581977' en 'N_YSV_5581978' al 3121.82 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_YSV_5584887' nm 'YSV_Kl-zut09' bn 'N_YSV_5581978' en 'N_YSV_P_38559' al 1149.144029267 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_YSV_5584888' nm 'YSV_Kl-wst04' bn 'N_YSV_5581975' en 'N_YSV_5581978' al 2523.78485612383 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_YSV_5604205' nm 'YSV_kl-zut03' bn 'N_YSV_5581965' en 'N_YSV_P_40496' al 1480.01249994721 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_YSV_5604207' nm 'YSV_kl-mid' bn 'N_YSV_P_40496' en 'N_YSV_5581972' al 2430 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_YSV_5604209' nm 'YSV_Kl-oot05' bn 'N_YSV_P_40496' en 'N_YSV_5581971' al 2993.45 vc_opt 0 vc_equi -1 vc_len 500 brch
+BRCH id 'R_YSV_5604211' nm 'YSV_Kl-zut06' bn 'N_YSV_P_40496' en 'N_YSV_5581976' al 2087.31047043797 vc_opt 0 vc_equi -1 vc_len 500 brch

@@ -1,0 +1,102 @@
+GLFR  dd 1.65 s1 0.0474 s2 0.55 p1 -6 p2 2.75 p3 5.5 p4 -4.125 p5 -0.2 p6 2.447 a1 0.0008 a2 7e-005 ra 1.24 BDFR id '0' nm 'null' ci '0' em 1 er 0 e1 1 e2 0 e3 1 e4 0 mf 0 mt cp 0 45
+ mr cp 0 45
+ s1 0 c1 cp 0 30
+ r1 cp 0 30
+ s2 0 c2 cp 0 30
+ r2 cp 0 30
+d9 f9 0  0.001 PDIN 0 0 '' pdin TBLE
+tble
+ sf 0 st cp 0 45 0 sr cp 0 45 bdfr glfr
+BDFR id 'R_RT_001' nm 'null' ci 'R_RT_001' em 1 er 0 e1 1 e2 0 e3 1 e4 0 mf 0 mt cp 0 50
+mr cp 0 50
+s1 0 c1 cp 0 20
+r1 cp 0 20
+s2 0 c2 cp 0 20
+r2 cp 0 20
+d9 f9 0  9.9999E+09 PDIN 0 0 '' pdin TBLE
+tble
+sf 0 st cp 0 45 0 sr cp 0 45 bdfr
+BDFR id 'R_RT_002' nm 'null' ci 'R_RT_002' em 1 er 0 e1 1 e2 0 e3 1 e4 0 mf 0 mt cp 0 50
+mr cp 0 50
+s1 0 c1 cp 0 20
+r1 cp 0 20
+s2 0 c2 cp 0 20
+r2 cp 0 20
+d9 f9 0  9.9999E+09 PDIN 0 0 '' pdin TBLE
+tble
+sf 1 st cp 0 30 0 sr cp 0 30 bdfr
+BDFR id 'R_RT_003' nm 'null' ci 'R_RT_003' em 1 er 0 e1 1 e2 0 e3 1 e4 0 mf 0 mt cp 0 50
+mr cp 0 50
+s1 0 c1 cp 0 20
+r1 cp 0 20
+s2 0 c2 cp 0 20
+r2 cp 0 20
+d9 f9 0  9.9999E+09 PDIN 0 0 '' pdin TBLE
+tble
+sf 1 st cp 0 30 0 sr cp 0 30 bdfr
+BDFR id 'R_RT_004' nm 'null' ci 'R_RT_004' em 1 er 0 e1 1 e2 0 e3 1 e4 0 mf 0 mt cp 0 50
+mr cp 0 50
+s1 0 c1 cp 0 20
+r1 cp 0 20
+s2 0 c2 cp 0 20
+r2 cp 0 20
+d9 f9 0  9.9999E+09 PDIN 0 0 '' pdin TBLE
+tble
+sf 1 st cp 0 30 0 sr cp 0 30 bdfr
+BDFR id 'R_RT_005' nm 'null' ci 'R_RT_005' em 1 er 0 e1 1 e2 0 e3 1 e4 0 mf 0 mt cp 0 50
+mr cp 0 50
+s1 0 c1 cp 0 20
+r1 cp 0 20
+s2 0 c2 cp 0 20
+r2 cp 0 20
+d9 f9 0  9.9999E+09 PDIN 0 0 '' pdin TBLE
+tble
+sf 1 st cp 0 30 0 sr cp 0 30 bdfr
+BDFR id 'R_RT_006' nm 'null' ci 'R_RT_006' em 1 er 0 e1 1 e2 0 e3 1 e4 0 mf 0 mt cp 0 50
+mr cp 0 50
+s1 0 c1 cp 0 20
+r1 cp 0 20
+s2 0 c2 cp 0 20
+r2 cp 0 20
+d9 f9 0  9.9999E+09 PDIN 0 0 '' pdin TBLE
+tble
+sf 1 st cp 0 30 0 sr cp 0 30 bdfr
+BDFR id 'R_RT_007' nm 'null' ci 'R_RT_007' em 1 er 0 e1 1 e2 0 e3 1 e4 0 mf 0 mt cp 0 50
+mr cp 0 50
+s1 0 c1 cp 0 20
+r1 cp 0 20
+s2 0 c2 cp 0 20
+r2 cp 0 20
+d9 f9 0  9.9999E+09 PDIN 0 0 '' pdin TBLE
+tble
+sf 1 st cp 0 30 0 sr cp 0 30 bdfr
+BDFR id 'R_RT_008' nm 'null' ci 'R_RT_008' em 1 er 0 e1 1 e2 0 e3 1 e4 0 mf 0 mt cp 0 50
+mr cp 0 50
+s1 0 c1 cp 0 20
+r1 cp 0 20
+s2 0 c2 cp 0 20
+r2 cp 0 20
+d9 f9 0  9.9999E+09 PDIN 0 0 '' pdin TBLE
+tble
+sf 1 st cp 0 30 0 sr cp 0 30 bdfr
+BDFR id 'R_RT_2987' nm 'null' ci 'R_RT_2987' em 1 er 0 e1 1 e2 0 e3 1 e4 0 mf 0 mt cp 0 50
+mr cp 0 50
+s1 0 c1 cp 0 20
+r1 cp 0 20
+s2 0 c2 cp 0 20
+r2 cp 0 20
+d9 f9 0  9.9999E+09 PDIN 0 0 '' pdin TBLE
+tble
+sf 1 st cp 0 30 0 sr cp 0 30 bdfr
+BDFR id 'R_5636457' nm '(null)' ci 'R_5636451' em 0 er 0 e1 0 e2 0 e3 0 e4 0 mf 3 mt cp 0 45 9.9999e+009 mr cp 0 45 9.9999e+009 s1 6 c1 cp 0 9.9999e+009 9.9999e+009 r1 cp 0 9.9999e+009 9.9999e+009 s2 6 c2 cp 0 9.9999e+009 9.9999e+009 r2 cp 0 9.9999e+009 9.9999e+009 d9 f9 0 9.9999e+009 9.9999e+009 bdfr
+BDFR id 'R_5636459' nm '(null)' ci 'R_5636446' em 0 er 0 e1 0 e2 0 e3 0 e4 0 mf 3 mt cp 0 50 9.9999e+009 mr cp 0 50 9.9999e+009 s1 6 c1 cp 0 9.9999e+009 9.9999e+009 r1 cp 0 9.9999e+009 9.9999e+009 s2 6 c2 cp 0 9.9999e+009 9.9999e+009 r2 cp 0 9.9999e+009 9.9999e+009 d9 f9 0 9.9999e+009 9.9999e+009 bdfr
+BDFR id '1' ci '1' mf 0 mt cp 0 30 0 mr cp 0 30 0 s1 6 s2 6 sf 0 st cp 0 45 0 sr cp 0 45 bdfr
+BDFR id 'R_YSV_P_62068' nm 'null' ci 'R_YSV_P_62068' em 1 er 0 e1 1 e2 0 e3 1 e4 0 mf 0 mt cp 0 50
+mr cp 0 50
+s1 0 c1 cp 0 20
+r1 cp 0 20
+s2 0 c2 cp 0 20
+r2 cp 0 20
+d9 f9 0  0.001 PDIN 0 0 '' pdin TBLE
+tble
+sf 0 st cp 0 45 0 sr cp 0 45 bdfr

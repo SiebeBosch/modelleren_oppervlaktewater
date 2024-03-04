@@ -1,0 +1,585 @@
+substance 'BaP' active
+   description        'Benzo(a)pyrene (BaP)'
+   concentration-unit '(g/m3)'
+   waste-load-unit    '-'
+end-substance
+substance 'Flu' active
+   description        'Fluoranthene (Flu)'
+   concentration-unit '(g/m3)'
+   waste-load-unit    '-'
+end-substance
+substance 'AAP' active
+   description        'adsorbed ortho phosphorus'
+   concentration-unit '(gP/m3)'
+   waste-load-unit    '-'
+end-substance
+substance 'DetC' active
+   description        'Detritus Carbon  (DetC)'
+   concentration-unit '(gC/m3)'
+   waste-load-unit    '-'
+end-substance
+substance 'DetN' active
+   description        'Detritus Nitrogen (DetN)'
+   concentration-unit '(gN/m3)'
+   waste-load-unit    '-'
+end-substance
+substance 'DetP' active
+   description        'Detritus phosphorus (DetP)'
+   concentration-unit '(gP/m3)'
+   waste-load-unit    '-'
+end-substance
+substance 'NH4' active
+   description        'Ammonium (NH4)'
+   concentration-unit '(gN/m3)'
+   waste-load-unit    '-'
+end-substance
+substance 'NO3' active
+   description        'Nitrate (NO3)'
+   concentration-unit '(gN/m3)'
+   waste-load-unit    '-'
+end-substance
+substance 'PO4' active
+   description        'Ortho Phosphorus (O-PO4)'
+   concentration-unit '(gP/m3)'
+   waste-load-unit    '-'
+end-substance
+substance 'Cl' active
+   description        'Chloride'
+   concentration-unit '(g/m3)'
+   waste-load-unit    '-'
+end-substance
+substance 'ModTemp' active
+   description        'Water Temperature'
+   concentration-unit '(oC)'
+   waste-load-unit    '-'
+end-substance
+substance 'CBOD5' active
+   description        'carbonaceous BOD (first pool) at 5 days'
+   concentration-unit '(gO2/m3)'
+   waste-load-unit    '-'
+end-substance
+substance 'CBOD5_2' active
+   description        'carbonaceous BOD (second pool) at 5 days'
+   concentration-unit '(gO2/m3)'
+   waste-load-unit    '-'
+end-substance
+substance 'OXY' active
+   description        'Oxygen'
+   concentration-unit '(g/m3)'
+   waste-load-unit    '-'
+end-substance
+substance 'Cu' active
+   description        'Copper (Cu)'
+   concentration-unit '(g/m3)'
+   waste-load-unit    '-'
+end-substance
+substance 'Zn' active
+   description        'Zinc (Zn)'
+   concentration-unit '(g/m3)'
+   waste-load-unit    '-'
+end-substance
+substance 'EColi' active
+   description        'E. coli bacteria'
+   concentration-unit '(MPN/m3)'
+   waste-load-unit    '-'
+end-substance
+substance 'IM1' active
+   description        'inorganic matter (IM1)'
+   concentration-unit '(gDW/m3)'
+   waste-load-unit    '-'
+end-substance
+substance 'IM2' active
+   description        'inorganic matter (IM2)'
+   concentration-unit '(gDW/m3)'
+   waste-load-unit    '-'
+end-substance
+substance 'BaPS1' inactive
+   description        'BaP in sediment 1'
+   concentration-unit '(g)'
+   waste-load-unit    '-'
+end-substance
+substance 'FluS1' inactive
+   description        'Flu in sediment 1'
+   concentration-unit '(g)'
+   waste-load-unit    '-'
+end-substance
+substance 'AAPS1' inactive
+   description        'adsorbed O-PO4 in sediment 1'
+   concentration-unit '(gP)'
+   waste-load-unit    '-'
+end-substance
+substance 'DetCS1' inactive
+   description        'DetC in sediment 1'
+   concentration-unit '(gC3)'
+   waste-load-unit    '-'
+end-substance
+substance 'SOD' inactive
+   description        'Sediment oxygen demand (SOD)'
+   concentration-unit '(gO2/m3)'
+   waste-load-unit    '-'
+end-substance
+substance 'CuS1' inactive
+   description        'Cu in sediment 1'
+   concentration-unit '(g)'
+   waste-load-unit    '-'
+end-substance
+substance 'ZnS1' inactive
+   description        'Zn in sediment 1'
+   concentration-unit '(g)'
+   waste-load-unit    '-'
+end-substance
+substance 'IM1S1' inactive
+   description        'IM1 in sediment 1'
+   concentration-unit '(gDW)'
+   waste-load-unit    '-'
+end-substance
+substance 'IM2S1' inactive
+   description        'IM2 in sediment 1'
+   concentration-unit '(gDW)'
+   waste-load-unit    '-'
+end-substance
+parameter 'RcBaP'
+   description   'first-order rate const. loss BaP'
+   unit          '(1/d)'
+   value          0.0000E+00
+end-parameter
+parameter 'RcFlu'
+   description   'first-order rate const. loss Flu'
+   unit          '(1/d)'
+   value          0.1000E-02
+end-parameter
+parameter 'RcFluS1'
+   description   'first-order rate const. loss Flu in S1'
+   unit          '(1/d)'
+   value          0.0000E+00
+end-parameter
+parameter 'SWAdsP'
+   description   'switch formulation <0=Kd|1=Langmuir|2=GEM>'
+   unit          '(-)'
+   value          0.1000E+01
+end-parameter
+parameter 'KdPO4AAP'
+   description   'partition coefficient PO4-AAP'
+   unit          '(m3/gDM)'
+   value          0.1000E+00
+end-parameter
+parameter 'RcDetC'
+   description   'first-order mineralisation rate constant'
+   unit          '(1/d)'
+   value          0.1200E+00
+end-parameter
+parameter 'TcDetC'
+   description   'temperature coefficient for mineralisation'
+   unit          '(-)'
+   value          0.1047E+01
+end-parameter
+parameter 'CTMin'
+   description   'critical temperature for mineralisation'
+   unit          '(oC)'
+   value          0.3000E+01
+end-parameter
+parameter 'VSedDetC'
+   description   'sedimentation velocity DetC'
+   unit          '(m/d)'
+   value          0.1000E+00
+end-parameter
+parameter 'TauCSDetC'
+   description   'critical shear stress sedimentation DetC'
+   unit          '(N/m2)'
+   value          0.1000E+00
+end-parameter
+parameter 'RcDetN'
+   description   'first-order mineralisation rate constant'
+   unit          '(1/d)'
+   value          0.1200E+00
+end-parameter
+parameter 'TcDetN'
+   description   'temperature coefficient for mineralisation'
+   unit          '(-)'
+   value          0.1047E+01
+end-parameter
+parameter 'fTEWORBOD'
+   description   'TEWOR production flux of CBOD5_2'
+   unit          '(gO2/m3/d)'
+   value          0.0000E+00
+end-parameter
+parameter 'fTEWOROXY'
+   description   'TEWOR production flux of OXY'
+   unit          '(gO2/m3/d)'
+   value          0.0000E+00
+end-parameter
+parameter 'fTEWORORGN'
+   description   'TEWOR production flux of Org-N'
+   unit          '(gN/m3/d)'
+   value          0.0000E+00
+end-parameter
+parameter 'fTEWORNH4'
+   description   'TEWOR production flux of NH4'
+   unit          '(gN/m3/d)'
+   value          0.0000E+00
+end-parameter
+parameter 'fTEWORNO3'
+   description   'TEWOR production flux of NO3'
+   unit          '(gN/m3/d)'
+   value          0.0000E+00
+end-parameter
+parameter 'fTEWORECol'
+   description   'TEWOR production flux of EColi'
+   unit          '(MPN/ml/d)'
+   value          0.0000E+00
+end-parameter
+parameter 'RcDetP'
+   description   'first-order mineralisation rate constant'
+   unit          '(1/d)'
+   value          0.8000E-01
+end-parameter
+parameter 'TcDetP'
+   description   'temperature coefficient for mineralisation'
+   unit          '(-)'
+   value          0.1047E+01
+end-parameter
+parameter 'RcNit'
+   description   'first-order nitrification rate constant'
+   unit          '(1/d)'
+   value          0.1000E+00
+end-parameter
+parameter 'TcNit'
+   description   'temperature coefficient for nitrification'
+   unit          '(-)'
+   value          0.1070E+01
+end-parameter
+parameter 'OOXNIT'
+   description   'optimum oxygen conc. for nitrification'
+   unit          '(g/m3)'
+   value          0.5000E+01
+end-parameter
+parameter 'COXNIT'
+   description   'critical oxygen conc. for nitrification'
+   unit          '(g/m3)'
+   value          0.1000E+01
+end-parameter
+parameter 'CTNit'
+   description   'ctritical temperature for nitrification'
+   unit          '(oC)'
+   value          0.3000E+01
+end-parameter
+parameter 'RcDenWat'
+   description   'first-order denit. rate constant water'
+   unit          '(1/d)'
+   value          0.1000E+00
+end-parameter
+parameter 'TcDenWat'
+   description   'temp. coefficient for denitrification'
+   unit          '(-)'
+   value          0.1070E+01
+end-parameter
+parameter 'OOXDEN'
+   description   'optimum oxygen conc. for denitrification'
+   unit          '(g/m3)'
+   value          0.1000E+01
+end-parameter
+parameter 'COXDEN'
+   description   'critical oxygen conc. for denitrification'
+   unit          '(g/m3)'
+   value          0.3000E+01
+end-parameter
+parameter 'RcBOD'
+   description   'decay reaction rate BOD (first pool) at 20 oC'
+   unit          '(1/d)'
+   value          0.3000E+00
+end-parameter
+parameter 'RcBOD_2'
+   description   'decay reaction rate BOD (second pool) at 20 C'
+   unit          '(1/d)'
+   value          0.1500E+00
+end-parameter
+parameter 'TcBOD'
+   description   'decay temperature coefficient BOD'
+   unit          '(-)'
+   value          0.1040E+01
+end-parameter
+parameter 'COXBOD'
+   description   'critical oxygen concentration for BOD dec.'
+   unit          '(gO2/m3)'
+   value          0.1000E+01
+end-parameter
+parameter 'OOXBOD'
+   description   'optimal  oxygen concentration for BOD dec.'
+   unit          '(gO2/m3)'
+   value          0.5000E+01
+end-parameter
+parameter 'CFLBOD'
+   description   'oxygen function level for oxygen below COXBOD'
+   unit          '(-)'
+   value          0.3000E+00
+end-parameter
+parameter 'CurvBOD'
+   description   'curvature oxygen function mineralisation BOD'
+   unit          '(-)'
+   value          0.0000E+00
+end-parameter
+parameter 'VSedBOD5'
+   description   'sedimentatin velocity CBOD5'
+   unit          '(m/d)'
+   value          0.1000E+00
+end-parameter
+parameter 'TaucSBOD'
+   description   'critical shear stress for sedimentation'
+   unit          '(N/m2)'
+   value          0.1000E+13
+end-parameter
+parameter 'VSedBOD5_2'
+   description   'sedimentatin velocity CBOD5_2'
+   unit          '(m/d)'
+   value          0.1000E+00
+end-parameter
+parameter 'SWRear'
+   description   'switch for oxygen reaeration formulation <1-11>'
+   unit          '(-)'
+   value          0.1000E+01
+end-parameter
+parameter 'KLRear'
+   description   'reaeration transfer coefficient'
+   unit          '(m/d)'
+   value          0.1000E+01
+end-parameter
+parameter 'TCRear'
+   description   'reaeration temperature coefficient'
+   unit          '(-)'
+   value          0.1016E+01
+end-parameter
+parameter 'fSOD'
+   description   'zeroth-order oxygen demand flux'
+   unit          '(gO2/m2/d)'
+   value          0.0000E+00
+end-parameter
+parameter 'RcSOD'
+   description   'decay reaction rate SOD at 20 oC'
+   unit          '(1/d)'
+   value          0.1000E+00
+end-parameter
+parameter 'RcMrtEColi'
+   description   'user defined first-order mort rate EColi'
+   unit          '(1/d)'
+   value          0.8000E+00
+end-parameter
+parameter 'TcMrtEColi'
+   description   'temperature coefficient for mortality EColi'
+   unit          '(-)'
+   value          0.1070E+01
+end-parameter
+parameter 'VSedIM1'
+   description   'sedimentation velocity IM1'
+   unit          '(m/d)'
+   value          0.1000E+00
+end-parameter
+parameter 'TaucSIM1'
+   description   'critical shear stress sedimentation IM1'
+   unit          '(N/m2)'
+   value          0.1000E+00
+end-parameter
+parameter 'FrIM1S1'
+   description   'fraction IM1 in sediment S1'
+   unit          '(gDM/gDM)'
+   value         -0.9990E+03
+end-parameter
+parameter 'VSedIM2'
+   description   'sedimentation velocity IM2'
+   unit          '(m/d)'
+   value          0.1000E+00
+end-parameter
+parameter 'TaucSIM2'
+   description   'critical shear stress sedimentation IM2'
+   unit          '(N/m2)'
+   value          0.1000E+00
+end-parameter
+parameter 'lKpocBaP'
+   description   'log partition coefficient BaP-POC'
+   unit          '(l/kgC)'
+   value          0.7300E+01
+end-parameter
+parameter 'lKpocBaPS1'
+   description   'log partition coefficient BaP-POC in S1'
+   unit          '(l/kgC)'
+   value          0.7300E+01
+end-parameter
+parameter 'PORS1'
+   description   'porosity sediment layer S1'
+   unit          '(m3pores/m3total)'
+   value          0.0000E+00
+end-parameter
+parameter 'lKpocFlu'
+   description   'log partition coefficient Flu-POC'
+   unit          '(l/kgC)'
+   value          0.6400E+01
+end-parameter
+parameter 'lKpocFluS1'
+   description   'log partition coefficient Flu-POC in S1'
+   unit          '(l/kgC)'
+   value          0.6400E+01
+end-parameter
+parameter 'ZResDM'
+   description   'zeroth order resuspension flux'
+   unit          '(gDM/m2/d)'
+   value          0.0000E+00
+end-parameter
+parameter 'KdCuIM1'
+   description   'partition coefficient Cu-IM1'
+   unit          '(m3/kgDW)'
+   value          0.5000E+02
+end-parameter
+parameter 'KdCuIM2'
+   description   'partition coefficient Cu-IM2'
+   unit          '(m3/kgDW)'
+   value          0.5000E+02
+end-parameter
+parameter 'KdCuIM1S1'
+   description   'partition coefficient Cu-IM1 in S1'
+   unit          '(m3/kgDW)'
+   value          0.5000E+02
+end-parameter
+parameter 'KdCuIM2S1'
+   description   'partition coefficient Cu-IM2 in S1'
+   unit          '(m3/kgDW)'
+   value          0.5000E+02
+end-parameter
+parameter 'KdZnIM1'
+   description   'partition coefficient Zn-IM1'
+   unit          '(m3/kgDW)'
+   value          0.1100E+03
+end-parameter
+parameter 'KdZnIM2'
+   description   'partition coefficient Zn-IM2'
+   unit          '(m3/kgDW)'
+   value          0.1100E+03
+end-parameter
+parameter 'KdZnIM1S1'
+   description   'partition coefficient Zn-IM1 in S1'
+   unit          '(m3/kgDW)'
+   value          0.1110E+03
+end-parameter
+parameter 'KdZnIM2S1'
+   description   'partition coefficient Zn-IM2 in S1'
+   unit          '(m3/kgDW)'
+   value          0.1110E+03
+end-parameter
+output 'Tau'
+   description   'total bottom shear stress'
+end-output
+output 'SS'
+   description   'suspended solids'
+end-output
+output 'DisBaP'
+   description   'free dissolved BaP in watercolumn'
+end-output
+output 'BaPtot'
+   description   'concentration BaP in watercolumn'
+end-output
+output 'QBaPSS'
+   description   'overall suspended solid quality BaP'
+end-output
+output 'ACTTHS1'
+   description   'actual layer S1 thicknes'
+end-output
+output 'QBaPDMS1'
+   description   'overall sediment quality for BaP'
+end-output
+output 'DisFlu'
+   description   'free dissolved Flu in watercolumn'
+end-output
+output 'Flutot'
+   description   'concentration Flu in watercolumn'
+end-output
+output 'QFluSS'
+   description   'overall suspended solid quality Flu'
+end-output
+output 'QFluDMS1'
+   description   'overall sediment quality for Flu'
+end-output
+output 'DisCu'
+   description   'free dissolved Cu in water column'
+end-output
+output 'Cutot'
+   description   'total concentration Cu'
+end-output
+output 'QCuSS'
+   description   'overall suspended solid quality for Cu'
+end-output
+output 'QCuDMS1'
+   description   'overall sediment quality for Cu'
+end-output
+output 'DisZn'
+   description   'free dissolved Zn in water column'
+end-output
+output 'Zntot'
+   description   'total concentration Zn'
+end-output
+output 'QZnSS'
+   description   'overall suspended solid quality for Zn'
+end-output
+output 'QZnDMS1'
+   description   'overall sediment quality for Zn'
+end-output
+output 'TotN'
+   description   'total nitrogen (incl. algae)'
+end-output
+output 'KjelN'
+   description   'Kjeldahl nitrogen'
+end-output
+output 'TotP'
+   description   'total fosforus (incl. algae)'
+end-output
+active-processes
+   name  'Los_WK_BaP' 'Overall loss of BaP from watercolumn'
+   name  'Sed_Bap' 'Sedimentation adsorbed Bap'
+   name  'Res_Bap' 'Resuspension adsorbed Bap'
+   name  'Los_WK_Flu' 'Overall loss of Flu from watercolumn'
+   name  'Sed_Flu' 'Sedimentation adsorbed Flu'
+   name  'Res_Flu' 'Resuspension adsorbed Flu'
+   name  'Los_S1_Flu' 'Overall loss of Flu from S1'
+   name  'AdsPO4AAP' 'Ad(De)Sorption ortho phosphorus to inorg. matter'
+   name  'WM_DetC' 'Mineralisation detritus carbon'
+   name  'SedDetC' 'Sedimentation detritus carbon'
+   name  'Res_DetC' 'Resuspension detritus carbon'
+   name  'WM_DetN' 'Mineralisation detritus nitrogen'
+   name  'SedN_Det' 'Sedim. nutrients in detritus'
+   name  'Prod_TEWOR' 'Production fluxes for TEWOR+'
+   name  'WM_DetP' 'Mineralisation detritus phosphorus'
+   name  'Nitrif_NH4' 'Nitrification of ammonium'
+   name  'DenWat_NO3' 'Denitrification in water column'
+   name  'Temperatur' 'Temperature and heat exchange'
+   name  'BODCOD' 'Mineralisation BOD and COD'
+   name  'S_CBOD51' 'Sedimentation CBOD5 (first pool)'
+   name  'S_CBOD52' 'Sedimentation CBOD5_2 (second pool)'
+   name  'RearOXY' 'Reaeration of oxygen'
+   name  'SedOXYDem' 'Sediment oxygen demand'
+   name  'PosOXY' 'Positive oxygen concentration'
+   name  'Sed_Cu' 'Sedimentation adsorbed Cu'
+   name  'Res_Cu' 'Resuspension adsorbed Cu'
+   name  'Sed_Zn' 'Sedimentation adsorbed Zn'
+   name  'Res_Zn' 'Resuspension adsorbed Zn'
+   name  'EColiMrt' 'Mortality EColi bacteria'
+   name  'Sed_IM1' 'Sedimentation IM1'
+   name  'Res_IM1' 'Resuspension 1th inorganic matter'
+   name  'Sed_IM2' 'Sedimentation IM2'
+   name  'Res_IM2' 'Resuspension 2th inorganic matter'
+   name  'PartWK_BaP' 'Partitioning BaP in watercolumn'
+   name  'SedPODyn' 'Sum sedimentation of POC (Dynamo & Bloom)'
+   name  'DynDepth' 'dynamic calculation of the depth'
+   name  'SedPhDyn' 'Sum sedimentation of algae - Dynamo'
+   name  'Sum_ResS1' 'Sum of (in)organics resuspending from S1'
+   name  'PartS1_BaP' 'Partitioning BaP in S1'
+   name  'PartWK_Flu' 'Partitioning Flu in watercolumn'
+   name  'PartS1_Flu' 'Partitioning Flu in S1'
+   name  'CalTau' 'Calculation of bottom friction'
+   name  'Res_DM' 'Resuspension total bottom material (dry mass)'
+   name  'S1_Comp' 'Composition sediment layer S1'
+   name  'POC_Dyn' 'Composition of POC (Dynamo & Bloom)'
+   name  'SaturOXY' 'Saturation concentration oxygen'
+   name  'TotDepth' 'depth watercolumn'
+   name  'PartWK_Cu' 'Partitioning Cu in watercolumn'
+   name  'PartS1_Cu' 'Partitioning Cu in S1'
+   name  'PartWK_Zn' 'Partitioning Zn in watercolumn'
+   name  'PartS1_Zn' 'Partitioning Zn in S1'
+   name  'Compos' 'Composition'
+end-active-processes

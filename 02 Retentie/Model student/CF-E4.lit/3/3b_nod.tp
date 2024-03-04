@@ -1,0 +1,16 @@
+BBB2.2
+NODE id '335' nm '335' ri '-1' mt 1 '6' nt 27 ObID 'SBK_SBK-3B-NODE' px 238363.6 py 575581.7  node
+NODE id '300' nm '300' ri '-1' mt 1 '6' nt 27 ObID 'SBK_SBK-3B-NODE' px 238148.9 py 575428.9  node
+NODE id '260' nm '260' ri '46' mt 1 '6' nt 27 ObID 'SBK_SBK-3B-NODE' px 237875.8 py 575221.1  node
+NODE id '250' nm '250' ri '47' mt 1 '6' nt 27 ObID 'SBK_SBK-3B-NODE' px 237822.9 py 574731.3  node
+NODE id '280' nm '280' ri '48' mt 1 '6' nt 27 ObID 'SBK_SBK-3B-NODE' px 238701.9 py 574350.7  node
+NODE id '350' nm '350' ri '52' mt 1 '6' nt 27 ObID 'SBK_SBK-3B-NODE' px 237810.5 py 576057.3  node
+NODE id '3' ri '52' mt 1 '6' nt 26 ObID 'SBK_SBK-3B-REACH' px 238044.553016003 py 576174.678688092  node
+NODE id '320' nm '320' ri '81' mt 1 '6' nt 27 ObID 'SBK_SBK-3B-NODE' px 239014.8 py 574507.2  node
+NODE id '6' ri '-1' mt 1 '2' nt 29 ObID '3B_UNPAVED' px 237771.969961813 py 576284.218673867  node
+NODE id '10' ri '-1' mt 1 '2' nt 29 ObID '3B_UNPAVED' px 237855.920107793 py 575304.028368892  node
+NODE id '13' ri '-1' mt 1 '2' nt 29 ObID '3B_UNPAVED' px 237823.700731274 py 574558.301804343  node
+NODE id '14' ri '-1' mt 1 '2' nt 29 ObID '3B_UNPAVED' px 238065.915480386 py 575573.358987806  node
+NODE id '15' ri '-1' mt 1 '2' nt 29 ObID '3B_UNPAVED' px 238323.756987504 py 575698.289102693  node
+NODE id '16' ri '-1' mt 1 '2' nt 29 ObID '3B_UNPAVED' px 238749.5861432 py 574257.688715394  node
+NODE id '18' ri '-1' mt 1 '2' nt 29 ObID '3B_UNPAVED' px 239081.654750853 py 574448.987953816  node

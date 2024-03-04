@@ -1,0 +1,7 @@
+PAVE  id 'S-EA-P' ar 240000 lv 1.5 sd '1' ss 0 qc 0  0 0 qo 1 1 ms 'Station1' is  0 np  0 dw '1' pave
+PAVE  id 'S-EB-P' ar 30000 lv 1.5 sd '1' ss 0 qc 0  0 0 qo 1 1 ms 'Station1' is  0 np  0 dw '1' pave
+PAVE  id 'S-EC-P' ar 2000 lv 1.5 sd '1' ss 0 qc 0  0 0 qo 1 1 ms 'Station1' is  0 np  0 dw '1' pave
+PAVE  id 'S-EF-P' ar 20000 lv 1.5 sd '1' ss 0 qc 0  0 0 qo 1 1 ms 'Station1' is  0 np  0 dw '1' pave
+PAVE  id 'S-FA-P' ar 360000 lv 1.5 sd '1' ss 0 qc 0  0 0 qo 1 1 ms 'Station1' is  0 np  0 dw '1' pave
+PAVE  id 'S-FB-P' ar 110000 lv 1.5 sd '1' ss 0 qc 0  0 0 qo 1 1 ms 'Station1' is  0 np  0 dw '1' pave
+PAVE  id 'S-FD-P' ar 10000 lv 1.5 sd '1' ss 0 qc 0  0 0 qo 1 1 ms 'Station1' is  0 np  0 dw '1' pave

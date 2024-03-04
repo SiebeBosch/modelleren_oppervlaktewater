@@ -1,0 +1,9 @@
+<ColoringScheme SchemeType="Grid" GridName="AHNm" GroupName="Data Layers">
+  <GridColoringScheme AmbientIntensity="0.7" Key="" LightSourceAzimuth="90" LightSourceElevation="45" LightSourceIntensity="0.7" NoDataColor="-16777216" ImageLayerFillTransparency="1" ImageUpsamplingMethod="Bilinear" ImageDownsamplingMethod="None">
+    <Break Caption="9.33" LowValue="0.25" HighValue="9.3334" LowColor="-10510688" HighColor="-8605261" ColoringType="0" GradientModel="1" />
+    <Break Caption="18.4" LowValue="9.3334" HighValue="18.4168" LowColor="-8605261" HighColor="-6699578" ColoringType="0" GradientModel="1" />
+    <Break Caption="27.5" LowValue="18.4168" HighValue="27.5002" LowColor="-6699578" HighColor="-4794151" ColoringType="0" GradientModel="1" />
+    <Break Caption="36.6" LowValue="27.5002" HighValue="36.5836" LowColor="-4794151" HighColor="-2888468" ColoringType="0" GradientModel="1" />
+    <Break Caption="36.6" LowValue="36.5836" HighValue="45.667" LowColor="-2888468" HighColor="-983041" ColoringType="0" GradientModel="1" />
+  </GridColoringScheme>
+</ColoringScheme>

@@ -1,0 +1,22 @@
+<SFRendering>
+  <Layer Name="bodemkaart_NZV_codes" GroupName="Neerslag-Afvoer" Type="3" Path="..\..\11 GIS\bodemkaart_NZV_codes.shp" Tag="" LegendPicture="" Visible="False" LabelsVisible="True" Expanded="False">
+    <Image Type="">
+    </Image>
+    <ShapeFileProperties LabelsVisible="True" MapTooltipField="-1" MapTooltipsEnabled="False" VerticesVisible="False" Color="6777332" DrawFill="True" TransparencyPercent="1" FillStipple="0" LineOrPointSize="1" LineStipple="0" OutLineColor="2962508" PointType="0" CustomLineStipple="0" UseTransparency="False" TransparencyColor="0" FillStippleTransparent="False" FillStippleLineColor="-6815488">
+      <CustomPointType>
+        <Image Type="">
+        </Image>
+      </CustomPointType>
+      <Legend FieldIndex="9" Key="" NumberOfBreaks="5" SchemeCaption="GWT">
+        <ColorBreaks>
+          <Break StartColor="12180223" EndColor="12180223" StartValue="-" EndValue="II" Caption="- - II" Visible="True" />
+          <Break StartColor="9744076" EndColor="9744076" StartValue="II" EndValue="III" Caption="II - III" Visible="True" />
+          <Break StartColor="7307929" EndColor="7307929" StartValue="III" EndValue="IV" Caption="III - IV" Visible="True" />
+          <Break StartColor="4871782" EndColor="4871782" StartValue="IV" EndValue="V*" Caption="IV - V*" Visible="True" />
+          <Break StartColor="2435635" EndColor="2435635" StartValue="V*" EndValue="VII" Caption="V* - VII" Visible="True" />
+        </ColorBreaks>
+      </Legend>
+    </ShapeFileProperties>
+    <DynamicVisibility UseDynamicVisibility="False" Scale="0" />
+  </Layer>
+</SFRendering>

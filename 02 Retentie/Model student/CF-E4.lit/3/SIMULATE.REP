@@ -1,0 +1,113 @@
+Information about Simulation
+============================
+
+Simulation Mode                    : Run rainfall-runoff and channel flow modules simultaneously
+
+Start                              : 22-november-2002 15:15:02
+End                                : 22-november-2002 15:16:08
+
+Rainfall-Runoff Module used        : Yes
+Channel Module used                : Yes
+Sewer Module used                  : No
+1D2D Module used                   : No
+Real Time Control Module used      : No
+Water Quality Module used          : No
+Emission Module used               : No
+Ground Water Module used           : No
+Simulation parallel                : Yes
+Flow modules unsteady              : Yes
+
+
+Balance of Rainfall Runoff Module
+=================================
+
+Results 3B calculation
+
+Rainfall file                      : \SOBEK\FIXED\HARENCRS.BUI
+Evaporation file                   : \SOBEK\FIXED\3B\EVAPOR.GEM
+Crop factor file                   : \Sobek\fixed\3B\cropfact
+Storage coefficient file           : \Sobek\fixed\3B\bergcoef
+Timestep size (s)                  :      900
+Simulated period (hours)           :       51.00 for number of Events=     1
+
+
+Summary results rainfall-runoff model
+
+Total area (ha)                    :          65.00
+Total rainfall (m3)                :       56017.00
+Total evaporation unpaved area (m3):           0.00
+Net seepage unpaved area (m3)      :           0.00
+Storage change unpaved area (m3)   :       24239.31
+Total outflow at boundaries (m3)   :       31803.68
+Total inflow at boundaries (m3)    :          25.99
+Balance error (m3)                 :           0.00 ( 0.0000%)
+
+
+Balance of Channel Flow Module
+======================
+
+Timestep size (s) :                :        900.0000
+Lowest Timestep (s) :              :          1.7798
+Largest Timestep (s) :             :        137.8125
+
+External structure                  Spilled volume (m3)
+GEMAAL                                     298339.9674
+
+Boundaries in (m3)                 :            0.00
+Boundaries out (m3)                :            0.00
+Structures in (m3)                 :            0.00
+Structures out (m3)                :       298339.97
+Lateral disch. in (m3)             :       297670.12
+Lateral disch. out (m3)            :           21.03
+Storage (m3)                       :         -691.16
+Error (m3)                         :            0.28
+
+Numerical Parameters Used
+=========================
+Accuracy Level                     : Low Speed/More Accurate
+Conveyance factor K                :  F
+Conveyance factor K-Table          :  F
+Theta                              :            1.00
+Maximum Courant getal              :            1.00
+Epsilon value Volume (m3/s)        :      0.00001000
+Epsilon value Level (m)            :      0.00001000
+Threshold Values ...
+Flooding (m)                       :         0.01000
+Drying (m)                         :         0.00100
+Minimum Lengte Reach Segment (     :           10.00
+Relaxation Factor (0..1)           :            1.00
+Structure Dynamics Factor          :            1.00
+Maximum Iteraties                  :               8
+Gravity g (m2/s)                   :            9.81
+Fluid Density (m3)                 :         1000.00
+
+Initial conditions
+==================
+Rainfall Runoff Module             : user defined
+Flow Module                        : from restart file '..\work\RESTART.rda'
+
+
+Version Information of Modules
+==============================
+
+Vervang                            : 27-6-2000 10:28:08, Version: 4.05.012
+Caseman                            : 26-2-2002 9:38:52, Version: 4.06.00
+CmUtil                             : 26-2-2002 9:52:20, Version: 4.06.00
+CmUpdate                           : 26-2-2002 9:58:48, Version: 4.06.00
+3B                                 : 4-11-2002 17:46:20, Version: 3.207.51
+Parsen                             : 22-10-2002 16:56:12, Version: 2.01.29
+Parsen2D                           : 17-10-2002 13:06:32, Version: 1.01.09
+Flow                               : 19-11-2002 12:04:24, Version: 3.05.18
+RTC-Matlab 5.3                     : 31-10-2002 13:09:14, Version: 3.207.24
+RTC-Matlab 6.0                     : 31-10-2002 13:09:00, Version: 3.207.24
+RTC-Matlab 6.1                     : 31-10-2002 13:08:26, Version: 3.207.24
+RTC-Matlab 6.5                     : 31-10-2002 13:05:56, Version: 3.207.24
+EM                                 : 14-10-2001 21:20:42, Version: 1.00.0001
+Delwaq1                            : 3-4-2002 14:21:08, Version: 
+Delwaq1p                           : 3-4-2002 14:22:46, Version: 
+Delwaq2                            : 3-4-2002 14:23:38, Version: 
+Waterbal                           : 26-10-1999 9:45:00, Version: 
+Simulate                           : 7-11-2002 16:46:30, Version: 2.06.0078
+
+SOBEKVersion   = Sobek Advanced Version 2.06.000.37ze ß
+

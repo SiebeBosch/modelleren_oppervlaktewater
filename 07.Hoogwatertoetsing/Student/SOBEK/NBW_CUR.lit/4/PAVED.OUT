@@ -1,0 +1,54 @@
+ Run datum (DD-MM-YY) and time: 5- 4-2018  12:35
+
+ Case name                                     
+
+
+
+ Maxima per event
+
+ Event   Start     Node identification   Node           Storage_sewer   Overflow    Discharge   Total open water Rainfall
+  nr  year-mon-day                       name                [mm]         [m3/s]       [m3/s]         [m3/s]         [m3/s]
+===========================================================================================================================
+   1 2008 Jan   1   PV_GFE94             DE SLOKKERT            4.000        0.365        0.000        0.365        0.365
+   1 2008 Jan   1   PV_GFE96             DE SLOKKERT            4.000        0.011        0.000        0.011        0.011
+   1 2008 Jan   1   PV_GFE100            DE SLOKKERT            4.000        0.029        0.000        0.029        0.029
+   1 2008 Jan   1   PV_GFE102            DE SLOKKERT            4.000        0.025        0.000        0.025        0.025
+   1 2008 Jan   1   PV_GFE103            DE SLOKKERT            4.000        0.035        0.000        0.035        0.035
+   1 2008 Jan   1   PV_GFE108            RAVENSMEER             4.000        0.026        0.000        0.026        0.026
+   1 2008 Jan   1   PV_GFE217            RAVENSMEER             4.000        0.006        0.000        0.006        0.006
+   1 2008 Jan   1   PV_GFE111            RAVENSMEER             4.000        0.156        0.000        0.156        0.156
+   1 2008 Jan   1   PV_GFE112            RAVENSMEER             4.000        0.027        0.000        0.027        0.027
+   1 2008 Jan   1   PV_GFE114            RAVENSMEER             4.000        0.000        0.000        0.000        0.000
+   1 2008 Jan   1   PV_GFE115            RAVENSMEER             4.000        0.011        0.000        0.011        0.011
+   1 2008 Jan   1   PV_GFE116            RAVENSMEER             4.000        0.038        0.000        0.038        0.038
+   1 2008 Jan   1   PV_GFE117            RAVENSMEER             4.000        0.009        0.000        0.009        0.009
+   1 2008 Jan   1   PV_GFE118            DE SLOKKERT            4.000        0.015        0.000        0.015        0.015
+   1 2008 Jan   1   PV_GFE120            DE SLOKKERT            4.000        0.007        0.000        0.007        0.007
+   1 2008 Jan   1   PV_GFE15             DE SLOKKERT            4.000        0.045        0.000        0.045        0.045
+   1 2008 Jan   1   PV_GFE128            DE SLOKKERT            0.000        0.000        0.000        0.000        0.000
+   1 2008 Jan   1   PV_GFE129            DE SLOKKERT            4.000        0.082        0.000        0.082        0.082
+   1 2008 Jan   1   PV_GFE13             DE SLOKKERT            4.000        0.190        0.000        0.190        0.190
+   1 2008 Jan   1   PV_GFE75             DE SLOKKERT            4.000        0.186        0.000        0.186        0.186
+   1 2008 Jan   1   PV_GFE219            DE SLOKKERT            4.000        0.063        0.000        0.063        0.063
+   1 2008 Jan   1   PV_GFE186            DE SLOKKERT            4.000        0.034        0.000        0.034        0.034
+   1 2008 Jan   1   PV_GFE188            DE SLOKKERT            4.000        0.240        0.000        0.240        0.240
+   1 2008 Jan   1   PV_GFE1908           DE SLOKKERT            4.000        0.033        0.000        0.033        0.033
+   1 2008 Jan   1   PV_GFE1910           VRIJ AFWATEREND        4.000        0.104        0.000        0.104        0.104
+   1 2008 Jan   1   PV_GFE192            VRIJ AFWATEREND        4.000        0.109        0.000        0.109        0.109
+   1 2008 Jan   1   PV_GFE193            VRIJ AFWATEREND        4.000        0.032        0.000        0.032        0.032
+   1 2008 Jan   1   PV_GFE195            VRIJ AFWATEREND        4.000        0.034        0.000        0.034        0.034
+   1 2008 Jan   1   PV_GFE199            VRIJ AFWATEREND        4.000        0.012        0.000        0.012        0.012
+   1 2008 Jan   1   PV_GFE222            VRIJ AFWATEREND        0.000        0.000        0.000        0.000        0.000
+   1 2008 Jan   1   PV_GFE200            VRIJ AFWATEREND        4.000        0.329        0.000        0.329        0.329
+   1 2008 Jan   1   PV_GFE223            VRIJ AFWATEREND        0.000        0.000        0.000        0.000        0.000
+   1 2008 Jan   1   PV_GFE201            VRIJ AFWATEREND        4.000        0.010        0.000        0.010        0.010
+   1 2008 Jan   1   PV_GFE202            VRIJ AFWATEREND        4.000        0.006        0.000        0.006        0.006
+   1 2008 Jan   1   PV_GFE203            VRIJ AFWATEREND        4.000        0.067        0.000        0.067        0.067
+   1 2008 Jan   1   PV_GFE206            VRIJ AFWATEREND        4.000        0.170        0.000        0.170        0.170
+   1 2008 Jan   1   PV_GFE208            VRIJ AFWATEREND        4.000        0.268        0.000        0.268        0.268
+   1 2008 Jan   1   PV_GFE224            VRIJ AFWATEREND        4.000        0.000        0.000        0.000        0.000
+   1 2008 Jan   1   PV_GFE24             VRIJ AFWATEREND        4.000        0.023        0.000        0.023        0.023
+   1 2008 Jan   1   PV_GFE25             VRIJ AFWATEREND        4.000        0.226        0.000        0.226        0.226
+   1 2008 Jan   1   PV_GFE225            VRIJ AFWATEREND        4.000        0.178        0.000        0.178        0.178
+   1 2008 Jan   1   PV_GFE125            VRIJ AFWATEREND        0.000        0.000        0.000        0.000        0.000
+   1 2008 Jan   1   PV_GFE130            DE SLOKKERT            4.000        0.008        0.000        0.008        0.008

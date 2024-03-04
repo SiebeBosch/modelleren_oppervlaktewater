@@ -1,0 +1,9 @@
+ERRORS:
+Could not find SOBEK case to clone: HOOGWATERGEUL KALIBRATIE in the project c:\Sobek214\NL2005.lit
+Error in function PrepareModel.
+Kan een gedeelte van het pad C:\temp\WORK\FRICTION.DAT niet vinden.
+Error writing model files.
+
+WARNINGS:
+
+MESSAGES:
