@@ -1,7 +1,7 @@
 # Modelleren oppervlaktewater
-Het curriculum 'modelleren aan oppervlaktewater' zoals dat wordt gegeven aan Hogeschool Van Hall Larenstein
+Het curriculum 'modelleren aan oppervlaktewater' zoals verzorgd aan Hogeschool Van Hall Larenstein
 
-## mappenstructuur
+## Mappenstructuur
 Iedere cursus heeft zijn eigen map, beginnend met een getal. Bijvoorbeeld 03 Controllers.
 Algemene mappen met data, literatuur, software etc hebben getal 00 en staan daarom altijd bovenaan. 
 Bijvoorbeeld 00 Installs. Deze map bevat de benodigde installatiebestanden voor software die in het curriculum wordt gebruikt.
