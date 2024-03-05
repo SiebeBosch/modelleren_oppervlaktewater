@@ -15,3 +15,16 @@ Dit is de tutorial modelleren van hydrodynamica in openwater met SOBEK 2. Het be
 ### 02 Retentie
 Een oefening met SOBEK 2 waarbij de studenten leren om een bergingsgebied te implementeren in een bestaande modelschematisatie van een gebied in Drenthe. De studenten leren handmatig de topologie van het model aan te passen, de benodigde parameterwaarden voor de kunstwerken in te stellen en het effect van de maatregel in beeld te brengen.
 
+Leerdoelen:
+* kennismaken met het concept van dynamische waterberging om een afvoerpiek te kunnen dempen.
+* een bestaande modelschematisatie leren aanpassen om dynamische berging te implementeren en parameteriseren
+* het effect van de maatregel in beeld brengen
+
+### 03 Controllers
+Een oefening met SOBEK 2 waarbij de student leert om kunstwerken op een dusdanige manier aan te sturen dat een gewenste waterstand en/of debiet wordt behaald. Deze oefening werd oorspronkelijk geschreven door wijlen Peter-Jules van Overloop. 
+
+Leerdoelen:
+* kennismaken met Real-Time Control en de diverse soorten controllers
+* controllers leren instellen en afregelen
+
+
