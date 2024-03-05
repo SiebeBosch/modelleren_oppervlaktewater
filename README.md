@@ -27,4 +27,22 @@ Leerdoelen:
 * kennismaken met Real-Time Control en de diverse soorten controllers
 * controllers leren instellen en afregelen
 
+### 04 Hoogwater Varik
+
+### 05 Wolvenpolder
+
+### 06 Leijgraaf
+In deze oefening gaan de studenten semi-automatisch een complete modelschematisatie van de Leijgraaf; een beek in het beheergebied van waterschap Aa en Maas.
+De modelschematisatie wordt ook door de student gekalibreerd en gebruikt om enkele maatregelen door te rekenen.
+
+### 07 Hoogwatertoetsing
+Deze oefening behelst een complete hoogwatertoetsing: toetsen aan de inundatienormen van het Nationaal Bestuursakkoord Water.
+Studenten doen dit met twee verschillende methodes: de Tijdreeksmethode en de Stochastenmethode. Voor- en nadelen van beide methodes worden besproken en inzichtelijk gemaakt.
+
+Leerdoelen:
+* kennismaken met het toetsen van een watersysteem aan de normen uit het NBW
+* begrijpen wat de Tijdreeksmethode behelst en wat de Stochastenmethode behelst en hoe beide methodes van elkaar verschillen
+* Het leren berekenen van overschrijdingswaterstanden, gebruikmakend van de Tijdreeksmethode
+* Het leren berekenen van overschrijdingswaterstanden, gebruikmakend van de Stochastenmethode
+* Het toetsen van de berekende overschrijdingswaterstanden aan de inundatienormen zoals vastgelegd in het Nationaal Bestuursakkoord Water
 
