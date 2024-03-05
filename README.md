@@ -1,4 +1,4 @@
-# Modelleren oppervlaktewater
+# Modelleren van oppervlaktewater
 Het curriculum 'modelleren aan oppervlaktewater' zoals verzorgd aan Hogeschool Van Hall Larenstein
 
 ## Mappenstructuur
