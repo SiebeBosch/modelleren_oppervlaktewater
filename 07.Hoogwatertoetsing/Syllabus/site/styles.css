@@ -1,0 +1,18 @@
+/* css styles */
+
+.vraag {
+    font-weight: bold;
+    color: #007F3D;
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+
+  
+.answer-lines {
+    margin-top: 30px;
+  }
+  .answer-lines hr {
+    border: 2px solid #007F3D;
+    margin: 20px 0;
+  }
+  

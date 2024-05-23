@@ -1,0 +1,7 @@
+---
+title: "Hoogwatertoetsing"
+---
+
+# Welkom
+In deze onderwijsmodule maak je actief kennis met het analyseren van extreme waarden in het waterbeheer. Zulke analyses voeren we uit om bijvoorbeeld de kans op een inundatie (over­stroming) te kunnen bepalen. In Nederland moeten alle watersystemen van water­schappen eens in de 5 jaar getoetst worden aan de inundatienormen uit het Nationaal Bestuursakkoord Water (NBW).
+

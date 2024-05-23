@@ -1,0 +1,38 @@
+[
+  {
+    "objectID": "introductie_kansverdelingen.html",
+    "href": "introductie_kansverdelingen.html",
+    "title": "Introductie kansverdelingen",
+    "section": "",
+    "text": "Inleiding\nStatistiek is een populaire manier om de kans op gebeurtenissen te berekenen. Het helpt om een verwachting voor de toekomst te kunnen uitspreken. Zo schatten we de kans dat we dit jaar een Elfstedentocht krijgen ongeveer op 1/7. Dit nemen we aan omdat er sinds 1909 vijftien tochten zijn verreden en 105 jaar/15 zeven bedraagt.\nVoor een hydroloog is het bijvoorbeeld nuttig om te weten dat een bui van meer dan 33 mm binnen 24 uur gemiddeld een keer per jaar valt. Op basis van dat soort kennis kan hij of zij het watersysteem ontwerpen.\nIn dit hoofdstuk frissen we daarom je kennis van kansberekening op. Je zult leren aan welke kansverdelingen neerslagvolumes, waterhoogtes en afvoeren voldoen en je om uit zulke kansverdelingen de overschrijdingskans en herhalingstijd van een gebeurtenis af te leiden.\n\n\nDe uniforme kansverdeling\nAls je een dobbelsteen gooit, dan zijn er zes mogelijke uitkomsten. Na de eerste paar worpen zal de ene uitkomst wat vaker zijn voorkomen dan een andere. Maar naarmate je vaker werpt, zul je vanzelf zien dat iedere uitkomst uiteindelijk ongeveer even vaak gegooid wordt.\n\n\n\n\n\nHet resultaat van tien worpen met één dobbelsteen.\n\n\n\n\n\n\nHet resultaat van tien worpen met tien miljoen worpen met één dobbelsteen.\n\n\n\n\n\n\n\n\n\nDe theoretische kansdichtheid voor de uitkomst van het werpen van één dobbelsteen.\n\n\n\n\n\n\nOmdat alle mogelijke uitkomsten dezelfde kans hebben, noemen we dit een uniforme kansverdeling.\n\n\nComplexere kansverdelingen\nNu stappen we over op het werpen met twee dobbelstenen. De uitkomst van beide dobbel­stenen tellen we na elke worp bij elkaar op.\n\n\nAls we ook hiermee tien miljoen simulaties draaien, zien we dat hier geen uniforme kansverdeling ontstaat, maar een piramidevormige.\n\n\n\n\nDe kansdichtheidsfunctie van de som van een worp met twee dobbelstenen is piramidevormig.\n\n\n\n\n\nVraag 1: Verklaar waarom de kansdichtheidsfunctie van de som van het resultaat van twee dobbelstenen niet uniform is, maar piramidevormig.\n\n\n\n\n\n\n\n\n\nVoegen we nog meer dobbelstenen toe aan het experiment, dan zien we dat de kansdichtheidsgrafiek een heel specifieke vorm gaat aannemen: klokvormig.\n\n\n\n\nBenadering van de kansdichtheidsfunctie voor het resultaat van 10 miljoen simulaties met telkens 10 dobbelstenen tegelijk.\n\n\n\n\n\n\nDe normale verdeling\nIn de vorige paragraaf zagen we dat de kansdichtheidsfunctie voor de som van de uitkomst van tien dobbelstenen bij een groot aantal simulaties een soort klokvorm begint aan te nemen. Hoe meer dobbelstenen je toevoegt en hoe meer simulaties je draait, des te gladder zal het verloop van de klokvorm worden.\nDeze klokvorm staat ook wel bekend als de normale verdeling of Gausscurve, naar de Duitse wiskundige Carl Friedrich Gauss. De normale verdeling is een kansdichtheidsfunctie waarmee we de verdeling van waarden van ontelbaar veel grootheden in de fysieke wereld om ons heen kunnen beschrijven. Hier volgen een paar voorbeelden die op Wikipedia genoemd worden:\n• de maximumtemperatuur op 5 augustus in De Bilt • de afwijking van klokken van één bepaald merk in seconden per dag • het IQ van een grote groep proefpersonen van dezelfde leeftijd.\nDe bovenstaande grootheden zijn dus verdeeld volgens de normale verdeling. Het elegante aan de normale verdeling is dat die kan worden vastgelegd met slechts twee parameters: de verwachtingswaarde μ en de standaardafwijking σ.\n\n\n\n\n\nVier voorbeelden van de normale verdeling, elk met een andere μ en σ.",
+    "crumbs": [
+      "Home",
+      "Introductie kansverdelingen"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hoogwatertoetsing",
+    "section": "",
+    "text": "Welkom\nIn deze onderwijsmodule maak je actief kennis met het analyseren van extreme waarden in het waterbeheer. Zulke analyses voeren we uit om bijvoorbeeld de kans op een inundatie (over­stroming) te kunnen bepalen. In Nederland moeten alle watersystemen van water­schappen eens in de 5 jaar getoetst worden aan de inundatienormen uit het Nationaal Bestuursakkoord Water (NBW)."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "inleiding.html",
+    "href": "inleiding.html",
+    "title": "Inleiding",
+    "section": "",
+    "text": "Welkom\nIn deze onderwijsmodule maak je actief kennis met het analyseren van extreme waarden in het waterbeheer. Zulke analyses voeren we uit om bijvoorbeeld de kans op een inundatie (over­stroming) te kunnen bepalen. In Nederland moeten alle watersystemen van water­schappen eens in de 5 jaar getoetst worden aan de inundatienormen uit het Nationaal Bestuursakkoord Water (NBW).\n\n\nHet Nationaal Bestuursakkoord Water\nIn februari 2001 sloten Rijk, Interprovinciaal Overleg, Unie van Waterschappen en Vereniging van Nederlandse Gemeenten de Startovereenkomst Waterbeleid 21e eeuw. Twee jaar later werden de resultaten van die samenwerking en van voortschrijdende kennis en inzicht vastgelegd in het Nationaal Bestuursakkoord Water. Het NBW heeft tot doel om vanaf 2015 het watersysteem op orde te hebben en houden, anticiperend op veranderende omstandigheden, zoals onder andere de verwachte klimaatverandering, zeespiegelstijging, bodemdaling en toename van verhard oppervlak.\nNa een uitgebreide evaluatie in 2006 hebben de contractpartijen in juni 2008 een geactualiseerde versie van het akkoord (NBW-Actueel) ondertekend.\n\n\nDe inundatienormen uit het NBW\nHet NBW bevat afspraken rondom veiligheid en wateroverlast (te veel) en procesafspraken rond watertekorten, verdroging, verzilting (te weinig), water(bodem)kwaliteit, sanering waterbodems (te vies) en ecologie (ecologisch te arm water).\nSpecifiek voor wateroverlast die optreedt wanneer regionale watergangen buiten hun oevers treden zijn landelijke uniforme werknormen opgesteld. Hieraan moeten alle waterschappen zich houden:\n\nINUNDATIENORMEN UIT HET NBW\n\n\n\n\n\n\n\nNormklasse gerelateerd aan grondgebruiktype\nMaaiveldcriterium [%]*\nBasis werkcriterium [j]\n\n\n\n\nGrasland\n5 procent\n1/10\n\n\nAkkerbouw\n1 procent\n1/25\n\n\nHoogwaardige land- en tuinbouw\n1 procent\n1/50\n\n\nGlastuinbouw\n1 procent\n1/50\n\n\nBebouwd gebied\n0 procent\n1/100\n\n\n\n\n\nLeerdoelen en cursusstructuur\nIn deze onderwijsmodule zul je de twee meestgebruikte methodes leren toepassen: de tijdreeksmethode en de stochastenmethode. Beide methodes stellen je in staat om waterstanden en afvoeren te berekenen die een bepaalde kans op overschrijding hebben.",
+    "crumbs": [
+      "Home",
+      "Inleiding"
+    ]
+  }
+]

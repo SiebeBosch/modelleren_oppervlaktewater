@@ -1,0 +1,41 @@
+---
+title: "Inleiding"
+format:
+  html:
+    table:
+      tbl-cap-location: top
+tbl-cap-location: top
+---
+
+# Welkom
+
+In deze onderwijsmodule maak je actief kennis met het analyseren van extreme waarden in het waterbeheer. Zulke analyses voeren we uit om bijvoorbeeld de kans op een inundatie (over­stroming) te kunnen bepalen. In Nederland moeten alle watersystemen van water­schappen eens in de 5 jaar getoetst worden aan de inundatienormen uit het Nationaal Bestuursakkoord Water (NBW).
+
+# Het Nationaal Bestuursakkoord Water
+
+In februari 2001 sloten Rijk, Interprovinciaal Overleg, Unie van Waterschappen en Vereniging van Nederlandse Gemeenten de Startovereenkomst Waterbeleid 21e eeuw. Twee jaar later werden de resultaten van die samenwerking en van voortschrijdende kennis en inzicht vastgelegd in het Nationaal Bestuursakkoord Water. Het NBW heeft tot doel om vanaf 2015 het watersysteem op orde te hebben en houden, anticiperend op veranderende omstandigheden, zoals onder andere de verwachte klimaatverandering, zeespiegelstijging, bodemdaling en toename van verhard oppervlak.
+
+Na een uitgebreide evaluatie in 2006 hebben de contractpartijen in juni 2008 een geactualiseerde versie van het akkoord (NBW-Actueel) ondertekend.
+
+# De inundatienormen uit het NBW
+ 
+Het NBW bevat afspraken rondom veiligheid en wateroverlast (te veel) en procesafspraken rond watertekorten, verdroging, verzilting (te weinig), water(bodem)kwaliteit, sanering waterbodems (te vies) en ecologie (ecologisch te arm water).
+
+Specifiek voor wateroverlast die optreedt wanneer regionale watergangen buiten hun oevers treden zijn landelijke uniforme werknormen opgesteld. Hieraan moeten alle waterschappen zich houden:
+
+
+Table: INUNDATIENORMEN UIT HET NBW
+
+| Normklasse gerelateerd aan grondgebruiktype | Maaiveldcriterium [%]* | Basis werkcriterium [j] |
+|---------------------------------------------|-----------------------|-------------------------|
+| Grasland                                    | 5 procent             | 1/10                    |
+| Akkerbouw                                   | 1 procent             | 1/25                    |
+| Hoogwaardige land- en tuinbouw              | 1 procent             | 1/50                    |
+| Glastuinbouw                                | 1 procent             | 1/50                    |
+| Bebouwd gebied                              | 0 procent             | 1/100                   |
+
+
+# Leerdoelen en cursusstructuur
+
+In deze onderwijsmodule zul je de twee meestgebruikte methodes leren toepassen: de tijdreeksmethode en de stochastenmethode. Beide methodes stellen je in staat om waterstanden en afvoeren te berekenen die een bepaalde kans op overschrijding hebben. 
+

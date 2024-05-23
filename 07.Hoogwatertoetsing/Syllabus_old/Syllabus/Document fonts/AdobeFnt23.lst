@@ -1,0 +1,207 @@
+%!Adobe-FontList 1.23
+%Locale:0x413
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:OpenSans-Bold
+FamilyName:Open Sans
+StyleName:Bold
+FullName:Open Sans Bold
+MenuName:Open Sans
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\GITHUB\modelleren_oppervlaktewater\07.Hoogwatertoetsing\Syllabus_old\Syllabus\Document fonts\OpenSans-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:224592
+FileModTime:1314058450
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Open Sans Bold
+NameArray:0,Win,1,Open Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:OpenSans-Extrabold
+FamilyName:Open Sans
+StyleName:Extrabold
+FullName:Open Sans Extrabold
+MenuName:Open Sans Extrabold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\GITHUB\modelleren_oppervlaktewater\07.Hoogwatertoetsing\Syllabus_old\Syllabus\Document fonts\OpenSans-ExtraBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:222584
+FileModTime:1314058450
+WeightClass:800
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Open Sans Extrabold
+NameArray:0,Win,1,Open Sans Extrabold
+NameArray:0,Win,16,Open Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:OpenSans-Italic
+FamilyName:Open Sans
+StyleName:Italic
+FullName:Open Sans Italic
+MenuName:Open Sans
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\GITHUB\modelleren_oppervlaktewater\07.Hoogwatertoetsing\Syllabus_old\Syllabus\Document fonts\OpenSans-Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:212896
+FileModTime:1314058450
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Open Sans Italic
+NameArray:0,Win,1,Open Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:OpenSans-Light
+FamilyName:Open Sans
+StyleName:Light
+FullName:Open Sans Light
+MenuName:Open Sans Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\GITHUB\modelleren_oppervlaktewater\07.Hoogwatertoetsing\Syllabus_old\Syllabus\Document fonts\OpenSans-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:222412
+FileModTime:1314058450
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Open Sans Light
+NameArray:0,Win,1,Open Sans Light
+NameArray:0,Win,16,Open Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:OpenSans
+FamilyName:Open Sans
+StyleName:Regular
+FullName:Open Sans
+MenuName:Open Sans
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\GITHUB\modelleren_oppervlaktewater\07.Hoogwatertoetsing\Syllabus_old\Syllabus\Document fonts\OpenSans-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:217360
+FileModTime:1314058450
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Open Sans
+NameArray:0,Win,1,Open Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:OpenSans-Semibold
+FamilyName:Open Sans
+StyleName:Semibold
+FullName:Open Sans Semibold
+MenuName:Open Sans Semibold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\GITHUB\modelleren_oppervlaktewater\07.Hoogwatertoetsing\Syllabus_old\Syllabus\Document fonts\OpenSans-Semibold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:221328
+FileModTime:1314058450
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Open Sans Semibold
+NameArray:0,Win,1,Open Sans Semibold
+NameArray:0,Win,16,Open Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:OpenSans-SemiboldItalic
+FamilyName:Open Sans
+StyleName:Semibold Italic
+FullName:Open Sans Semibold Italic
+MenuName:Open Sans Semibold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\GITHUB\modelleren_oppervlaktewater\07.Hoogwatertoetsing\Syllabus_old\Syllabus\Document fonts\OpenSans-SemiboldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:212820
+FileModTime:1314058450
+WeightClass:600
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Open Sans Semibold Italic
+NameArray:0,Win,1,Open Sans Semibold
+NameArray:0,Win,16,Open Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:RijksoverheidSans-Regular
+FamilyName:RijksoverheidSans
+StyleName:Regular
+FullName:RijksoverheidSans
+MenuName:RijksoverheidSans
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\GITHUB\modelleren_oppervlaktewater\07.Hoogwatertoetsing\Syllabus_old\Syllabus\Document fonts\RijksoverheidSans-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:62200
+FileModTime:1220450690
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,RijksoverheidSans
+NameArray:0,Win,1,RijksoverheidSans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\GITHUB\modelleren_oppervlaktewater\07.Hoogwatertoetsing\Syllabus_old\Syllabus\Document fonts\TheMix 4 SemiLight
+FileModTime:831622090
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\GITHUB\modelleren_oppervlaktewater\07.Hoogwatertoetsing\Syllabus_old\Syllabus\Document fonts\TheMixSemLigIta
+FileModTime:783514800
+%EndFont
+

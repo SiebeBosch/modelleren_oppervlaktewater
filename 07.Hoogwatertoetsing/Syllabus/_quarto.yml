@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: site
+
+website:
+  title: "Syllabus"
+  navbar:
+    search: true
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+  sidebar:
+    style: "docked"
+    contents:
+      - href: inleiding.qmd
+        text: Inleiding
+      - href: introductie_kansverdelingen.qmd
+        text: Introductie kansverdelingen
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+

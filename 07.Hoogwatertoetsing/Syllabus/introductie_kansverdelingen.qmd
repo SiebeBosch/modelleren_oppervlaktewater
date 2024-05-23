@@ -1,0 +1,96 @@
+---
+title: "Introductie kansverdelingen"
+format:
+  html:
+    table:
+      tbl-cap-location: top
+tbl-cap-location: top
+---
+
+# Inleiding
+
+Statistiek is een populaire manier om de kans op gebeurtenissen te berekenen. Het helpt om een verwachting voor de toekomst te kunnen uitspreken. Zo schatten we de kans dat we dit jaar een Elfstedentocht krijgen ongeveer op 1/7. Dit nemen we aan omdat er sinds 1909 vijftien tochten zijn verreden en 105 jaar/15 zeven bedraagt.
+
+Voor een hydroloog is het bijvoorbeeld nuttig om te weten dat een bui van meer dan 33 mm binnen 24 uur gemiddeld een keer per jaar valt. Op basis van dat soort kennis kan hij of zij het watersysteem ontwerpen.
+
+In dit hoofdstuk frissen we daarom je kennis van kansberekening op. Je zult leren aan welke kansverdelingen neerslagvolumes, waterhoogtes en afvoeren voldoen en je om uit zulke kansverdelingen de overschrijdingskans en herhalingstijd van een gebeurtenis af te leiden.
+
+# De uniforme kansverdeling
+
+Als je een dobbelsteen gooit, dan zijn er zes mogelijke uitkomsten. Na de eerste paar worpen zal de ene uitkomst wat vaker zijn voorkomen dan een andere. Maar naarmate je vaker werpt, zul je vanzelf zien dat iedere uitkomst uiteindelijk ongeveer even vaak gegooid wordt.
+ 
+
+::: {.columns}
+::: {.column width="50%"}
+![Het resultaat van tien worpen met één dobbelsteen.](img/Figuur 1a.png)
+:::
+::: {.column width="50%"}
+![Het resultaat van tien worpen met tien miljoen worpen met één dobbelsteen.](img/Figuur 1b.png)
+:::
+:::
+
+
+::: {.columns}
+::: {.column width="50%"}
+![De theoretische kansdichtheid voor de uitkomst van het werpen van één dobbelsteen.](img/Figuur 2.png)
+:::
+::: {.column width="50%"}
+:::
+:::
+
+Omdat alle mogelijke uitkomsten dezelfde kans hebben, noemen we dit een uniforme kansverdeling.
+
+# Complexere kansverdelingen
+
+Nu stappen we over op het werpen met twee dobbelstenen. De uitkomst van beide dobbel­stenen tellen we na elke worp bij elkaar op. 
+
+::: {.columns}
+::: {.column width="50%"}
+Als we ook hiermee tien miljoen simulaties draaien, zien we dat hier geen uniforme kansverdeling ontstaat, maar een piramidevormige.
+:::
+::: {.column width="50%"}
+![De kansdichtheidsfunctie van de som van een worp met twee dobbelstenen is piramidevormig.](img/Figuur 3.png)
+:::
+:::
+
+<div class="vraag">Vraag 1: Verklaar waarom de kansdichtheidsfunctie van de som van het resultaat van twee dobbelstenen niet uniform is, maar piramidevormig.</div>
+
+<div class="answer-lines">
+  <hr>
+  <hr>
+  <hr>
+  <hr>
+</div>
+
+::: {.columns}
+::: {.column width="50%"}
+Voegen we nog meer dobbelstenen toe aan het experiment, dan zien we dat de kansdichtheidsgrafiek een heel specifieke vorm gaat aannemen: klokvormig.
+
+:::
+::: {.column width="50%"}
+![Benadering van de kansdichtheidsfunctie voor het resultaat van 10 miljoen simulaties met telkens 10 dobbelstenen tegelijk.](img/Figuur 4.png)
+:::
+:::
+
+# De normale verdeling
+
+In de vorige paragraaf zagen we dat de kansdichtheidsfunctie voor de som van de uitkomst van tien dobbelstenen bij een groot aantal simulaties een soort klokvorm begint aan te nemen. Hoe meer dobbelstenen je toevoegt en hoe meer simulaties je draait, des te gladder zal het verloop van de klokvorm worden.
+
+Deze klokvorm staat ook wel bekend als de normale verdeling of Gausscurve, naar de Duitse wiskundige Carl Friedrich Gauss. De normale verdeling is een kansdichtheidsfunctie waarmee we de verdeling van waarden van ontelbaar veel grootheden in de fysieke wereld om ons heen kunnen beschrijven. Hier volgen een paar voorbeelden die op Wikipedia genoemd worden:
+
+•	de maximumtemperatuur op 5 augustus in De Bilt
+•	de afwijking van klokken van één bepaald merk in seconden per dag
+•	het IQ van een grote groep proefpersonen van dezelfde leeftijd.
+
+De bovenstaande grootheden zijn dus verdeeld volgens de normale verdeling. Het elegante aan de normale verdeling is dat die kan worden vastgelegd met slechts twee parameters: de verwachtingswaarde μ en de standaardafwijking σ.
+
+::: {.columns}
+::: {.column width="50%"}
+![Vier voorbeelden van de normale verdeling, elk met een andere μ en σ.](img/Figuur 5.png)
+
+:::
+::: {.column width="50%"}
+:::
+:::
+
+
