@@ -1,0 +1,19 @@
+## Kalibratie
+    
+Omdat het model uiteindelijk wordt opgenomen in het Flood Early Warning System van Waterschap Noorderzijlvest is een kwalitatief hoogwaardige simulatie van hoogwaters cruciaal. Daarom ijkten we in de eerste plaats op een hoogwatersituatie. Hiervoor namen we de gebeurtenis van 22 februari 2022.
+
+Ter illustratie van deze periode tonen we onderstaand het verloop van de waterhoogtes bij gemaal De Waterwolf, het grootste gemaal van Noorderzijlvest. Duidelijk is dat in deze periode het streefpeil van -0.93 m NAP niet kon worden gehandhaafd.
+
+![Grafiek uit het WAM-portaal van waterschap Noorderzijlvest. Bij gemaal De Waterwolf is in de kalibratieperiode een duidelijke peilstijging waarneembaar.](../img/kalibratieperiode_waterwolf_meting.png)
+
+Van deze periode downloadden we daarom zo veel mogelijk meetreeksen uit het WAM-portaal en namen die op in een SQLite-database zodat ze bij het exporteren van modeluitkomsten vergeleken konden worden met gesimuleerde reeksen. 
+
+::: {.columns}
+::: {.column width="50%"}
+
+
+:::
+::: {.column width="50%"}
+:::
+:::
+

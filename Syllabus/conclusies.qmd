@@ -1,0 +1,21 @@
+---
+title: "Conclusies"
+---
+
+In het hier beschreven project slaagden we erin een simulatiemodel te vervaardigen van de boezem en noordelijke kleipolders van waterschap Noorderzijlvest; geheel op basis van het actuele beheerregister. De bouw van het model is volledig reproduceerbaar met de programma's Channel Builder en Catchment Builder, versie 3.5.0.0 (Hydroconsult)
+
+Ten opzichte van eerdere versies van het boezemmodel zijn grote verbeteringen doorgevoerd. Zo wordt bij het het schematiseren van grote meren zoals Lauwersmeer, Leekstermeer en Paterswoldsemeer gebruikgemaakt van de bathymetrie. Daarnaast is veel zorg besteed aan het juist schematiseren van de aansturing van waterbergingsgebieden en compartimenteringsstuwen. Tot slot is de parameterisatie van het landelijk gebied gebaseerd op literatuurwaarden.
+
+Voor een model met deze omvang en mate van detail rekent het snel: 2 maanden in ruim 30 minuten. Om dit resultaat te kunnen behalen moest door het waterschap wel een groot aantal duikers worden weggelaten uit de schematisatie.
+
+Het model presteert goed voor wat betreft het simuleren van hoogwaterpieken. Zowel de hoogte als de duur van peilstijgingen worden op de meeste locaties goed nagebootst en op sommige locaties zelfs zeer goed. Echter het adequaat simuleren van de cumulatieve afvoeren blijft onder de maat. Het model geeft voor de kalibratieperiode van januari en februari 2022 op veel locaties enkele tientallen procenten afwijking ten opzichte van de metingen. Gevoeligheidsanalyses op o.a. kwel, drainageweerstanden diepe laag en representatief maaiveld lieten zien dat de cumulatieven hier nauwelijks gevoelig voor zijn. 
+
+Er zijn aanwijzingen dat de structurele afwijkingen in cumulatieve maalstaten liggen aan de lage kwaliteit van uurlijkse neerslagwaarden in deze regio. Het neerslagradarstation Emden was in de kalibratieperiode buiten gebruik en de aanwezigheid van hoge gebouwen en windmolens verstoort het radarbeeld vanuit locatie Herwijnen. Om deze tekortkomingen te omzeilen hebben we onze toevlucht genomen tot het temporeel disaggregeren van de neerslagsom van KNMI etmaalstations.
+
+
+
+
+
+
+
+

@@ -1,0 +1,13 @@
+## Pomprichting
+
+::: {.columns}
+::: {.column width="50%"}
+Voorheen werden aan- en afvoergemalen door Channel Builder automatisch zo geconfigureerd dat ze tegen de zwaartekracht in zouden pompen. Het programma keek naar de omliggende streefpeilen en stelde de pomprichting zo in  dat naar de zijde met het hoogste peil toe werd gepompt.
+
+Bij het testen van de modelschematisatie bleek echter dat er gemalen zijn die in werkelijkheid met de zwaartekracht mee pompen. Een voorbeeld is gemaal KGM152, gelegen op de grens tussen de eerste schil en de Fivelingoboezem. Op basis van het algoritme werd dit gemaal ten onrechte een negatieve pomprichting gegeven. Na overleg met de opdrachtgever is besloten Channel Builder aan te passen. De standaardinstelling is geworden dat gemalen altijd met de takrichting mee pompen. Optioneel is geworden om het programma te laten kijken naar de zijde met het hoogste streefpeil. Voor het boezemmodel wordt de standaardinstelling gehanteerd. 
+:::
+::: {.column width="50%"}
+![De standaardinstelling van Channel Builder is nu om te pompen in takrichting. Pompen tegen de zwaartekracht in is optioneel.](../img/channel_builder_pomprichting.png)
+
+:::
+:::

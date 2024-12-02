@@ -1,0 +1,22 @@
+---
+title: "Compartimenteringsstuwen"
+---
+
+In de boezem bevindt zich een aantal compartimenteringsstuwen. Het gaat om de volgende stuwen: 
+
+
+::: {.columns}
+::: {.column width="50%"}
+
+* KST1026 
+* KST1033 
+* KST1081 
+
+Als de voorspelde waterstand richting -0.35 m NAP gaat, gaan deze stuwen al in een vroeg stadium omhoog. Hiermee wordt voorkomen dat water terugstroomt naar het Leekstermeer en wordt de druk op de Waterwolf gehouden zodat die meer kan afvoeren.
+
+In Channel Builder hebben we deze drie stuwen geconfigureerd met een interval-controller met een constant setpoint van -0.60 m + NAP. Hierbij kijken de controllers naar de gesimuleerde waterhoogte op “measurement station” Leutingewolde. De stuwen gaan dus al omhoog wanneer de waterhoogte boven de -0.60 m NAP komt.
+:::
+::: {.column width="50%"}
+![De compartimenteringsstuwen.](../img/compartimenteringsstuwen.jpg)
+:::
+:::

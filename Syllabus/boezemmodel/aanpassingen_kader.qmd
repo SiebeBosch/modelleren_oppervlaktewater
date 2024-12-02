@@ -1,0 +1,29 @@
+## Aanpassingen kader
+
+Tijdens de uitvoering van het project is het kader aangepast:
+
+* Parallel aan de onderhavige opdracht een nieuwe opdracht om met Channel Builder en Catchment Builder eveneens een model in D-Hydro te kunnen vervaardigen
+* In verband met de toch grootschalige veranderingen van het beheerregister ten opzichte van de eerdere versies is besloten de opdracht om een afgeleid RTC-Toolsmodel te vervaardigen onder te brengen in een aparte opdracht aan Deltares.
+
+* De volgende benodigde doorontwikkelingen in de modelbouwsoftware:
+    * (deel)gebieden kunnen selecteren op basis van afwaterende eenheden. Dit om voldoende differentiatie te kunnen aanbrengen voor het al dan niet aanbrengen van ‘dummytakjes’ en het implementeren van maalstops
+    * Lange duikers die voorheen niet werden meegenomen in de schematisatie nu wel opnemen. Dit vergde een aanpassing van de wijze waarop lange duikers naar de watergang 'snapten'
+    * Bij aanvoergemalen is de takrichting niet altijd gelijk aan de pomprichting. In overleg met het waterschap besloten de architectuur van Channel Builder zo aan te passen dat het programma er standaard vanuit gaat dat de getekende takrichting de juiste is. De oorspronkelijke werkwijze waarin gepompt wordt richting hoogwaterzijde is hiermee optioneel geworden. Dit was een zeer ingrijpende en intensieve activiteit
+    * Nieuwe functionaliteit om dwarsprofielen voor grote meren te genereren, zoals Lauwersmeer, Leekstermeer en Paterswoldsemeer. Het is nu mogelijk deze profielen automatisch te bepalen op basis van een bathymetriebestand.
+    * De RWZI's, hun lozingspunten, rioleringsgebieden en de overstorten opnemen in de modelschematisatie
+    * Oplossen van een bug waardoor dummytakjes die op dezelfde locatie aan het model aantakken niet langer samengevoegd werden
+    * Drainageprocessen parameteriseren op basis van de buisdrainagekaart-literatuurwaarden. Indien dit geen bevredigende resultaten geeft de overstap naar SACRAMENTO maken.
+    * inlaatgemaaltjes stoppen wanneer aan de watervraagzijde onvoldoende water beschikbaar is
+    * de rekensnelheid van het model optimaliseren
+    * ondersteuning toevoegen voor stuwen met afwijkende kruinvorm
+    * corrigeren van radargebaseerde neerslag 'knmi final reanalysis'
+
+
+
+
+
+
+
+
+
+

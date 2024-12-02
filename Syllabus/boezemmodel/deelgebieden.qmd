@@ -1,0 +1,10 @@
+# Differentiatie naar hydrologische eenheden
+
+Op verzoek van het waterschap is het nu mogelijk om in Channel Builder op het kleinste schaalniveau te bepalen welk gebied een dummytakje (bergingstakje) moet krijgen en eventueel met een maalstop moet worden uitgerust. Voorheen kon dit allen per stroomgebied worden bepaald.
+
+Uit onderstaande schermafbeelding is bijvoorbeeld op te maken dat voor een deel van de afwaterende eenheden in de derde schil en het Lauwersmeergebied geen dummytakjes worden vervaardigd. 
+
+![Differentiatie op het niveau van hydrologische eenheden](../img/catchment_builder_gfe.png)
+
+
+

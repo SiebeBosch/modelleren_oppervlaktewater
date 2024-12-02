@@ -1,0 +1,18 @@
+---
+title: "Gebiedsselectie"
+---
+
+::: {.columns}
+::: {.column width="50%"}
+In de oorspronkelijke configuratie van de modelbouw werd de selectie van al dan niet te modelleren gebieden gedaan op grof niveau: op basis van een shapefile met de stroomgebieden. Een stroomgebied werd aan- of uitgevinkt voor opname in het model, en daarmee werd ook op stroomgebiedsniveau vastgelegd welke gebieden 'bergingstakjes' zouden krijgen en welke niet. 
+
+:::
+::: {.column width="50%"}
+In dit project wilde het waterschap overstappen op “Afwaterende Eenheden”. Hierdoor kunnen we op een groter detailniveau bepalen welk gebied wel of geen ‘bergingstakje’ moet krijgen en of bijvoorbeeld een maalstop. Dit hebben we in Catchment Builder gedaan door onder het kopje ‘catchments’ niet langer de shapefile met stroomgebieden te importeren maar de shapefile met afwaterende eenheden.
+:::
+:::
+
+![Gebiedsselectie in Catchment Builder op basis van afwaterende eenheden (roodomrand)](../img/catchment_builder_gebiedsselectie.png)
+
+
+

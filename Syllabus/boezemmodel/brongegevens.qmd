@@ -1,0 +1,43 @@
+## Brongegevens
+Het waterschap leverde ons de volgende zaken aan:
+
+
+* Een werkende configuratie van Channel Builder en Catchment Builder waarmee de voorgaande versie van het boezemmodel kan worden vervaardigd. De enige aanpassing die op aanwijzen van het waterschap na de vervaardiging van het model nog nodig is om hem werkend te krijgen is het in de SOBEK Settings instellen van de Maximum Lowering of Cross-Section Bed Level at Culverts op 1 m.
+
+* GIS-bestanden op basis van het volledig vernieuwde beheerregister; door de hydroloog aangevuld met relevante extra data ten behoeve van de modelbouw:
+    * Deelstroomgebieden
+    * Hoogteraster uit AHN3 op 25m-resolutie
+    * Peilgebieden
+    * Watergangen 
+    * Profielpunten voor YZ-profielen in een puntenshapefile
+    * Tabelprofielen
+    * Bathymetrie ten behoeve van tabelprofielen Lauwersmeer, Leekstermeer en Paterswoldsemeer
+    * Shapefile met stuwen
+    * Gegevens voor yz-stuwen in CSV-formaat
+    * Shapefile met afvoergemalen
+    * Shapefile met inlaatgemalen
+    * Shapefile met doorspoelgemalen
+    * Shapefile met duikers
+    * Shapefile met sifons
+    * Shapefile met inlaten
+    * Shapefile met landhoofdbruggen
+    * Shapefile met sluizen
+    * Shapefile met meetlocaties; handmatig door mij aangevuld t.b.v. maalstops
+    * Overzicht van gewenst maatwerk voor kunstwerksturing
+    * Shapefile met hydrologische eenheden en daarin de streefpeilen
+    * Shapefile met rioleringsgebieden
+    * Shapefile met overstortlocaties
+    * Shapefile met rioolwaterzuiveringen
+    * Shapefile met lozingspunten van de rioolwaterzuiveringen
+    * Shapefile met poldergemalen
+    * Bodemkaart van Nederland
+    * Landgebruikskaart LGN2020
+    * Hoogteraster AHN4 op 5m-resolutie
+    * Kwelkaart
+
+
+* Waterschap Noorderzijlvest beschikt over een online gegevensportaal voor gemeten waterhoogtes en afvoeren: https://wamportaal.noorderzijlvest.nl/. Wij maken gebruik van dit portaal om lange reeksen met maalstaten, gespuide en ingelaten volumes en waterhoogtes te downloaden om zodoende het model te kunnen ijken en beoordelen.
+
+* Neerslag en verdamping betrokken we in eerste instantie van Meteobase. Dit portaal geeft de KNMI Final Reanalysis-beelden, waarin het radarbeeld is geijkt aan metingen aan de grondstations. 
+
+

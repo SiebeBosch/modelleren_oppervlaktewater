@@ -1,0 +1,7 @@
+## Drainageprofielen
+
+Een belangrijke verbetering van dit boezemmodel is dat de drainageprofielen in de neerslag-afvoercomponent nu één op één gekoppeld zijn aan hun bodemsoort en landgebruik. De drainagedieptes en -weerstanden worden gehaald uit de buisdrainagekaart van Alterra (Massop et. al., 2016). 
+
+![Drainageprofielen in Catchment Builder.](../img/catchment_builder_drainage.png)
+
+Middels een interne vertaaltabel zet Catchment Builder de onderhavige bodemsoort om naar de bodemsoortklassen die door de Buisdrainagekaart worden ondersteund: klei, zand en veen. Evenzo zet het programma het landgebruik om naar landgebruiksklassen zoals akkerbouw-tuinbouw, grasland, ongedraineerd. Voor combinaties van deze klassen ligt het drainageprofiel vast in de genoemde publicatie.

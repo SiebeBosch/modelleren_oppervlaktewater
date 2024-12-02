@@ -1,0 +1,11 @@
+## Niet knellende bruggen verwijderen
+
+In de modelbouwconfiguratie heeft de hydroloog van waterschap Noorderzijlvest diverse niet-knellende bruggen uitgevinkt, zodat die niet langer in de modelschematisatie terechtkomen. 
+
+
+
+
+
+
+
+

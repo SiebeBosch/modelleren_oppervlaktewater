@@ -1,0 +1,23 @@
+# Optimaliseren rekensnelheid
+
+Om de modelschematisatie door de zomer van 2017 heen te krijgen is het noodzakelijk om in enkele Drentse beekdalen een zogenoemd ‘vertical slot’ aan te brengen in de beekprofielen. Dit voorkomt dat het model crasht als gevolg van droogvallend beekprofiel.
+
+Het implementeren van vertical slots is een standaardfunctionaliteit van Channel Builder. De gebruiker wijst door middel van een shapefile aan in welke regio's zo'n vertical slot moet worden geïmplementeerd.
+
+Na deze implementatie is de simulatie van 2017 met succes doorlopen in 1 etmaal, 6 uur en 16 minuten. Dit betekent dat het model, met inbegrip van een zomer, 2,5 uur rekent om een maand te simuleren.
+
+Bij het simuleren van de hoogwaterperiode is het model een stuk sneller:
+
+::: {.columns}
+::: {.column width="50%"}
+![Channel Builder voegt 'vertical slots' toe aan profielen in geselecteerde regio's.](../img/channel_builder_vertical_slots.png)
+:::
+::: {.column width="50%"}
+![Gebieden met vertical slot](../img/vertical_slot_gebieden.png)
+
+:::
+:::
+
+
+
+

@@ -1,0 +1,34 @@
+---
+title: "Sturing bergingsgebieden"
+---
+
+Om de sturing van kunstwerken rond de diverse bergingsgebieden te kunnen schematiseren is de functionaliteit ‘custom controllers’ van Channel Builder nodig. 
+
+Voor de bergingsgebieden De Dijken geldt dat, als de waterhoogte op boezem boven de -0.35 NAP komt, het waterschap overweegt om de afvoerende stuwen op te trekken en de schuiven te openen om water in te laten.
+
+In Channel Builder hebben we dit gedrag geconfigureerd door de volgende inlaatkunstwerken te openen wanneer de waterhoogte op “measurement station” Fanerpolder -0.35 m + NAP overschrijdt. Tegelijk wordt de kruin van twee andere stuwen omhoog gezet.
+
+::: {.columns}
+::: {.column width="50%"}
+Strijken:
+
+* INL328
+* INL329
+* INL273
+* INL505
+* KST1030
+* INL504
+* INL292
+* INL311
+* INL319
+:::
+::: {.column width="50%"}
+Optrekken:
+
+* KST1041
+* KST0618
+:::
+:::
+
+![De sturing van de bergingsgebieden is geconfigureerd onder 'custom controllers'.](../img/channel_builder_custom_controllers.png)
+

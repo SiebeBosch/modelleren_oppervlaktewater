@@ -1,0 +1,14 @@
+## Modelbouw
+
+De modelbouw is uitgevoerd met de programma's Channel Builder en Catchment Builder, conform het projectkader. Dit cyclische proces behelste tientallen iteraties waarin telkens een nieuwe versie van het model werd vervaardigd en gedeeld met de hydroloog van het waterschap. Hierdoor konden de brongegevens en/of de modelbouwsoftware telkens verder worden verbeterd.
+
+
+![Channel Builder (Hydroconsult)](../img/channel_builder.png)
+
+
+![Catchment Builder (Hydroconsult)](../img/catchment_builder.png)
+
+
+
+
+

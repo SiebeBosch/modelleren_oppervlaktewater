@@ -1,0 +1,12 @@
+# Toevoegen noordelijke kleipolders
+
+De Noordpolder (Noordpolderzijl) en Spijksterpompen zijn twee kleipolders die in het noorden van het beheergebied aan de Waddenzee liggen. Van beide polders zijn gedetailleerde modelschematisaties beschikbaar, vervaardigd door Arcadis. In overleg met het waterschap is echter besloten om bij de bouw van het nieuwe boezemmodel deze integraal mee te genereren vanuit het beheerregister. Dit voorkomt dat we achteraf drie modellen aan elkaar moeten koppelen en de onderlinge uitwisseling van water moeten afregelen.
+
+In de configuratie van Channel Builder en Catchment Builder zijn beide kleipolders aangevinkt, waardoor ze automatisch worden meegenomen in de modelbouw.
+
+![Noordelijke kleipolders](../img/noordelijke_kleipolders.jpg)
+
+
+
+
+

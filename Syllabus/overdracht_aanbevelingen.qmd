@@ -1,0 +1,26 @@
+---
+title: "Overdracht en aanbevelingen"
+---
+
+## Overdracht
+
+Het boezemmodel van waterschap Noorderzijlvest is continu in ontwikkeling. De brongegevens worden steeds verder verbeterd en vragen die met het model beantwoord moeten worden kunnen zich toespitsen op bepaalde aspecten van het model die verdere verbetering behoeven.
+
+In de loop van het project heeft de hydroloog van het waterschap, Vincent de Looij, het stokje omtrent de modelbouw al overgenomen. Zo optimaliseerde hij de rekentijd en implementeerde een neerslag-afvoerschematisatie in Sacramento om de Drentse beekafvoeren beter te kunnen simuleren.
+
+Dit rapport is daarom het best te zien als een groeidocument. Het staat op een Github-repository waar ook het waterschap toegang toe heeft en waar de laatste inzichten en doorontwikkelingen verwerkt kunnen worden.
+
+## Aanbevelingen
+
+Het grootste struikelblok bij de kalibratie van het boezemmodel was de kwaliteit van de neerslaggegevens. Omdat KNMI Final Reanalysis in deze regio en de gekozen kalibratieperiode tekortschoot hebben we onze toevlucht moeten nemen tot het opwerken van gegevens van de etmaalstations van KNMI.
+
+Wij bevelen een klein vervolgonderzoek aan om de kwaliteit beschikbare neerslaggegevens voor de regio van Noorderzijlvest verder te verbeteren. Dit kan bijvoorbeeld door metingen uit de KNMI etmaalstations en/of de recentelijk door het waterschap geïnstalleerde pluviografen te betrekken bij een herijking van KNMI Final Reanalysis.
+
+Gezien de slechte kwaliteit van de kwelgegevens uit het vorige MIPWA-grondwatermodel is door het waterschap besloten kwel geheel weg te laten uit de modelschematisatie. Zodra het nieuwe MIPWA-model beschikbaar komt verwachten we ook een sterk verbeterde kwelflux en bevelen we aan deze gegevensbron weer op te nemen in de modelbouw.
+
+Het standaardmodel voor neerslag-afvoer in het landelijk gebied, RR-unpaved, is vooral geschikt voor bemalen gebied en minder voor vrij-afstromend gebied. De modelresultaten zijn acceptabel maar zijn voor verbetering vatbaar. Noorderzijlvest heeft in een parallel traject al verbeteringen bewerkstelligd door het gebied in Sacramento te modelleren. We bevelen aan de ondersteuning voor Sacramento in het programma Catchment Builder verder te ontwikkelen zodat ook deze schematisaties geautomatiseerd kunnen worden geparameteriseerd en aangemaakt.
+
+
+
+
+

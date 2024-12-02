@@ -1,0 +1,38 @@
+---
+title: "Projectkader"
+---
+
+## Opgave
+Het waterschap wenste een reproduceerbare modelschematisatie in SOBEK van het boezemsysteem van Noorderzijlvest die in staat is om zowel periodes van hoogwater als jaarrond adequaat te simuleren. Daarnaast moet een eenheidsmodel van de neerslag-afvoercomponent worden opgeleverd; door Deltares te verwerken tot een snel rekenend RTC-Tools model.
+
+::: {.columns}
+::: {.column width="50%"}
+De modelschematisatie werd vervaardigd met behulp van de modelbouwsoftware Channel Builder en Catchment Builder van Hydroconsult. Deze tools kunnen automatisch een RR + 1D Flow-modelschematisatie in SOBEK en D-Hydro vervaardigen op basis van gegevens uit het beheerregister. Om aan de vereisten van de nieuwe modelschematisaties te kunnen voldoen is de software binnen dit project doorontwikkeld.
+:::
+::: {.column width="50%"}
+![Channel Builder](../img/channel_builder.png)
+:::
+:::
+
+Het waterschap wenste een volledige actualisatie van de modelschematisatie en de diverse aanvullende functionaliteiten.
+
+* Bouwen van de nieuwe modelschematisatie, op basis van het actuele beheerregister
+* Implementatie van vispassages en inlaat- en doorspoelregime
+* Een duurzame oplossing voor numerieke problemen met duikers die onder slootprofiel liggen
+* Een oplossing om bruggen die geen noemenswaardig hydraulisch effect hebben weg te laten;
+* Keuze-optie voor de modelleur om een model met of zonder slib te genereren;
+* Inclusief schematisatie Noordpolder en Spijksterpompen. Voorkeur is om deze componenten ook
+met Channel Builder en Catchment Builder te genereren. Mocht het resultaat onvoldoende snel
+rekenen of kwalitatief tekort schieten, dan wordt dit gedeelte vervangen door de modelschematisatie
+van Arcadis
+* Implementatie van maalstops in de 1D Flow-module
+* Rekening houdend met vereisten vanuit het vrachtenmodel zoals door Arcadis wordt verzorgd
+* Rekening houdend met de 15 KRW-clustergebieden, e.e.a. afstemmen met Arcadis.
+* Implementatie van de reeds gerealiseerde maatregelen uit de Droge Voeten 2050-studie  
+  * Onlanden: compartimenteringsstuwen in het Lettelberterdiep en Hoendiep optrekken
+  * HD Louwes: implementeren van de klep waarmee het gebied wordt geïsoleerd
+  * Implementeren van sturing in bergingsgebieden zoals De Dijken en De Drie Polders
+
+![De noordelijke kleipolders](../img/noordelijke_kleipolders.jpg)
+
+

@@ -1,0 +1,25 @@
+## Oplossing numerieke issues rond duikers
+
+Zoals in het kader aangegeven speelden in de modelschematisatie numerieke problemen bij duikers die onder de slootbodem liggen. De manier waarop het waterschap hiermee omging was door in de SOBEK Settings de Maximum Lowering of Cross-Section Bed Level at Culverts op 1 m in te stellen.
+
+In het project is het issue deels opgelost door in enkele vrij-afstromende regio's een zogenoemd 'vertical slot' te implementeren. Hierdoor wordt kunstmatig de slootbodem verdiept met een smalle sleuf. Dit voorkomt droogval en lost tegelijk het bovengenoemde issue op. Door het waterschap is een bestand met gebieden vervaardigd waar een vertical slot gewenst was.
+
+::: {.columns}
+::: {.column width="50%"}
+![Gebieden met vertical slot](../img/vertical_slot_gebieden.png)
+:::
+::: {.column width="50%"}
+![Instellingen voor het vertical slot](../img/vertical_slot_settings.png)
+:::
+:::
+
+Daarnaast hebben we aan inlaatkunstwerken een clausule toegevoegd die zorgt dat de inlaat stopt wanneer er aan watervraagzijde onvoldoende water beschikbaar is. Een voorbeeld hiervan is iKST0603. Ook dit heeft bijgedragen aan het oplossen van numerieke issues rond de duikers. Verder is de hydroloog van het waterschap verder gegaan met het optimaliseren.
+
+
+
+
+
+
+
+
+

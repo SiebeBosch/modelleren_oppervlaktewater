@@ -1,0 +1,7 @@
+## Waterberging grote meren
+
+Grote meren zoals het Lauwersmeer, het Paterswoldsemeer en het Leekstermeer worden in de modelschematisatie opgenomen in 1D-takken. Dit betekent dat het bergingsvolume moet worden vertaald naar een fictief dwarsprofiel, type Tabulated, waarbij lengte van de tak maal breedte van het profiel overeenkomt met het wateroppervlak bij de betreffende hoogte.
+
+Om grote waterlichamen op een eenduidige manier te kunnen schematiseren in 1D-watergangen hebben we we de functionaliteiten van Channel Builder uitgebreid met de mogelijkheid om een bathymetriebestand te gebruiken, de oppervlaktes daaruit te delen over de taklengte en het resultaat als tabelprofiel aan de modelschematisatie toe te kennen.
+
+![Channel Builder leidt dwarsprofielen voor grote meren af uit de bathymetrie.](../img/channel_builder_bathymetrie.png)

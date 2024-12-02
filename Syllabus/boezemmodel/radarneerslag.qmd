@@ -1,0 +1,15 @@
+## Radargebaseerde neerslag
+
+In eerste aanleg maakten we voor het boezemmodel als neerslagbron gebruik van het Final Reanalysis-beeld van KNMI, verkrijgbaar via Meteobase. In de loop van het project werd echter duidelijk dat deze gegevensbron in het noordoosten van Nederland een structurele onderschatting van ca. 20% geeft ten opzichte van de daadwerkelijk gevallen neerslagvolumes.
+
+::: {.columns}
+::: {.column width="50%"}
+![Rasterdata opvragen van Meteobase](../img/meteobase_rasterdata.png)
+:::
+::: {.column width="50%"}
+:::
+:::
+
+Om het probleem van de onderschatting te omzeilen stapten we over op het disaggregeren van etmaalsommen van de grondstations naar uurwaarden. Hierbij maakten we wel gebruik van het tijdsverloop van Final Reanalysis. De hieruit volgende uursommen hebben we vervolgens ruimtelijk gïnterpoleerd volgens Inverse Distance Weighting.
+
+De functionaliteit om etmaalsommen van de grondstations te disaggregeren naar uurwaarden hebben we ondergebracht in het programma HydroToolbox.

@@ -1,0 +1,136 @@
+## Gevoeligheidsanalyse
+
+De kalibratie voeren we uit aan de hand van een gevoeligheidsanalyse. De parameters van het neerslag-afvoermodel houden we buiten deze analyse omdat ze gebaseerd zijn op literatuurwaarden. 
+
+Onze overwegingen welke parameters mee te nemen in de gevoeligheidsanalyse baseerden we op de volgende constateringen: 
+
+* Uit diverse eerdere onderzoeken bleek dat de kwelflux zoals afgeleid uit het MIPWA-model zeer onzeker is
+* De neerslagbron heeft een bijzonder grote onzekerheid. Nader onderzoek wijst uit dat het KNMI Final Reanalysis-beeld voor de kalibratieperiode een structurele onderschatting geeft van ca. 20% ten opzichte van de gemeten etmaalsommen op de grondstations. Onze oplossing is om een alternatieve neerslagbron te genereren, opgebouwd uit de etmaalneerslagsommen van de grondstations en gedisaggregeerd naar uurwaarden
+* De veelzijdigheid van de werkelijke ondergrond (keileem) in het Drentse gedeelte geeft een moeilijk te voorspellen drainageweerstand voor de diepe laag
+
+In de gevoeligheidsanalyse draaien we daarom nog enkel aan de volgende parameters:
+
+* kwel
+* keuze neerslagbron
+* representatieve maaiveldhoogte RR-unpaved
+* de drainageweerstand van de diepe laag
+* de maximale drooglegging
+
+In de loop van het proces hebben we, in overleg met het waterschap, een extra parameter toegevoegd: de maximale drooglegging. Uit eerdere projecten is bekend dat het verschil tussen maaiveld en streefpeil lang niet de werkelijke drooglegging geeft. De reden is dat lokaal veel stuwtjes in secundaire watergangen zitten, vaak beheerd door de boeren zelf, waarmee het peil wordt verhoogd en de drooglegging dus kleiner wordt dan maaiveld - streefpeil. In de gevoeligheidsanalyse draaien we ook aan een variabele om de drooglegging te maximaliseren.
+
+Hier tonen we enkele uitkomsten van de gevoeligheidsanalyses. 
+
+### Kwel
+
+Het effect van kwel op de modeluitkomsten laten we zien aan de hand van twee locaties: Peizerdiep, als representant voor de Drentse beekdalen en gemaal Usquert als representant voor het bemalen gebied. We presenteren het resultaat van twee simulaties: een variant met kwel zoals in rasterformaat aangeleverd door het waterschap (kwel_5mrt2024_conceptversie.tif) en een variant geheel zonder kwel.
+
+::: {.columns}
+::: {.column width="50%"}
+![Effect van wel/geen kwel op de afvoer Peizerdiep](../img/gevoel_Q_kwel_peizerdiep.png)
+:::
+::: {.column width="50%"}
+![Effect van wel/geen kwel op de waterhoogtes Peizerdiep](../img/gevoel_h_kwel_peizerdiep.png)
+:::
+:::
+
+::: {.columns}
+::: {.column width="50%"}
+![Effect van wel/geen kwel op de afvoer gemaal Usquert](../img/gevoel_Q_kwel_usquert.png)
+:::
+::: {.column width="50%"}
+![Effect van wel/geen kwel op de waterhoogtes gemaal Usquert](../img/gevoel_h_kwel_usquert.png)
+:::
+:::
+
+We constateren dat het model weinig gevoelig is voor de kwelflux. Het waterschap geeft aan dat de kwelflux sowieso erg onzeker is omdat hij komt uit de vorige versie van het MIPWA grondwatermodel. Het waterschap verwacht op korte termijn betere kwelfluxen uit het nieuwe MIPWA-model te kunnen aanleveren en besloot in aanloop daarnaar kwel geheel weg te laten in het boezemmodel.
+
+### Keuze neerslagbron
+
+Zoals eerder beschreven ontdekten wij een structurele onderschatting van ca. 20% in het KNMI Final Reanalysis beeld voor deze regio en kalibratieperiode, ten opzichte van gemeten etmaalsommen van de grondstations. De implicaties op de modeluitkomsten waren dusdanig groot dat we ons genoodzaakt voelden een andere neerslagbron aan te spreken. Uiteindelijk kozen we voor het disaggregeren van de etmaalsommen van de KNMI grondstations naar uurwaarden, gebruikmakend van het tijdsverloop van Final Reanalysis. Iedere RR-knoop in het model kreeg vervolgens het dichtstbijgelegen grondstation toegewezen als neerslagstation.
+
+### Representatieve maaiveldhoogte RR-unpaved
+
+Aan knopen van het type 'unpaved' in SOBEK moet een representatieve maaiveldhoogte worden toegekend. Deze parameter drukt een belangrijke stempel op de vochtkarakteristieken van de ondergrond omdat hij rechtstreeks van invloed is op de drooglegging. In veel modelstudies wordt de mediaan (50-percentiel) van het onderhavige maaiveld opgelegd als representatieve hoogte. Echter in eerdere studies constateerden wij dat hiermee de drooglegging vaak wordt onderschat. Boeren plaatsen zelf stuwtjes in kavelsloten, waarmee ze feitelijk een eigen streefpeil hanteren en daarmee de drooglegging verkleinen. Om rekening te houden met dit effect onderzoeken we of het zinvol is om met een kleinere percentielwaarde van 20% te werken.
+
+Op de cumulatieve afvoer blijkt deze parameter vooral invloed te hebben in periodes zonder neerslag. De variant met 20%-maaiveld geeft minder nalevering. Dit is te verklaren doordat de drooglegging in het model kleiner is. De diepe drainagelaag speelt daardoor een minder belangrijke rol in het drainageproces. In onderstaande figuur zien we ook dat dit wenselijk is wanneer we de berekende cumulatief vergelijken met de gemeten waarden van gemaal Schaphalsterzijl.
+
+::: {.columns}
+::: {.column width="50%"}
+![Effect van keuze representatief maaiveld op de cumulatieve afvoer Dwarsdiep](../img/gevoel_Q_mv_dwarsdiep.png)
+:::
+::: {.column width="50%"}
+![Effect van keuze representatief maaiveld op de cumulatieve afvoer Schaphalsterzijl](../img/gevoel_Q_mv_schaphalsterzijl.png)
+:::
+:::
+
+Het simuleren van de pieken gaat iets beter met de 20%-variant. Dit geldt in ieder geval voor Eelderdiep, Tammingahuizen, Onderdendam, Niehove, Fanerpolder en Dwarsdiep.
+
+::: {.columns}
+::: {.column width="50%"}
+![Effect van keuze representatief maaiveld op de pieken bij Tammingahuizen](../img/gevoel_h_mv_tammingahuizen.png)
+:::
+::: {.column width="50%"}
+![Effect van keuze representatief maaiveld op de pieken bij Onderdendam](../img/gevoel_h_mv_onderdendam)
+:::
+:::
+
+Het bovenstaande in acht nemende ligt het voor de hand om het 20-percentiel als representatieve maaiveldhoogte te nemen.
+
+### Drainageweerstand van de diepe laag
+
+Zoals gezegd hebben we voor de drainageweerstand van de diepe laag, dus onder de drainagemiddelen, geen literatuurwaarden gevonden. De ervaring uit eerdere projecten leert dat deze weerstandswaarde doorgaans ergens tussen de 1.000 en 10.000 dagen zit. Daarom voeren we deze gevoeligheidsanalyse uit met beide instellingen en beoordelen we het effect.
+
+::: {.columns}
+::: {.column width="50%"}
+![Effect van keuze diepe drainageweerstand op de cumulatieve afvoer Schaphalsterzijl](../img/gevoel_Q_diep_schaphalsterzijl.png)
+:::
+::: {.column width="50%"}
+![Effect van keuze representatief maaiveld op de cumulatieve afvoer Eelderdiep](../img/gevoel_Q_diep_eelderdiep.png)
+:::
+:::
+
+Het model is weinig gevoelig voor de diepe drainageweerstand. Op beide getoonde locaties zien we een klein verschil in de cumulatief. Met name in de periode zonder neerslag ontstaat het verschil tussen beide varianten. Dit is logisch verklaarbaar omdat een grotere weerstand resulteert in minder nalevering van water uit de diepe laag.
+
+### Maximale drooglegging
+
+Vooral in vrij-afstromend gebied kan de drooglegging onrealistisch groot worden in het model. Dit is het gevolg van het feit dat knopen van het type onverhard een bepaald oppervlak vertegenwoordigen waar in werkelijkheid een maaiveldverhang is. Hierdoor is het soms beter om de drooglegging in het model te beperken zodat hij binnen realistische waarden blijft. In overleg met het waterschap stelden we vast dat 1.5 m drooglegging het maximum moet zijn in gebieden zoals het Dwarsdiep en de Drentse beekdalen.
+
+::: {.columns}
+::: {.column width="50%"}
+![Effect van beperken drooglegging op de cumulatieve afvoer Schipsloot](../img/gevoel_Q_drooglegging_schipsloot.png)
+:::
+::: {.column width="50%"}
+![Effect van beperken drooglegging op de cumulatieve afvoer Eelderdiep](../img/gevoel_Q_drooglegging_eelderdiep.png)
+:::
+:::
+
+We concluderen dat het effect niet heel groot is. Wel wordt de afvoer in droge periodes wat meer beperkt, wat wenselijk is als we kijken naar de gemeten cumulatieven.
+
+### Conclusies
+
+* Voor kwel is het model niet erg gevoelig
+* Een parameter waarvoor het modelresultaat uiterst gevoelig is is de neerslagbron. Het resultaat, zowel de cumulatieve waterbalans als de gesimuleerde pieken, wordt veel beter wanneer gebruik wordt gemaakt van de gedisaggregeerde etmaalsommen dan met het KNMI Final Reanalysis-beeld.
+* Kiezen voor de 20-percentiel als representatieve maaiveldhoogte heeft een positief effect op de gesimuleerde cumulatieve afvoer in periodes zonder neerslag. Verder is een kleine positieve invloed op de gesimuleerde pieken.
+* Voor de diepe drainageweerstand is het model weinig gevoelig, al zou uit de resultaten kunnen worden opgemaakt dat een kleine verbetering van de cumulatieve afvoer in droge periodes wordt bewerkstelligd wanneer met een grote weerstand (10.000 dagen) wordt gewerkt.
+* Het maximaliseren van de drooglegging op 1.5 m resulteert in een iets betere representatie van de afvoer in periodes zonder neerslag.
+
+Tijdens de gevoeligheidsanalyse koppelden we steeds de tussentijdse resultaten terug met het waterschap, gebruikmakend van onze interactieve modelviewer. In dit rapport delen we daarom alleen de laatste paar varianten waarmee een goed modelresultaat werd bewerkstelligd: maaiveld 50%, maaiveld 20% en maaiveld 20% met maximale drooglegging 1.5 m. U kunt op de diverse locaties op de kaart klikken om de grafiek met berekende vs. gemeten waarden op te vragen.
+
+<button id="fullscreen-btn" onclick="toggleFullscreen()">Volledig scherm</button>
+
+<iframe id="interactive-map" src="https://boezemmodel.floodingwebviewer.nl" width="100%" height="800" frameborder="0" style="border:0;" allowfullscreen></iframe>
+
+<script>
+function toggleFullscreen() {
+  var iframe = document.getElementById('interactive-map');
+  if (iframe.requestFullscreen) {
+    iframe.requestFullscreen();
+  } else if (iframe.mozRequestFullScreen) { // Firefox
+    iframe.mozRequestFullScreen();
+  } else if (iframe.webkitRequestFullscreen) { // Chrome, Safari and Opera
+    iframe.webkitRequestFullscreen();
+  } else if (iframe.msRequestFullscreen) { // IE/Edge
+    iframe.msRequestFullscreen();
+  }
+}
+</script>

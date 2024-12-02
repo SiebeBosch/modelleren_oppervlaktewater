@@ -1,0 +1,25 @@
+# Implementatie maalstops 1D
+
+Veel gemalen moeten een maalstop krijgen. Dit houdt in dat het gemaal bij te sterk stijgende peilen op de boezem moet stoppen met pompen. Om dit mogelijk te maken in de 1D-Flow module moest Channel Builder worden uitgebreid met een dergelijke functionaliteit. 
+
+::: {.columns}
+::: {.column width="50%"}
+De sectie 'Outlet pumps' van Channel Builder is uitgebreid met de mogelijkheid om voor ieder afvoergemaal een measurement station aan te wijzen waarvan de waterhoogte bepaalt of de maalstop in werking treedt. Daarnaast kan de gebruiker een veld in het bronbestand aanwijzen waarin het maalstoppeil is opgegeven.
+
+:::
+::: {.column width="50%"}
+![Configuratie van maalstops in Channel Builder, op het tabblad Outlet Pumps](../img/channel_builder_maalstops.png)
+:::
+:::
+
+Deze gegevens vormen geen onderdeel van het beheerregister van het waterschap. Daarom hebben we ze in een gezamenlijke sessie handmatig toegevoegd via een apart Excel-bestand (Koppeling_gemalen_en_meetlocaties.xlsx).
+
+::: {.columns}
+::: {.column width="50%"}
+![Maalstop in de 1D-module: een fictieve orifice, geplaatst aan de bovenstroomse zijde van het gemaal](../img/maalstop_1d.png)
+:::
+::: {.column width="50%"}
+Omdat een kunstwerk in SOBEK op slechts één meetlocatie kan sturen en die al in gebruik is voor de reguliere kunstwerksturing, implementeert Channel Builder bij een maalstop een extra (fictief) kunstwerk net bovenstrooms van het gemaal. Dit kunstwerk wordt gesloten wanneer aan de maalstopvoorwaarde wordt voldaan. Het gemaal krijgt dan geen water meer en zal niet langer kunnen uitmalen.
+:::
+:::
+

@@ -1,0 +1,14 @@
+---
+title: "Bronnen"
+---
+
+## Literatuur
+
+Massop, H. Th. L., & Schuiling, C. (2016). *Buisdrainagekaart 2015: Update landelijke buisdrainagekaart op basis van de landbouwmeitellingen van 2012* (Alterra-rapport 2700). Alterra Wageningen UR. https://www.wur.nl/en/show/Alterra-report-2700-Buisdrainagekaart-2015.htm
+
+## Software
+
+Hydroconsult. (z.d.). *Channel Builder (Versie 3.5.0.0)* [Computersoftware]. Nederland. [website](https://www.hydroconsult.nl)
+
+Hydroconsult. (z.d.). *Catchment Builder (Versie 3.5.0.0)* [Computersoftware]. Nederland. [website](https://www.hydroconsult.nl)
+

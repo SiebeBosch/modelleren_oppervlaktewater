@@ -1,0 +1,27 @@
+# Faciliteren beoogd vrachtenmodel
+
+Ingenieursbureau Arcadis zal de hier vervaardigde modelschematisatie oppakken en doorontwikkelen naar een modelschematisatie die stofvrachten en waterkwaliteit berekent. Het waterschap verzocht ons daarom om rekening te houden met de vereisten die een dergelijke waterkwaliteitsschematisatie stelt aan de topologie van het hydraulische en hydrologische model.
+
+De belangrijkste eis die voor waterkwaliteitsberekeningen wordt gesteld aan een SOBEK-schematisatie is dat ieder type neerslag-afvoerknoop zijn eigen koppelpunt heeft met de hydraulische modelschematisatie. Alleen dan kan het waterkwaliteitsmodel onderscheid maken naar water met verschillende herkomst:
+
+* stedelijk overstortwater, gemengd stelsel
+* stedelijk overstortwater, (verbeterd)gescheiden stelsel
+* landelijke drainage
+* neerslag op het openwater
+
+ We zijn nog een stap verder gegaan en hebben de neerslag-afvoercomponent ook uitgesplitst naar verschillende soorten landgebruik:
+
+ * akkerbouw
+ * grasland 
+ * ongedraineerd
+
+ Optioneel is het verder opsplitsen van landelijk gebied, namelijk naar bodemsoort. Dit is een eenvoudige aanpassing in Catchment Builder.
+
+![De neerslag-afvoercomponent is opgesplitst zodat specifiek vrachten per type landgebruik kunnen worden opgelegd](../img/opsplitsing_wq.png)
+
+Tot slot hebben we de RWZI's zo geschematiseerd dat het effluent, waar van toepassing, ook weer geloosd wordt op de watergang.
+
+
+
+
+

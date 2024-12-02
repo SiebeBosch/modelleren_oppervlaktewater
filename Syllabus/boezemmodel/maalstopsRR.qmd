@@ -1,0 +1,23 @@
+# Implementatie maalstops RR
+
+Gemalen die door Catchment Builder op dummytakjes worden toegevoegd aan de 1D-schematisatie krijgen een maalstopfunctionaliteit. 
+
+::: {.columns}
+::: {.column width="50%"}
+
+
+Het dummytakje krijgt dan aan bovenstroomse zijde twee paralleltakjes: 
+
+* op de ene een fictief kunstwerk wat onder normale omstandigheden open staat en in bij een maalstop sluit. Het gemaal krijgt daardoor geen water meer. 
+* op het andere takje een fictief kunstwerk wat onder normale omstandigheden gesloten is maar wat, als binnen de polder de waterhoogte te sterk stijgt, geopend wordt. 
+
+Deze configuratie zorgt dat niet alleen een maalstop kan worden afgekondigd, maar dat deze ook weer kan worden opgeheven indien hij binnendijks tot problemen leidt.
+
+
+:::
+::: {.column width="50%"}
+![Configuratie van maalstops in Catchment Builder, op het tabblad Outlet Pumps](../img/catchment_builder_maalstops.png)
+
+:::
+:::
+

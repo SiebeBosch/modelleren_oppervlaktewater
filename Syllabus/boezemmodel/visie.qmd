@@ -1,0 +1,7 @@
+## Projectvisie
+
+Met dit project werken we toe naar een modelbouw waarbij het beheerregister van het waterschap centraal staat. Dankzij de uitvoerige terugkoppeling over de gegevenskwaliteit bij de modelbouw kan zowel de beheerafdeling van de brongegevens en de modelleur hun producten cyclisch op en kwalitatief hoger niveau krijgen. Naast het automatisch vervaardigen van SOBEK-modelschematisaties zien we ook in het verschiet: het automatisch vervaardigen van dezelfde schematisaties in D-Hydro (de opvolger van SOBEK), Ribasim (ten behoeven van waterverdelingsvraagstukken) en WFlow (voor gedistribueerd neerslag-afvoermodelleren).
+
+Daarop volgend ontstaan ook veel meer mogelijkheden om complexe sturing van kunstwerken te schematiseren en om grote waterlichamen zoals het Lauwersmeer, Leekstermeer en Paterswoldsemeer volledig in 2D te schematiseren. Tot slot werkt Deltares momenteel aan een implementatie van waterkwaliteit in D-Hydro, waarmee we ook voorsorteren op een volledig integaal RR-1D-2D-WQ-model voor waterschap Noorderzijlvest.
+
+

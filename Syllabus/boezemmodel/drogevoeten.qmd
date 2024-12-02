@@ -1,0 +1,49 @@
+# Maatregelen Droge Voeten 2050
+
+In het project Droge Voeten 2050 (uitgevoerd in 2015) is een groot aantal maatregelen tegen hoogwater doorgerekend. Vervolgens is in een tweetal sessies met stakeholders een set aan gedragen maatregelen samengesteld. De maatregelen zijn inmiddels uitgevoerd en het waterschap verlangt dat ze goed geïmplementeerd worden in het boezemmodel.
+
+We onderscheiden de volgende maatregelen:
+
+* De Onlanden: een bergingsgebied ten westen van Groningen. Bij inzet worden de stuwen in het Lettelberterdiep en Hoendiep opgetrokken
+* HD Louwes: op de boezem is een stuw aangebracht die indien nodig het gebied van gemaal HD Louwes hydrologisch isoleert van de rest van de boezem
+* Aanleg van bergingsgebieden zoals De Dijken en De Drie Polders
+* Compartimenteringsstuwen KST1026, KST1033 en KST108
+
+## De Onlanden
+
+Bij het bergingsgebied De Onlanden liggen twee stuwen die het peil in het gebied kunnen reguleren: KST1026 (Lettelberterdiep) en KST1033 (Hoendiep). Stuwen KST1026 en KST1033 worden gebruikt als compartimenteringskunstwerken. Als de voorspelde waterstand richting -0.35 m NAP gaat, worden ze al in een vroeg stadium omhoog gezet. Hiermee wordt o.a. voorkomen dat water terugstroomt naar het Leekstermeer waardoor meer druk op de Waterwolf wordt gehouden en die meer kan afvoeren.
+
+Beide stuwen zijn in het boezemmodel uitgerust met een 'custom' controller. Het betreft een interval-controller die kijkt naar de waterhoogte bij Leutingewolde. Als de waterhoogte daar boven de -0.60 m NAP komt worden beide stuwen opgetrokken tot -0.17 m + NAP.
+
+::: {.columns}
+::: {.column width="50%"}
+![Ligging van de twee stuwen in de Onlanden](../img/onlanden_stuwen.png)
+:::
+::: {.column width="50%"}
+
+:::
+:::
+
+![Implementatie van de sturing in Channel Builder](../img/onlanden_stuwen2.png)
+
+## Isoleren HD Louwes
+
+Stuw KST1081 kan het aanvoergebied van gemaal HD Louwes afsplitsen van dat van gemaal De Waterwolf. Dit kan nodig zijn omdat de boezem bij HD Louwes grotere peilstijgingen aankan dan het zuidelijke gedeelte van de boezem. In het zuidelijke deel liggen gebieden zoals Tolberterpetten die al bij geringe stijging van het boezempeil risico op wateroverlast lopen.
+
+Net als de stuwen bij De Onlanden hebben we in Channel Builder de sturing van KST1081 zo ingesteld dat bij een boezempeil boven -0.60 m NAP de kruin wordt opgetrokken. De stuw kijkt naar meetlocatie Fanerpolder om te beoordelen of hij in actie moet komen.
+
+![Implementatie van de sturing in Channel Builder](../img/hdlouwes_stuw.png)
+
+
+## De Dijken
+
+De Dijken is een bergingsgebied dat in het kader van het project Droge Voeten 2050 werd aangelegd. De sturing is als volgt geïmplementeerd in het boezemmodel: als de waterhoogte op boezem boven de -0.35 m + NAP komt, dan wordt de stuw die normaalgesproken verantwoordelijk is voor de afvoer van water uit het gebied opgetrokken en worden de inlaatschuiven geopend.
+
+Het betreft hier stuw KST1030 en inlaten INL328, INL329, INL273 en INL505
+
+![Schematisering van het bergingsgebied De Dijken in SOBEK](../img/dedijken_bakkerom.png)
+
+
+
+
+

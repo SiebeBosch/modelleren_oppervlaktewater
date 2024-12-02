@@ -1,0 +1,10 @@
+# Onbreken lange duikers
+
+Uit eerdere sessies waarin we de modelschematisatie genereerden bleek dat lange duikers in veel gevallen niet in de modelschematisatie terechtkwamen. Dit bleek te liggen aan de wijze waarop Channel Builder lijnvormige kunstwerken 'snapte' naar de watergang: vanuit de centroïde van het lijnelement werd gezocht naar de gewenste koppellocatie op de watergang. Echter wanneer zo'n lijnelement een bocht bevatte lag de centroïde te ver van de watergang en werd hij daardoor niet meegenomen. 
+
+We hebben dit issue opgelost door niet langer te 'snappen' vanuit de centroïde, maar vanaf het begin- en eindpunt van het lijnobject. Vervolgens komt het kunstwerk halverwege op de watergang te liggen, tussen begin- en eindpunt van de betreffende duiker.
+
+
+
+
+

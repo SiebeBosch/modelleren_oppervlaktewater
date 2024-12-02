@@ -1,0 +1,24 @@
+---
+title: "Syllabus casus Landelijk Water"
+author: "Hogeschool Van Hall Larenstein"
+date: "2024-12-02"
+date-format: "dddd, D MMMM YYYY"  # Format to display the date in Dutch
+lang: nl
+---
+
+## Inleiding
+Deze syllabus bevat het cursusmateriaal voor de casus Landelijk Water binnen de major Watermanagement van hogeschool Van Hall Larenstein.
+
+::: {.columns}
+::: {.column width="50%"}
+De modelschematisatie kan automatisch worden vervaardigd met de bijbehorende bronbestanden en configuraties. Zo vervaardigen we het boezemmodel met de programma's Channel Builder en Catchment Builder, versie 3.0.0.2. (Hydroconsult).
+
+:::
+::: {.column width="50%"}
+![Boezemmodel Noorderzijlvest in SOBEK](img/boezemmodel_sobek.png)
+:::
+:::
+
+Dit model wordt gebouwd op het schaalniveau van de boezemwateren van Noorderzijlvest en bevat daarnaast ook de hoofdwatergangen in de Drentse beekdalen, het Dwarsdiep en de noordelijke kleipolders Noordpolder en Spijksterpompen. Het model wordt speciaal vervaardigd voor opname in het FEWS (Flood Early Warning System) van het waterschap.
+
+

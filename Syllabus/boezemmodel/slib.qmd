@@ -1,0 +1,21 @@
+## Optie met of zonder slib
+
+Channel Builder heeft een standaardfunctionaliteit waarmee de modelleur kan aangeven welk type profielpunten wel en niet in de dwarsprofielen moeten worden opgenomen. In onderstaande afbeelding blijkt dit uit de keuze tussen profielpunten van type Z1 en Z2. 
+
+
+::: {.columns}
+::: {.column width="50%"}
+![Keuze voor verschillende soorten profielpunten (bijv. inclusief sliblaag of harde bodem) bij het aanmaken van YZ-profielen](../img/channel_builder_slib.png)
+:::
+::: {.column width="50%"}
+:::
+:::
+
+
+
+
+
+
+
+
+

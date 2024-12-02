@@ -1,0 +1,4 @@
+## Dummytakjes samenvoegen
+
+Eerdere versies van Catchment Builder hadden het euvel dat dummytakjes die op dezelfde locatie op de boezem aantakten niet langer automatisch werden samengevoegd tot één. Dit issue hebben we opgelost met een update van het programma.
+

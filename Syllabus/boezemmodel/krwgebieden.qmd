@@ -1,0 +1,28 @@
+# Faciliteren KRW-clustergebieden
+
+Waterschap Noorderzijlvest kent 15 KRW-clustergebieden. Om voor te sorteren op analyses omtrent waterkwaliteit en ecologie voor deze clusters van waterlichamen is het nodig dat de overgangen tussen die gebieden matcht met die in het boezemmodel.
+
+
+
+::: {.columns}
+::: {.column width="50%"}
+![De 15 KRW clustergebieden](../img/krw_clustergebieden.png)
+:::
+::: {.column width="50%"}
+
+:::
+:::
+
+Bij deze gebieden ligt het voor de hand dat de omlijningen samenvallen met connection nodes en boundaries uit het boezemmodel. Goede voorbeelden zijn:
+
+* de overgang tussen het Reitdiep en het Lauwersmeer, bij Zoutkamp.
+* de scheiding tussen de eerste schil en de Fivelingoboezem
+
+Het boezemmodel is zodanig gedetailleerd dat er meer dan voldoende connection nodes zijn op basis waarvan modeltakken kunnen worden geclusterd per KRW-gebied.
+
+
+
+
+
+
+

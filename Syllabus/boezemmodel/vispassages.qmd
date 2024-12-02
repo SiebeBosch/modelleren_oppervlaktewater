@@ -1,0 +1,37 @@
+## Implementatie inlaat- en doorspoelregime en vispassages
+
+Sommige boezemkunstwerken zijn automatisch uitgerust met parallel gelegen inlaatkunstwerken. 
+
+Dit is gedaan voor de volgende twee stuwen:
+
+* KST1038
+* KST5041
+
+::: {.columns}
+::: {.column width="50%"}
+![Alle stuwen krijgen automatisch een parallel inlaatpompje](../img/channel_builder_stuwen_inlaatpomp.png)
+:::
+::: {.column width="50%"}
+:::
+:::
+
+Voor boezemgemalen is in overleg met het waterschap per individueel kunstwerk besloten tot het al dan niet opnemen van een parallel inlaatkunstwerk. Dit omdat voor veel van deze gemalen in het beheerregister al de infrastructuur voor het inlaten van water aanwezig is.
+
+::: {.columns}
+::: {.column width="50%"}
+![Sommige boezemgemalen krijgen automatisch een parallel inlaatpompje](../img/channel_builder_gemalen_inlaatpomp.png)
+:::
+::: {.column width="50%"}
+:::
+:::
+
+Voor overige kunstwerken (onderlaten en sluizen) speelt dit aspect niet. Bij gebieden met een onderlaat is er doorgaan ook een stuw of gemaal betrokken, waarmee met bovenstaande keuzes wateraanvoer in droge periodes is gegarandeerd.
+
+De vispassages zijn verder in het project niet meer aan de orde gekomen.
+
+
+
+
+
+
+

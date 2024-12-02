@@ -1,0 +1,15 @@
+---
+title: "Afwijkende stuwvormen"
+---
+
+::: {.columns}
+::: {.column width="50%"}
+Waterschap Noorderzijlvest heeft een aantal stuwen met afwijkende vorm. Daarom moest aan Channel Builder een functionaliteit te worden toegevoegd om in SOBEK zogeheten ‘universal weirs’ te kunnen schematiseren. 
+
+De functionaliteit hebben we als volgt ingebouwd: de gebruiker importeert in de database de yz-getalsparen van de kruinvorm, waarbij y de afstand vanaf de linkerzijde van de constructie is, en z de bijbehorende hoogte in m + NAP. Vervolgens kan de gebruiker in de GUI onder Weirs – YZ aangeven welke categorieën getalsparen gebruikt moeten worden om de kruin te schematiseren.
+
+:::
+::: {.column width="50%"}
+![Nieuwe functionaliteit in Channel Builder: stuwen met afwijkende kruinvorm. De gebruiker selecteert welke categorieën yz-punten gebruikt moeten worden bij het opstellen van de kruinvorm.](../img/channel_builder_universal_weir.png){ width=70% }
+:::
+:::

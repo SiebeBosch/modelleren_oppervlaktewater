@@ -1,0 +1,21 @@
+## Riolering
+
+Een belangrijk verbeterpunt voor het boezemmodel was het opnemen van de rioleringsgebieden, hun overstortlocaties, RWZI's en effluentlocaties in de modelschematisatie. Daarom hebben we in dit project besloten deze zaken integraal mee te nemen bij de modelbouw. Catchment Builder heeft standaard de functionaliteiten om aangekoppeld gerioleerd verhard gebied te implementeren als knopen van het type 'paved', met overstort op de watergang en verpompen naar de RWZI. Iedere overstortlocatie krijgt zijn eigen paved-knoop toegekend, die een deel van het aangekoppelde verharde oppervlak van het onderhavige rioleringsgebied bedient.
+
+Onderstaande schermafbeelding toont de configuratie. Een paar aspecten lichten we graag toe:
+
+* Alleen gemengde stelsels worden gemodelleerd met paved-knopen die aan de RWZI gekoppeld zijn. Overige verhard komt automatisch via het toegekende landgebruik als ongerioleerd verhard in de schematisatie terecht.
+* Een rioleringsgebied kan meerdere overstortlocaties bevatten. Het toekennen van het verharde oppervlak aan iedere overstortlocatie gebeurt door de drempelbreedte (veld DRBREEDTE2) als weegfactor te hanteren. Anders gezegd: we gaan ervan uit dat een overstort met tweemaal zo brede drempel ook een tweemaal zo groot oppervlak bedient.
+* De locatie van lozingspunten van de RWZI's is vastgelegd in een shapefile. Indien de locatie voldoende dicht bij een watergang ligt, wordt hij door Catchment Builder automatisch gekoppeld aan die watergang. Zo niet, dan loost de RWZI zijn eflluent op een losse RR-boundary. Op deze manier sorteren we voor op een goede implementatie voor een waterkwaliteitsmodel.
+
+![Configuratie van riolering in Catchment Builder.](../img/catchment_builder_riolering.png)
+
+
+::: {.columns}
+::: {.column width="50%"}
+![RWZI Gaarkeuken loost zijn effluent op de watergang.](../img/rwzi_gaarkeuken.png)
+:::
+::: {.column width="50%"}
+:::
+:::
+

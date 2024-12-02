@@ -1,0 +1,223 @@
+
+## Kalibratieresultaat
+
+Als definitieve parameterisatie kozen we de volgende variant:
+
+* Percentielwaarde maaiveldhoogte: 20%
+* Drainageweerstand diepe laag: 1000 dagen voor zand en veen en 10000 dagen voor klei (formule van Ernst) 
+* Inzijgingsweerstand: 4000 dagen
+* Drooglegging in de Drentse beekdalen gemaximaliseerd op 1.5 m
+* Neerslagbron: de door ons gedisaggregeerde etmaalneerslagsommen van de grondstations
+* De literatuurwaarden voor drainageweerstand en -diepte (Massop et.al., 2016)
+* Geen kwel (tot nader order)
+
+Daarnaast hebben we, om de verdeling tussen de schilgemalen goed te krijgen, handmatig de volgende instellingen doorgevoerd in het model:
+
+* Den Deel pomp 1: setpoint -1.215, marge 6 cm
+* Den Deel pomp 2: setpoint - 1.210, marge 6 cm
+* Den Deel pomp 3: setpoint -1.205, marge 6 cm
+
+* Usquert pomp 1: setpoint -1.215, marge 6 cm
+* Usquert pomp 2: setpoint -1.200, marge 6 cm
+
+Voor zover er à priori gekozen moest worden tussen een goede waterbalans en een goede representatie van hoogwaterpieken en -duur hebben wij gekozen voor het laatstenoemde. De redenen hiervoor zijn al aangevoerd in het vorige hoofdstuk.
+
+De uitkomsten van de definitieve kalibratiesom tonen we in onderstaande webviewer:
+
+
+<button id="fullscreen-btn" onclick="toggleFullscreen()">Volledig scherm</button>
+
+<iframe id="interactive-map" src="https://boezemmodel.floodingwebviewer.nl/kalibratieresultaat" width="100%" height="800" frameborder="0" style="border:0;" allowfullscreen></iframe>
+
+<script>
+function toggleFullscreen() {
+  var iframe = document.getElementById('interactive-map');
+  if (iframe.requestFullscreen) {
+    iframe.requestFullscreen();
+  } else if (iframe.mozRequestFullScreen) { // Firefox
+    iframe.mozRequestFullScreen();
+  } else if (iframe.webkitRequestFullscreen) { // Chrome, Safari and Opera
+    iframe.webkitRequestFullscreen();
+  } else if (iframe.msRequestFullscreen) { // IE/Edge
+    iframe.msRequestFullscreen();
+  }
+}
+</script>
+
+Onderstaand bespreken we enkele van de locaties.
+
+## Fivelingoboezem
+
+### Tammingahuizen
+
+Midden in de Fivelingoboezem ligt Tammingahuizen: een meetlocatie die zich uitstekend leent voor het beoordelen van de gesimuleerde waterhoogtes; vooral omdat hier ook het ruwheidsverhang richting gemaal De Drie Delfzijlen tot uiting komt. Het meetpunt ligt ca. 12 km ten westen van dat gemaal. Een debietmeting is op deze locatie niet voorhanden.
+
+::: {.columns}
+::: {.column width="50%"}
+![Gemeten vs berekende waterhoogtes Tammingahuizen](../img/kalibratie_h_tammingahuizen.png)
+:::
+::: {.column width="50%"}
+De gesimuleerde pieken komt goed overeen met de meetwaarden. 
+:::
+:::
+
+### De Drie Delfzijlen
+
+Gemaal De Drie Delfzijlen is het lozingspunt van de Fivelingoboezem. We vergelijken hier de gemeten en berekende waterhoogtes en cumulatieve debieten.
+
+::: {.columns}
+::: {.column width="45%"}
+![Waterhoogtes gemaal De Drie Delfzijlen](../img/kalibratie_h_DDD.png)
+:::
+::: {.column width="55%"}
+![Cumulatief debiet bij gemaal De Drie Delfzijlen](../img/kalibratie_Q_DDD.png)
+:::
+:::
+
+Uit de gemeten waterhoogtes blijkt dat het peilbeheer hier veel minder eenduidig is dan kan worden gesimuleerd. In periodes voorafgaand aan en tijdens grote afvoer wordt dieper weggemalen. Onder normale omstandigheden wordt het peil juist weer iets hoger gehouden dan streefpeil. Desalniettemin simuleert het model de piek binnen een acceptabele marge.
+
+De grafiek met cumulatief afgevoerd volume stemt minder tot vreugde. Het model verpompt ca. 40% meer water dan uit de meetgegevens blijkt. Uit de steilheid van de cumulatief in de droge periode (ca. 10 jan tot 2 feb) is op te maken dat het model sowieso een grotere basisafvoer geeft dan de werkelijkheid. 
+
+Mogelijke verklaringen voor het grote verschil zijn de grote onzekerheid rond de aan het model opgelegde kwelflux en/of de neerslag. Maar het kan ook zijn dat de maalstaten zijn onderschat doordat ze zijn opgesteld op basis van een theoretische capaciteit x gemeten draaiuren.
+
+## Eerste schil
+
+De eerste schil wordt bemalen door twee boezemgemalen: gemaal Den Deel en gemaal Usquert. Die laatstgenoemde is eind 2015 in bedrijf genomen en verving het oude gemaal Helwerd. Binnen de eerste schil bevindt zich ook nog een onderbemaling, bediend door gemaal Oldenoord. Gemaal Usquert staat zo ingesteld dat het feitelijk alleen pompt wanneer Den Deel het waterbezwaar niet aan kan. Hierdoor zien we in de gemeten cumulatieven dat Den Deel in de kalibratieperiode ca 9 miljoen m^3^ verpompte en Usquert ca. 3 miljoen m^3^.
+
+### Oldenoord
+
+Eerst bespreken we onderbemaling Oldenoord. Van dit gemaal zijn goede meetgegevens beschikbaar en het heeft geen complexe interacties met andere delen van het gebied.
+
+
+::: {.columns}
+::: {.column width="50%"}
+![Waterhoogtes aanzuigzijde gemaal Oldenoord](../img/kalibratie_h_oldenoord.png)
+:::
+::: {.column width="50%"}
+![Cumulatief debiet gemaal Oldenoord](../img/kalibratie_Q_oldenoord.png)
+:::
+:::
+
+De duur van de hoogwaterpiek wordt door het model redelijk tot goed gesimuleerd. Het model overschat de piekwaterstand wel met ca. 11 cm maar simuleert de cumulatieve afvoer zeer goed. Om de literatuur-gebaseerde parameterisatie van de drainageprofielen geen geweld aan te doen hebben we gemeend niet verder te moeten kalibreren.
+
+### Elswerd
+
+Meetlocatie Elswerd is een representatief meetpunt voor waterhoogtes op de eerste schil. Het ligt grofweg halverwege tussen de gemalen Den Deel en Usquert die de eerste schil bedienen. Debieten zijn op dit meetpunt niet beschikbaar.
+
+::: {.columns}
+::: {.column width="50%"}
+![Gemeten vs berekende waterhoogtes op meetpunt Elswerd](../img/kalibratie_h_elswerd.png)
+:::
+::: {.column width="50%"}
+ We constateren dat het model structureel een wat lagere waterhoogte (-1.25) hanteert dan in werkelijkheid (-1.20) gebeurt. Dit komt ook tot uiting in de mate waarin het model de pieken simuleert. In het model vallen die enkele centimeters lager uit dan de meetwaarden. Het model simuleert de duur van de pieken en de stijg- en daalsnelheid evenwel bijzonder goed.
+:::
+:::
+
+### Den Deel en Usquert
+Hier bespreken we de twee gemalen Den Deel en Usquert omdat ze niet los van elkaar kunnen worden gezien. Beide gemalen bedienen gezamenlijk de eerste schil.
+
+
+::: {.columns}
+::: {.column width="50%"}
+![Gemeten vs berekende waterhoogtes bij gemaal Den Deel](../img/kalibratie_h_dendeel.png)
+:::
+::: {.column width="50%"}
+![Gemeten vs berekende waterhoogtes bij gemaal Usquert](../img/kalibratie_h_usquert.png)
+:::
+:::
+
+De meetgegevens laten zien dat gemaal Den Deel een iets lager aan- en afslagpeil heeft dan Usquert: (-1.20/-1.25) vs (-1.18/-1.24). Dit verklaart ook waarom Den Deel de meeste draaiuren heeft. In het model heeft pomp1 van Den Deel een wat lager aan/afslagpeil gekregen: (-1.245/-1.305). Het merendeel van de tijd kan pomp1 het waterbezwaar goed aan, en dat is ook te zien aan het feit dat de gesimuleerde waterhoogtes structureel aan de lage kant zitten.
+
+Punt van zorg is dat het model de hoogwaterpiek bij Den Deel niet goed simuleert. Het peil komt niet hoger dan -1.10 m NAP terwijl de metingen tot -0.80 m NAP komen. Ook bij Usquert staan de aan- en afslagpeilen in het model wat te laag ingesteld. 
+
+::: {.columns}
+::: {.column width="50%"}
+![Gemeten vs berekende cumulatieve afvoer bij gemaal Den Deel](../img/kalibratie_Q_dendeel.png)
+:::
+::: {.column width="50%"}
+![Gemeten vs berekende cumulatieve afvoer bij gemaal Usquert](../img/kalibratie_Q_usquert.png)
+:::
+:::
+
+Bij het vergelijken van de cumulatieve maalstaten blijkt dat Den Deel in het model ca. 2 miljoen m^3^ teveel verpompt. Usquert pompt in het model daarentegen ca. 1 miljoen m^3^ te weinig uit. Dit geeft aan dat de verdeling van het water over beide gemalen nog niet optimaal is in het model. Vooral in de wat drogere periode tussen 12 januar en 2 februari zou Usquert wél moeten malen, maar Den Deel niet.
+
+## Tweede schil
+
+De tweede schil krijgt water aangevoerd vanuit de eerste schil en voert dat, samen met het waterbezwaar uit het eigen gebied af naar de derde schil. Dit gebeurt via de gemalen Schaphalsterzijl en Abelstok. De tweede schil heeft locatie Onderdendam als representatieve locatie voor de waterhoogtes in deze schil.
+
+### Onderdendam
+
+Meetlocatie Onderdendam ligt in de tweede schil, net benedenstrooms van gemaal Den Deel. 
+
+::: {.columns}
+::: {.column width="50%"}
+![Gemeten vs berekende waterhoogtes op meetpunt Onderdendam](../img/kalibratie_h_onderdendam.png)
+:::
+::: {.column width="50%"}
+ We constateren dat onder normale omstandigheden de waterhoogtes uitstekend worden gesimuleerd. Echter de pieken worden nog behoorlijk onderschat. 
+:::
+:::
+
+### Schaphalsterzijl en Abelstok
+
+Net als bij de eerste schil bespreken we hier de uitkomsten van de twee gemalen die de tweede schil bedienen gezamenlijk.
+
+
+
+::: {.columns}
+::: {.column width="50%"}
+![Gemeten vs berekende waterhoogtes bij gemaal Schaphalsterzijl](../img/kalibratie_h_schaphalsterzijl.png)
+:::
+::: {.column width="50%"}
+![Gemeten vs berekende waterhoogtes bij gemaal Abelstok](../img/kalibratie_h_abelstok.png)
+:::
+:::
+
+
+::: {.columns}
+::: {.column width="50%"}
+![Gemeten vs berekende cumulatieve afvoer bij gemaal Schaphalsterzijl](../img/kalibratie_Q_schaphalsterzijl.png)
+:::
+::: {.column width="50%"}
+![Gemeten vs berekende cumulatieve afvoer bij gemaal Abelstok](../img/kalibratie_Q_abelstok.png)
+:::
+:::
+
+
+
+
+
+
+## Drentse beekdalen
+De Drentse beekdalen lozen hun waterbezwaar onder vrij verval op de derde schil. We onderscheiden de volgende meetlocaties in deze beken:
+
+* Leeksterhoofddiep
+* Peizerdiep
+* Schipsloot
+* Eelderdiep
+
+
+## Noordpolder
+
+## Spijksterpompen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

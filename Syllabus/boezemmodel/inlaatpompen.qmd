@@ -1,0 +1,18 @@
+## Inlaatpompen
+
+Een numerieke verbetering die wij nodig achtten was het inbouwen van een stop bij inlaatpompen die parallel aan een afvoerkunstwerk worden gelegd. Wanneer het gevraagde volume water aan bovenstroomse zijde niet beschikbaar was resulteerde dit in langdurige iteraties en soms zelfs een crashend model. Door deze inlaatkunstwerken nu standaard uit te rusten met een afslagpeil aan watervraagzijde wordt gezorgd dat dit niet langer kan voorkomen.
+
+Een voorbeeld is iKST0603. Dit is een parallel inlaatpompje wat naast stuw KST0603 is gelegd om het bovenstroom gelegen peilgebied van water te voorzien in droge periodes. Door deze pomp uit te rusten met een afslagpeil van -1.03 aan aanzuigzijde wordt voorkomen dat het model crasht.
+
+
+
+::: {.columns}
+::: {.column width="50%"}
+![Afslagpeil aan aanzuigzijde voor inlaatpomp iKST0603.](../img/ikst0603.png)
+:::
+::: {.column width="50%"}
+:::
+:::
+
+
+

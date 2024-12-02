@@ -1,0 +1,8 @@
+---
+title: "Boezemmodel"
+---
+
+# Projectkader
+Dit hoofdstuk is gewijd aan de bouw van het boezemmodel van waterschap Noorderzijlvest. Omdat de modelbouw zelf geheel automatisch gebeurt met de software Channel Builder en Catchment Builder richten we ons in deze tekst vooral op de onderliggende aannames, gegevensbronnen en schematisatie-keuzes.
+
+
