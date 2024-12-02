@@ -57,3 +57,32 @@ je aanpassingen committen naar de repository
 Als anderen wijzigingen hebben aangebracht in de repository is het van belang om die Wijzigingen ook door te voeren in je lokale kopie van de repository. Dit gebeurt met het commando 'pull'.
 
 ```git pull```
+
+## Schrijven
+Quarto heeft een aantal basisstructuren.
+
+::: {.callout-note}
+### Informatie
+Hier komt uw uitleg...
+:::
+
+::: {.callout-tip}
+### Vraag
+Hier komt uw vraag...
+:::
+
+::: {.callout-important}
+### Belangrijk
+Hier komt een waarschuwing...
+:::
+
+::: {.callout-warning}
+### Let op!
+Hier komt een waarschuwing...
+:::
+
+::: {.callout-caution}
+### Voorzichting
+Hier komt een waarschuwing level 2...
+:::
+
