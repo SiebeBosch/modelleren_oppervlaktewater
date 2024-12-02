@@ -59,7 +59,7 @@ Als anderen wijzigingen hebben aangebracht in de repository is het van belang om
 ```git pull```
 
 ## Schrijven
-Quarto heeft een aantal basisstructuren.
+Quarto heeft een aantal basisstructuren bij het schrijven van teksten. Zo zijn er secties waarin je waarschuwingen, opmerkingen of vragen kunt formuleren:
 
 ```
 ::: {.callout-note}
@@ -68,23 +68,62 @@ Hier komt uw uitleg...
 :::
 ```
 
+```
 ::: {.callout-tip}
 ### Vraag
 Hier komt uw vraag...
 :::
+```
 
+```
 ::: {.callout-important}
 ### Belangrijk
 Hier komt een waarschuwing...
 :::
+```
 
+```
 ::: {.callout-warning}
 ### Let op!
 Hier komt een waarschuwing...
 :::
+```
 
+```
 ::: {.callout-caution}
 ### Voorzichting
 Hier komt een waarschuwing level 2...
 :::
+```
+
+Verder kan het gebruik van kolommen nuttig zijn:
+
+
+```
+::: {.columns}
+::: {.column width="50%"}
+De modelschematisatie kan automatisch worden vervaardigd met de bijbehorende bronbestanden en configuraties. Zo vervaardigen we het boezemmodel met de programma's Channel Builder en Catchment Builder, versie 3.0.0.2. (Hydroconsult).
+
+:::
+::: {.column width="50%"}
+![Boezemmodel Noorderzijlvest in SOBEK](img/boezemmodel_sobek.png)
+:::
+:::
+```
+
+Afbeeldingen invoegen kan als volgt:
+```
+![Boezemmodel Noorderzijlvest in SOBEK](img/boezemmodel_sobek.png)
+```
+Bullets kunnen genummerd of met een asterisk.
+
+```
+* dit is een item
+* dit is nog een item
+```
+```
+1. Dit is item 1
+2. Dit is item 2
+```
+
 
