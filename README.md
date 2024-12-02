@@ -7,7 +7,7 @@ Quarto is een publicatieplatform waarmee dynamische content geproduceerd en gepu
 De opdrachten worden door Quarto gerenderd naar HTML/CSS/Javascript, in de map docs.
 De inhoud van docs is een website die op alle webservers gehost kan worden, maar die ook gewoon lokaal kan worden geopend, door op index.html te klikken.
 
-Github biedt een gratis mogelijkheid om deze documentatie uit docs te hosten. Dit hebben we als zodanig ingesteld onder 'pages'. 
+Github biedt een gratis mogelijkheid om deze documentatie uit docs te hosten. Dit hebben we als zodanig ingesteld onder 'Settings' - 'pages'. 
 Het gehoste cursusmateriaal kan [hier](https://siebebosch.github.io/modelleren_oppervlaktewater/) worden gevonden.
 
 ## Installeren
