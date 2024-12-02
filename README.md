@@ -61,10 +61,10 @@ Als anderen wijzigingen hebben aangebracht in de repository is het van belang om
 ## Schrijven
 Quarto heeft een aantal basisstructuren.
 
-::: {.callout-note}
+```::: {.callout-note}
 ### Informatie
 Hier komt uw uitleg...
-:::
+:::``` 
 
 ::: {.callout-tip}
 ### Vraag
