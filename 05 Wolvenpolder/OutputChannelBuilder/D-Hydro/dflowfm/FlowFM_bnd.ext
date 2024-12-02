@@ -1,0 +1,9 @@
+[General]
+    fileVersion           = 2.00                
+    fileType              = extForce            
+
+[Boundary]
+    quantity              = waterlevelbnd       
+    nodeId                = BND1                
+    forcingfile           = FlowFM_boundaryconditions1d.bc
+

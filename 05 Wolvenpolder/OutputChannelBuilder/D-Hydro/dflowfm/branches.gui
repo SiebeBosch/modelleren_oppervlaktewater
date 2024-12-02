@@ -1,0 +1,20 @@
+[Branch]
+    name                  = WG0                 
+    branchType            = 0                   
+    isLengthCustom        = True                
+
+[Branch]
+    name                  = WG1                 
+    branchType            = 0                   
+    isLengthCustom        = True                
+
+[Branch]
+    name                  = WG2                 
+    branchType            = 0                   
+    isLengthCustom        = True                
+
+[Branch]
+    name                  = WG3                 
+    branchType            = 0                   
+    isLengthCustom        = True                
+

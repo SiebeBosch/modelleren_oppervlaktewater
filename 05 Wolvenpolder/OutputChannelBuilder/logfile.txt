@@ -1,0 +1,94 @@
+Channel Builder version: 3.0.0.2
+
+
+ERRORS:
+Provided value for parameter 'Default Channel Friction Value' was not numeric and has been replaced by 999
+
+WARNINGS:
+Provided value for parameter 'Default Channel Wet Berm Friction Value' was not numeric and has been replaced by 999
+A multiplier of 0.01667 was specified for the outlet pump capacity. However: from v1.71 and onward the actual units for outlet pump capacity can be specified. It is advised to use this feature and clear the multiplier or set it to 1.
+Unable to set field of type CrestLevel with purpose Orifice ID for datasource C:\GITHUB\modelleren_oppervlaktewater\05 Wolvenpolder\OutputChannelBuilder\GIS\onderlaten.shp: fieldname not specified.
+No underlying shape found while searching target levels for object  at a distance of 0 in subcatchments datasource. Co-ordinate 86147.3253266288,427056.009471488. Target levels not found.
+No underlying shape found while searching target levels for object KGM1 at a distance of 5 in subcatchments datasource. Co-ordinate 86134.8277506514,427072.55038087. Target levels not found.
+No underlying shape found while searching target levels for object KGM1 at a distance of 9.9 in subcatchments datasource. Co-ordinate 86137.7816327633,427068.640831016. Target levels not found.
+Field for MinCrest not in datasource C:\GITHUB\modelleren_oppervlaktewater\05 Wolvenpolder\OutputChannelBuilder\GIS\stuwen.shp.
+Field for MaxCrest not in datasource C:\GITHUB\modelleren_oppervlaktewater\05 Wolvenpolder\OutputChannelBuilder\GIS\stuwen.shp.
+Field for ShoulderElevation not in datasource C:\GITHUB\modelleren_oppervlaktewater\05 Wolvenpolder\OutputChannelBuilder\GIS\stuwen.shp.
+Field for CrestLevel not in datasource C:\GITHUB\modelleren_oppervlaktewater\05 Wolvenpolder\OutputChannelBuilder\GIS\onderlaten.shp.
+Could not find target levels for node BND1
+
+MESSAGES:
+Provided value for parameter 'Vertical slot width' was not numeric and has been replaced by 0.2
+Provided value for parameter 'Vertical slot depth' was not numeric and has been replaced by 1
+Provided value for parameter 'Default orifice crest width' was not numeric and has been replaced by 1
+Provided value for parameter 'Default orifice gate height' was not numeric and has been replaced by 1
+Provided value for parameter 'Default orifice maximum gate height' was not numeric and has been replaced by 1
+Provided value for parameter 'Inlet pumps Default capacity In mm/d' was not numeric and has been replaced by 3
+Provided value for parameter 'Inlet pumps Default capacity In m3/s' was not numeric and has been replaced by 0.1
+Provided value for parameter 'Model Culverts As Profiles length' was not numeric and has been replaced by 0
+Provided value for parameter 'Default fish passage crest width' was not numeric and has been replaced by 3
+Provided value for parameter 'Maximum number of steps for fish passage' was not numeric and has been replaced by 2
+Provided value for parameter 'Remove dead Branches Max Length' was not numeric and has been replaced by 0
+Unable to set field of type InundationLevel with purpose Level Control Area Inundation Level for datasource C:\GITHUB\modelleren_oppervlaktewater\05 Wolvenpolder\gis\peilgebieden.shp: fieldname not specified.
+Could Not set the Inundation Level Field  for Level Control Area shapefile.
+Unable to set field of type ShoulderElevation with purpose Weir Shoulder Elevation for datasource C:\GITHUB\modelleren_oppervlaktewater\05 Wolvenpolder\OutputChannelBuilder\GIS\stuwen.shp: fieldname not specified.
+Unable to set field of type DischargeCoefficient with purpose Weir Discharge Coefficient for datasource C:\GITHUB\modelleren_oppervlaktewater\05 Wolvenpolder\OutputChannelBuilder\GIS\stuwen.shp: fieldname not specified.
+Unable to set field of type LateralContractionCoefficient with purpose Weir Lateral Contraction Coefficient for datasource C:\GITHUB\modelleren_oppervlaktewater\05 Wolvenpolder\OutputChannelBuilder\GIS\stuwen.shp: fieldname not specified.
+Unable to set field of type MinCrest with purpose Weir Minimum crest level for datasource C:\GITHUB\modelleren_oppervlaktewater\05 Wolvenpolder\OutputChannelBuilder\GIS\stuwen.shp: fieldname not specified.
+Unable to set field of type MaxCrest with purpose Weir Maximum crest level for datasource C:\GITHUB\modelleren_oppervlaktewater\05 Wolvenpolder\OutputChannelBuilder\GIS\stuwen.shp: fieldname not specified.
+Unable to set field of type HinterlandArea with purpose Weir Hinterland Area for datasource C:\GITHUB\modelleren_oppervlaktewater\05 Wolvenpolder\OutputChannelBuilder\GIS\stuwen.shp: fieldname not specified.
+Unable to set field of type CrestCorrectionSummer with purpose Weir Crest Correction Summer for datasource C:\GITHUB\modelleren_oppervlaktewater\05 Wolvenpolder\OutputChannelBuilder\GIS\stuwen.shp: fieldname not specified.
+Unable to set field of type CrestCorrectionWinter with purpose Weir Crest Correction Winter for datasource C:\GITHUB\modelleren_oppervlaktewater\05 Wolvenpolder\OutputChannelBuilder\GIS\stuwen.shp: fieldname not specified.
+Unable to set field of type CrestLevelSummer with purpose Weir Crest Level Summer for datasource C:\GITHUB\modelleren_oppervlaktewater\05 Wolvenpolder\OutputChannelBuilder\GIS\stuwen.shp: fieldname not specified.
+Unable to set field of type CrestLevelWinter with purpose Weir Crest Level Winter for datasource C:\GITHUB\modelleren_oppervlaktewater\05 Wolvenpolder\OutputChannelBuilder\GIS\stuwen.shp: fieldname not specified.
+Unable to set field of type WPHighSideOutlet with purpose High Side Outlet Winter Target Level for datasource C:\GITHUB\modelleren_oppervlaktewater\05 Wolvenpolder\OutputChannelBuilder\GIS\stuwen.shp: fieldname not specified.
+Unable to set field of type ZPHighSideOutlet with purpose High Side Outlet Summer Target Level for datasource C:\GITHUB\modelleren_oppervlaktewater\05 Wolvenpolder\OutputChannelBuilder\GIS\stuwen.shp: fieldname not specified.
+Unable to set field of type WPLowSideOutlet with purpose Low Side Outlet Winter Target Level for datasource C:\GITHUB\modelleren_oppervlaktewater\05 Wolvenpolder\OutputChannelBuilder\GIS\stuwen.shp: fieldname not specified.
+Unable to set field of type ZPLowSideOutlet with purpose Low Side Outlet Summer Target Level for datasource C:\GITHUB\modelleren_oppervlaktewater\05 Wolvenpolder\OutputChannelBuilder\GIS\stuwen.shp: fieldname not specified.
+Unable to set field of type WPHighSideInlet with purpose High Side Inlet Winter Target Level for datasource C:\GITHUB\modelleren_oppervlaktewater\05 Wolvenpolder\OutputChannelBuilder\GIS\stuwen.shp: fieldname not specified.
+Unable to set field of type ZPHighSideInlet with purpose High Side Inlet Summer Target Level for datasource C:\GITHUB\modelleren_oppervlaktewater\05 Wolvenpolder\OutputChannelBuilder\GIS\stuwen.shp: fieldname not specified.
+Unable to set field of type WPLowSideInlet with purpose Low Side Inlet Winter Target Level for datasource C:\GITHUB\modelleren_oppervlaktewater\05 Wolvenpolder\OutputChannelBuilder\GIS\stuwen.shp: fieldname not specified.
+Unable to set field of type ZPLowSideInlet with purpose Low Side Inlet Summer Target Level for datasource C:\GITHUB\modelleren_oppervlaktewater\05 Wolvenpolder\OutputChannelBuilder\GIS\stuwen.shp: fieldname not specified.
+Unable to set field of type FishPassageSelectionCategory with purpose Outlet pumps fish passage selection for datasource C:\GITHUB\modelleren_oppervlaktewater\05 Wolvenpolder\OutputChannelBuilder\GIS\gemalen.shp: fieldname not specified.
+Could Not set Fish Passage Selection Category Field for pumps 
+Unable to set field of type PumpReductionCategory with purpose Outlet Pumps pump reduction category for datasource C:\GITHUB\modelleren_oppervlaktewater\05 Wolvenpolder\OutputChannelBuilder\GIS\gemalen.shp: fieldname not specified.
+Could Not set Pump Reduction Category Field 
+Unable to set field of type EmergencyCategory with purpose Outlet Pumps Emergency Category for datasource C:\GITHUB\modelleren_oppervlaktewater\05 Wolvenpolder\OutputChannelBuilder\GIS\gemalen.shp: fieldname not specified.
+Could Not set Emergency pump category field 
+Unable to set field of type WPHighSideOutlet with purpose High Side Outlet Winter Target Level for datasource C:\GITHUB\modelleren_oppervlaktewater\05 Wolvenpolder\OutputChannelBuilder\GIS\gemalen.shp: fieldname not specified.
+Unable to set field of type ZPHighSideOutlet with purpose High Side Outlet Summer Target Level for datasource C:\GITHUB\modelleren_oppervlaktewater\05 Wolvenpolder\OutputChannelBuilder\GIS\gemalen.shp: fieldname not specified.
+Unable to set field of type WPLowSideOutlet with purpose Low Side Outlet Winter Target Level for datasource C:\GITHUB\modelleren_oppervlaktewater\05 Wolvenpolder\OutputChannelBuilder\GIS\gemalen.shp: fieldname not specified.
+Unable to set field of type ZPLowSideOutlet with purpose Low Side Outlet Summer Target Level for datasource C:\GITHUB\modelleren_oppervlaktewater\05 Wolvenpolder\OutputChannelBuilder\GIS\gemalen.shp: fieldname not specified.
+Unable to set field of type WPHighSideInlet with purpose High Side Inlet Winter Target Level for datasource C:\GITHUB\modelleren_oppervlaktewater\05 Wolvenpolder\OutputChannelBuilder\GIS\gemalen.shp: fieldname not specified.
+Unable to set field of type ZPHighSideInlet with purpose High Side Inlet Summer Target Level for datasource C:\GITHUB\modelleren_oppervlaktewater\05 Wolvenpolder\OutputChannelBuilder\GIS\gemalen.shp: fieldname not specified.
+Unable to set field of type WPLowSideInlet with purpose Low Side Inlet Winter Target Level for datasource C:\GITHUB\modelleren_oppervlaktewater\05 Wolvenpolder\OutputChannelBuilder\GIS\gemalen.shp: fieldname not specified.
+Unable to set field of type ZPLowSideInlet with purpose Low Side Inlet Summer Target Level for datasource C:\GITHUB\modelleren_oppervlaktewater\05 Wolvenpolder\OutputChannelBuilder\GIS\gemalen.shp: fieldname not specified.
+Unable to set field of type HinterlandArea with purpose Orifice ID for datasource C:\GITHUB\modelleren_oppervlaktewater\05 Wolvenpolder\OutputChannelBuilder\GIS\onderlaten.shp: fieldname not specified.
+Unable to set field of type WPHighSideOutlet with purpose High Side Outlet Winter Target Level for datasource C:\GITHUB\modelleren_oppervlaktewater\05 Wolvenpolder\OutputChannelBuilder\GIS\onderlaten.shp: fieldname not specified.
+Unable to set field of type ZPHighSideOutlet with purpose High Side Outlet Summer Target Level for datasource C:\GITHUB\modelleren_oppervlaktewater\05 Wolvenpolder\OutputChannelBuilder\GIS\onderlaten.shp: fieldname not specified.
+Unable to set field of type WPLowSideOutlet with purpose Low Side Outlet Winter Target Level for datasource C:\GITHUB\modelleren_oppervlaktewater\05 Wolvenpolder\OutputChannelBuilder\GIS\onderlaten.shp: fieldname not specified.
+Unable to set field of type ZPLowSideOutlet with purpose Low Side Outlet Summer Target Level for datasource C:\GITHUB\modelleren_oppervlaktewater\05 Wolvenpolder\OutputChannelBuilder\GIS\onderlaten.shp: fieldname not specified.
+Unable to set field of type WPHighSideInlet with purpose High Side Inlet Winter Target Level for datasource C:\GITHUB\modelleren_oppervlaktewater\05 Wolvenpolder\OutputChannelBuilder\GIS\onderlaten.shp: fieldname not specified.
+Unable to set field of type ZPHighSideInlet with purpose High Side Inlet Summer Target Level for datasource C:\GITHUB\modelleren_oppervlaktewater\05 Wolvenpolder\OutputChannelBuilder\GIS\onderlaten.shp: fieldname not specified.
+Unable to set field of type WPLowSideInlet with purpose Low Side Inlet Winter Target Level for datasource C:\GITHUB\modelleren_oppervlaktewater\05 Wolvenpolder\OutputChannelBuilder\GIS\onderlaten.shp: fieldname not specified.
+Unable to set field of type ZPLowSideInlet with purpose Low Side Inlet Summer Target Level for datasource C:\GITHUB\modelleren_oppervlaktewater\05 Wolvenpolder\OutputChannelBuilder\GIS\onderlaten.shp: fieldname not specified.
+Reading fields from XYZ Cross Section shapefile.
+Reach node eWG0 was replaced by boundary node BND1
+Reach nodes have been successfully snapped.
+Reach nodes have been successfully snapped to reaches.
+Trapezium cross sections successfully created from channels shapefile.
+Pumping stations data successfully built.
+Field for CrestLevelSummer not in datasource C:\GITHUB\modelleren_oppervlaktewater\05 Wolvenpolder\OutputChannelBuilder\GIS\stuwen.shp.
+Field for CrestLevelWinter not in datasource C:\GITHUB\modelleren_oppervlaktewater\05 Wolvenpolder\OutputChannelBuilder\GIS\stuwen.shp.
+Rectangular weir data successfully built.
+Orifice data successfully built.
+Topology for Structure Cluster for KGM1 successfully built.
+Topology for Structure Cluster for KST1 successfully built.
+Topology For cluster structures has successfully been built.
+Unused reaches And reachnodes have successfully been removed.
+Positions of reachobjects on reaches were successfully optimized.
+Target levels were successfully read.
+Initial.dat records were successfully built.
+Calculation grid was successfully created.
+Calculation grid successfully written.
+Reading viewer sourcefiles from C:\Program Files\Hydroconsult\Channel Builder\viewer\Validationviewer.zip

@@ -1,0 +1,557 @@
+<channelbuilder>
+  <general>
+    <exportdir>OutputChannelBuilder</exportdir>
+    <tempworkdir>c:\temp</tempworkdir>
+    <backupsourcefiles>FALSE</backupsourcefiles>
+    <recomputeintermediategisfiles>FALSE</recomputeintermediategisfiles>
+    <structuresnapdistance>1</structuresnapdistance>
+    <lineobjectsnappingmaxangledifference>30</lineobjectsnappingmaxangledifference>
+    <sourcedatadefaultEPSG>28992</sourcedatadefaultEPSG>
+    <database>channelbuilder.db</database>
+    <targetmodel>DHYDRO</targetmodel>
+    <channels>
+      <frictiondata>
+        <globalvalue type="MANNING" main="" wetberm=""/><!--choose Chezy, Manning, StricklerKn, StricklerKs,WhiteColebrook,BosBijkerk,GlobalFriction-->
+      </frictiondata>
+      <initialdata>
+        <globalvalue type="WATERLEVEL" value="-0.6"/><!--depth or waterlevel-->
+        <reachsettings active="True" minimumdepth="0.1" adddepth="0"/>
+      </initialdata>
+      <channelsnapdistance>1</channelsnapdistance>
+      <minimumdistancebetweenreachobjects>1</minimumdistancebetweenreachobjects>
+      <onlybuildwhenintersectingwithselectedcatchments>true</onlybuildwhenintersectingwithselectedcatchments>
+      <removedeadbranches active="False" maxlength=""/>
+      <dischargeonremainingdeadbranches active="False" selectionbyshapefile="False" shapefile="" discharge=""/><!--equips all remaining dead branches with a fictional extra influx.-->
+      <lateralperreach active="False" fromshapefile="False" shapefilepath="" meteoidfield=""/>
+      <calculationgrid overalllength="50" mergeifshorterthan="10" culverts="20" pumps="10" weirs="10" orifices="10" bridges="20" uniweirs="10" qbounds="50" hbounds="50"/>
+      <reachtoreachinterpolation active="False" applyafterprocessingcrosssectionsofrank="" onlybetweenreachesofthesamecategory="False" tabulated="False" yz="False" trapezium="False" circular="False" minimumprofilewidth="1"/>
+      <copycrosssectiontoemptyreach>false</copycrosssectiontoemptyreach>
+      <channelisstructureprefix></channelisstructureprefix>
+      <datasourcesnodatavalue>-999</datasourcesnodatavalue>
+    </channels>
+    <crosssections>
+      <xyzfromdatabase active="False" rank="" addgroundlayer="" allowcrosssectionsfromothersources="False"/>
+      <xyzfromshapefileprimary active="False" rank="" addgroundlayer="" allowcrosssectionsfromothersources="False"/>
+      <xyzfromshapefilesecondary active="False" rank="" addgroundlayer="" allowcrosssectionsfromothersources="False"/>
+      <yzfromdatabase active="False" rank="" addgroundlayer="" allowcrosssectionsfromothersources="False"/>
+      <frompolylinez active="False" rank="" addgroundlayer="" allowcrosssectionsfromothersources="False"/>
+      <tabulatedfromdatabase active="False" rank="" addgroundlayer="" allowcrosssectionsfromothersources="False"/>
+      <tabulatedfrombathymetry active="False" rank="" addgroundlayer="" allowcrosssectionsfromothersources="False"/>
+      <trapeziumfrompolylineshapefile active="False" rank="10" addgroundlayer="" allowcrosssectionsfromothersources="False"/>
+      <trapeziumfrompointshapefile active="False" rank="10" addgroundlayer="" allowcrosssectionsfromothersources="False"/>
+      <trapeziumfromchannelshapefile active="True" rank="10" addgroundlayer="" allowcrosssectionsfromothersources="False"/>
+      <trapezium defaultbedwidth="1" defaultslope="1" defaultheight="1" defaultdepth="1" converttoyz="False" addgroundlayer=""/>
+      <settings autocorrectdubiousvalues="False" autocorrectcriticalerrors="False" conveyancemethod="SEGMENTED"/>
+    </crosssections>
+    <verticalslot inmodel="False" shapefile="" yz="False" tabulated="False" trapezium="False" width="" depth=""/>
+    <rectangularweirs>
+      <defaultvalues crestwidth="1" crestadjustment="0" dischargecoefficient="1.5" lateralcontractioncoefficient="0.7" PIDproportional="1" PIDintegral="0" PIDdifferential="0" crestchangevelocity="0.001"/>
+      <settings inletcapacitym3pspermeter="0.25"/>
+    </rectangularweirs>
+    <yzweirs>
+      <xyyz fromdatabase="False"/>
+    </yzweirs>
+    <fixeddams>
+      <defaultvalues dischargecoefficient="1.5" lateralcontractioncoefficient="1"/>
+    </fixeddams>
+    <orifices>
+      <buildparallelinletpumps>false</buildparallelinletpumps> <!--Note: only creates one when the hinterland area exceeds 0.-->
+      <defaultvalues crestwidth="" gateheight="" maxgateheight=""/>
+      <settings autocorrectdubiousvalues="False" autocorrectcriticalerrors="False" inletcapacitym3pspermeter="0.001"/>
+    </orifices>
+    <culverts>
+      <longculverts modelascomplexstructureatlength="" tabulatedprofile="False"/><!--the length above which a culvert will be modeled as a combination of two cross sections and a culvert object on a reach.-->
+      <defaultvalues frictiontype="MANNING" frictionvalue="" length="" diameter="" inletcoefficient="" outletcoefficient=""/>
+      <settings autocorrectdubiousvalues="False" autocorrectcriticalerrors="False"/>
+      <groundlayer filluptobedlevel="False" includegroundlayer="False"/>
+    </culverts>
+    <siphons>
+      <defaultvalues frictiontype="MANNING" frictionvalue="" length="" diameter=""/>
+    </siphons>
+    <sluices>
+      <defaultvalues crestwidth="" maxgateheight=""/>
+      <settings autocorrectdubiousvalues="False" autocorrectcriticalerrors="False"/>
+    </sluices>
+    <pillarbridges>
+      <defaultvalues pillarwidth="3" shapefactor="1.5" inletlosscoefficient="0.25" outetlosscoefficient="0.25"/>
+    </pillarbridges>
+    <openfishpassages>
+      <defaultvalues crestwidth="" maxnstepsinmodel=""/>
+    </openfishpassages>
+    <closedfishpassages>
+      <defaultvalues size="0.3" maximumvelocity="0.4"/>
+    </closedfishpassages>
+    <pumps>
+      <capacity multiplier="0.01667"/><!--conversion to m3/s-->
+      <pump on="2" off="-5"/>
+      <pump on="5" off="0"/>
+      <inlet on="-10" off="-5"/>
+      <defaultvalues inletcapfractionoftotal="0.3"/>
+      <enforceintervalcontroller>False</enforceintervalcontroller>
+      <settings pumpdirectionbyheaddifference="False"/><!--if false the pump direction will be determined by the reach direction-->
+    </pumps>
+    <inletpumps>
+      <defaultvalues capacitymmpd="" capacitym3ps=""/><!--default capacities in mm/d and (if not found) m3/s-->
+      <settings pumpdirectionbyheaddifference="False"/><!--if false the pump direction will be determined by the reach direction-->
+    </inletpumps>
+    <flushpumps>
+      <defaultvalues capacitym3ps="0.5" capacitymmpd="3" flushstartmonth="7" flushstartday="1" flushendmonth="9" flushendday="1"/><!--default capacity in mm/d-->
+    </flushpumps>
+    <structureclusters>
+      <reachlength>10</reachlength>
+      <splitlengthmargin>5</splitlengthmargin>
+    </structureclusters>
+    <hydrologicalunits prefix="" maxsnappingdistance="" areasource="feature" />
+    <simulationsettings>
+      <timespan from="01/01/2000" to="01/01/2025"/>
+      <rr timestepunit="Minutes" timestepinterval="1" outputinterval="1"/>
+      <flow timestepunit="Minutes" timestepinterval="1" outputinterval="1"/>
+      <rtc timestepunit="Minutes" timestepinterval="1" outputinterval="1"/>
+    </simulationsettings>
+    <dates>
+      <tablestimespan startyear="1900" endyear="2050"/>
+      <wintertosummer startmonth="4" startday="10" endmonth="4" endday="15"/>
+      <summertowinter startmonth="10" startday="10" endmonth="10" endday="15"/>
+      <boundariestimespan writefrom="2000-01-01 00:00:00" writeto="2025-01-01 00:00:00"/>
+    </dates>
+    <calamities on="50" off="20"/><!--calamity is declared when the target level is exceeded with this value (in cm)-->
+  </general>
+  <backbone>
+    <inuse>False</inuse>
+    <modeldir></modeldir>
+    <casename></casename>
+  </backbone>
+  <gisdata>
+  <elevationgrid inuse="False" path="" units="M"/>
+    <catchmentshapefile>
+    <path>gis\peilgebieden.shp</path>
+    <idfield>gpgident</idfield>
+      <catchmentselection>
+        <catchment id="PG3" inmodel="True"/>
+        <catchment id="PG2" inmodel="True"/>
+        <catchment id="PG1" inmodel="True"/>
+      </catchmentselection>
+    </catchmentshapefile>
+    <subcatchmentdatasource>
+      <path>gis\peilgebieden.shp</path>
+      <idfield>gpgident</idfield>
+      <addendum use="False" path="" sheetname=""/>
+      <targetlevelfields outletwinter="STREEFPEIL" inletwinter="STREEFPEIL" outletsummer="STREEFPEIL" inletsummer="STREEFPEIL"/>
+      <inundationlevelfield></inundationlevelfield>
+      <lateralnodeforeverysubcatchment inuse="False" snappingpoints="False" snappingpointspath="" idfield=""/>
+    </subcatchmentdatasource>
+    <channelshapefile>
+      <path>gis\watergangen.shp</path>
+      <idfield>ident</idfield>
+      <fromnodefield></fromnodefield>
+      <tonodefield></tonodefield>
+      <categoryfield>ident</categoryfield>
+      <channelusagecategoryfield></channelusagecategoryfield>
+      <bedlevelfields upstream="BODHOG" downstream="BODHOG" upstreamalternative="" downstreamalternative=""/>
+      <bedwidthfields upstream="BODEMBR" downstream="BODEMBR" upstreamalternative="" downstreamalternative=""/>
+      <waterlevelfields upstream="" downstream="" upstreamalternative="" downstreamalternative=""/>
+      <watersurfacewidthfields upstream="" downstream="" upstreamalternative="" downstreamalternative=""/>
+      <depthfields upstream="DIEPTE" downstream="DIEPTE" upstreamalternative="" downstreamalternative=""/>
+      <leftslopefields upstream="TALUD" downstream="TALUD" upstreamalternative="" downstreamalternative=""/>
+      <rightslopefields upstream="TALUD" downstream="TALUD" upstreamalternative="" downstreamalternative=""/>
+      <surfacelevelfields upstream="" downstream="" upstreamalternative="" downstreamalternative=""/>
+      <surfacewidthfields upstream="" downstream="" upstreamalternative="" downstreamalternative=""/>
+      <leftwetbermelevationfields upstream="" downstream="" upstreamalternative="" downstreamalternative=""/>
+      <leftwetbermwidthfields upstream="" downstream="" upstreamalternative="" downstreamalternative=""/>
+      <rightwetbermelevationfields upstream="" downstream="" upstreamalternative="" downstreamalternative=""/>
+      <rightwetbermwidthfields upstream="" downstream="" upstreamalternative="" downstreamalternative=""/>
+      <openfishpassages>
+        <widthfield></widthfield>
+        <highestelevationfield></highestelevationfield>
+        <lowestelevationfield></lowestelevationfield>
+        <numberofstepsfield></numberofstepsfield>
+      </openfishpassages>
+      <channelselection>
+        <category id="WG1" inmodel="True" rank="1"/>
+        <category id="WG2" inmodel="True" rank="1"/>
+        <category id="WG3" inmodel="True" rank="1"/>
+        <category id="WG0" inmodel="True" rank="1"/>
+      </channelselection>
+      <channelusagecategories>
+      </channelusagecategories>
+    </channelshapefile>
+    <boundaryshapefile>
+      <inmodel>true</inmodel>
+      <path>gis\boundaries.shp</path>
+      <idfield>boundid</idfield>
+      <selectionfield>boundid</selectionfield>
+      <categoryfield>boundid</categoryfield>
+      <valuefield>waarde</valuefield>
+      <boundaryselection>
+        <category id="BND1" inmodel="True"/>
+      </boundaryselection>
+      <boundarycategories>
+        <!--allowed values are: H, Q, Ht, Qt-->
+        <category id="BND1" category="H"/>
+      </boundarycategories>
+    </boundaryshapefile>
+  <xyzprofilesdataset>
+  </xyzprofilesdataset>
+  <tabulatedprofilesdataset>
+  </tabulatedprofilesdataset>
+  <bathymetryprofilesdataset>
+    <polygons path="" idfield=""/>
+    <grid path=""/>
+  </bathymetryprofilesdataset>
+  <yzprofilesdataset>
+  </yzprofilesdataset>
+  <xyzprofilesshapefile>
+    <path></path>
+    <idfield></idfield>
+    <profilecategoryfield></profilecategoryfield>
+    <pointcategoryfield></pointcategoryfield>
+    <pointorderfield></pointorderfield>
+    <zvaluefield></zvaluefield>
+    <profilecategories>
+    </profilecategories>
+    <pointcategories>
+    </pointcategories>
+  </xyzprofilesshapefile>
+  <xyzprofilesshapefile2>
+    <path></path>
+    <idfield></idfield>
+    <profilecategoryfield></profilecategoryfield>
+    <pointcategoryfield></pointcategoryfield>
+    <pointorderfield></pointorderfield>
+    <zvaluefield></zvaluefield>
+    <profilecategories>
+    </profilecategories>
+    <pointcategories>
+    </pointcategories>
+  </xyzprofilesshapefile2>
+  <xyzprofilesfrompolylinezshapefile>
+    <path></path>
+    <idfield></idfield>
+  </xyzprofilesfrompolylinezshapefile>
+  <trapeziumprofilespolylineshapefile>
+    <path></path>
+    <idfield></idfield>
+    <bedlevelfield></bedlevelfield>
+    <bedwidthfield></bedwidthfield>
+    <sideslopefield></sideslopefield>
+    <surfacelevelfield></surfacelevelfield>
+    <surfacewidthfield></surfacewidthfield>
+  </trapeziumprofilespolylineshapefile>
+  <trapeziumprofilespointshapefile>
+    <path></path>
+    <idfield></idfield>
+    <bedlevelfield></bedlevelfield>
+    <bedwidthfield></bedwidthfield>
+    <sideslopefield></sideslopefield>
+    <surfacelevelfield></surfacelevelfield>
+    <surfacewidthfield></surfacewidthfield>
+  </trapeziumprofilespointshapefile>
+  <rectangularweirshapefile>
+    <inmodel>true</inmodel>
+    <path>gis\stuwen.shp</path>
+    <idfield>kstident</idfield>
+    <selectionfield>kstident</selectionfield>
+    <categoryfield>kstident</categoryfield>
+    <crestshapefield>kstident</crestshapefield>
+    <crestwidthfield>krubre</crestwidthfield>
+    <totalwidthfield>krubre</totalwidthfield>
+    <shoulderelevationfield></shoulderelevationfield>
+    <crestminfield></crestminfield>
+    <crestmaxfield></crestmaxfield>
+    <controllertypefield>kstident</controllertypefield>
+    <calamitycontrolfield>kstident</calamitycontrolfield>
+    <hinterlandareafield></hinterlandareafield>
+    <dischargecoeffield></dischargecoeffield>
+    <contractioncoeffield></contractioncoeffield>
+    <crestcorrectionsummerfield></crestcorrectionsummerfield>
+    <crestcorrectionwinterfield></crestcorrectionwinterfield>
+    <crestlevelsummerfield></crestlevelsummerfield>
+    <crestlevelwinterfield></crestlevelwinterfield>
+    <targetlevelfields outletsummerupstream="" inletsummerupstream="" outletwinterupstream="" inletwinterupstream="" outletsummerdownstream="" inletsummerdownstream="" outletwinterdownstream="" inletwinterdownstream=""/>
+    <rectangularweirselection>
+      <category id="KST1" inmodel="True"/>
+    </rectangularweirselection>
+    <rectangularweircategories>
+      <category id="KST1" inmodel="True" addinletpump="" addflushpump=""/>
+    </rectangularweircategories>
+    <rectangularweirshape>
+      <category id="KST1" inmodel="True"/>
+    </rectangularweirshape>
+    <rectangularweircontrollers>
+      <!--values from weir shapefield controllertypefield token type can contain either NONE, TIME, HYDRAULIC, INTERVAL, PID or NONE-->
+      <category id="KST1" controller="NONE"/>
+    </rectangularweircontrollers>
+    <rectangularweircalamitycontrollers>
+      <!--values from weir shapefile calamitycontrolfield. token type can either contain RAISE or DROP or NONE-->
+      <category id="KST1" controller="NONE"/>
+    </rectangularweircalamitycontrollers>
+  </rectangularweirshapefile>
+  <xyyzweirsdataset>
+  </xyyzweirsdataset>
+  <outletpumpshapefile>
+    <inmodel>true</inmodel>
+    <path>gis\gemalen.shp</path>
+    <addendum use="False" path="" sheetname=""/><!--Addendum file must be of Excel (XLSX) type. First column MUST contain the object ID.-->
+    <units capacity="M3PS" onofflevels="CM"/><!--capacities can be m3pm (m3/minute) of m3ps (m3/second); switch on/off level can be cm (cm w.r.t. target level) or in mAD (m + reference level)-->
+    <defaultcapacitymmpd>12</defaultcapacitymmpd>
+    <idfield>kgmident</idfield>
+    <selectionfield>kgmident</selectionfield>
+    <categoryfield>kgmident</categoryfield>
+    <emergencypumpfield></emergencypumpfield> <!--optional. either choose total cap or the capacities by pump-->
+    <npumpsfield></npumpsfield>
+    <totalcapfield>pompcap</totalcapfield>
+    <fishpassageselectionfield></fishpassageselectionfield>
+    <pumpreductionfield></pumpreductionfield>
+    <hinterlandareafield></hinterlandareafield>
+    <emergencystopelevationfield></emergencystopelevationfield>
+    <emergencystopmeasurementstationfield></emergencystopmeasurementstationfield>
+    <measurementstationfield></measurementstationfield>
+    <targetlevelfields outletsummerupstream="" inletsummerupstream="" outletwinterupstream="" inletwinterupstream="" outletsummerdownstream="" inletsummerdownstream="" outletwinterdownstream="" inletwinterdownstream=""/>
+    <pumpdata>
+    </pumpdata>
+    <outletpumpselection>
+      <category id="KGM1" inmodel="True"/>
+    </outletpumpselection>
+    <fishpassageselection>
+    </fishpassageselection>
+    <emergencypumpcategories>
+    </emergencypumpcategories>
+    <outletpumpcategories>
+      <category id="KGM1" inmodel="True" includeinlet="False" includeflushpump="False"/>
+    </outletpumpcategories>
+    <pumpreductioncategories>
+    </pumpreductioncategories>
+  </outletpumpshapefile>
+  <inletpumpshapefile>
+    <inmodel>false</inmodel>
+    <path></path>
+    <idfield></idfield>
+    <selectionfield></selectionfield>
+    <categoryselectionfield></categoryselectionfield>
+    <targetlevelfields inletwinter="" inletsummer=""/>
+    <hinterlandareafield></hinterlandareafield>
+    <capacityfield></capacityfield>
+    <inletpumpselection>
+    </inletpumpselection>
+    <inletpumpcategories>
+    </inletpumpcategories>
+  </inletpumpshapefile>
+  <flushpumpshapefile>
+    <inmodel>false</inmodel>
+    <path></path>
+    <idfield></idfield>
+    <selectionfield></selectionfield>
+    <categoryselectionfield></categoryselectionfield>
+    <hinterlandareafield></hinterlandareafield>
+    <capacityfield></capacityfield>
+    <flushpumpselection>
+    </flushpumpselection>
+    <flushpumpcategories>
+    </flushpumpcategories>
+  </flushpumpshapefile>
+  <mobilepumpshapefile>
+    <inmodel>false</inmodel>
+    <path></path>
+    <idfield></idfield>
+    <capacityfield></capacityfield>
+    <mobilepumpselection>
+    </mobilepumpselection>
+  </mobilepumpshapefile>
+  <culvertshapefile>
+    <inmodel>false</inmodel>
+    <path></path>
+    <culvertselection>
+    </culvertselection>
+    <culvertmaterialcategories>
+    </culvertmaterialcategories>
+    <culvertcategories>
+    </culvertcategories>
+    <culvertflowdirectioncategories>
+    </culvertflowdirectioncategories>
+    <culvertcontrollercategories>
+    </culvertcontrollercategories>
+  </culvertshapefile>
+  <siphonshapefile>
+    <inmodel>false</inmodel>
+    <path></path>
+    <siphonselection>
+    </siphonselection>
+    <siphoncategories>
+    </siphoncategories>
+    <siphonshapes>
+    </siphonshapes>
+  </siphonshapefile>
+  <orificeshapefile>
+    <inmodel>true</inmodel>
+    <path>gis\onderlaten.shp</path>
+    <idfield>orifident</idfield>
+    <categoryselectionfield>orifident</categoryselectionfield>
+    <usagecategoryfield>orifident</usagecategoryfield>
+    <crestlevelfield></crestlevelfield>
+    <crestwidthfield>krubre</crestwidthfield>
+    <maxgateheightfield>hoogte</maxgateheightfield>
+    <hinterlandareafield></hinterlandareafield>
+    <targetlevelfields outletsummerupstream="" inletsummerupstream="" outletwinterupstream="" inletwinterupstream="" outletsummerdownstream="" inletsummerdownstream="" outletwinterdownstream="" inletwinterdownstream=""/>
+    <orificeselectioncategories>
+      <category id="KOR1" inmodel="True"/>
+    </orificeselectioncategories>
+    <orificeusagecategories>
+      <category id="KOR1" usage="OPEN" allowparallelinletpump="False"/>
+    </orificeusagecategories>
+  </orificeshapefile>
+  <abutmentbridgeshapefile>
+    <inmodel>false</inmodel>
+    <path></path>
+    <idfield></idfield>
+    <selectionfield></selectionfield>
+    <lengthfield></lengthfield>
+    <bedlevelfield></bedlevelfield>
+    <widthfield></widthfield>
+    <decklevelfield></decklevelfield>
+    <bridgeselectioncategories>
+    </bridgeselectioncategories>
+  </abutmentbridgeshapefile>
+  <pillarbedbridgeshapefile>
+    <inmodel>false</inmodel>
+    <path></path>
+    <idfield></idfield>
+    <selectionfield></selectionfield>
+    <pillarwidthfield></pillarwidthfield>
+    <formfactorfield></formfactorfield>
+    <bridgeselectioncategories>
+    </bridgeselectioncategories>
+  </pillarbedbridgeshapefile>
+  <sluiceshapefile>
+    <inmodel>false</inmodel>
+    <path></path>
+    <idfield></idfield>
+    <categoryselectionfield></categoryselectionfield>
+    <usagecategoryfield></usagecategoryfield>
+    <ngatesfield></ngatesfield>
+    <crestlevelfield></crestlevelfield>
+    <crestwidthfield></crestwidthfield>
+    <maxgateheightfield></maxgateheightfield>
+    <sluiceselectioncategories>
+    </sluiceselectioncategories>
+    <sluiceusagecategories>
+    </sluiceusagecategories>
+  </sluiceshapefile>
+  <fixeddamsshapefile>
+    <inmodel>false</inmodel>
+    <path></path>
+    <idfield></idfield>
+    <categoryselectionfield></categoryselectionfield>
+    <crestlevelfield></crestlevelfield>
+    <crestwidthfield></crestwidthfield>
+    <fixeddamselectioncategories>
+    </fixeddamselectioncategories>
+  </fixeddamsshapefile>
+  <hydrologicalunitsdatasource>
+    <inmodel>false</inmodel>
+    <path></path>
+    <idfield></idfield>
+    <measurementstationidfield></measurementstationidfield>
+    <categoryselectionfield></categoryselectionfield>
+    <areafield></areafield>
+    <structureidfield></structureidfield>
+    <unitselection>
+    </unitselection>
+  </hydrologicalunitsdatasource>
+  <measurementstationsshapefile>
+    <inmodel>false</inmodel>
+    <path></path>
+    <idfield></idfield>
+  </measurementstationsshapefile>
+  </gisdata>
+  <customcontrollers>
+    <!--
+    accepted values for controlledparameter are:  	CRESTLEVEL, CRESTWIDTH, GATEHEIGHT, PUMPCAPACITY
+    accepted values for observedparameter are: 		WATERLEVEL, DISCHARGE
+    accepted values for controllertype are: 		TIME, HYDRAULIC, INTERVAL, PID
+    timetable ID's refer to timetables in the database. Please note that these tables must be present in the database
+    Controller table ID's refer to controller tables in the database. Please note that these tables too must be present in the database
+    -->
+  </customcontrollers>
+  <validationrules>
+    <!-- internal variables that can be used are: WPSuctionSide, ZPSuctionSide, WPDeliverySide, ZPDeliverySide, TotalCapacity, HinterlandArea, DefaultCapacityMMPD, DefaultCapacityM3PS, DefaultOnMarginDownstream, DefaultOffMarginDownstream, -->
+    <rectangularweirs>
+      <rules>
+      </rules>
+    </rectangularweirs>
+    <!-- internal variables that can be used are: TotalCapacity, HinterlandArea, DefaultCapacityMMPD, DefaultCapacityM3PS, WPHighSideInlet, ZPHighSideInlet, -->
+    <outletpumps>
+      <rules>
+      </rules>
+    </outletpumps>
+    <!-- internal variables that can be used are: CapacityOrMultiplier, -->
+    <inletpumps>
+      <rules>
+      </rules>
+    </inletpumps>
+    <!-- internal variables that can be used are: WPHighSideOutlet, ZPHighSideOutlet, WPLowSideOutlet, ZPLowSideOutlet, WPHighSideInlet, ZPHighSideInlet, WPLowSideInlet, ZPLowSideInlet, CrestWidth, CrestLevel, MaximumGateHeight, ContractionCoefficient, LateralContractionCoefficient, -->
+    <flushpumps>
+      <rules>
+      </rules>
+    </flushpumps>
+    <!-- internal variables that can be used are: WPHighSideOutlet, ZPHighSideOutlet, WPLowSideOutlet, ZPLowSideOutlet, WPHighSideInlet, ZPHighSideInlet, WPLowSideInlet, ZPLowSideInlet, CrestWidth, MinCrest, MaxCrest, CrestLevel, TotalWidth, ShoulderElevation, BedLevel, DischargeCoefficient, ContractionCoefficient, SummerCrestCorrection, WinterCrestCorrection, CrestLevelWinter, CrestLevelSummer, -->
+    <mobilepumps>
+      <rules>
+      </rules>
+    </mobilepumps>
+    <!-- internal variables that can be used are: WPHighSideOutlet, ZPHighSideOutlet, WPLowSideOutlet, ZPLowSideOutlet, WPHighSideInlet, ZPHighSideInlet, WPLowSideInlet, ZPLowSideInlet, NumberOfBarrels, Length, InvertUp, InvertDown, BarrelWidth, BarrelHeight, BedLevel, EntranceLossCoefficient, ExitLossCoefficient, -->
+    <culverts>
+      <rules>
+      </rules>
+    </culverts>
+    <!-- internal variables that can be used are: WPHighSideOutlet, ZPHighSideOutlet, WPLowSideOutlet, ZPLowSideOutlet, WPHighSideInlet, ZPHighSideInlet, WPLowSideInlet, ZPLowSideInlet, Length, InvertUp, InvertDown, BarrelWidth, BarrelHeight, BedLevel, EntranceLossCoefficient, ExitLossCoefficient, BendLossCoefficient, -->
+    <siphons>
+      <rules>
+      </rules>
+    </siphons>
+    <!-- internal variables that can be used are: WPHighSideOutlet, ZPHighSideOutlet, WPLowSideOutlet, ZPLowSideOutlet, WPHighSideInlet, ZPHighSideInlet, WPLowSideInlet, ZPLowSideInlet, NumberOfGates, CrestLevel, CrestWidth, MaximumGateHeight, ContractionCoefficient, LateralContractionCoefficient, -->
+    <orifices>
+      <rules>
+      </rules>
+    </orifices>
+    <!-- internal variables that can be used are: WPOutlet, ZPOutlet, WPInlet, ZPInlet, Length, FlowWidth, BottomElevation, DeckElevation, InletCoefficient, OutletCoefficient, BedLevel, -->
+    <abutmentbridges>
+      <rules>
+      </rules>
+    </abutmentbridges>
+    <!-- internal variables that can be used are: WPOutlet, ZPOutlet, WPInlet, ZPInlet, BedLevel, BedWidth, SurfaceLevel, SurfaceWidth, Slope, -->
+    <pillarbridges>
+      <rules>
+      </rules>
+    </pillarbridges>
+    <!-- internal variables that can be used are: WPOutlet, ZPOutlet, PillarWidth, ShapeFactor, InletCoefficient, OutletCoefficient, -->
+    <sluices>
+      <rules>
+      </rules>
+    </sluices>
+    <!-- internal variables that can be used are: WPHighSideOutlet, ZPHighSideOutlet, WPLowSideOutlet, ZPLowSideOutlet, WPHighSideInlet, ZPHighSideInlet, WPLowSideInlet, ZPLowSideInlet, DischargeCoefficient, YLIST, ZLIST, -->
+    <fixeddams>
+      <rules>
+      </rules>
+    </fixeddams>
+    <!-- internal variables that can be used are: WPOutlet, ZPOutlet, WPInlet, ZPInlet, BedLevel, BedWidth, Waterlevel, WaterSurfaceWidth, Depth, LeftSlope, RightSlope, SurfaceLevel, SurfaceWidth, LeftWetBermlevel, LeftWetBermWidth, RightWetBermLevel, RightWetBermWidth, -->
+    <simpletrapezia>
+      <rules>
+      </rules>
+    </simpletrapezia>
+    <!-- internal variables that can be used are: WPOutlet, ZPOutlet, WPInlet, ZPInlet, NumberOfPoints, TotalLength, StraightLength, LowestPoint, LowestPointIdx, LastPointIdx, -->
+    <asymmetricaltrapezia>
+      <rules>
+      </rules>
+    </asymmetricaltrapezia>
+    <!-- internal variables that can be used are: WPOutlet, ZPOutlet, WPInlet, ZPInlet, NumberOfPoints, LowestPoint, -->
+    <yzprofiles>
+      <rules>
+      </rules>
+    </yzprofiles>
+    <!-- internal variables that can be used are: MeteoStationID, SurfaceArea, -->
+    <tabulatedprofiles>
+      <rules>
+      </rules>
+    </tabulatedprofiles>
+  </validationrules>
+</channelbuilder>

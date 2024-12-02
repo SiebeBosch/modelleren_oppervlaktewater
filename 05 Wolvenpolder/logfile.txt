@@ -1,0 +1,17 @@
+
+
+
+ERRORS:
+Error executing query CREATE INDEX YZPROFILEIDX ON XYYZWEIRS (PROFILEID);
+SQL logic error
+index YZPROFILEIDX already exists
+Error executing query CREATE INDEX YZPROFILEIDX ON XYYZWEIRS (PROFILEID);
+SQL logic error
+index YZPROFILEIDX already exists
+
+WARNINGS:
+Warning: instable database connection. Connection was closed and opened again to execute query: CREATE INDEX YZPROFILEIDX ON XYYZWEIRS (PROFILEID);
+
+MESSAGES:
+Connectionstring to database has successfully been set: Data Source=C:\GITHUB\modelleren_oppervlaktewater\05 Wolvenpolder\channelbuilder.db;Version=3;
+Database Is up-To-Date.
