@@ -6,6 +6,14 @@ Iedere cursus heeft zijn eigen map, beginnend met een getal. Bijvoorbeeld 03 Con
 Algemene mappen met data, literatuur, software etc hebben getal 00 en staan daarom altijd bovenaan. 
 Bijvoorbeeld 00 Installs. Deze map bevat de benodigde installatiebestanden voor software die in het curriculum wordt gebruikt.
 
+## Syllabi
+Het is de bedoeling dat iedere cursus een eigen syllabus krijgt in Quarto-formaat. Hiertoe creëren we met Visual Studio Code een nieuw Quarto-project in iedere cursusmap.
+Quarto kan als plugin voor Visual Studio Code worden geïnstalleerd. Een snelle aanwijzing voor werken met Quarto: 
+
+* Een nieuw quarto-project maken kan vanuit de Command Pallette (CTRL+SHIFT-P), gevolgd door de keuze Quarto - create project - website.
+* Preview: typ in een terminal (evt nieuwe terminal aanmaken via het menu): Quarto preview
+* Renderen: typ in een terminal: Quarto render. Quarto zal de documentatie dan renderen tot een HTML-website.
+
 ## Cursussen
 Onderstaand volgt een korte samenvatting van welke cursussen aangeboden worden, wat het leerdoel is en met welke software wordt gewerkt.
 
