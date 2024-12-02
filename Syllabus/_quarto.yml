@@ -3,7 +3,7 @@ project:
   output-dir: ../docs
 
 website:
-  title: "Modelbouw Noorderzijlvest"
+  title: "Landelijk water"
   navbar:
     left:
       - text: Wolvenpolder
@@ -12,17 +12,10 @@ website:
         href: eendragt/opdracht.qmd
   
   sidebar:
-    logo: img/logo.png
+    logo: img/logo_VHL.jpg
     logo-href: https://www.hydroconsult.nl
     style: "docked"
     search: true
-    before:
-      - text: >
-          <div style="text-align: center; padding: 10px 0;">
-            <img src="https://lirp.cdn-website.com/ef254e84/dms3rep/multi/opt/2024_SOCIALS_LOGO_SIEBE_BOSCH_HYDROCONSULT-382w.png" 
-                 alt="Hydroconsult Logo" 
-                 style="max-width: 200px; height: auto;"/>
-          </div>
     contents:
       - section: "Wolvenpolder"
         contents:
@@ -38,8 +31,22 @@ website:
                 text: Opdracht
               - href: wolvenpolder/modelbouw.qmd
                 text: Modelbouw
-          - href: literatuur.qmd
-            text: Bronnen
+      - section: "Eendragt"
+        contents:
+          - section: "Tutorial"
+            contents:
+              - href: wolvenpolder/inleiding.qmd
+                text: Inleiding
+              - href: wolvenpolder/modelbouw.qmd
+                text: Modelbouw
+          - section: "Casus"
+            contents:
+              - href: wolvenpolder/casus.qmd
+                text: Opdracht
+              - href: wolvenpolder/modelbouw.qmd
+                text: Modelbouw
+      - href: literatuur.qmd
+        text: Bronnen
 
 format:
   html:

@@ -1,56 +1,59 @@
 # Modelleren van oppervlaktewater
-Het curriculum 'modelleren aan oppervlaktewater' zoals verzorgd aan Hogeschool Van Hall Larenstein
+Deze repository bevat al het cursusmateriaal van de casus 'Landelijk Water' binnen de major Watermanagement van Hogeschool Van Hall Larenstein.
 
-## Mappenstructuur
-Iedere cursus heeft zijn eigen map, beginnend met een getal. Bijvoorbeeld 03 Controllers.
-Algemene mappen met data, literatuur, software etc hebben getal 00 en staan daarom altijd bovenaan. 
-Bijvoorbeeld 00 Installs. Deze map bevat de benodigde installatiebestanden voor software die in het curriculum wordt gebruikt.
+De map Syllabus bevat de broncode van de opdrachten. We beheren de opdrachten in [Quarto](https://quarto.org/docs/download/).
+Quarto is een publicatieplatform waarmee dynamische content geproduceerd en gepubliceerd kan worden, in combinatie met bijvoorbeeld R, Python, Julia etc.
 
-## Syllabi
-Het is de bedoeling dat iedere cursus een eigen syllabus krijgt in Quarto-formaat. Hiertoe creëren we met Visual Studio Code een nieuw Quarto-project in iedere cursusmap.
-Quarto kan als plugin voor Visual Studio Code worden geïnstalleerd. Een snelle aanwijzing voor werken met Quarto: 
+De opdrachten worden door Quarto gerenderd naar HTML/CSS/Javascript, in de map docs.
+De inhoud van docs is een website die op alle webservers gehost kan worden, maar die ook gewoon lokaal kan worden geopend, door op index.html te klikken.
 
-* Een nieuw quarto-project maken kan vanuit de Command Pallette (CTRL+SHIFT-P), gevolgd door de keuze Quarto - create project - website.
-* Preview: typ in een terminal (evt nieuwe terminal aanmaken via het menu): Quarto preview
-* Renderen: typ in een terminal: Quarto render. Quarto zal de documentatie dan renderen tot een HTML-website.
+Github biedt een gratis mogelijkheid om deze documentatie uit docs te hosten. Dit hebben we als zodanig ingesteld onder 'pages'. 
+Het gehoste cursusmateriaal kan [hier](https://siebebosch.github.io/modelleren_oppervlaktewater/) worden gevonden.
 
-## Cursussen
-Onderstaand volgt een korte samenvatting van welke cursussen aangeboden worden, wat het leerdoel is en met welke software wordt gewerkt.
+## Installeren
+Om aan het cursusmateriaal te kunnen werken is het volgende nodig:
 
-### 01 Tutorial 1DFlow
-Dit is de tutorial modelleren van hydrodynamica in openwater met SOBEK 2. Het betreft de officiële publicatie door Deltares.
+* Een installatie van Microsoft [Visual Studio Code](https://code.visualstudio.com/download)
+* Een installatie van [Quarto](https://quarto.org/docs/download/)
+* Een installatie van [Git](https://gitforwindows.org/)
 
-### 02 Retentie
-Een oefening met SOBEK 2 waarbij de studenten leren om een bergingsgebied te implementeren in een bestaande modelschematisatie van een gebied in Drenthe. De studenten leren handmatig de topologie van het model aan te passen, de benodigde parameterwaarden voor de kunstwerken in te stellen en het effect van de maatregel in beeld te brengen.
+Als deze pakketten geïnstalleerd zijn kunt u de de volgende extensies installeren in Visual Studio Code:
+* Quarto 
+* Github Actions
 
-Leerdoelen:
-* kennismaken met het concept van dynamische waterberging om een afvoerpiek te kunnen dempen.
-* een bestaande modelschematisatie leren aanpassen om dynamische berging te implementeren en parameteriseren
-* het effect van de maatregel in beeld brengen
+Vergeet niet je github-account te configureren in de laatstgenoemde extension.
 
-### 03 Controllers
-Een oefening met SOBEK 2 waarbij de student leert om kunstwerken op een dusdanige manier aan te sturen dat een gewenste waterstand en/of debiet wordt behaald. Deze oefening werd oorspronkelijk geschreven door wijlen Peter-Jules van Overloop. 
+## De repository beheren
 
-Leerdoelen:
-* kennismaken met Real-Time Control en de diverse soorten controllers
-* controllers leren instellen en afregelen
+Het beheren van de repository kan op verschillende manieren. Bijvoorbeeld het programma Github for Desktop is een populaire methode. 
+Hier geven we echter een stappenplan, uitgaande van werken vanaf de command line.
 
-### 04 Hoogwater Varik
+### Initialiseren
+blader naar de projectmap
+```cd your-project-folder```
 
-### 05 Wolvenpolder
+de git repository initialiseren:
+```git init```
 
-### 06 Leijgraaf
-In deze oefening gaan de studenten semi-automatisch een complete modelschematisatie van de Leijgraaf; een beek in het beheergebied van waterschap Aa en Maas.
-De modelschematisatie wordt ook door de student gekalibreerd en gebruikt om enkele maatregelen door te rekenen.
+de git repository toevoegen
+```git remote add origin https://github.com/SiebeBosch/modelleren_oppervlaktewater.git```
 
-### 07 Hoogwatertoetsing
-Deze oefening behelst een complete hoogwatertoetsing: toetsen aan de inundatienormen van het Nationaal Bestuursakkoord Water.
-Studenten doen dit met twee verschillende methodes: de Tijdreeksmethode en de Stochastenmethode. Voor- en nadelen van beide methodes worden besproken en inzichtelijk gemaakt.
+een lokale kopie van de repository naar je eigen computer halen
+```git pull origin main```
 
-Leerdoelen:
-* kennismaken met het toetsen van een watersysteem aan de normen uit het NBW
-* begrijpen wat de Tijdreeksmethode behelst en wat de Stochastenmethode behelst en hoe beide methodes van elkaar verschillen
-* Het leren berekenen van overschrijdingswaterstanden, gebruikmakend van de Tijdreeksmethode
-* Het leren berekenen van overschrijdingswaterstanden, gebruikmakend van de Stochastenmethode
-* Het toetsen van de berekende overschrijdingswaterstanden aan de inundatienormen zoals vastgelegd in het Nationaal Bestuursakkoord Water
+### Wijzigingen committen en pushen
 
+alle nieuwe bestanden indexeren
+```git add . ```
+
+aanpassingen committen
+```git commit -m "omschrijving"```
+
+je aanpassingen committen naar de repository
+```git push -u origin main```
+
+### Wijzigingen in je lokale repository synchroniseren met de online repository
+
+Als anderen wijzigingen hebben aangebracht in de repository is het van belang om die Wijzigingen ook door te voeren in je lokale kopie van de repository. Dit gebeurt met het commando 'pull'.
+
+```git pull```
