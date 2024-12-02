@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: ../Syllabus_rendered
+  output-dir: ../docs
 
 website:
   title: "Modelbouw Noorderzijlvest"
