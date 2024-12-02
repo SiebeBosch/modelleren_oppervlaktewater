@@ -2,9 +2,34 @@
 title: "Wolvenpolder"
 ---
 
+# Inleiding
 Deze opdracht behelst het maken van een neerslag-afvoermodel van de Wolvenpolder, bij Spijkenisse.
 
 
 
 Het is de bedoeling dat je ...
 
+::: {.callout-note}
+## Informatie
+Hier komt uw uitleg...
+:::
+
+::: {.callout-tip}
+## Vraag
+Hier komt uw vraag...
+:::
+
+::: {.callout-important}
+## Belangrijk
+Hier komt een waarschuwing...
+:::
+
+::: {.callout-warning}
+## Let op!
+Hier komt een waarschuwing...
+:::
+
+::: {.callout-caution}
+## Voorzichting
+Hier komt een waarschuwing level 2...
+:::
