@@ -29,27 +29,20 @@ Het beheren van de repository kan op verschillende manieren. Bijvoorbeeld het pr
 Hier geven we echter een stappenplan, uitgaande van werken vanaf de command line.
 
 ### Initialiseren
-blader naar de projectmap
+blader naar de gewenste projectmap
 ```cd your-project-folder```
 
-de git repository initialiseren:
-```git init```
-
-de git repository toevoegen
-```git remote add origin https://github.com/SiebeBosch/modelleren_oppervlaktewater.git```
-
-een lokale kopie van de repository naar je eigen computer halen
-```git pull origin main```
+de online git repository klonen:
+```git clone https://github.com/SiebeBosch/modelleren_oppervlaktewater.git```
 
 ### Wijzigingen committen en pushen
-
 alle nieuwe bestanden indexeren
 ```git add . ```
 
 aanpassingen committen
 ```git commit -m "omschrijving"```
 
-je aanpassingen committen naar de repository
+je aanpassingen pushen naar de repository
 ```git push -u origin main```
 
 ### Wijzigingen in je lokale repository synchroniseren met de online repository
