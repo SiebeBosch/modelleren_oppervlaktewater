@@ -1,5 +1,25 @@
+## Inleiding
 
-# Inleiding
+Deze opdracht behelst het maken van een neerslag-afvoermodel van de Wolvenpolder, bij Spijkenisse. Onder het kopje 'Wolvenpolder - Opdracht' vind jij een stappenplan om een simpel model te bouwen voor de Wolvenpolder in D-HYDRO. Volg de stappenplan en neem belangrijke tussenstappen op in je logboek (met screenshots!). 
+
+Vervolgens voer jij een kalibratie uit van het model (zie kopje kalibratie). Neem een tabel met aanpassingen op in je logboek. 
+
+Beantwoord ook de vragen die weergegeven zijn in groen. 
+
+::: {.callout-tip}
+### Vraag
+Vragen zijn weergegeven in groen. Deze moet jij beantwoorden in jouw logboek. 
+:::
+
+::: {.callout-important}
+### Belangrijk
+Belangrijke mededelingen zijn weergeven in rood. 
+:::
+
+::: {.callout-note}
+### Informatie
+Extra uitleg is weergegeven in blauw. 
+:::
 
 
 

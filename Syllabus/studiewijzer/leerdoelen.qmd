@@ -1,0 +1,15 @@
+## 1 Introductie
+
+
+### 1.2 Leerdoelen
+Deze module richt zich op het water-robuust inrichten van een gebied, waarbij functies zoveel mogelijk voorwaarden van het systeem volgen.
+
+1.	Good Modellering Practices hanteren bij hydrologisch modelleren
+2.	Een oppervlaktewatersysteem modelleren
+3.	Een oppervlaktewatersysteem toetsen
+4.	Effecten van waterhuishoudkundige ingrepen op landbouw en natuur bepalen
+5.	Relevante karakteristieken van het bodem- en watersysteem waarderen
+6.	Eisen en wensen voor een plangebied vaststellen
+7.	Haalbaarheid van oplossingen beoordelen
+
+

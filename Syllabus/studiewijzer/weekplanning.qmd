@@ -1,0 +1,78 @@
+## 3 Proces
+
+### 3.2 Weekplanning
+Gedurende de lesperiode worden er diverse colleges verzorgd. Een deel van deze colleges zijn ingericht als vragenuren. In de tweede lesweek wordt een introductiecollege verzorgd, waarin we de opdracht aftrappen en uitleggen wat de bedoeling is. In onderstaand schema staan de lessen in de weken gepland. 
+
+<mark> tabel nog updaten!! </mark>
+
+|Inhoud Les | Docent | Week 1| Week 2 | Week 3 | Week 4 | Week 5 | Week 6 | Week 7 |
+|-------|-------|-------|-------|-------|-------|-------|-------|-------|
+| Row 1 | Row 1 | Row 1 | Row 1 | Row 1 | Row 1 | Row 1 | Row 1 | Row 1 |
+| Row 2 | Row 2 | Row 2 | Row 2 | Row 2 | Row 2 | Row 2 | Row 2 | Row 2 |
+| Row 3 | Row 3 | Row 3 | Row 3 | Row 3 | Row 3 | Row 3 | Row 3 | Row 3 |
+| Row 4 | Row 4 | Row 4 | Row 4 | Row 4 | Row 4 | Row 4 | Row 4 | Row 4 |
+| Row 5 | Row 5 | Row 5 | Row 5 | Row 5 | Row 5 | Row 5 | Row 5 | Row 5 |
+| Row 6 | Row 6 | Row 6 | Row 6 | Row 6 | Row 6 | Row 6 | Row 6 | Row 6 |
+| Row 7 | Row 7 | Row 7 | Row 7 | Row 7 | Row 7 | Row 7 | Row 7 | Row 7 |
+| Row 8 | Row 8 | Row 8 | Row 8 | Row 8 | Row 8 | Row 8 | Row 8 | Row 8 |
+| Row 9 | Row 9 | Row 9 | Row 9 | Row 9 | Row 9 | Row 9 | Row 9 | Row 9 |
+| Row 10 | Row 10 | Row 10 | Row 10 | Row 10 | Row 10 | Row 10 | Row 10 | Row 10 |
+| Row 11 | Row 11 | Row 11 | Row 11 | Row 11 | Row 11 | Row 11 | Row 11 | Row 11 |
+| Row 12 | Row 12 | Row 12 | Row 12 | Row 12 | Row 12 | Row 12 | Row 12 | Row 12 |
+
+::: {.caption}
+Tabel 2: Globale overzicht planning
+:::
+
+Om de casus goed uit te kunnen voeren krijgen jullie les in het gebruik van de online applicatie van de Waterwijzer Landbouw en D-Hydro. Voor de kennismaking met D-Hydro krijgen jullie een aantal in te leveren opdrachten aangeboden tijdens de lessen. We maken gebruiken van div. instructievideo’s en deze syllabus. In week 4 wordt de NBW toetsing uitgelegd in samenwerking met gastdocent Siebe Bosch. Jullie gaan tijdens deze casus werken met meerdere door Siebe ontwikkelde tools. 
+
+::: {.callout-important}
+### Belangrijk
+Om de opdrachten goed te kunnen voltooien is het noodzakelijk om te beschikken over een laptop waarop D-Hydro geïnstalleerd staat en ArcGIS. De installatiefiles die je nodig hebt voor D-HYDRO en bijbehorende licentiefile staan op Moodle. Installeer D-HYDRO voor de eerste les. Mocht je problemen hebben met de installatie, dan helpen we je daar graag bij tijdens de eerste introductieles!
+:::
+
+**Belangrijke data**
+<mark> nog updaten!! </mark>, 17.00 uur op Moodle: individueel logboek deel 1 van de opdrachten Landelijk water modelleren (D-HYDRO).
+<mark> nog updaten!! </mark>, 17.00 uur op Moodle: individueel logboek deel 2 van de opdrachten Landelijk water modelleren (stochasten- en tijdreeksanalyse en NBW toetsing) 
+<mark> nog updaten!! </mark>, 17.00 uur op Moodle: per groep video van presentatie van Advies landelijk water (max 10 min), waarin alle groepsgenoten aan het woord komen.
+
+In onderstaande tabel is de detailplanning van alle lessen en opdrachten weergegeven, inclusief voorbereiding en nabereiding (huiswerk/werk voor in zelfwerktijd). 
+
+<mark> nog updaten!! </mark>
+
+| Week/datum | Aantal lesuren | Docent | Wat? | Voorbereiding | Nabereiding |
+|-------|-------|-------|-------|-------|-------|
+| Row 1 | Row 1 | Row 1 | Row 1 | Row 1 | Row 1 |
+| Row 2 | Row 2 | Row 2 | Row 2 | Row 2 | Row 2 |
+| Row 3 | Row 3 | Row 3 | Row 3 | Row 3 | Row 3 |
+| Row 4 | Row 4 | Row 4 | Row 4 | Row 4 | Row 4 |
+| Row 5 | Row 5 | Row 5 | Row 5 | Row 5 | Row 5 |
+| Row 6 | Row 6 | Row 6 | Row 6 | Row 6 | Row 6 |
+| Row 7 | Row 7 | Row 7 | Row 7 | Row 7 | Row 7 |
+| Row 8 | Row 8 | Row 8 | Row 8 | Row 8 | Row 8 |
+| Row 9 | Row 9 | Row 9 | Row 9 | Row 9 | Row 9 |
+| Row 10 | Row 10 | Row 10 | Row 10 | Row 10 | Row 10 |
+| Row 11 | Row 11 | Row 11 | Row 11 | Row 11 | Row 11 |
+| Row 12 | Row 12 | Row 12 | Row 12 | Row 12 | Row 12 |
+| Row 13 | Row 13 | Row 13 | Row 13 | Row 13 | Row 13 |
+| Row 14 | Row 14 | Row 14 | Row 14 | Row 14 | Row 14 |
+| Row 15 | Row 15 | Row 15 | Row 15 | Row 15 | Row 15 |
+| Row 16 | Row 16 | Row 16 | Row 16 | Row 16 | Row 16 |
+| Row 17 | Row 17 | Row 17 | Row 17 | Row 17 | Row 17 |
+| Row 18 | Row 18 | Row 18 | Row 18 | Row 18 | Row 18 |
+| Row 19 | Row 19 | Row 19 | Row 19 | Row 19 | Row 19 |
+| Row 20 | Row 20 | Row 20 | Row 20 | Row 20 | Row 20 |
+| Row 21 | Row 21 | Row 21 | Row 21 | Row 21 | Row 21 |
+| Row 22 | Row 22 | Row 22 | Row 22 | Row 22 | Row 22 |
+| Row 23 | Row 23 | Row 23 | Row 23 | Row 23 | Row 23 |
+| Row 24 | Row 24 | Row 24 | Row 24 | Row 24 | Row 24 |
+| Row 25 | Row 25 | Row 25 | Row 25 | Row 25 | Row 25 |
+| Row 26 | Row 26 | Row 26 | Row 26 | Row 26 | Row 26 |
+| Row 27 | Row 27 | Row 27 | Row 27 | Row 27 | Row 27 |
+| Row 28 | Row 28 | Row 28 | Row 28 | Row 28 | Row 28 |
+| Row 29 | Row 29 | Row 29 | Row 29 | Row 29 | Row 29 |
+| Row 30 | Row 30 | Row 30 | Row 30 | Row 30 | Row 30 |
+
+::: {.caption}
+Tabel 3: Detailplanning
+:::

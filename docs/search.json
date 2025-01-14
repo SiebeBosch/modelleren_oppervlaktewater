@@ -2,9 +2,13 @@
   {
     "objectID": "wolvenpolder/opdracht.html",
     "href": "wolvenpolder/opdracht.html",
-    "title": "Wolvenpolder",
+    "title": "Landelijk water",
     "section": "",
-    "text": "Inleiding\nDeze opdracht behelst het maken van een neerslag-afvoermodel van de Wolvenpolder, bij Spijkenisse.\nHet is de bedoeling dat je …\n\n\n\n\n\n\nInformatie\n\n\n\nHier komt uw uitleg…\n\n\n\n\n\n\n\n\nVraag\n\n\n\nHier komt uw vraag…\n\n\n\n\n\n\n\n\nBelangrijk\n\n\n\nHier komt een waarschuwing…\n\n\n\n\n\n\n\n\nLet op!\n\n\n\nHier komt een waarschuwing…\n\n\n\n\n\n\n\n\nVoorzichting\n\n\n\nHier komt een waarschuwing level 2…"
+    "text": "Hier het tutorial schrijven voor het maken van de Wolvenpolder",
+    "crumbs": [
+      "Wolvenpolder",
+      "Modelbouw"
+    ]
   },
   {
     "objectID": "viewers.html",
@@ -55,7 +59,6 @@
     "section": "",
     "text": "Massop, H. Th. L., & Schuiling, C. (2016). Buisdrainagekaart 2015: Update landelijke buisdrainagekaart op basis van de landbouwmeitellingen van 2012 (Alterra-rapport 2700). Alterra Wageningen UR. https://www.wur.nl/en/show/Alterra-report-2700-Buisdrainagekaart-2015.htm",
     "crumbs": [
-      "Wolvenpolder",
       "Bronnen"
     ]
   },
@@ -66,7 +69,6 @@
     "section": "",
     "text": "Massop, H. Th. L., & Schuiling, C. (2016). Buisdrainagekaart 2015: Update landelijke buisdrainagekaart op basis van de landbouwmeitellingen van 2012 (Alterra-rapport 2700). Alterra Wageningen UR. https://www.wur.nl/en/show/Alterra-report-2700-Buisdrainagekaart-2015.htm",
     "crumbs": [
-      "Wolvenpolder",
       "Bronnen"
     ]
   },
@@ -77,7 +79,6 @@
     "section": "Software",
     "text": "Software\nHydroconsult. (z.d.). Channel Builder (Versie 3.5.0.0) [Computersoftware]. Nederland. website\nHydroconsult. (z.d.). Catchment Builder (Versie 3.5.0.0) [Computersoftware]. Nederland. website",
     "crumbs": [
-      "Wolvenpolder",
       "Bronnen"
     ]
   },
@@ -541,14 +542,14 @@
     "href": "index.html",
     "title": "Syllabus casus Landelijk Water",
     "section": "",
-    "text": "Deze syllabus bevat het cursusmateriaal voor de casus Landelijk Water binnen de major Watermanagement van hogeschool Van Hall Larenstein.\n\n\nDe modelschematisatie kan automatisch worden vervaardigd met de bijbehorende bronbestanden en configuraties. Zo vervaardigen we het boezemmodel met de programma’s Channel Builder en Catchment Builder, versie 3.0.0.2. (Hydroconsult).\n\n\n\n\nBoezemmodel Noorderzijlvest in SOBEK\n\n\n\n\nDit model wordt gebouwd op het schaalniveau van de boezemwateren van Noorderzijlvest en bevat daarnaast ook de hoofdwatergangen in de Drentse beekdalen, het Dwarsdiep en de noordelijke kleipolders Noordpolder en Spijksterpompen. Het model wordt speciaal vervaardigd voor opname in het FEWS (Flood Early Warning System) van het waterschap."
+    "text": "Deze syllabus bevat het cursusmateriaal voor de casus Landelijk Water binnen de major Watermanagement van hogeschool Van Hall Larenstein. Dit onderdeel wordt aangeboden in de vierde periode van het derde jaar van de opleiding. Via het menu aan de linke kant van deze pagina kan je navigeren naar de verschillende opdrachten binnen deze casus."
   },
   {
     "objectID": "index.html#inleiding",
     "href": "index.html#inleiding",
     "title": "Syllabus casus Landelijk Water",
     "section": "",
-    "text": "Deze syllabus bevat het cursusmateriaal voor de casus Landelijk Water binnen de major Watermanagement van hogeschool Van Hall Larenstein.\n\n\nDe modelschematisatie kan automatisch worden vervaardigd met de bijbehorende bronbestanden en configuraties. Zo vervaardigen we het boezemmodel met de programma’s Channel Builder en Catchment Builder, versie 3.0.0.2. (Hydroconsult).\n\n\n\n\nBoezemmodel Noorderzijlvest in SOBEK\n\n\n\n\nDit model wordt gebouwd op het schaalniveau van de boezemwateren van Noorderzijlvest en bevat daarnaast ook de hoofdwatergangen in de Drentse beekdalen, het Dwarsdiep en de noordelijke kleipolders Noordpolder en Spijksterpompen. Het model wordt speciaal vervaardigd voor opname in het FEWS (Flood Early Warning System) van het waterschap."
+    "text": "Deze syllabus bevat het cursusmateriaal voor de casus Landelijk Water binnen de major Watermanagement van hogeschool Van Hall Larenstein. Dit onderdeel wordt aangeboden in de vierde periode van het derde jaar van de opleiding. Via het menu aan de linke kant van deze pagina kan je navigeren naar de verschillende opdrachten binnen deze casus."
   },
   {
     "objectID": "overdracht_aanbevelingen.html",
@@ -574,12 +575,11 @@
   {
     "objectID": "wolvenpolder/inleiding.html",
     "href": "wolvenpolder/inleiding.html",
-    "title": "Inleiding",
+    "title": "Landelijk water",
     "section": "",
-    "text": "Inleiding",
+    "text": "Deze opdracht behelst het maken van een neerslag-afvoermodel van de Wolvenpolder, bij Spijkenisse. Onder het kopje ‘Wolvenpolder - Opdracht’ vind jij een stappenplan om een simpel model te bouwen voor de Wolvenpolder in D-HYDRO. Volg de stappenplan en neem belangrijke tussenstappen op in je logboek (met screenshots!).\nVervolgens voer jij een kalibratie uit van het model (zie kopje kalibratie). Neem een tabel met aanpassingen op in je logboek.\nBeantwoord ook de vragen die weergegeven zijn in groen.\n\n\n\n\n\n\nVraag\n\n\n\nVragen zijn weergegeven in groen. Deze moet jij beantwoorden in jouw logboek.\n\n\n\n\n\n\n\n\nBelangrijk\n\n\n\nBelangrijke mededelingen zijn weergeven in rood.\n\n\n\n\n\n\n\n\nInformatie\n\n\n\nExtra uitleg is weergegeven in blauw.",
     "crumbs": [
       "Wolvenpolder",
-      "Tutorial",
       "Inleiding"
     ]
   },
@@ -596,5 +596,195 @@
     "title": "Wolvenpolder",
     "section": "",
     "text": "Hier komt een waarschuwing…"
+  },
+  {
+    "objectID": "studiewijzer/introductie.html",
+    "href": "studiewijzer/introductie.html",
+    "title": "Landelijk water",
+    "section": "",
+    "text": "Voor watermanagers is het inrichten en beheren van gebieden een belangrijke taak. Daarbij zijn er altijd afwegingen: doelen voor natuur en landbouw, wateroverlast vs. droogte, maar ook de fysieke mogelijkheden. De term doelrealisatie komt dan al gauw om de hoek kijken: kan het eigenlijk wel, wat er bedacht/gepland is? Zijn de randvoorwaarden aanwezig om tegelijkertijd vegetatietypen te ontwikkelen en landbouw te bedrijven op elke mogelijke manier? Of botst dit met elkaar of met bijvoorbeeld de normen voor regionale wateroverlast?\nStakeholders zijn vaak waterschappen, natuurbeherende organisaties, boeren en bewoners, en gezamenlijk hebben ze wensen die spanningen opleveren, maar die in combinatie met de fysieke omgeving op een zo goed mogelijke manier vormgegeven moeten worden. Belangrijke maar ook complicerende factoren vormen regels rond bijvoorbeeld KRW en Natura2000. En denk dan natuurlijk ook aan de discussie rondom de stikstofproblematiek die nu volop wordt gevoerd.\n\n\n Binnen deze casus staat het gebied Eendragt centraal (bij xxx). In dit gebied is het de uitdaging om de aspecten water, natuur en landbouw in evenwicht te brengen. De Eendragt polder is een xxx \n\n\n\n\nLocatie Eendragt polder",
+    "crumbs": [
+      "Studiewijzer",
+      "Introductie",
+      "Relevantie"
+    ]
+  },
+  {
+    "objectID": "studiewijzer/introductie.html#introductie",
+    "href": "studiewijzer/introductie.html#introductie",
+    "title": "Landelijk water",
+    "section": "",
+    "text": "Voor watermanagers is het inrichten en beheren van gebieden een belangrijke taak. Daarbij zijn er altijd afwegingen: doelen voor natuur en landbouw, wateroverlast vs. droogte, maar ook de fysieke mogelijkheden. De term doelrealisatie komt dan al gauw om de hoek kijken: kan het eigenlijk wel, wat er bedacht/gepland is? Zijn de randvoorwaarden aanwezig om tegelijkertijd vegetatietypen te ontwikkelen en landbouw te bedrijven op elke mogelijke manier? Of botst dit met elkaar of met bijvoorbeeld de normen voor regionale wateroverlast?\nStakeholders zijn vaak waterschappen, natuurbeherende organisaties, boeren en bewoners, en gezamenlijk hebben ze wensen die spanningen opleveren, maar die in combinatie met de fysieke omgeving op een zo goed mogelijke manier vormgegeven moeten worden. Belangrijke maar ook complicerende factoren vormen regels rond bijvoorbeeld KRW en Natura2000. En denk dan natuurlijk ook aan de discussie rondom de stikstofproblematiek die nu volop wordt gevoerd.\n\n\n Binnen deze casus staat het gebied Eendragt centraal (bij xxx). In dit gebied is het de uitdaging om de aspecten water, natuur en landbouw in evenwicht te brengen. De Eendragt polder is een xxx \n\n\n\n\nLocatie Eendragt polder",
+    "crumbs": [
+      "Studiewijzer",
+      "Introductie",
+      "Relevantie"
+    ]
+  },
+  {
+    "objectID": "studiewijzer/toetsing.html",
+    "href": "studiewijzer/toetsing.html",
+    "title": "Landelijk water",
+    "section": "",
+    "text": "Je sluit deze casus af met twee toetsen:\n\n\n\n\n\n\n\n\n\nWeging\nMinimum cijfer\nToetsvorm\nResultaatschaal\n\n3\n5,5\nOpdracht\nToetsen 1-10. 1 decimaal 5,5 geslaagd\n\n\n\n\n\n\n\n\n\n\n\nWeging\nMinimum cijfer\nToetsvorm\nResultaatschaal\n\n4\n5,5\nOpdracht\nToetsen 1-10. 1 decimaal 5,5 geslaagd\n(alleen voor voltijd)\n\n\n\n\n\n\n\nDe volgende leerdoelen staan centraal in de toets Landelijk water modelleren:\n\nGood Modellering Practices hanteren bij hydrologisch modelleren\nEen oppervlaktewatersysteem modelleren\nEen oppervlaktewatersysteem toetsen\nEffecten van waterhuishoudkundige ingrepen op landbouw en natuur bepalen\n\nVoor de casus Landelijk water ga je met verschillende modellen aan de slag, om kennis over modellering op te doen zodat je daarmee een advies kunt geven aan het waterschap over de Eendragt polder. Deze toets bestaat uit de individuele beoordeling van de (oefen)modellen die je gaat maken en gebruiken om uiteindelijk de analyse en toetsing van de Eendragt polder te kunnen uitvoeren.\nOm de gemaakte of gebruikte modellen goed te kunnen beoordelen vragen we om per deelopdracht/deelmodel een logboek te maken, waarin je aangeeft welke stappen je doorlopen hebt en welke resultaten dit opgeleverd heeft. Voor deze toets ga je werken met D-Hydro inclusief bijbehorende (Excel)tools, GIS en de webapplicatie van de waterwijzer Landbouw.\nDe volgende deelopdrachten/deelmodellen moeten worden gemaakt en uitgewerkt worden in een logboek:\n xxx hier nog uitleg geven over ‘vraag boxen’, ‘info boxen’ etc. \n xxx nog updaten!!\n Deel 1 (Woensdag 22 mei, 17.00 uur op Moodle) \n 1. Sobek 0D Rainfall Runoff (RR) model van de Wolvenpolder\n2. Sobek 1DFlow model van de Leijgraaf\n3. Sobek 0D (RR) -1D model van de Leijgraaf\n4. Toetsing natschade/droogteschade a.d.h.v. Waterwijzers Landbouw en Natuur uitgevoerd voor het stroomgebied van de Geleenbeek \n Deel 2 (Maandag 10 juni, 17.00 uur op Moodle) \n 5. NBW toetsing uitgevoerd a.d.h.v. Stochastentool, Sobek en NBW toetsingstool voor de Zeven Blokkenpolder \nHet logboek van deze opdrachten lever je in op Moodle (in twee delen). Op welke criteria dit logboek beoordeeld wordt kan je vinden in de rubric (zie menu aan de linke kant).\nHet logboek wordt individueel beoordeeld met een cijfer.\n\n\n\nDe volgende leerdoelen staan centraal in de toets Advies landelijk water:\n\nRelevante karakteristieken van het bodem- en watersysteem waarderen\nEisen en wensen voor een plangebied vaststellen\nHaalbaarheid van oplossingen beoordelen\n\nVoor de toets Advies landelijk water maken jullie met je groep een video-opname (screencast inclusief webcam) van een presentatie in PowerPoint van maximaal 15 minuten (let op: dit is echt een harde eis, video’s die langer zijn dan 15 minuten worden met een onvoldoende beoordeeld), waarin jullie samen een toelichting geven op:\n\nde opbouw van het gebied (oude en nieuwe situatie),\nde toetsing van de oude situatie (inundatie en doelrealisatie landbouw en natuur),\nde eisen en wensen voor het plangebied (o.a. op basis van de toetsing),\nde mogelijke oplossingen (zelf bedachte maatregelen op basis van de toetsing) en\nde analyse van de reeds uitgevoerde oplossingen op effectiviteit en (klimaat)robuustheid.\n\nHet product wordt beoordeeld met een cijfer. De leidraad voor de beoordeling is opgenomen in de rubric (zie menu aan de linke kant).  Deadline voor Advies landelijk water is vrijdag 14 juni, 17.00 uur.",
+    "crumbs": [
+      "Studiewijzer",
+      "Introductie",
+      "Toetsing"
+    ]
+  },
+  {
+    "objectID": "studiewijzer/toetsing.html#introductie",
+    "href": "studiewijzer/toetsing.html#introductie",
+    "title": "Landelijk water",
+    "section": "",
+    "text": "Je sluit deze casus af met twee toetsen:\n\n\n\n\n\n\n\n\n\nWeging\nMinimum cijfer\nToetsvorm\nResultaatschaal\n\n3\n5,5\nOpdracht\nToetsen 1-10. 1 decimaal 5,5 geslaagd\n\n\n\n\n\n\n\n\n\n\n\nWeging\nMinimum cijfer\nToetsvorm\nResultaatschaal\n\n4\n5,5\nOpdracht\nToetsen 1-10. 1 decimaal 5,5 geslaagd\n(alleen voor voltijd)\n\n\n\n\n\n\n\nDe volgende leerdoelen staan centraal in de toets Landelijk water modelleren:\n\nGood Modellering Practices hanteren bij hydrologisch modelleren\nEen oppervlaktewatersysteem modelleren\nEen oppervlaktewatersysteem toetsen\nEffecten van waterhuishoudkundige ingrepen op landbouw en natuur bepalen\n\nVoor de casus Landelijk water ga je met verschillende modellen aan de slag, om kennis over modellering op te doen zodat je daarmee een advies kunt geven aan het waterschap over de Eendragt polder. Deze toets bestaat uit de individuele beoordeling van de (oefen)modellen die je gaat maken en gebruiken om uiteindelijk de analyse en toetsing van de Eendragt polder te kunnen uitvoeren.\nOm de gemaakte of gebruikte modellen goed te kunnen beoordelen vragen we om per deelopdracht/deelmodel een logboek te maken, waarin je aangeeft welke stappen je doorlopen hebt en welke resultaten dit opgeleverd heeft. Voor deze toets ga je werken met D-Hydro inclusief bijbehorende (Excel)tools, GIS en de webapplicatie van de waterwijzer Landbouw.\nDe volgende deelopdrachten/deelmodellen moeten worden gemaakt en uitgewerkt worden in een logboek:\n xxx hier nog uitleg geven over ‘vraag boxen’, ‘info boxen’ etc. \n xxx nog updaten!!\n Deel 1 (Woensdag 22 mei, 17.00 uur op Moodle) \n 1. Sobek 0D Rainfall Runoff (RR) model van de Wolvenpolder\n2. Sobek 1DFlow model van de Leijgraaf\n3. Sobek 0D (RR) -1D model van de Leijgraaf\n4. Toetsing natschade/droogteschade a.d.h.v. Waterwijzers Landbouw en Natuur uitgevoerd voor het stroomgebied van de Geleenbeek \n Deel 2 (Maandag 10 juni, 17.00 uur op Moodle) \n 5. NBW toetsing uitgevoerd a.d.h.v. Stochastentool, Sobek en NBW toetsingstool voor de Zeven Blokkenpolder \nHet logboek van deze opdrachten lever je in op Moodle (in twee delen). Op welke criteria dit logboek beoordeeld wordt kan je vinden in de rubric (zie menu aan de linke kant).\nHet logboek wordt individueel beoordeeld met een cijfer.\n\n\n\nDe volgende leerdoelen staan centraal in de toets Advies landelijk water:\n\nRelevante karakteristieken van het bodem- en watersysteem waarderen\nEisen en wensen voor een plangebied vaststellen\nHaalbaarheid van oplossingen beoordelen\n\nVoor de toets Advies landelijk water maken jullie met je groep een video-opname (screencast inclusief webcam) van een presentatie in PowerPoint van maximaal 15 minuten (let op: dit is echt een harde eis, video’s die langer zijn dan 15 minuten worden met een onvoldoende beoordeeld), waarin jullie samen een toelichting geven op:\n\nde opbouw van het gebied (oude en nieuwe situatie),\nde toetsing van de oude situatie (inundatie en doelrealisatie landbouw en natuur),\nde eisen en wensen voor het plangebied (o.a. op basis van de toetsing),\nde mogelijke oplossingen (zelf bedachte maatregelen op basis van de toetsing) en\nde analyse van de reeds uitgevoerde oplossingen op effectiviteit en (klimaat)robuustheid.\n\nHet product wordt beoordeeld met een cijfer. De leidraad voor de beoordeling is opgenomen in de rubric (zie menu aan de linke kant).  Deadline voor Advies landelijk water is vrijdag 14 juni, 17.00 uur.",
+    "crumbs": [
+      "Studiewijzer",
+      "Introductie",
+      "Toetsing"
+    ]
+  },
+  {
+    "objectID": "studiewijzer/leerdoelen.html",
+    "href": "studiewijzer/leerdoelen.html",
+    "title": "Landelijk water",
+    "section": "",
+    "text": "Deze module richt zich op het water-robuust inrichten van een gebied, waarbij functies zoveel mogelijk voorwaarden van het systeem volgen.\n\nGood Modellering Practices hanteren bij hydrologisch modelleren\nEen oppervlaktewatersysteem modelleren\nEen oppervlaktewatersysteem toetsen\nEffecten van waterhuishoudkundige ingrepen op landbouw en natuur bepalen\nRelevante karakteristieken van het bodem- en watersysteem waarderen\nEisen en wensen voor een plangebied vaststellen\nHaalbaarheid van oplossingen beoordelen",
+    "crumbs": [
+      "Studiewijzer",
+      "Introductie",
+      "Leerdoelen"
+    ]
+  },
+  {
+    "objectID": "studiewijzer/leerdoelen.html#introductie",
+    "href": "studiewijzer/leerdoelen.html#introductie",
+    "title": "Landelijk water",
+    "section": "",
+    "text": "Deze module richt zich op het water-robuust inrichten van een gebied, waarbij functies zoveel mogelijk voorwaarden van het systeem volgen.\n\nGood Modellering Practices hanteren bij hydrologisch modelleren\nEen oppervlaktewatersysteem modelleren\nEen oppervlaktewatersysteem toetsen\nEffecten van waterhuishoudkundige ingrepen op landbouw en natuur bepalen\nRelevante karakteristieken van het bodem- en watersysteem waarderen\nEisen en wensen voor een plangebied vaststellen\nHaalbaarheid van oplossingen beoordelen",
+    "crumbs": [
+      "Studiewijzer",
+      "Introductie",
+      "Leerdoelen"
+    ]
+  },
+  {
+    "objectID": "studiewijzer/opdracht.html",
+    "href": "studiewijzer/opdracht.html",
+    "title": "Landelijk water",
+    "section": "",
+    "text": "In dit hoofdstuk worden de opdracht nader geïntroduceerd. Aangegeven is welke hulpmiddelen je daarbij kunt gebruiken.\n\n\n\n\nDeze casus is opgezet rond de Eendragt polder. Je maakt kennis met het analyseren van extreme waarden in het waterbeheer. Zulke analyses voeren we uit om bijvoorbeeld de kans op een inundatie (overstroming) te kunnen bepalen. In het Nationaal Bestuursakkoord Water (NBW) is afgesproken dat alle watersystemen van waterschappen eens in de 5 jaar getoetst worden. Het NBW bevat afspraken rondom veiligheid en wateroverlast (te veel) en procesafspraken rond watertekorten, verdroging, verzilting (te weinig), water(bodem)kwaliteit, sanering waterbodems (te vies) en ecologie (ecologisch te arm water).\nxxx moeten we hier nog iets zeggen over dat NBW inmiddels is vervangen door ander beleid maar nog wel gebruikt? Hoe verwoorden we dit? \nSpecifiek voor wateroverlast die optreedt wanneer regionale watergangen buiten hun oevers treden zijn landelijke uniforme werknormen opgesteld, zie tabel 1.\n\n\n\n\n\n\n\n\nNormklasse gerelateerd aan grondgebruiktype\nMaaiveldcriterium [%]\nBasis werkcriterium [1/j]\n\n\n\n\nGrasland\n5 procent\n1/10\n\n\nAkkerbouw\n1 procent\n1/25\n\n\nHoogwaardige land- en tuinbouw\n1 procent\n1/50\n\n\nGlastuinbouw\n1 procent\n1/50\n\n\nBebouwd gebied\n0 procent\n1/100\n\n\n\n\nTabel 1: Inundatienormen uit het NBW.\n\nIn deze casus zul je de twee meest gebruikte methodes leren toepassen: de tijdreeksmethode en de stochastenmethode. Beide methodes stellen je in staat om waterstanden en afvoeren te berekenen die een bepaalde kans op overschrijding hebben. Je leert statistiek en kansrekening toe te passen op neerslagvolumes, afvoeren en waterstanden en je vergroot je modelleervaardigheden.\nOnderdeel van de opdracht is om met behulp van D-HYDRO een analyse te maken van de hydrologische toestand van het oppervlaktewater voorafgaand aan de peilaanpassingen en functiewijzigingen van de Eendragt polder, inclusief een overzicht van locaties met wateroverlast (waar wordt niet voldaan aan de NBW normen). Welke wateropgave bereken je? Wat zijn de eisen en wensen voor het plangebied op basis van deze berekende wateropgave?\nOm de NBW toetsing snel en efficiënt uit te voeren ga je gebruik maken van verschillende tools. Een nadere toelichting op het uitvoeren van een NBW toetsing is te vinden in deze syllabus onder het kopje  xxx .\nNaast de NBW toetsing bepaal je met de online applicatie van de waterwijzer Landbouw in hoeverre er een optimale match is tussen het landgebruik, de bodem en het waterregime van de Eendragt polder. Aan jullie hierbij de vraag om te analyseren hoe veel te nat / te droog het was in het gebied. In welke gebieden was het te nat? Wat is de zogenaamde natschade (zuurstofstress) en welke opbrengstderving wordt hierdoor veroorzaakt? Tevens kunnen er ook gebieden zijn waar de drooglegging goed is, mogelijk zelfs te groot. Wat is de droogtestress voor deze gebieden? De berekening van de droogtestress geeft je inzicht in droogteschade en kan dienen als opmaat naar mogelijke aanvullende maatregelen.\nHet gebruik van de online applicatie van de Waterwijzer Landbouw wordt in een van de werkcolleges verder toegelicht.\n\n\n\n xxx check of alles nog klopt!! .\nDe analyse van de oude situatie (wateroverlast/wateropgave en doelrealisatie landbouw) heb je afgerond. Nu is het tijd om mogelijke oplossingen te formuleren (eigen ideeën op basis van de analyses). Ook ga je de reeds uitgevoerde oplossingen in het gebied analyseren op effectiviteit en (klimaat)robuustheid. Wat vindt je van de uitgevoerde oplossingen en voorgestelde plannen? Zijn de genomen maatregelen afdoende om het gebied de komende jaren effectief te kunnen gebruiken als landbouwgebied? Sluiten de huidige omstandigheden aan bij de beoogde natuurdoelen? Wat zijn eventuele knelpunten voor de landbouw en als je deze locaties omvormt tot natuur, welke natuurdoelen zijn dan haalbaar? Of omgekeerd; zijn er gebieden met een natuurfunctie die toch beter landbouwfunctie hebben?",
+    "crumbs": [
+      "Studiewijzer",
+      "Opdracht",
+      "Opdracht"
+    ]
+  },
+  {
+    "objectID": "studiewijzer/opdracht.html#opdracht",
+    "href": "studiewijzer/opdracht.html#opdracht",
+    "title": "Landelijk water",
+    "section": "",
+    "text": "In dit hoofdstuk worden de opdracht nader geïntroduceerd. Aangegeven is welke hulpmiddelen je daarbij kunt gebruiken.\n\n\n\n\nDeze casus is opgezet rond de Eendragt polder. Je maakt kennis met het analyseren van extreme waarden in het waterbeheer. Zulke analyses voeren we uit om bijvoorbeeld de kans op een inundatie (overstroming) te kunnen bepalen. In het Nationaal Bestuursakkoord Water (NBW) is afgesproken dat alle watersystemen van waterschappen eens in de 5 jaar getoetst worden. Het NBW bevat afspraken rondom veiligheid en wateroverlast (te veel) en procesafspraken rond watertekorten, verdroging, verzilting (te weinig), water(bodem)kwaliteit, sanering waterbodems (te vies) en ecologie (ecologisch te arm water).\nxxx moeten we hier nog iets zeggen over dat NBW inmiddels is vervangen door ander beleid maar nog wel gebruikt? Hoe verwoorden we dit? \nSpecifiek voor wateroverlast die optreedt wanneer regionale watergangen buiten hun oevers treden zijn landelijke uniforme werknormen opgesteld, zie tabel 1.\n\n\n\n\n\n\n\n\nNormklasse gerelateerd aan grondgebruiktype\nMaaiveldcriterium [%]\nBasis werkcriterium [1/j]\n\n\n\n\nGrasland\n5 procent\n1/10\n\n\nAkkerbouw\n1 procent\n1/25\n\n\nHoogwaardige land- en tuinbouw\n1 procent\n1/50\n\n\nGlastuinbouw\n1 procent\n1/50\n\n\nBebouwd gebied\n0 procent\n1/100\n\n\n\n\nTabel 1: Inundatienormen uit het NBW.\n\nIn deze casus zul je de twee meest gebruikte methodes leren toepassen: de tijdreeksmethode en de stochastenmethode. Beide methodes stellen je in staat om waterstanden en afvoeren te berekenen die een bepaalde kans op overschrijding hebben. Je leert statistiek en kansrekening toe te passen op neerslagvolumes, afvoeren en waterstanden en je vergroot je modelleervaardigheden.\nOnderdeel van de opdracht is om met behulp van D-HYDRO een analyse te maken van de hydrologische toestand van het oppervlaktewater voorafgaand aan de peilaanpassingen en functiewijzigingen van de Eendragt polder, inclusief een overzicht van locaties met wateroverlast (waar wordt niet voldaan aan de NBW normen). Welke wateropgave bereken je? Wat zijn de eisen en wensen voor het plangebied op basis van deze berekende wateropgave?\nOm de NBW toetsing snel en efficiënt uit te voeren ga je gebruik maken van verschillende tools. Een nadere toelichting op het uitvoeren van een NBW toetsing is te vinden in deze syllabus onder het kopje  xxx .\nNaast de NBW toetsing bepaal je met de online applicatie van de waterwijzer Landbouw in hoeverre er een optimale match is tussen het landgebruik, de bodem en het waterregime van de Eendragt polder. Aan jullie hierbij de vraag om te analyseren hoe veel te nat / te droog het was in het gebied. In welke gebieden was het te nat? Wat is de zogenaamde natschade (zuurstofstress) en welke opbrengstderving wordt hierdoor veroorzaakt? Tevens kunnen er ook gebieden zijn waar de drooglegging goed is, mogelijk zelfs te groot. Wat is de droogtestress voor deze gebieden? De berekening van de droogtestress geeft je inzicht in droogteschade en kan dienen als opmaat naar mogelijke aanvullende maatregelen.\nHet gebruik van de online applicatie van de Waterwijzer Landbouw wordt in een van de werkcolleges verder toegelicht.\n\n\n\n xxx check of alles nog klopt!! .\nDe analyse van de oude situatie (wateroverlast/wateropgave en doelrealisatie landbouw) heb je afgerond. Nu is het tijd om mogelijke oplossingen te formuleren (eigen ideeën op basis van de analyses). Ook ga je de reeds uitgevoerde oplossingen in het gebied analyseren op effectiviteit en (klimaat)robuustheid. Wat vindt je van de uitgevoerde oplossingen en voorgestelde plannen? Zijn de genomen maatregelen afdoende om het gebied de komende jaren effectief te kunnen gebruiken als landbouwgebied? Sluiten de huidige omstandigheden aan bij de beoogde natuurdoelen? Wat zijn eventuele knelpunten voor de landbouw en als je deze locaties omvormt tot natuur, welke natuurdoelen zijn dan haalbaar? Of omgekeerd; zijn er gebieden met een natuurfunctie die toch beter landbouwfunctie hebben?",
+    "crumbs": [
+      "Studiewijzer",
+      "Opdracht",
+      "Opdracht"
+    ]
+  },
+  {
+    "objectID": "studiewijzer/hulpmiddelen.html",
+    "href": "studiewijzer/hulpmiddelen.html",
+    "title": "Landelijk water",
+    "section": "",
+    "text": "Het is voor jullie van belang om een breed inzicht te krijgen in de bodem, water en vegetatie in het projectgebied. Daarvoor krijg je lessen over bodemfysica en oppervlaktewaterhydrologie. We werken met verschillende tools en modellen die je inzicht geven in de problematiek, het mogelijk maken om een toetsing uit te voeren van de huidige situatie en om het effect van mogelijke maatregelen te bepalen. Je werkt individueel de opdrachten uit.\nDeze syllabus omvat alle instructies die je nodig hebt voor het maken van de opdrachten. Bijbehorende les video’s, data en links naar de te gebruiken software en tools staan op Moodle. Meer informatie over de planning, organisatie en inhoud van de lessen is te vinden onder het kopje ‘Proces’.\n xxx nog aanpassen!!  Op internet is zeer veel informatie te vinden over de Eendragt polder en de plannen die daar de afgelopen jaren zijn bedacht en uitgevoerd. Gebruik deze informatie voor de analyse van de mogelijke maatregelen en de reeds uitgevoerde maatregelen en de bepaling van de effecten ervan.\nEnkele bruikbare links/documenten (niet volledig, we verwachten dat jullie zelf een literatuurstudie doen van div. bronnen op internet):\n xxx nog toevoegen!!",
+    "crumbs": [
+      "Studiewijzer",
+      "Opdracht",
+      "Hulpmiddelen"
+    ]
+  },
+  {
+    "objectID": "studiewijzer/hulpmiddelen.html#opdracht",
+    "href": "studiewijzer/hulpmiddelen.html#opdracht",
+    "title": "Landelijk water",
+    "section": "",
+    "text": "Het is voor jullie van belang om een breed inzicht te krijgen in de bodem, water en vegetatie in het projectgebied. Daarvoor krijg je lessen over bodemfysica en oppervlaktewaterhydrologie. We werken met verschillende tools en modellen die je inzicht geven in de problematiek, het mogelijk maken om een toetsing uit te voeren van de huidige situatie en om het effect van mogelijke maatregelen te bepalen. Je werkt individueel de opdrachten uit.\nDeze syllabus omvat alle instructies die je nodig hebt voor het maken van de opdrachten. Bijbehorende les video’s, data en links naar de te gebruiken software en tools staan op Moodle. Meer informatie over de planning, organisatie en inhoud van de lessen is te vinden onder het kopje ‘Proces’.\n xxx nog aanpassen!!  Op internet is zeer veel informatie te vinden over de Eendragt polder en de plannen die daar de afgelopen jaren zijn bedacht en uitgevoerd. Gebruik deze informatie voor de analyse van de mogelijke maatregelen en de reeds uitgevoerde maatregelen en de bepaling van de effecten ervan.\nEnkele bruikbare links/documenten (niet volledig, we verwachten dat jullie zelf een literatuurstudie doen van div. bronnen op internet):\n xxx nog toevoegen!!",
+    "crumbs": [
+      "Studiewijzer",
+      "Opdracht",
+      "Hulpmiddelen"
+    ]
+  },
+  {
+    "objectID": "studiewijzer/weekplanning.html",
+    "href": "studiewijzer/weekplanning.html",
+    "title": "Landelijk water",
+    "section": "",
+    "text": "Gedurende de lesperiode worden er diverse colleges verzorgd. Een deel van deze colleges zijn ingericht als vragenuren. In de tweede lesweek wordt een introductiecollege verzorgd, waarin we de opdracht aftrappen en uitleggen wat de bedoeling is. In onderstaand schema staan de lessen in de weken gepland.\n tabel nog updaten!! \n\n\n\n\n\n\n\n\n\n\n\n\n\n\nInhoud Les\nDocent\nWeek 1\nWeek 2\nWeek 3\nWeek 4\nWeek 5\nWeek 6\nWeek 7\n\n\n\n\nRow 1\nRow 1\nRow 1\nRow 1\nRow 1\nRow 1\nRow 1\nRow 1\nRow 1\n\n\nRow 2\nRow 2\nRow 2\nRow 2\nRow 2\nRow 2\nRow 2\nRow 2\nRow 2\n\n\nRow 3\nRow 3\nRow 3\nRow 3\nRow 3\nRow 3\nRow 3\nRow 3\nRow 3\n\n\nRow 4\nRow 4\nRow 4\nRow 4\nRow 4\nRow 4\nRow 4\nRow 4\nRow 4\n\n\nRow 5\nRow 5\nRow 5\nRow 5\nRow 5\nRow 5\nRow 5\nRow 5\nRow 5\n\n\nRow 6\nRow 6\nRow 6\nRow 6\nRow 6\nRow 6\nRow 6\nRow 6\nRow 6\n\n\nRow 7\nRow 7\nRow 7\nRow 7\nRow 7\nRow 7\nRow 7\nRow 7\nRow 7\n\n\nRow 8\nRow 8\nRow 8\nRow 8\nRow 8\nRow 8\nRow 8\nRow 8\nRow 8\n\n\nRow 9\nRow 9\nRow 9\nRow 9\nRow 9\nRow 9\nRow 9\nRow 9\nRow 9\n\n\nRow 10\nRow 10\nRow 10\nRow 10\nRow 10\nRow 10\nRow 10\nRow 10\nRow 10\n\n\nRow 11\nRow 11\nRow 11\nRow 11\nRow 11\nRow 11\nRow 11\nRow 11\nRow 11\n\n\nRow 12\nRow 12\nRow 12\nRow 12\nRow 12\nRow 12\nRow 12\nRow 12\nRow 12\n\n\n\n\nTabel 2: Globale overzicht planning\n\nOm de casus goed uit te kunnen voeren krijgen jullie les in het gebruik van de online applicatie van de Waterwijzer Landbouw en D-Hydro. Voor de kennismaking met D-Hydro krijgen jullie een aantal in te leveren opdrachten aangeboden tijdens de lessen. We maken gebruiken van div. instructievideo’s en deze syllabus. In week 4 wordt de NBW toetsing uitgelegd in samenwerking met gastdocent Siebe Bosch. Jullie gaan tijdens deze casus werken met meerdere door Siebe ontwikkelde tools.\n\n\n\n\n\n\nBelangrijk\n\n\n\nOm de opdrachten goed te kunnen voltooien is het noodzakelijk om te beschikken over een laptop waarop D-Hydro geïnstalleerd staat en ArcGIS. De installatiefiles die je nodig hebt voor D-HYDRO en bijbehorende licentiefile staan op Moodle. Installeer D-HYDRO voor de eerste les. Mocht je problemen hebben met de installatie, dan helpen we je daar graag bij tijdens de eerste introductieles!\n\n\nBelangrijke data  nog updaten!! , 17.00 uur op Moodle: individueel logboek deel 1 van de opdrachten Landelijk water modelleren (D-HYDRO).  nog updaten!! , 17.00 uur op Moodle: individueel logboek deel 2 van de opdrachten Landelijk water modelleren (stochasten- en tijdreeksanalyse en NBW toetsing)  nog updaten!! , 17.00 uur op Moodle: per groep video van presentatie van Advies landelijk water (max 10 min), waarin alle groepsgenoten aan het woord komen.\nIn onderstaande tabel is de detailplanning van alle lessen en opdrachten weergegeven, inclusief voorbereiding en nabereiding (huiswerk/werk voor in zelfwerktijd).\n nog updaten!! \n\n\n\n\n\n\n\n\n\n\n\nWeek/datum\nAantal lesuren\nDocent\nWat?\nVoorbereiding\nNabereiding\n\n\n\n\nRow 1\nRow 1\nRow 1\nRow 1\nRow 1\nRow 1\n\n\nRow 2\nRow 2\nRow 2\nRow 2\nRow 2\nRow 2\n\n\nRow 3\nRow 3\nRow 3\nRow 3\nRow 3\nRow 3\n\n\nRow 4\nRow 4\nRow 4\nRow 4\nRow 4\nRow 4\n\n\nRow 5\nRow 5\nRow 5\nRow 5\nRow 5\nRow 5\n\n\nRow 6\nRow 6\nRow 6\nRow 6\nRow 6\nRow 6\n\n\nRow 7\nRow 7\nRow 7\nRow 7\nRow 7\nRow 7\n\n\nRow 8\nRow 8\nRow 8\nRow 8\nRow 8\nRow 8\n\n\nRow 9\nRow 9\nRow 9\nRow 9\nRow 9\nRow 9\n\n\nRow 10\nRow 10\nRow 10\nRow 10\nRow 10\nRow 10\n\n\nRow 11\nRow 11\nRow 11\nRow 11\nRow 11\nRow 11\n\n\nRow 12\nRow 12\nRow 12\nRow 12\nRow 12\nRow 12\n\n\nRow 13\nRow 13\nRow 13\nRow 13\nRow 13\nRow 13\n\n\nRow 14\nRow 14\nRow 14\nRow 14\nRow 14\nRow 14\n\n\nRow 15\nRow 15\nRow 15\nRow 15\nRow 15\nRow 15\n\n\nRow 16\nRow 16\nRow 16\nRow 16\nRow 16\nRow 16\n\n\nRow 17\nRow 17\nRow 17\nRow 17\nRow 17\nRow 17\n\n\nRow 18\nRow 18\nRow 18\nRow 18\nRow 18\nRow 18\n\n\nRow 19\nRow 19\nRow 19\nRow 19\nRow 19\nRow 19\n\n\nRow 20\nRow 20\nRow 20\nRow 20\nRow 20\nRow 20\n\n\nRow 21\nRow 21\nRow 21\nRow 21\nRow 21\nRow 21\n\n\nRow 22\nRow 22\nRow 22\nRow 22\nRow 22\nRow 22\n\n\nRow 23\nRow 23\nRow 23\nRow 23\nRow 23\nRow 23\n\n\nRow 24\nRow 24\nRow 24\nRow 24\nRow 24\nRow 24\n\n\nRow 25\nRow 25\nRow 25\nRow 25\nRow 25\nRow 25\n\n\nRow 26\nRow 26\nRow 26\nRow 26\nRow 26\nRow 26\n\n\nRow 27\nRow 27\nRow 27\nRow 27\nRow 27\nRow 27\n\n\nRow 28\nRow 28\nRow 28\nRow 28\nRow 28\nRow 28\n\n\nRow 29\nRow 29\nRow 29\nRow 29\nRow 29\nRow 29\n\n\nRow 30\nRow 30\nRow 30\nRow 30\nRow 30\nRow 30\n\n\n\n\nTabel 3: Detailplanning",
+    "crumbs": [
+      "Studiewijzer",
+      "Proces",
+      "Weekplanning"
+    ]
+  },
+  {
+    "objectID": "studiewijzer/weekplanning.html#proces",
+    "href": "studiewijzer/weekplanning.html#proces",
+    "title": "Landelijk water",
+    "section": "",
+    "text": "Gedurende de lesperiode worden er diverse colleges verzorgd. Een deel van deze colleges zijn ingericht als vragenuren. In de tweede lesweek wordt een introductiecollege verzorgd, waarin we de opdracht aftrappen en uitleggen wat de bedoeling is. In onderstaand schema staan de lessen in de weken gepland.\n tabel nog updaten!! \n\n\n\n\n\n\n\n\n\n\n\n\n\n\nInhoud Les\nDocent\nWeek 1\nWeek 2\nWeek 3\nWeek 4\nWeek 5\nWeek 6\nWeek 7\n\n\n\n\nRow 1\nRow 1\nRow 1\nRow 1\nRow 1\nRow 1\nRow 1\nRow 1\nRow 1\n\n\nRow 2\nRow 2\nRow 2\nRow 2\nRow 2\nRow 2\nRow 2\nRow 2\nRow 2\n\n\nRow 3\nRow 3\nRow 3\nRow 3\nRow 3\nRow 3\nRow 3\nRow 3\nRow 3\n\n\nRow 4\nRow 4\nRow 4\nRow 4\nRow 4\nRow 4\nRow 4\nRow 4\nRow 4\n\n\nRow 5\nRow 5\nRow 5\nRow 5\nRow 5\nRow 5\nRow 5\nRow 5\nRow 5\n\n\nRow 6\nRow 6\nRow 6\nRow 6\nRow 6\nRow 6\nRow 6\nRow 6\nRow 6\n\n\nRow 7\nRow 7\nRow 7\nRow 7\nRow 7\nRow 7\nRow 7\nRow 7\nRow 7\n\n\nRow 8\nRow 8\nRow 8\nRow 8\nRow 8\nRow 8\nRow 8\nRow 8\nRow 8\n\n\nRow 9\nRow 9\nRow 9\nRow 9\nRow 9\nRow 9\nRow 9\nRow 9\nRow 9\n\n\nRow 10\nRow 10\nRow 10\nRow 10\nRow 10\nRow 10\nRow 10\nRow 10\nRow 10\n\n\nRow 11\nRow 11\nRow 11\nRow 11\nRow 11\nRow 11\nRow 11\nRow 11\nRow 11\n\n\nRow 12\nRow 12\nRow 12\nRow 12\nRow 12\nRow 12\nRow 12\nRow 12\nRow 12\n\n\n\n\nTabel 2: Globale overzicht planning\n\nOm de casus goed uit te kunnen voeren krijgen jullie les in het gebruik van de online applicatie van de Waterwijzer Landbouw en D-Hydro. Voor de kennismaking met D-Hydro krijgen jullie een aantal in te leveren opdrachten aangeboden tijdens de lessen. We maken gebruiken van div. instructievideo’s en deze syllabus. In week 4 wordt de NBW toetsing uitgelegd in samenwerking met gastdocent Siebe Bosch. Jullie gaan tijdens deze casus werken met meerdere door Siebe ontwikkelde tools.\n\n\n\n\n\n\nBelangrijk\n\n\n\nOm de opdrachten goed te kunnen voltooien is het noodzakelijk om te beschikken over een laptop waarop D-Hydro geïnstalleerd staat en ArcGIS. De installatiefiles die je nodig hebt voor D-HYDRO en bijbehorende licentiefile staan op Moodle. Installeer D-HYDRO voor de eerste les. Mocht je problemen hebben met de installatie, dan helpen we je daar graag bij tijdens de eerste introductieles!\n\n\nBelangrijke data  nog updaten!! , 17.00 uur op Moodle: individueel logboek deel 1 van de opdrachten Landelijk water modelleren (D-HYDRO).  nog updaten!! , 17.00 uur op Moodle: individueel logboek deel 2 van de opdrachten Landelijk water modelleren (stochasten- en tijdreeksanalyse en NBW toetsing)  nog updaten!! , 17.00 uur op Moodle: per groep video van presentatie van Advies landelijk water (max 10 min), waarin alle groepsgenoten aan het woord komen.\nIn onderstaande tabel is de detailplanning van alle lessen en opdrachten weergegeven, inclusief voorbereiding en nabereiding (huiswerk/werk voor in zelfwerktijd).\n nog updaten!! \n\n\n\n\n\n\n\n\n\n\n\nWeek/datum\nAantal lesuren\nDocent\nWat?\nVoorbereiding\nNabereiding\n\n\n\n\nRow 1\nRow 1\nRow 1\nRow 1\nRow 1\nRow 1\n\n\nRow 2\nRow 2\nRow 2\nRow 2\nRow 2\nRow 2\n\n\nRow 3\nRow 3\nRow 3\nRow 3\nRow 3\nRow 3\n\n\nRow 4\nRow 4\nRow 4\nRow 4\nRow 4\nRow 4\n\n\nRow 5\nRow 5\nRow 5\nRow 5\nRow 5\nRow 5\n\n\nRow 6\nRow 6\nRow 6\nRow 6\nRow 6\nRow 6\n\n\nRow 7\nRow 7\nRow 7\nRow 7\nRow 7\nRow 7\n\n\nRow 8\nRow 8\nRow 8\nRow 8\nRow 8\nRow 8\n\n\nRow 9\nRow 9\nRow 9\nRow 9\nRow 9\nRow 9\n\n\nRow 10\nRow 10\nRow 10\nRow 10\nRow 10\nRow 10\n\n\nRow 11\nRow 11\nRow 11\nRow 11\nRow 11\nRow 11\n\n\nRow 12\nRow 12\nRow 12\nRow 12\nRow 12\nRow 12\n\n\nRow 13\nRow 13\nRow 13\nRow 13\nRow 13\nRow 13\n\n\nRow 14\nRow 14\nRow 14\nRow 14\nRow 14\nRow 14\n\n\nRow 15\nRow 15\nRow 15\nRow 15\nRow 15\nRow 15\n\n\nRow 16\nRow 16\nRow 16\nRow 16\nRow 16\nRow 16\n\n\nRow 17\nRow 17\nRow 17\nRow 17\nRow 17\nRow 17\n\n\nRow 18\nRow 18\nRow 18\nRow 18\nRow 18\nRow 18\n\n\nRow 19\nRow 19\nRow 19\nRow 19\nRow 19\nRow 19\n\n\nRow 20\nRow 20\nRow 20\nRow 20\nRow 20\nRow 20\n\n\nRow 21\nRow 21\nRow 21\nRow 21\nRow 21\nRow 21\n\n\nRow 22\nRow 22\nRow 22\nRow 22\nRow 22\nRow 22\n\n\nRow 23\nRow 23\nRow 23\nRow 23\nRow 23\nRow 23\n\n\nRow 24\nRow 24\nRow 24\nRow 24\nRow 24\nRow 24\n\n\nRow 25\nRow 25\nRow 25\nRow 25\nRow 25\nRow 25\n\n\nRow 26\nRow 26\nRow 26\nRow 26\nRow 26\nRow 26\n\n\nRow 27\nRow 27\nRow 27\nRow 27\nRow 27\nRow 27\n\n\nRow 28\nRow 28\nRow 28\nRow 28\nRow 28\nRow 28\n\n\nRow 29\nRow 29\nRow 29\nRow 29\nRow 29\nRow 29\n\n\nRow 30\nRow 30\nRow 30\nRow 30\nRow 30\nRow 30\n\n\n\n\nTabel 3: Detailplanning",
+    "crumbs": [
+      "Studiewijzer",
+      "Proces",
+      "Weekplanning"
+    ]
+  },
+  {
+    "objectID": "studiewijzer/organisatie.html",
+    "href": "studiewijzer/organisatie.html",
+    "title": "Landelijk water",
+    "section": "",
+    "text": "In dit hoofdstuk is aangegeven wat de organisatie en planning is van de verschillende onderdelen\n\n\nDe casus Landelijk water wordt deels individueel en deels in groepen uitgevoerd. De lessen en werkcolleges worden op school gegeven in PC zalen, maar het is de bedoeling dat je zelf de benodigde software of je eigen laptop/pc installeert (dit omdat niet alle software die we gebruiken beschikbaar is op de school PC’s). Zorg ervoor dat alles draait voordat de casus start.\nDe opdracht voeren we fictief uit voor waterschap Hollandse Delta.\nOp  xxx  gaan wij op excursie naar de Eendragt polder.  nog verder updaten  Hier verzamel je informatie en maakt je foto’s (eventueel filmpjes) om te gebruiken in je Advies landelijk water (video).",
+    "crumbs": [
+      "Studiewijzer",
+      "Proces",
+      "Organisatie"
+    ]
+  },
+  {
+    "objectID": "studiewijzer/organisatie.html#proces",
+    "href": "studiewijzer/organisatie.html#proces",
+    "title": "Landelijk water",
+    "section": "",
+    "text": "In dit hoofdstuk is aangegeven wat de organisatie en planning is van de verschillende onderdelen\n\n\nDe casus Landelijk water wordt deels individueel en deels in groepen uitgevoerd. De lessen en werkcolleges worden op school gegeven in PC zalen, maar het is de bedoeling dat je zelf de benodigde software of je eigen laptop/pc installeert (dit omdat niet alle software die we gebruiken beschikbaar is op de school PC’s). Zorg ervoor dat alles draait voordat de casus start.\nDe opdracht voeren we fictief uit voor waterschap Hollandse Delta.\nOp  xxx  gaan wij op excursie naar de Eendragt polder.  nog verder updaten  Hier verzamel je informatie en maakt je foto’s (eventueel filmpjes) om te gebruiken in je Advies landelijk water (video).",
+    "crumbs": [
+      "Studiewijzer",
+      "Proces",
+      "Organisatie"
+    ]
+  },
+  {
+    "objectID": "wolvenpolder/inleiding.html#inleiding",
+    "href": "wolvenpolder/inleiding.html#inleiding",
+    "title": "Landelijk water",
+    "section": "",
+    "text": "Deze opdracht behelst het maken van een neerslag-afvoermodel van de Wolvenpolder, bij Spijkenisse. Onder het kopje ‘Wolvenpolder - Opdracht’ vind jij een stappenplan om een simpel model te bouwen voor de Wolvenpolder in D-HYDRO. Volg de stappenplan en neem belangrijke tussenstappen op in je logboek (met screenshots!).\nVervolgens voer jij een kalibratie uit van het model (zie kopje kalibratie). Neem een tabel met aanpassingen op in je logboek.\nBeantwoord ook de vragen die weergegeven zijn in groen.\n\n\n\n\n\n\nVraag\n\n\n\nVragen zijn weergegeven in groen. Deze moet jij beantwoorden in jouw logboek.\n\n\n\n\n\n\n\n\nBelangrijk\n\n\n\nBelangrijke mededelingen zijn weergeven in rood.\n\n\n\n\n\n\n\n\nInformatie\n\n\n\nExtra uitleg is weergegeven in blauw.",
+    "crumbs": [
+      "Wolvenpolder",
+      "Inleiding"
+    ]
+  },
+  {
+    "objectID": "wolvenpolder/opdracht.html#modelbouw",
+    "href": "wolvenpolder/opdracht.html#modelbouw",
+    "title": "Landelijk water",
+    "section": "",
+    "text": "Hier het tutorial schrijven voor het maken van de Wolvenpolder",
+    "crumbs": [
+      "Wolvenpolder",
+      "Modelbouw"
+    ]
   }
 ]

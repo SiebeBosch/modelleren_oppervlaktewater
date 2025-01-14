@@ -1,0 +1,18 @@
+## 1 Introductie
+
+
+### 1.1 Relevantie
+Voor watermanagers is het inrichten en beheren van gebieden een belangrijke taak. Daarbij zijn er altijd afwegingen: doelen voor natuur en landbouw, wateroverlast vs. droogte, maar ook de fysieke mogelijkheden. De term doelrealisatie komt dan al gauw om de hoek kijken: kan het eigenlijk wel, wat er bedacht/gepland is? Zijn de randvoorwaarden aanwezig om tegelijkertijd vegetatietypen te ontwikkelen en landbouw te bedrijven op elke mogelijke manier? Of botst dit met elkaar of met bijvoorbeeld de normen voor regionale wateroverlast?
+
+Stakeholders zijn vaak waterschappen, natuurbeherende organisaties, boeren en bewoners, en gezamenlijk hebben ze wensen die spanningen opleveren, maar die in combinatie met de fysieke omgeving op een zo goed mogelijke manier vormgegeven moeten worden. Belangrijke maar ook complicerende factoren vormen regels rond bijvoorbeeld KRW en Natura2000. En denk dan natuurlijk ook aan de discussie rondom de stikstofproblematiek die nu volop wordt gevoerd. 
+
+::: {.columns}
+::: {.column width="50%"}
+<mark> Binnen deze casus staat het gebied Eendragt centraal (bij xxx). In dit gebied is het de uitdaging om de aspecten water, natuur en landbouw in evenwicht te brengen. De Eendragt polder is een xxx </mark>
+
+
+
+:::
+::: {.column width="50%"}
+![Locatie Eendragt polder](img/eendragt_locatie.png)
+
