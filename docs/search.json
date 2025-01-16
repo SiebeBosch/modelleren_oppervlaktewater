@@ -4,7 +4,7 @@
     "href": "wolvenpolder/opdracht.html",
     "title": "Landelijk water",
     "section": "",
-    "text": "Hier het tutorial schrijven voor het maken van de Wolvenpolder",
+    "text": "In deze opdracht gaan we van de Wolvenpolder een eenvoudig neerslag-afvoermodel maken. Dit doen we omdat we de hoogwaterstanden binnen de polder willen weten.\n nog updaten? Nederland hanteert de normen uit het Nationaal Bestuursakkoord Water (NBW) voor hoogwater: \n\n\n\nLandgebruik\nNorm\n\n\n\n\nGrasland\nEens per 10 jaar mag maximaal 10% inunderen\n\n\nAkkerbouw\nEens per 25 jaar mag maximaal 5% inunderen\n\n\nHooogwaardig tuinbouw\nEens per 50 jaar mag maximaal 5% inunderen\n\n\nBebouwing\nEens per 100 jaar mag maximaal 0% inunderen\n\n\n\n\nTabel 1: Inundatienormen uit het Nationaal Bestuursakkoord Water (NBW)\n\n\n\n\nAls je goed kijkt naar de luchtfoto, zie je dat het gebied bestaat uit drie deelgebieden, die van elkaar gescheiden zijn. Tussen peilvak 1 en 2 ligt een dijk. In de dijk ligt een onderlaat (schuif). Tussen peilvak 2 en 3 ligt een stuw die het peil in peilvak 2 handhaaft. De deelgebieden (peilvakken) staan via kunstwerken (een onderlaat en een stuw) met elkaar in verbinding. De ligging en afmetingen van de kunstwerken zorgen dat de waterstand in elk peilvak op de gewenste waarde ligt. Het laagstgelegen peilvak (nr. 3) heeft een gemaal dat het overtollige water uitslaat op het Spui. De onderstaande afbeelding laat zien welke peilvakken en kunstwerken de Wolvenpolder heeft, en wat de streefwaterstand in elk van die peilvakken is.\n\n\n\n\nLocatie Wolvenpolder\n\n\n\n\n\nTijd om aan de slag te gaan. We gaan een eerste simulatiemodel van de Wolvenpolder in D-Hydro maken. Volg hiervoor de onderstaande stappen.\n Hier het tutorial schrijven voor het maken van de Wolvenpolder",
     "crumbs": [
       "Wolvenpolder",
       "Modelbouw"
@@ -577,7 +577,7 @@
     "href": "wolvenpolder/inleiding.html",
     "title": "Landelijk water",
     "section": "",
-    "text": "Deze opdracht behelst het maken van een neerslag-afvoermodel van de Wolvenpolder, bij Spijkenisse. Onder het kopje ‘Wolvenpolder - Opdracht’ vind jij een stappenplan om een simpel model te bouwen voor de Wolvenpolder in D-HYDRO. Volg de stappenplan en neem belangrijke tussenstappen op in je logboek (met screenshots!).\nVervolgens voer jij een kalibratie uit van het model (zie kopje kalibratie). Neem een tabel met aanpassingen op in je logboek.\nBeantwoord ook de vragen die weergegeven zijn in groen.\n\n\n\n\n\n\nVraag\n\n\n\nVragen zijn weergegeven in groen. Deze moet jij beantwoorden in jouw logboek.\n\n\n\n\n\n\n\n\nBelangrijk\n\n\n\nBelangrijke mededelingen zijn weergeven in rood.\n\n\n\n\n\n\n\n\nInformatie\n\n\n\nExtra uitleg is weergegeven in blauw.",
+    "text": "In deze oefening gaan we aan de slag met een bestaand stuk landelijk gebied: de Wolvenpolder bij Spijkenisse. Wij bouwen een neerslag-afvoer model van de Wolvenpolder. De gegevens die wij in deze oefening gebruiken zijn fictief, maar de manier waarop we het project doorlopen is gebaseerd op de manier waarop we dit soort projecten over het algemeen uitvoeren.\nOnder het kopje ‘Wolvenpolder - Opdracht’ vind jij een stappenplan om een simpel model te bouwen voor de Wolvenpolder in D-HYDRO. Volg de stappenplan en neem belangrijke tussenstappen op in je logboek (met screenshots!).\nVervolgens voer jij een kalibratie uit van het model (zie kopje kalibratie). Neem een tabel met aanpassingen op in je logboek.\nBeantwoord ook de vragen die weergegeven zijn in groen.\n\n\n\n\n\n\nVraag\n\n\n\nVragen zijn weergegeven in groen. Deze moet jij beantwoorden in jouw logboek.\n\n\n\n\n\n\n\n\nBelangrijk\n\n\n\nBelangrijke mededelingen zijn weergeven in rood.\n\n\n\n\n\n\n\n\nInformatie\n\n\n\nExtra uitleg is weergegeven in blauw.",
     "crumbs": [
       "Wolvenpolder",
       "Inleiding"
@@ -770,7 +770,7 @@
     "href": "wolvenpolder/inleiding.html#inleiding",
     "title": "Landelijk water",
     "section": "",
-    "text": "Deze opdracht behelst het maken van een neerslag-afvoermodel van de Wolvenpolder, bij Spijkenisse. Onder het kopje ‘Wolvenpolder - Opdracht’ vind jij een stappenplan om een simpel model te bouwen voor de Wolvenpolder in D-HYDRO. Volg de stappenplan en neem belangrijke tussenstappen op in je logboek (met screenshots!).\nVervolgens voer jij een kalibratie uit van het model (zie kopje kalibratie). Neem een tabel met aanpassingen op in je logboek.\nBeantwoord ook de vragen die weergegeven zijn in groen.\n\n\n\n\n\n\nVraag\n\n\n\nVragen zijn weergegeven in groen. Deze moet jij beantwoorden in jouw logboek.\n\n\n\n\n\n\n\n\nBelangrijk\n\n\n\nBelangrijke mededelingen zijn weergeven in rood.\n\n\n\n\n\n\n\n\nInformatie\n\n\n\nExtra uitleg is weergegeven in blauw.",
+    "text": "In deze oefening gaan we aan de slag met een bestaand stuk landelijk gebied: de Wolvenpolder bij Spijkenisse. Wij bouwen een neerslag-afvoer model van de Wolvenpolder. De gegevens die wij in deze oefening gebruiken zijn fictief, maar de manier waarop we het project doorlopen is gebaseerd op de manier waarop we dit soort projecten over het algemeen uitvoeren.\nOnder het kopje ‘Wolvenpolder - Opdracht’ vind jij een stappenplan om een simpel model te bouwen voor de Wolvenpolder in D-HYDRO. Volg de stappenplan en neem belangrijke tussenstappen op in je logboek (met screenshots!).\nVervolgens voer jij een kalibratie uit van het model (zie kopje kalibratie). Neem een tabel met aanpassingen op in je logboek.\nBeantwoord ook de vragen die weergegeven zijn in groen.\n\n\n\n\n\n\nVraag\n\n\n\nVragen zijn weergegeven in groen. Deze moet jij beantwoorden in jouw logboek.\n\n\n\n\n\n\n\n\nBelangrijk\n\n\n\nBelangrijke mededelingen zijn weergeven in rood.\n\n\n\n\n\n\n\n\nInformatie\n\n\n\nExtra uitleg is weergegeven in blauw.",
     "crumbs": [
       "Wolvenpolder",
       "Inleiding"
@@ -781,10 +781,43 @@
     "href": "wolvenpolder/opdracht.html#modelbouw",
     "title": "Landelijk water",
     "section": "",
-    "text": "Hier het tutorial schrijven voor het maken van de Wolvenpolder",
+    "text": "In deze opdracht gaan we van de Wolvenpolder een eenvoudig neerslag-afvoermodel maken. Dit doen we omdat we de hoogwaterstanden binnen de polder willen weten.\n nog updaten? Nederland hanteert de normen uit het Nationaal Bestuursakkoord Water (NBW) voor hoogwater: \n\n\n\nLandgebruik\nNorm\n\n\n\n\nGrasland\nEens per 10 jaar mag maximaal 10% inunderen\n\n\nAkkerbouw\nEens per 25 jaar mag maximaal 5% inunderen\n\n\nHooogwaardig tuinbouw\nEens per 50 jaar mag maximaal 5% inunderen\n\n\nBebouwing\nEens per 100 jaar mag maximaal 0% inunderen\n\n\n\n\nTabel 1: Inundatienormen uit het Nationaal Bestuursakkoord Water (NBW)\n\n\n\n\nAls je goed kijkt naar de luchtfoto, zie je dat het gebied bestaat uit drie deelgebieden, die van elkaar gescheiden zijn. Tussen peilvak 1 en 2 ligt een dijk. In de dijk ligt een onderlaat (schuif). Tussen peilvak 2 en 3 ligt een stuw die het peil in peilvak 2 handhaaft. De deelgebieden (peilvakken) staan via kunstwerken (een onderlaat en een stuw) met elkaar in verbinding. De ligging en afmetingen van de kunstwerken zorgen dat de waterstand in elk peilvak op de gewenste waarde ligt. Het laagstgelegen peilvak (nr. 3) heeft een gemaal dat het overtollige water uitslaat op het Spui. De onderstaande afbeelding laat zien welke peilvakken en kunstwerken de Wolvenpolder heeft, en wat de streefwaterstand in elk van die peilvakken is.\n\n\n\n\nLocatie Wolvenpolder\n\n\n\n\n\nTijd om aan de slag te gaan. We gaan een eerste simulatiemodel van de Wolvenpolder in D-Hydro maken. Volg hiervoor de onderstaande stappen.\n Hier het tutorial schrijven voor het maken van de Wolvenpolder",
     "crumbs": [
       "Wolvenpolder",
       "Modelbouw"
+    ]
+  },
+  {
+    "objectID": "wolvenpolder/kalibratie.html",
+    "href": "wolvenpolder/kalibratie.html",
+    "title": "Landelijk water",
+    "section": "",
+    "text": "Opdracht kalibratie Wolvenpolder",
+    "crumbs": [
+      "Wolvenpolder",
+      "Kalibratie"
+    ]
+  },
+  {
+    "objectID": "wolvenpolder/kalibratie.html#kalibratie",
+    "href": "wolvenpolder/kalibratie.html#kalibratie",
+    "title": "Landelijk water",
+    "section": "",
+    "text": "Opdracht kalibratie Wolvenpolder",
+    "crumbs": [
+      "Wolvenpolder",
+      "Kalibratie"
+    ]
+  },
+  {
+    "objectID": "wolvenpolder/inleiding.html#gebiedsbeschrijving",
+    "href": "wolvenpolder/inleiding.html#gebiedsbeschrijving",
+    "title": "Landelijk water",
+    "section": "Gebiedsbeschrijving",
+    "text": "Gebiedsbeschrijving\n\n\nDe Wolvenpolder is een gebied van ongeveer 70 hectare groot ten oosten van Spijkenisse. Hij ligt aan de noord-, oost- en zuidkant ingeklemd tussen de Oude Maas en het Spui. Aan de westkant grenst hij aan de gemeente Spijkenisse.\n\n\n\n\nLocatie Wolvenpolder",
+    "crumbs": [
+      "Wolvenpolder",
+      "Inleiding"
     ]
   }
 ]

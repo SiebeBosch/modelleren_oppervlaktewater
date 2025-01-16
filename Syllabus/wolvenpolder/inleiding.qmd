@@ -1,6 +1,8 @@
 ## Inleiding
 
-Deze opdracht behelst het maken van een neerslag-afvoermodel van de Wolvenpolder, bij Spijkenisse. Onder het kopje 'Wolvenpolder - Opdracht' vind jij een stappenplan om een simpel model te bouwen voor de Wolvenpolder in D-HYDRO. Volg de stappenplan en neem belangrijke tussenstappen op in je logboek (met screenshots!). 
+In deze oefening gaan we aan de slag met een bestaand stuk landelijk gebied: de Wolvenpolder bij Spijkenisse. Wij bouwen een neerslag-afvoer model van de Wolvenpolder. De gegevens die wij in deze oefening gebruiken zijn fictief, maar de manier waarop we het project doorlopen is gebaseerd op de manier waarop we dit soort projecten over het algemeen uitvoeren. 
+
+Onder het kopje 'Wolvenpolder - Opdracht' vind jij een stappenplan om een simpel model te bouwen voor de Wolvenpolder in D-HYDRO. Volg de stappenplan en neem belangrijke tussenstappen op in je logboek (met screenshots!). 
 
 Vervolgens voer jij een kalibratie uit van het model (zie kopje kalibratie). Neem een tabel met aanpassingen op in je logboek. 
 
@@ -21,5 +23,18 @@ Belangrijke mededelingen zijn weergeven in rood.
 Extra uitleg is weergegeven in blauw. 
 :::
 
+
+
+## Gebiedsbeschrijving
+
+::: {.columns}
+::: {.column width="50%"}
+De Wolvenpolder is een gebied van ongeveer 70 hectare groot ten oosten van Spijkenisse. Hij ligt aan de noord-, oost- en zuidkant ingeklemd tussen de Oude Maas en het Spui. Aan de westkant grenst hij aan de gemeente Spijkenisse. 
+
+:::
+::: {.column width="50%"}
+![Locatie Wolvenpolder](../img/Wolvenpolder.jpg)
+:::
+:::
 
 

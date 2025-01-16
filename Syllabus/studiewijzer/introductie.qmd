@@ -14,5 +14,5 @@ Stakeholders zijn vaak waterschappen, natuurbeherende organisaties, boeren en be
 
 :::
 ::: {.column width="50%"}
-![Locatie Eendragt polder](img/eendragt_locatie.png)
+![Locatie Eendragt polder](../img/eendragt_locatie.png)
 
