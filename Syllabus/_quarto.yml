@@ -79,3 +79,7 @@ format:
     css: custom.css
     toc: true
     include-in-header: header.html
+    lightbox:
+      match: auto
+      effect: fade
+      desc-position: right
