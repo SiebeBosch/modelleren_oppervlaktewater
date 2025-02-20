@@ -9,7 +9,7 @@ lang: nl
 ## Inleiding
 Deze syllabus bevat het cursusmateriaal voor de casus Landelijk Water binnen de major Watermanagement van hogeschool Van Hall Larenstein. Dit onderdeel wordt aangeboden in de vierde periode van het derde jaar van de opleiding. Via het menu aan de linke kant van deze pagina kan je navigeren naar de verschillende opdrachten binnen deze casus. 
 
-
+<mark> xxx niet vergeten overal goed onderscheid te maken tussen VT en DT </mark>
 
 
 

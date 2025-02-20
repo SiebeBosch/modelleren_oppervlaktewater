@@ -346,6 +346,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#modelbouw" id="toc-modelbouw" class="nav-link active" data-scroll-target="#modelbouw">Modelbouw</a>
   <ul class="collapse">
   <li><a href="#nieuw-model-in-d-hydro" id="toc-nieuw-model-in-d-hydro" class="nav-link" data-scroll-target="#nieuw-model-in-d-hydro">Nieuw model in D-HYDRO</a></li>
+  <li><a href="#d-model" id="toc-d-model" class="nav-link" data-scroll-target="#d-model">1D model</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -420,7 +421,177 @@ Informatie
 <p>Tijd om aan de slag te gaan. We gaan een eerste simulatiemodel van de Wolvenpolder in D-Hydro maken. Volg hiervoor de onderstaande stappen.</p>
 <section id="nieuw-model-in-d-hydro" class="level3">
 <h3 class="anchored" data-anchor-id="nieuw-model-in-d-hydro">Nieuw model in D-HYDRO</h3>
-<p>Start D-HYDRO op</p>
+<p>Voor de Wolvenpolder bouwen wij een RR-1D model in D-HYDRO. De 1D module bevat een simpele schematisatie van de watergangen en kunstwerken van de Wolvenpolder. RR staat voor Rainfall Runoff. Deze module bestaat voor deze casus uit enkele stroomgebieden en zorgt voor een vertaling van neerslag naar afvoer richting het 1D netwerk.</p>
+<p>Wij starten met een leeg model. Volg de onderstaande stappen om een nieuw model aan te maken in D-HYDRO:</p>
+<ul>
+<li>Start D-HYDRO op.</li>
+<li>Kies “New Model - Integrated Model”.
+<ul>
+<li>Verander <strong><em>Model name</em></strong> naar <strong><em>WP_1D_v01</em></strong>.</li>
+<li>Kies <strong><em>Amersfoort / RD New</em></strong> als coördinatensysteem (meestal staat deze al goed ingesteld).</li>
+<li>Zet <strong><em>Add real-time control</em></strong> uit, alle andere opties laat je aanstaan.</li>
+<li>Click op <strong><em>Create</em></strong></li>
+</ul></li>
+<li>D-HYDRO opent nu een leeg model. Ga naar <strong><em>File - Save as</em></strong> en controleer waar D-HYDRO je model heeft opgeslagen. Mocht je model niet in de goede directory staan, verander hier het mapje waar je model opgeslagen wordt.</li>
+<li>Ga naar <strong><em>Map - Add dutch layers</em></strong> en voeg een <strong><em>schematic layer</em></strong> toe. Mocht je de layer niet kunnen zien, ga dan naar het tabblad map aan de rechte kant van je scherm, rechtermuisklik op <strong><em>BRT Achtergrondkaart WMTS - Standaard</em></strong> en kies dan <strong><em>zoom to extent</em></strong>. Als goed is zie je nu een kaart van heel Nederland. Deze kan je in het vervolg gebruiken ter orientatie.</li>
+</ul>
+<div class="callout callout-style-default callout-important callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Belangrijk
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Programma’s als D-HYDRO lopen wel eens vast. Het is daarom belangrijk dat je je model regelmatig opslaat. Dit doe je door op het <strong><em>save</em></strong> symbooltje te klikken of met de shortcut <strong><em>ctrl-s</em></strong>. Sla je model na elke (grote) stap op, zodat je niet helemaal opnieuw moet beginnen, mocht je model een keer vastlopen.</p>
+</div>
+</div>
+</section>
+<section id="d-model" class="level3">
+<h3 class="anchored" data-anchor-id="d-model">1D model</h3>
+<p>Wij beginnen met het maken van het 1D model. De volgende gegevens heb jij nodig voor het bouwen van het 1D model:</p>
+<p><strong>Tabel X:</strong> Streefpeilen en waterstanden</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th></th>
+<th>Peilvak 1</th>
+<th>Peilvak 2</th>
+<th>Peilvak 3</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Streefpeil (mNAP)</td>
+<td>-0.6</td>
+<td>-1.10</td>
+<td>-1.55</td>
+</tr>
+<tr class="even">
+<td>Waterdiepte bij streefpeil</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>Waterstand op het Spui</td>
+<td>n.v.t.</td>
+<td>n.v.t.</td>
+<td>0.38</td>
+</tr>
+</tbody>
+</table>
+<p><br></p>
+<p><strong>Tabel XX:</strong> Gegevens kunstwerken</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th></th>
+<th>Peilvak 1</th>
+<th>Peilvak 2</th>
+<th>Peilvak 3</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Breedte kunstwerk (m)</td>
+<td>1</td>
+<td>1</td>
+<td>n.v.t.</td>
+</tr>
+<tr class="even">
+<td>Openingshoogte kunstwerk (m)</td>
+<td>1</td>
+<td>n.v.t.</td>
+<td>n.v.t.</td>
+</tr>
+<tr class="odd">
+<td>Pompcapaciteit (m3/min)</td>
+<td>n.v.t.</td>
+<td>n.v.t.</td>
+<td>8</td>
+</tr>
+<tr class="even">
+<td>aan/uitslagpeil (mNAP)</td>
+<td>n.v.t.</td>
+<td>n.v.t.</td>
+<td>-1.53/-1.6</td>
+</tr>
+</tbody>
+</table>
+<p><br></p>
+<p>Daarnaast staat er een op Moodle een mapje met data met o.a. een shape file van de watergangen en excel bestand met <em>cross sections</em>. Download deze en sla deze op.</p>
+<p>Volg onderstaande stappen voor het maken van je 1D model. Maak screenshots van de belangrijkste stappen en neem deze op in je logboek.</p>
+<ol type="1">
+<li><p>Aan de linke kant van je D-HYDRO scherm is de model structuur weergegeven. Click op het plusje naast <strong><em>WP_1D_v01</em></strong> en vervolgens naast het plusje bij <strong><em>FlowFM</em></strong> en <strong><em>1D</em></strong></p></li>
+<li><p>Rechtermuisklik op <strong><em>network (Network)</em></strong> en click op <strong><em>import</em></strong></p>
+<ol type="a">
+<li><p>Kies **<em>Data - Model features from GIS</em></p></li>
+<li><p>Het schermpje van de “wizard” opent. Click <strong><em>Next &gt;</em></strong></p></li>
+<li><p>Voor <strong><em>Features</em></strong> kies je <strong><em>Channels</em></strong></p></li>
+<li><p>Click vervolgens op de drie punten naast het lege veld bij <strong><em>File</em></strong> en zoek naar de shapefile <strong><em>watergangen_WP_v01.shp</em></strong></p></li>
+<li><p>Click op <strong><em>Add to import list</em></strong> en vervolgens onder aan de scherm op <strong><em>Next &gt;</em></strong></p></li>
+<li><p>In de bovenste rij kies je voor <strong><em>Mapping Column</em></strong> <strong><em>IDENT</em></strong>; de rest laat je zo staan. Click <strong><em>Next &gt;</em></strong></p></li>
+<li><p>Click <strong><em>Next &gt;</em></strong> en <strong><em>Finish</em></strong>.</p></li>
+<li><p>Je watergangen zijn nu geïmporteerd en bijbehorende nodes zijn automatisch aangemaakt. Om deze te kunnen bekijken dubbelklik je op <strong><em>network (Network)</em></strong> aan de linke kant van je scherm.</p></li>
+</ol></li>
+</ol>
+<p><br></p>
+<ol start="3" type="1">
+<li><p>D-HYDRO maakt gebruik van <strong><em>computational grid nodes</em></strong>, dit zijn locaties waar de berekeningen worden uitgeveoerd. Deze maak je aan door de onderstaande stappen te volgen:</p>
+<ol type="a">
+<li><p>Rechtermuisklik op een van de 4 watergangen en kies <strong><em>Generate Computational Grid Nodes</em></strong>;</p></li>
+<li><p>Kies voor <strong><em>Generate new grid points</em></strong>;</p></li>
+<li><p>Vul <strong><em>50 m</em></strong> in voor <strong><em>Preferred length</em></strong> ;</p></li>
+<li><p>Vink alle <strong><em>Special Locations</em></strong> aan. De getallen kan je op de default waardes laten staan;</p></li>
+<li><p>Click op <strong><em>OK</em></strong>.</p></li>
+</ol>
+<p><br></p></li>
+<li><p>De watergangen hebben nog geen <em>cross sections</em> (dwarsprofielen). Deze maak je in de volgende stappen aan:</p>
+<ol type="a">
+<li><p>Onder het tabblad <strong><em>Map</em></strong> aan de bovenkant van je scherm, vind jij verschillende elementen die je kan toevoegen voor o.a. je RR Basin en je 1D Network.</p></li>
+<li><p>Click op het symbooltje <strong><em>Add CrossSection (YZ)</em></strong> (lichtblauw trapezium) onder 1D Network. Voeg twee <em>cross sections</em> toe per watergang (één aan het begin, één aan het einde).</p></li>
+<li><p>D-HYDRO maakt automatisch een profiel aan per <em>cross section</em>. Deze moeten wij nog updaten met onze eigen data. Rechtermuisklik hiervoor op de meest bovenstroomse <em>cross section</em> - <strong><em>Edit CrossSection_1D_1</em></strong> .</p></li>
+<li><p>Selecteer alle drie kolommen in excel van <strong><em>Profile01</em></strong>, maar zonder de titels, kopiëer deze (<strong><em>ctrl - c</em></strong>). Selecteer vervolgens in D-HYDRO alle rijen van je <strong><em>YZ Table</em></strong>, rechtermuisklik <strong><em>Paste</em></strong>. Controlleer of alle waardes goed overgekomen zijn (Als niet alle rijen in D-HYDRO geselecteerd zijn, bewaard D-HYDRO de oude waardes naast de nieuwe waardes, waardoor je een gek profiel krijgt. Ook verandert D-HYDRO soms 0.5 naar 0, waardoor het profiel niet helemaal klopt).</p></li>
+<li><p>Check of de paarse stippenlijn door het diepste punt van je profiel loopt en verplaats deze als nodig. Click vervolgens op <strong><em>Share this definition</em></strong> zodat jij hetzelfde profiel kan gebruiken voor de benedenstroomse <em>cross section</em> van dit stukje watergang.</p></li>
+<li><p>Ga naar de benedenstroomse <em>cross section</em> van dit stukje watergang, rechtermuisklik - <strong><em>Edit CrossSection_1D_2</em></strong>. Kies vervolgens <strong><em>use shared definition</em></strong> en selecteer <strong><em>CrossSection_1D_1</em></strong>.</p></li>
+<li><p>Herhaal stappen 4 c) t/m f) voor de andere 3 watergangen.</p></li>
+</ol></li>
+</ol>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Informatie
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Het is jou misschien opgevallen dat de dwarsprofielen van watergang 1 t/m 3 vrij groot zijn. Bij deze dwarsdoorsnedes zijn de maaiveldhoogtes meegenomen van het omliggende gebied om zo de berging van de peilgebieden mee te kunnen nemen in de berekeningen.</p>
+</div>
+</div>
+<ol start="5" type="1">
+<li>Een model heeft <em>boundary conditions</em> (grens waardes) nodig. Rechtermuisklik op de meest benedenstroomse <em>node</em>, click <strong><em>Edit</em></strong> en kies het type <strong><em>H: Constant water level</em></strong>. Vul voor het water level de waterstand van het Spui in.</li>
+</ol>
+<p><br></p>
+<ol start="6" type="1">
+<li>Zoals eerder beschreven liggen er drie kunstwerken in het gebied: een onderlaat, een stuw en een gemaal. Volg onderstaande stappen om de drie kunstwerken toe te voegen.
+<ol type="a">
+<li><p>Een onderlaat heet in het Engels <em>Orifice</em>. Voeg een onderlaat toe door op het symbooltje <strong><em>Add orifice</em></strong> (twee lichtblauwe balken) van het 1D Network te klikken. Voeg deze toe aan watergang WG01 net voor de meest benedenstroomse node van WG01 (zie afbeelding).</p></li>
+<li><p>Rechtermuisklik op het symbooltje en click <strong><em>Edit Orifice_1D_1</em></strong>.</p></li>
+<li><p>Zoek de benodigde gegevens op in tabellen X en XX in vul deze in. Voor de <strong><em>Specific weir properties</em></strong> laat je de default waardes staan. <br></p></li>
+<li><p>Voeg nu de stuw (in het Engels <em>weir</em>) toe door op het symbooltje <strong><em>Add Weir</em></strong> (rood driehoek) van het 1D Network te klikken. Voeg de stuw toe aan watergang WG02 net voor de meest benedenstroomse node van WG02 ter hoogte van de weg Wolvenpolder.</p></li>
+<li><p>Rechtermuisklik op het symbooltje en click <strong><em>Edit Weir_1D_1</em></strong>.</p></li>
+<li><p>Zoek de benodigde gegevens op in de tabellen X en XX en vul de gegevens in voor <strong><em>Crest level</em></strong> en <strong><em>Crest width</em></strong>. Voor de rest hou je de default waardes aan.<br>
+<br></p></li>
+<li><p>Tot slot gaan wij het gemaal toevoegen. Dit doe je door op het symbooltje <strong><em>Add Pump</em></strong> (oranje cirkel met zwart X) te klikken. Voeg het gemaal toe aan de bovenstroomse kant van watergang WG04 (op de oeverrand van het Spui).</p></li>
+<li><p>Rechtermuisklik op het symbooltje en click <strong><em>Edit Pump_1D_1</em></strong>.</p></li>
+<li><p>Vul de pompcapaciteit, in- en uitslagpeil in op basis van de gegevens in tabel XX</p></li>
+</ol></li>
+</ol>
 <p><mark> Hier het tutorial schrijven voor het maken van de Wolvenpolder </mark></p>
 
 

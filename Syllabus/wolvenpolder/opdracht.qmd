@@ -42,7 +42,191 @@ Tijd om aan de slag te gaan. We gaan een eerste simulatiemodel van de Wolvenpold
 
 
 ### Nieuw model in D-HYDRO
-Start D-HYDRO op
+Voor de Wolvenpolder bouwen wij een RR-1D model in D-HYDRO. De 1D module bevat een simpele schematisatie van de watergangen en kunstwerken van de Wolvenpolder. RR staat voor Rainfall Runoff. Deze module bestaat voor deze casus uit enkele stroomgebieden en zorgt voor een vertaling van neerslag naar afvoer richting het 1D netwerk. 
 
-<mark> Hier het tutorial schrijven voor het maken van de Wolvenpolder </mark>
+Wij starten met een leeg model. Volg de onderstaande stappen om een nieuw model aan te maken in D-HYDRO: 
 
+* Start D-HYDRO op. 
+
+* Kies "New Model - Integrated Model". 
+    * Verander ***Model name*** naar ***WP_1D_v01***.
+    * Kies ***Amersfoort / RD New*** als coördinatensysteem (meestal staat deze al goed ingesteld).
+    * Zet ***Add real-time control*** uit, alle andere opties laat je aanstaan.
+    * Click op ***Create***
+
+* D-HYDRO opent nu een leeg model. Ga naar ***File - Save as*** en controleer waar D-HYDRO je model heeft opgeslagen. Mocht je model niet in de goede directory staan, verander hier het mapje waar je model opgeslagen wordt. 
+
+* Ga naar ***Map - Add dutch layers*** en voeg een ***schematic layer*** toe. Mocht je de layer niet kunnen zien, ga dan naar het tabblad map aan de rechte kant van je scherm, rechtermuisklik op ***BRT Achtergrondkaart WMTS - Standaard*** en kies dan ***zoom to extent***. Als goed is zie je nu een kaart van heel Nederland. Deze kan je in het vervolg gebruiken ter orientatie.
+
+::: {.callout-important}
+### Belangrijk
+Programma's als D-HYDRO lopen wel eens vast. Het is daarom belangrijk dat je je model regelmatig opslaat. Dit doe je door op het ***save*** symbooltje te klikken of met de shortcut ***ctrl-s***. Sla je model na elke (grote) stap op, zodat je niet helemaal opnieuw moet beginnen, mocht je model een keer vastlopen.  
+:::
+
+### 1D model
+Wij beginnen met het maken van het 1D model. De volgende gegevens heb jij nodig voor het bouwen van het 1D model: 
+
+**Tabel X:** Streefpeilen en waterstanden
+
+|  | Peilvak 1 | Peilvak 2 | Peilvak 3 |
+|----------|----------|----------|----------|
+| Streefpeil (mNAP) | -0.6 | -1.10 | -1.55 |
+| Waterdiepte bij streefpeil | 1 | 1 | 1 |
+| Waterstand op het Spui | n.v.t. | n.v.t. | 0.38 |
+
+<br>
+
+**Tabel XX:** Gegevens kunstwerken
+
+|  | Peilvak 1 | Peilvak 2 | Peilvak 3 |
+|----------|----------|----------|----------|
+| Breedte kunstwerk (m) | 1 | 1 | n.v.t. |
+| Openingshoogte kunstwerk (m) | 1 | n.v.t. | n.v.t. |
+| Pompcapaciteit (m3/min) | n.v.t. | n.v.t. | 8 |
+| aan/uitslagpeil  (mNAP) | n.v.t. | n.v.t. | -1.53/-1.6 |
+ 
+ <br>
+ 
+Daarnaast staat er een op Moodle een mapje met data met o.a. een shape file van de watergangen en excel bestand met *cross sections*. Download deze en sla deze op. 
+
+Volg onderstaande stappen voor het maken van je 1D model. Maak screenshots van de belangrijkste stappen en neem deze op in je logboek. 
+
+1. Aan de linke kant van je D-HYDRO scherm is de model structuur weergegeven. Click op het plusje naast ***WP_1D_v01*** en vervolgens naast het plusje bij ***FlowFM*** en ***1D***
+<br>
+2. Rechtermuisklik op ***network (Network)*** en click op ***import***
+    a) Kies ***Data - Model features from GIS* 
+
+    b) Het schermpje van de "wizard" opent. Click ***Next >*** 
+
+    c) Voor ***Features*** kies je ***Channels***
+
+    d) Click vervolgens op de drie punten naast het lege veld bij ***File*** en zoek naar de shapefile ***watergangen_WP_v01.shp***
+
+    e) Click op ***Add to import list*** en vervolgens onder aan de scherm op ***Next >***
+
+    f) In de bovenste rij kies je voor ***Mapping Column*** ***IDENT***; de rest laat je zo staan. Click ***Next >***
+
+    g) Click ***Next >*** en ***Finish***. 
+
+    h) Je watergangen zijn nu geïmporteerd en bijbehorende nodes zijn automatisch aangemaakt. Om deze te kunnen bekijken dubbelklik je op ***network (Network)*** aan de linke kant van je scherm.  
+
+<br>
+
+3. D-HYDRO maakt gebruik van ***computational grid nodes***, dit zijn locaties waar de berekeningen worden uitgeveoerd. Deze maak je aan door de onderstaande stappen te volgen: 
+    a) Rechtermuisklik op een van de 4 watergangen en kies ***Generate Computational Grid Nodes***;
+
+    b) Kies voor ***Generate new grid points***;
+
+    c) Vul ***50 m*** in voor ***Preferred length*** ;
+
+    d) Vink alle ***Special Locations*** aan. De getallen kan je op de default waardes laten staan;
+
+    e) Click op ***OK***.
+
+    <br>
+
+4. De watergangen hebben nog geen *cross sections* (dwarsprofielen). Deze maak je in de volgende stappen aan: 
+    a) Onder het tabblad ***Map*** aan de bovenkant van je scherm, vind jij verschillende elementen die je kan toevoegen voor o.a. je RR Basin en je 1D Network. 
+
+    b) Click op het symbooltje ***Add CrossSection (YZ)*** (lichtblauw trapezium) onder 1D Network. Voeg twee *cross sections* toe per watergang (één aan het begin, één aan het einde).
+
+    c) D-HYDRO maakt automatisch een profiel aan per *cross section*. Deze moeten wij nog updaten met onze eigen data. Rechtermuisklik hiervoor op de meest bovenstroomse *cross section* - ***Edit CrossSection_1D_1*** . 
+
+    d) Selecteer alle drie kolommen in excel van ***Profile01***, maar zonder de titels, kopiëer deze (***ctrl - c***). Selecteer vervolgens in D-HYDRO alle rijen van je ***YZ Table***, rechtermuisklik ***Paste***. Controlleer of alle waardes goed overgekomen zijn (Als niet alle rijen in D-HYDRO geselecteerd zijn, bewaard D-HYDRO de oude waardes naast de nieuwe waardes, waardoor je een gek profiel krijgt. Ook verandert D-HYDRO soms 0.5 naar 0, waardoor het profiel niet helemaal klopt). 
+
+    e) Check of de paarse stippenlijn door het diepste punt van je profiel loopt en verplaats deze als nodig. Click vervolgens op ***Share this definition*** zodat jij hetzelfde profiel kan gebruiken voor de benedenstroomse *cross section* van deze watergang. 
+
+    f) Ga naar de benedenstroomse *cross section* van de watergang, rechtermuisklik - ***Edit CrossSection_1D_2***. Kies vervolgens ***use shared definition*** en selecteer ***CrossSection_1D_1***. 
+
+    g) Herhaal stappen 4 c) t/m f) voor de andere 3 watergangen. 
+
+::: {.callout-note}
+### Informatie
+Het is jou misschien opgevallen dat de dwarsprofielen van watergang 1 t/m 3 vrij groot zijn. Bij deze dwarsdoorsnedes zijn de maaiveldhoogtes meegenomen van het omliggende gebied om zo de berging van de  peilgebieden mee te kunnen nemen in de berekeningen.
+:::
+
+<br>
+
+5. Een model heeft *boundary conditions* (grens waardes) nodig. Rechtermuisklik op de meest benedenstroomse *node*, click ***Edit*** en kies het type ***H: Constant water level***. Vul voor het ***water level*** de waterstand van het Spui in. 
+
+<br>
+
+6. Zoals eerder beschreven liggen er drie kunstwerken in het gebied: een onderlaat, een stuw en een gemaal. Volg onderstaande stappen om de drie kunstwerken toe te voegen. 
+    a) Een onderlaat heet in het Engels *Orifice*. Voeg een onderlaat toe door op het symbooltje ***Add orifice*** (twee lichtblauwe balken) van het 1D Network te klikken. Voeg deze toe aan watergang WG01 net voor de meest benedenstroomse node van WG01 (zie afbeelding). 
+
+    b) Rechtermuisklik op het symbooltje en click ***Edit Orifice_1D_1***. 
+
+    c) Zoek de benodigde gegevens op in tabellen X en XX in vul deze in. Voor de ***Specific weir properties*** laat je de default waardes staan. 
+<br>
+    d) Voeg nu de stuw (in het Engels *weir*) toe door op het symbooltje ***Add Weir*** (rood driehoek) van het 1D Network te klikken. Voeg de stuw toe aan watergang WG02 net voor de meest benedenstroomse node van WG02 ter hoogte van de weg Wolvenpolder. 
+
+    e) Rechtermuisklik op het symbooltje en click ***Edit Weir_1D_1***. 
+
+    f) Zoek de benodigde gegevens op in de tabellen X en XX en vul de gegevens in voor ***Crest level*** en ***Crest width***. Voor de rest hou je de default waardes aan.  
+<br>
+    g) Tot slot gaan wij het gemaal toevoegen. Dit doe je door op het symbooltje ***Add Pump*** (oranje cirkel met zwart X) te klikken. Voeg het gemaal toe aan de bovenstroomse kant van watergang WG04 (op de oeverrand van het Spui). 
+
+    h) Rechtermuisklik op het symbooltje en click ***Edit Pump_1D_1***.
+
+    i) Vul de pompcapaciteit, in- en uitslagpeil in op basis van de gegevens in tabel XX
+
+<br>
+
+7. Voor kalibratie doeleinden is het handig om een aantal locaties te definieren waar resultaten uitgelezen kunnen worden. Voeg hiervoor een aantal *Observation Points* toe door op het symbooltje ***Add Observation Point*** (oog) van het 1D Network te klikken. Voeg aan elke watergang minimaal 1 punt toe. Voeg ook een punt toe net bovenstrooms van het gemaal (zie afbeelding). Deze gaan wij gebruiken voor de kalibratie. 
+
+<br>
+
+8. Ga naar de model overzicht aan de linke kant, click op het plusje naast ***FlowFM - 1D - 1D Initial Conditions*** en dubbelclick op ***Channels - Water Level***. Kies voor de waterstanden WG01 tm WG03 ***Branch Constant*** en vul de streefpeilen van de drie peilgebieden in. WG04 verander jij niet. 
+
+<br>
+
+9. Tot slot gaan wij nog een instelling van het 1D model aanpassen. Ga hiervoor naar de model overzicht aan de linke kant van je scherm. Dubbelclick op ***FlowFM - General***. Ga naar tabblad time frame. Pas het reference date aan naar 2007-12-01. 
+
+<br>
+
+### Gefeliciteerd! Je 1D model van de Wolvenpolder is klaar!
+
+::: {.callout-important}
+### Belangrijk
+Voordat wij verder gaan met het RR gedeelte is het belangrijk om je 1D model goed op te slaan en een backup hiervan te maken. Sla eerst je 1D model op met ***Ctrl-S***. Sla vervolgens je model op met ***Save as*** en geef je model een nieuwe naam, b.v. ***WP_1D_v01_RR_v01***. 
+
+*WP_1D_v01* is in dit geval je backup en *WP_1D_v01_RR_v01* is het model waarin je verder werkt. Mocht je dan tegen problemen aanlopen bij het maken van het RR gedeelte, heb je je 1D altijd nog als backup, zodat jij niet helemaal opnieuw moet beginnen. 
+:::
+
+<br>
+
+### RR model
+RR staat voor Rainfall Runoff. Binnen de RR module definieren wij de gebieden die afwateren op het 1D netwerk. Volg onderstaande stappen om je RR model te schematiseren. De volgende informatie heb jij nodig voor het aanmaken van je RR model. 
+<br>
+**Tabel XXX:** Gegevens onverhard gebied
+
+|  | Peilvak 1 | Peilvak 2 | Peilvak 3 |
+|----------|----------|----------|----------|
+| Hoogste punt maaiveld (mNAP) | 1 | 0.5 | 0.2 |
+| Bodemsoort | Klei | Klei | Klei |
+| Landgebruik | Aardappelen | Aardappelen | Aardappelen |
+| Oppervlakte onverhard (ha) | 29 | 11 | 33 |
+| Initiële grondwaterdiepte (m) | 0.5 | 0.5 | 0.5|
+| Maximale berging op land (mm) | 10 | 10 | 10 | 
+| Initiële berging op land (mm) | 0 | 0 | 0 |
+| Infiltratiecapaciteit bodem (mm/u) | 5 | 5 | 5 |
+| Drainagetype | Ernst | Ernst | Ernst |
+| Dikte drainagelaag (m) | 0.8 | 0.8 | 0.8 |
+| Weerstand drainagelaag (d) | 60 | 60 | 60 | 
+| Diepe drainageweerstand (d) | 500 | 500 | 500 |
+| Weerstand infiltratie uit openwater (d) | 500 | 500 | 500 | 
+| Weerstand oppervlakkige afstroming (d) | 1 | 1 | 1 |
+
+
+<br>
+
+1. Om uiteindelijk een verbinding te kunnen maken tussen de RR module en de 1D flow module hebben wij *lateral nodes* nodig. Voeg voor watergang WG01 t/m WG03 één *lateral node* per watergang toe. Dit doe je door op het symbooltje ***Add lateral source*** (watergang plus rode pijl) van het 1D network te klikken en vervolgens op één van de watergangen. Rechtermuisklik vervolgens op de ***lateral source***, click op ***Edit*** en verander het type naar ***Real time***. 
+<br>
+2. Nu kunnen wij de *catchments* (stroomgebieden) toevoegen aan ons model. Voeg per peilgebied één stroomgebied toe. Dit doe je door de onderstaande stappen te volgen: 
+    a) Voeg een *unpaved catchment* (onverhard gebied) toe per peilgebied. Dit doe je door op het symbooltje ***Add new unpaved catchment*** (groen vierkantje) van de categorie RR Basin te klikken. 
+    b) Rechtermuisklick op het symbooltje van het eerste catchment en kies ***Edit - Catchment_1D_1***
+    c) Vul de tabbladen met de gegevens uit tabel XXX. Indien je voor een bepaalde parameter geen invulgegevens in de tabel ziet staan, dan kun je daar gewoon de default waarde die D-HYDRO aangeeft laten staan. 
+    d) Tot slot verbind jij de catchments met het 1D netwerk. Dit doe je met een ***link***. Click op het symbooltje ***Add Hydro Link*** (blauwe peil). Click vervolgens op één van de catchments en vervolgens op de bijbehorende laterale knoop. Herhaal deze stap voor de andere twee catchments. 
+<br>
+3. Voor wij het model kunnen runnen moeten wij de neerslag en verdampingsgegevens nog aanpassen. Volg hiervoor de onderstaande stappen: 
+    a)
