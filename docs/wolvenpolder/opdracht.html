@@ -347,6 +347,9 @@ ul.task-list li input[type="checkbox"] {
   <ul class="collapse">
   <li><a href="#nieuw-model-in-d-hydro" id="toc-nieuw-model-in-d-hydro" class="nav-link" data-scroll-target="#nieuw-model-in-d-hydro">Nieuw model in D-HYDRO</a></li>
   <li><a href="#d-model" id="toc-d-model" class="nav-link" data-scroll-target="#d-model">1D model</a></li>
+  <li><a href="#gefeliciteerd-je-1d-model-van-de-wolvenpolder-is-klaar" id="toc-gefeliciteerd-je-1d-model-van-de-wolvenpolder-is-klaar" class="nav-link" data-scroll-target="#gefeliciteerd-je-1d-model-van-de-wolvenpolder-is-klaar">Gefeliciteerd! Je 1D model van de Wolvenpolder is klaar!</a></li>
+  <li><a href="#rr-model" id="toc-rr-model" class="nav-link" data-scroll-target="#rr-model">RR model</a></li>
+  <li><a href="#gefeliciteerd-je-model-is-klaar-om-te-runnen" id="toc-gefeliciteerd-je-model-is-klaar-om-te-runnen" class="nav-link" data-scroll-target="#gefeliciteerd-je-model-is-klaar-om-te-runnen">Gefeliciteerd! Je model is klaar om te runnen!</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -424,16 +427,16 @@ Informatie
 <p>Voor de Wolvenpolder bouwen wij een RR-1D model in D-HYDRO. De 1D module bevat een simpele schematisatie van de watergangen en kunstwerken van de Wolvenpolder. RR staat voor Rainfall Runoff. Deze module bestaat voor deze casus uit enkele stroomgebieden en zorgt voor een vertaling van neerslag naar afvoer richting het 1D netwerk.</p>
 <p>Wij starten met een leeg model. Volg de onderstaande stappen om een nieuw model aan te maken in D-HYDRO:</p>
 <ul>
-<li>Start D-HYDRO op.</li>
-<li>Kies “New Model - Integrated Model”.
+<li><p>Start D-HYDRO op.</p></li>
+<li><p>Kies “New Model - Integrated Model”.</p>
 <ul>
 <li>Verander <strong><em>Model name</em></strong> naar <strong><em>WP_1D_v01</em></strong>.</li>
 <li>Kies <strong><em>Amersfoort / RD New</em></strong> als coördinatensysteem (meestal staat deze al goed ingesteld).</li>
 <li>Zet <strong><em>Add real-time control</em></strong> uit, alle andere opties laat je aanstaan.</li>
 <li>Click op <strong><em>Create</em></strong></li>
 </ul></li>
-<li>D-HYDRO opent nu een leeg model. Ga naar <strong><em>File - Save as</em></strong> en controleer waar D-HYDRO je model heeft opgeslagen. Mocht je model niet in de goede directory staan, verander hier het mapje waar je model opgeslagen wordt.</li>
-<li>Ga naar <strong><em>Map - Add dutch layers</em></strong> en voeg een <strong><em>schematic layer</em></strong> toe. Mocht je de layer niet kunnen zien, ga dan naar het tabblad map aan de rechte kant van je scherm, rechtermuisklik op <strong><em>BRT Achtergrondkaart WMTS - Standaard</em></strong> en kies dan <strong><em>zoom to extent</em></strong>. Als goed is zie je nu een kaart van heel Nederland. Deze kan je in het vervolg gebruiken ter orientatie.</li>
+<li><p>D-HYDRO opent nu een leeg model. Ga naar <strong><em>File - Save as</em></strong> en controleer waar D-HYDRO je model heeft opgeslagen. Mocht je model niet in de goede directory staan, verander hier het mapje waar je model opgeslagen wordt.</p></li>
+<li><p>Ga naar <strong><em>Map - Add dutch layers</em></strong> en voeg een <strong><em>schematic layer</em></strong> toe. Mocht je de layer niet kunnen zien, ga dan naar het tabblad map aan de rechte kant van je scherm, rechtermuisklik op <strong><em>BRT Achtergrondkaart WMTS - Standaard</em></strong> en kies dan <strong><em>zoom to extent</em></strong>. Als goed is zie je nu een kaart van heel Nederland. Deze kan je in het vervolg gebruiken ter orientatie.</p></li>
 </ul>
 <div class="callout callout-style-default callout-important callout-titled">
 <div class="callout-header d-flex align-content-center">
@@ -525,8 +528,8 @@ Belangrijk
 <p>Daarnaast staat er een op Moodle een mapje met data met o.a. een shape file van de watergangen en excel bestand met <em>cross sections</em>. Download deze en sla deze op.</p>
 <p>Volg onderstaande stappen voor het maken van je 1D model. Maak screenshots van de belangrijkste stappen en neem deze op in je logboek.</p>
 <ol type="1">
-<li><p>Aan de linke kant van je D-HYDRO scherm is de model structuur weergegeven. Click op het plusje naast <strong><em>WP_1D_v01</em></strong> en vervolgens naast het plusje bij <strong><em>FlowFM</em></strong> en <strong><em>1D</em></strong></p></li>
-<li><p>Rechtermuisklik op <strong><em>network (Network)</em></strong> en click op <strong><em>import</em></strong></p>
+<li>Aan de linke kant van je D-HYDRO scherm is de model structuur weergegeven. Click op het plusje naast <strong><em>WP_1D_v01</em></strong> en vervolgens naast het plusje bij <strong><em>FlowFM</em></strong> en <strong><em>1D</em></strong> <br></li>
+<li>Rechtermuisklik op <strong><em>network (Network)</em></strong> en click op <strong><em>import</em></strong>
 <ol type="a">
 <li><p>Kies **<em>Data - Model features from GIS</em></p></li>
 <li><p>Het schermpje van de “wizard” opent. Click <strong><em>Next &gt;</em></strong></p></li>
@@ -555,8 +558,8 @@ Belangrijk
 <li><p>Click op het symbooltje <strong><em>Add CrossSection (YZ)</em></strong> (lichtblauw trapezium) onder 1D Network. Voeg twee <em>cross sections</em> toe per watergang (één aan het begin, één aan het einde).</p></li>
 <li><p>D-HYDRO maakt automatisch een profiel aan per <em>cross section</em>. Deze moeten wij nog updaten met onze eigen data. Rechtermuisklik hiervoor op de meest bovenstroomse <em>cross section</em> - <strong><em>Edit CrossSection_1D_1</em></strong> .</p></li>
 <li><p>Selecteer alle drie kolommen in excel van <strong><em>Profile01</em></strong>, maar zonder de titels, kopiëer deze (<strong><em>ctrl - c</em></strong>). Selecteer vervolgens in D-HYDRO alle rijen van je <strong><em>YZ Table</em></strong>, rechtermuisklik <strong><em>Paste</em></strong>. Controlleer of alle waardes goed overgekomen zijn (Als niet alle rijen in D-HYDRO geselecteerd zijn, bewaard D-HYDRO de oude waardes naast de nieuwe waardes, waardoor je een gek profiel krijgt. Ook verandert D-HYDRO soms 0.5 naar 0, waardoor het profiel niet helemaal klopt).</p></li>
-<li><p>Check of de paarse stippenlijn door het diepste punt van je profiel loopt en verplaats deze als nodig. Click vervolgens op <strong><em>Share this definition</em></strong> zodat jij hetzelfde profiel kan gebruiken voor de benedenstroomse <em>cross section</em> van dit stukje watergang.</p></li>
-<li><p>Ga naar de benedenstroomse <em>cross section</em> van dit stukje watergang, rechtermuisklik - <strong><em>Edit CrossSection_1D_2</em></strong>. Kies vervolgens <strong><em>use shared definition</em></strong> en selecteer <strong><em>CrossSection_1D_1</em></strong>.</p></li>
+<li><p>Check of de paarse stippenlijn door het diepste punt van je profiel loopt en verplaats deze als nodig. Click vervolgens op <strong><em>Share this definition</em></strong> zodat jij hetzelfde profiel kan gebruiken voor de benedenstroomse <em>cross section</em> van deze watergang.</p></li>
+<li><p>Ga naar de benedenstroomse <em>cross section</em> van de watergang, rechtermuisklik - <strong><em>Edit CrossSection_1D_2</em></strong>. Kies vervolgens <strong><em>use shared definition</em></strong> en selecteer <strong><em>CrossSection_1D_1</em></strong>.</p></li>
 <li><p>Herhaal stappen 4 c) t/m f) voor de andere 3 watergangen.</p></li>
 </ol></li>
 </ol>
@@ -573,8 +576,9 @@ Informatie
 <p>Het is jou misschien opgevallen dat de dwarsprofielen van watergang 1 t/m 3 vrij groot zijn. Bij deze dwarsdoorsnedes zijn de maaiveldhoogtes meegenomen van het omliggende gebied om zo de berging van de peilgebieden mee te kunnen nemen in de berekeningen.</p>
 </div>
 </div>
+<p><br></p>
 <ol start="5" type="1">
-<li>Een model heeft <em>boundary conditions</em> (grens waardes) nodig. Rechtermuisklik op de meest benedenstroomse <em>node</em>, click <strong><em>Edit</em></strong> en kies het type <strong><em>H: Constant water level</em></strong>. Vul voor het water level de waterstand van het Spui in.</li>
+<li>Een model heeft <em>boundary conditions</em> (grens waardes) nodig. Rechtermuisklik op de meest benedenstroomse <em>node</em>, click <strong><em>Edit</em></strong> en kies het type <strong><em>H: Constant water level</em></strong>. Vul voor het <strong><em>water level</em></strong> de waterstand van het Spui in.</li>
 </ol>
 <p><br></p>
 <ol start="6" type="1">
@@ -592,7 +596,170 @@ Informatie
 <li><p>Vul de pompcapaciteit, in- en uitslagpeil in op basis van de gegevens in tabel XX</p></li>
 </ol></li>
 </ol>
-<p><mark> Hier het tutorial schrijven voor het maken van de Wolvenpolder </mark></p>
+<p><br></p>
+<ol start="7" type="1">
+<li>Voor kalibratie doeleinden is het handig om een aantal locaties te definieren waar resultaten uitgelezen kunnen worden. Voeg hiervoor een aantal <em>Observation Points</em> toe door op het symbooltje <strong><em>Add Observation Point</em></strong> (oog) van het 1D Network te klikken. Voeg aan elke watergang minimaal 1 punt toe. Voeg ook een punt toe net bovenstrooms van het gemaal (zie afbeelding). Deze gaan wij gebruiken voor de kalibratie.</li>
+</ol>
+<p><br></p>
+<ol start="8" type="1">
+<li>Ga naar de model overzicht aan de linke kant, click op het plusje naast <strong><em>FlowFM - 1D - 1D Initial Conditions</em></strong> en dubbelclick op <strong><em>Channels - Water Level</em></strong>. Kies voor de waterstanden WG01 tm WG03 <strong><em>Branch Constant</em></strong> en vul de streefpeilen van de drie peilgebieden in. WG04 verander jij niet.</li>
+</ol>
+<p><br></p>
+<ol start="9" type="1">
+<li>Tot slot gaan wij nog een instelling van het 1D model aanpassen. Ga hiervoor naar de model overzicht aan de linke kant van je scherm. Dubbelclick op <strong><em>FlowFM - General</em></strong>. Ga naar tabblad time frame. Pas het reference date aan naar 2000-01-01.</li>
+</ol>
+<p><br></p>
+</section>
+<section id="gefeliciteerd-je-1d-model-van-de-wolvenpolder-is-klaar" class="level3">
+<h3 class="anchored" data-anchor-id="gefeliciteerd-je-1d-model-van-de-wolvenpolder-is-klaar">Gefeliciteerd! Je 1D model van de Wolvenpolder is klaar!</h3>
+<div class="callout callout-style-default callout-important callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Belangrijk
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Voordat wij verder gaan met het RR gedeelte is het belangrijk om je 1D model goed op te slaan en een backup hiervan te maken. Sla eerst je 1D model op met <strong><em>Ctrl-S</em></strong>. Sla vervolgens je model op met <strong><em>Save as</em></strong> en geef je model een nieuwe naam, b.v. <strong><em>WP_1D_v01_RR_v01</em></strong>.</p>
+<p><em>WP_1D_v01</em> is in dit geval je backup en <em>WP_1D_v01_RR_v01</em> is het model waarin je verder werkt. Mocht je dan tegen problemen aanlopen bij het maken van het RR gedeelte, heb je je 1D altijd nog als backup, zodat jij niet helemaal opnieuw moet beginnen.</p>
+</div>
+</div>
+<p><br></p>
+</section>
+<section id="rr-model" class="level3">
+<h3 class="anchored" data-anchor-id="rr-model">RR model</h3>
+<p>RR staat voor Rainfall Runoff. Binnen de RR module definieren wij de gebieden die afwateren op het 1D netwerk. Volg onderstaande stappen om je RR model te schematiseren. De volgende informatie heb jij nodig voor het aanmaken van je RR model.</p>
+<p><br></p>
+<p><strong>Tabel XXX:</strong> Gegevens onverhard gebied</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th></th>
+<th>Peilvak 1</th>
+<th>Peilvak 2</th>
+<th>Peilvak 3</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Hoogste punt maaiveld (mNAP)</td>
+<td>1</td>
+<td>0.5</td>
+<td>0.2</td>
+</tr>
+<tr class="even">
+<td>Bodemsoort</td>
+<td>Klei</td>
+<td>Klei</td>
+<td>Klei</td>
+</tr>
+<tr class="odd">
+<td>Landgebruik</td>
+<td>Aardappelen</td>
+<td>Aardappelen</td>
+<td>Aardappelen</td>
+</tr>
+<tr class="even">
+<td>Oppervlakte onverhard (ha)</td>
+<td>29</td>
+<td>11</td>
+<td>33</td>
+</tr>
+<tr class="odd">
+<td>Initiële grondwaterdiepte (m)</td>
+<td>0.5</td>
+<td>0.5</td>
+<td>0.5</td>
+</tr>
+<tr class="even">
+<td>Maximale berging op land (mm)</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
+</tr>
+<tr class="odd">
+<td>Initiële berging op land (mm)</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr class="even">
+<td>Infiltratiecapaciteit bodem (mm/u)</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr class="odd">
+<td>Drainagetype</td>
+<td>Ernst</td>
+<td>Ernst</td>
+<td>Ernst</td>
+</tr>
+<tr class="even">
+<td>Dikte drainagelaag (m)</td>
+<td>0.8</td>
+<td>0.8</td>
+<td>0.8</td>
+</tr>
+<tr class="odd">
+<td>Weerstand drainagelaag (d)</td>
+<td>60</td>
+<td>60</td>
+<td>60</td>
+</tr>
+<tr class="even">
+<td>Diepe drainageweerstand (d)</td>
+<td>500</td>
+<td>500</td>
+<td>500</td>
+</tr>
+<tr class="odd">
+<td>Weerstand infiltratie uit openwater (d)</td>
+<td>500</td>
+<td>500</td>
+<td>500</td>
+</tr>
+<tr class="even">
+<td>Weerstand oppervlakkige afstroming (d)</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+<p><br></p>
+<ol type="1">
+<li>Om uiteindelijk een verbinding te kunnen maken tussen de RR module en de 1D flow module hebben wij <em>lateral nodes</em> nodig. Voeg voor watergang WG01 t/m WG03 één <em>lateral node</em> per watergang toe. Dit doe je door op het symbooltje <strong><em>Add lateral source</em></strong> (watergang plus rode pijl) van het 1D network te klikken en vervolgens op één van de watergangen. Rechtermuisklik vervolgens op de <strong><em>lateral source</em></strong>, click op <strong><em>Edit</em></strong> en verander het type naar <strong><em>Real time</em></strong>.</li>
+</ol>
+<p><br></p>
+<ol start="2" type="1">
+<li><p>Nu kunnen wij de <em>catchments</em> (stroomgebieden) toevoegen aan ons model. Voeg per peilgebied één stroomgebied toe. Dit doe je door de onderstaande stappen te volgen:</p>
+<ol type="a">
+<li><p>Voeg een <em>unpaved catchment</em> (onverhard gebied) toe per peilgebied. Dit doe je door op het symbooltje <strong><em>Add new unpaved catchment</em></strong> (groen vierkantje) van de categorie RR Basin te klikken.</p></li>
+<li><p>Rechtermuisklick op het symbooltje van het eerste catchment en kies <strong><em>Edit - Catchment_1D_1</em></strong></p></li>
+<li><p>Vul de tabbladen met de gegevens uit tabel XXX. Indien je voor een bepaalde parameter geen invulgegevens in de tabel ziet staan, dan kun je daar gewoon de default waarde die D-HYDRO aangeeft laten staan.</p></li>
+<li><p>Tot slot verbind jij de catchments met het 1D netwerk. Dit doe je met een <strong><em>link</em></strong>. Click op het symbooltje <strong><em>Add Hydro Link</em></strong> (blauwe peil). Click vervolgens op één van de catchments en vervolgens op de bijbehorende laterale knoop. Herhaal deze stap voor de andere twee catchments.</p></li>
+</ol></li>
+</ol>
+<p><br></p>
+<ol start="3" type="1">
+<li><p>Voor wij het model kunnen runnen moeten wij de neerslag en verdampingsgegevens nog aanpassen. Voor een eerste test run gebruiken wij een 0mm bui. Dit wil zeggen, dat er geen neerslag en geen verdamping plaats vindt. Volg de onderstaande stappen om de meteorologische data in te voeren:</p>
+<p>a)Ga naar de model overzicht aan de linke kant van je scherm. Open de <em>Meteorological data</em> en dubbelklik op <strong><em>Precipitation</em></strong>.</p>
+<ol start="2" type="a">
+<li><p>Verander rechts boven <strong><em>Global</em></strong> naar <strong><em>Meteo Stations</em></strong>.</p></li>
+<li><p>Type <strong><em>Station01</em></strong> in het lege veld en click op *<strong>Add</strong>.</p></li>
+<li><p>Ga vervolgens naar de excel bui_WP (zie map Moodle) en kopiëer de 2 kolommen onder <em>0mm precipitation</em> (zonder header). Ga vervolgens terug naar D-HYDRO en click op <strong><em>clipboard import</em></strong>. Als goed is zie je nu dezelfde tijdreeks verschijnen als in excel.</p></li>
+<li><p>Dubbelklik op evaporation en importeer de evaporatie waardes op dezelfde manier als de neerslag data.</p></li>
+<li><p>Ga terug naar je <em>catchments</em> en check of D-HYDRO de <strong><em>meteo station name</em></strong> onder het kopje <strong><em>Meteo</em></strong> aangepast heeft naar <strong><em>Station01</em></strong>. Pas als nodig aan.</p></li>
+</ol></li>
+</ol>
+</section>
+<section id="gefeliciteerd-je-model-is-klaar-om-te-runnen" class="level3">
+<h3 class="anchored" data-anchor-id="gefeliciteerd-je-model-is-klaar-om-te-runnen">Gefeliciteerd! Je model is klaar om te runnen!</h3>
+<p>Ga naar het <em>Settings-window</em> en pas de start- en eindtijd aan naar resp. 1/1/2000 en 1/2/2000. Kies vervolgens <em>RR+FlowFM</em> en click op <strong><em>RUN</em></strong>.</p>
+<p><mark> check oude syllabus voor vragen en verwijs naar overige tests –&gt; extra hoofdstuk </mark></p>
 
 
 </section>

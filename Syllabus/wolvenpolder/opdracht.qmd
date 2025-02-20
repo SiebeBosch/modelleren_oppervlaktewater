@@ -180,7 +180,7 @@ Het is jou misschien opgevallen dat de dwarsprofielen van watergang 1 t/m 3 vrij
 
 <br>
 
-9. Tot slot gaan wij nog een instelling van het 1D model aanpassen. Ga hiervoor naar de model overzicht aan de linke kant van je scherm. Dubbelclick op ***FlowFM - General***. Ga naar tabblad time frame. Pas het reference date aan naar 2007-12-01. 
+9. Tot slot gaan wij nog een instelling van het 1D model aanpassen. Ga hiervoor naar de model overzicht aan de linke kant van je scherm. Dubbelclick op ***FlowFM - General***. Ga naar tabblad time frame. Pas het reference date aan naar 2000-01-01. 
 
 <br>
 
@@ -197,7 +197,9 @@ Voordat wij verder gaan met het RR gedeelte is het belangrijk om je 1D model goe
 
 ### RR model
 RR staat voor Rainfall Runoff. Binnen de RR module definieren wij de gebieden die afwateren op het 1D netwerk. Volg onderstaande stappen om je RR model te schematiseren. De volgende informatie heb jij nodig voor het aanmaken van je RR model. 
+
 <br>
+
 **Tabel XXX:** Gegevens onverhard gebied
 
 |  | Peilvak 1 | Peilvak 2 | Peilvak 3 |
@@ -221,12 +223,39 @@ RR staat voor Rainfall Runoff. Binnen de RR module definieren wij de gebieden di
 <br>
 
 1. Om uiteindelijk een verbinding te kunnen maken tussen de RR module en de 1D flow module hebben wij *lateral nodes* nodig. Voeg voor watergang WG01 t/m WG03 één *lateral node* per watergang toe. Dit doe je door op het symbooltje ***Add lateral source*** (watergang plus rode pijl) van het 1D network te klikken en vervolgens op één van de watergangen. Rechtermuisklik vervolgens op de ***lateral source***, click op ***Edit*** en verander het type naar ***Real time***. 
+
 <br>
+
 2. Nu kunnen wij de *catchments* (stroomgebieden) toevoegen aan ons model. Voeg per peilgebied één stroomgebied toe. Dit doe je door de onderstaande stappen te volgen: 
+
     a) Voeg een *unpaved catchment* (onverhard gebied) toe per peilgebied. Dit doe je door op het symbooltje ***Add new unpaved catchment*** (groen vierkantje) van de categorie RR Basin te klikken. 
+
     b) Rechtermuisklick op het symbooltje van het eerste catchment en kies ***Edit - Catchment_1D_1***
+
     c) Vul de tabbladen met de gegevens uit tabel XXX. Indien je voor een bepaalde parameter geen invulgegevens in de tabel ziet staan, dan kun je daar gewoon de default waarde die D-HYDRO aangeeft laten staan. 
+
     d) Tot slot verbind jij de catchments met het 1D netwerk. Dit doe je met een ***link***. Click op het symbooltje ***Add Hydro Link*** (blauwe peil). Click vervolgens op één van de catchments en vervolgens op de bijbehorende laterale knoop. Herhaal deze stap voor de andere twee catchments. 
+
 <br>
-3. Voor wij het model kunnen runnen moeten wij de neerslag en verdampingsgegevens nog aanpassen. Volg hiervoor de onderstaande stappen: 
-    a)
+
+3. Voor wij het model kunnen runnen moeten wij de neerslag en verdampingsgegevens nog aanpassen. Voor een eerste test run gebruiken wij een 0mm bui. Dit wil zeggen, dat er geen neerslag en geen verdamping plaats vindt. Volg de onderstaande stappen om de meteorologische data in te voeren: 
+
+    a) Ga naar de model overzicht aan de linke kant van je scherm. Open de *Meteorological data* en dubbelklik op ***Precipitation***. 
+
+    b) Verander rechts boven ***Global*** naar ***Meteo Stations***. 
+
+    c) Type ***Station01*** in het lege veld en click op ***Add**. 
+
+    d) Ga vervolgens naar de excel bui_WP (zie map Moodle) en kopiëer de 2 kolommen onder *0mm precipitation* (zonder header). Ga vervolgens terug naar D-HYDRO en click op ***clipboard import***. Als goed is zie je nu dezelfde tijdreeks verschijnen als in excel. 
+
+    e) Dubbelklik op evaporation en importeer de evaporatie waardes op dezelfde manier als de neerslag data. 
+
+    f) Ga terug naar je *catchments* en check of D-HYDRO de ***meteo station name*** onder het kopje ***Meteo*** aangepast heeft naar ***Station01***. Pas als nodig aan. 
+
+### Gefeliciteerd! Je model is klaar om te runnen!
+
+Ga naar het *Settings-window* en pas de start- en eindtijd aan naar resp. 1/1/2000 en 1/2/2000. Kies vervolgens *RR+FlowFM* en click op ***RUN***. 
+
+<mark> uitleg geven over hoe resultaten uitlezen bij observation points </mark>
+
+<mark> check oude syllabus voor vragen en verwijs naar overige tests --> extra hoofdstuk </mark>
