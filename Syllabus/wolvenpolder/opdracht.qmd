@@ -2,7 +2,7 @@
 
 In deze opdracht gaan we van de Wolvenpolder een eenvoudig neerslag-afvoermodel maken. Dit doen we omdat we de hoogwaterstanden binnen de polder willen weten. 
 
-<mark> nog updaten? Nederland hanteert de normen uit het Nationaal Bestuursakkoord Water (NBW) voor hoogwater: </mark>
+<mark> Nederland hanteerde in het verleden de normen uit het Nationaal Bestuursakkoord Water (NBW) voor hoogwater. Het Nationaal Bestuursakkoord Water is inmiddels vervangen door nieuwe wetgeving, o.a. XXX, maar waterschappen gebruiken nog steeds soortgelijke normen om watersystemen te toetsen. Vandaar dat wij in deze opdracht gebruik maken van de NBW normen: </mark>
 
 <br>
 
@@ -21,7 +21,9 @@ Tabel 1: Inundatienormen uit het Nationaal Bestuursakkoord Water (NBW)
   
 ::: {.columns}
 ::: {.column width="50%"}
-Als je goed kijkt naar de luchtfoto, zie je dat het gebied bestaat uit drie deelgebieden, die van elkaar gescheiden zijn. Tussen peilvak 1 en 2 ligt een dijk. In de dijk ligt een onderlaat (schuif). Tussen peilvak 2 en 3 ligt een stuw die het peil in peilvak 2 handhaaft. De deelgebieden (peilvakken) staan via kunstwerken (een onderlaat en een stuw) met elkaar in verbinding. De ligging en afmetingen van de kunstwerken zorgen dat de waterstand in elk peilvak op de gewenste waarde ligt. Het laagstgelegen peilvak (nr. 3) heeft een gemaal dat het overtollige water uitslaat op het Spui. De onderstaande afbeelding laat zien welke peilvakken en kunstwerken de Wolvenpolder heeft, en wat de streefwaterstand in elk van die peilvakken is.
+Als je goed kijkt naar de luchtfoto, zie je dat het gebied bestaat uit drie deelgebieden, die van elkaar gescheiden zijn. Tussen peilvak 1 en 2 ligt een dijk. In de dijk ligt een onderlaat (schuif). Tussen peilvak 2 en 3 ligt een stuw die het peil in peilvak 2 handhaaft. De deelgebieden (peilvakken) staan via kunstwerken (een onderlaat en een stuw) met elkaar in verbinding. De ligging en afmetingen van de kunstwerken zorgen dat de waterstand in elk peilvak op de gewenste waarde ligt. Het laagstgelegen peilvak (nr. 3) heeft een gemaal dat het overtollige water uitslaat op het Spui. De afbeelding laat zien welke peilvakken en kunstwerken de Wolvenpolder heeft, en wat de streefwaterstand in elk van die peilvakken is.
+
+
 
 :::
 ::: {.column width="50%"}
@@ -29,13 +31,18 @@ Als je goed kijkt naar de luchtfoto, zie je dat het gebied bestaat uit drie deel
 :::
 :::
 
+::: {.callout-note}
+### Informatie
+Het gebied van de Wolvenpolder is tegenwoordig anders ingericht. Bovenstaande informatie is gebaseerd op een historisch luchtfoto (zie bovenstaande afbeelding).  
+:::
 <br> 
   
 
 Tijd om aan de slag te gaan. We gaan een eerste simulatiemodel van de Wolvenpolder in D-Hydro maken. Volg hiervoor de onderstaande stappen. 
 
 
-
+### Nieuw model in D-HYDRO
+Start D-HYDRO op
 
 <mark> Hier het tutorial schrijven voor het maken van de Wolvenpolder </mark>
 

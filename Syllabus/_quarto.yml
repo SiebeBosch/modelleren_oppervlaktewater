@@ -40,7 +40,16 @@ website:
               - href: studiewijzer/organisatie.qmd
                 text: Organisatie
               - href: studiewijzer/weekplanning.qmd
-                text: Weekplanning               
+                text: Weekplanning 
+
+      - section: "Installatie programma's"
+        contents:
+          - href: installatie/inleiding.qmd
+            text: Inleiding
+          - href: installatie/DHYDRO.qmd
+            text: Installatie D-HYDRO
+          - href: installatie/tools.qmd
+            text: Installatie Catchment- en Channelbuilder
 
       - section: "Wolvenpolder"
         contents:

@@ -1,0 +1,12 @@
+## Inleiding
+
+Voor het uitvoeren van de opdracht is het belangrijk dat jullie ArcGIS Pro of een ander GIS programma geïnstalleerd hebben op jullie PC of laptop. Verder moeten de volgende software en tools worden geïnstalleerd:
+
+* D-HYDRO (Deltares)
+* Channel Builder (Siebe Bosch - Hydroconsult)
+* Catchment Builder (Siebe Bosch - Hydroconsult)
+
+::: {.callout-important}
+### Belangrijk
+Installeer de software en tools voor de eerste les. Mocht je problemen hebben met de installatie, dan helpen wij je daar graag bij tijdens de eerste introductieles. 
+:::

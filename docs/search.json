@@ -4,7 +4,7 @@
     "href": "wolvenpolder/opdracht.html",
     "title": "Landelijk water",
     "section": "",
-    "text": "In deze opdracht gaan we van de Wolvenpolder een eenvoudig neerslag-afvoermodel maken. Dit doen we omdat we de hoogwaterstanden binnen de polder willen weten.\n nog updaten? Nederland hanteert de normen uit het Nationaal Bestuursakkoord Water (NBW) voor hoogwater: \n\n\n\n\nLandgebruik\nNorm\n\n\n\n\nGrasland\nEens per 10 jaar mag maximaal 10% inunderen\n\n\nAkkerbouw\nEens per 25 jaar mag maximaal 5% inunderen\n\n\nHooogwaardig tuinbouw\nEens per 50 jaar mag maximaal 5% inunderen\n\n\nBebouwing\nEens per 100 jaar mag maximaal 0% inunderen\n\n\n\n\nTabel 1: Inundatienormen uit het Nationaal Bestuursakkoord Water (NBW)\n\n\n\n\nAls je goed kijkt naar de luchtfoto, zie je dat het gebied bestaat uit drie deelgebieden, die van elkaar gescheiden zijn. Tussen peilvak 1 en 2 ligt een dijk. In de dijk ligt een onderlaat (schuif). Tussen peilvak 2 en 3 ligt een stuw die het peil in peilvak 2 handhaaft. De deelgebieden (peilvakken) staan via kunstwerken (een onderlaat en een stuw) met elkaar in verbinding. De ligging en afmetingen van de kunstwerken zorgen dat de waterstand in elk peilvak op de gewenste waarde ligt. Het laagstgelegen peilvak (nr. 3) heeft een gemaal dat het overtollige water uitslaat op het Spui. De onderstaande afbeelding laat zien welke peilvakken en kunstwerken de Wolvenpolder heeft, en wat de streefwaterstand in elk van die peilvakken is.\n\n\n\n\nLocatie Wolvenpolder\n\n\n\n\n\nTijd om aan de slag te gaan. We gaan een eerste simulatiemodel van de Wolvenpolder in D-Hydro maken. Volg hiervoor de onderstaande stappen.\n Hier het tutorial schrijven voor het maken van de Wolvenpolder \n\n\n\nLocatie Wolvenpolder",
+    "text": "In deze opdracht gaan we van de Wolvenpolder een eenvoudig neerslag-afvoermodel maken. Dit doen we omdat we de hoogwaterstanden binnen de polder willen weten.\n Nederland hanteerde in het verleden de normen uit het Nationaal Bestuursakkoord Water (NBW) voor hoogwater. Het Nationaal Bestuursakkoord Water is inmiddels vervangen door nieuwe wetgeving, o.a. XXX, maar waterschappen gebruiken nog steeds soortgelijke normen om watersystemen te toetsen. Vandaar dat wij in deze opdracht gebruik maken van de NBW normen: \n\n\n\n\nLandgebruik\nNorm\n\n\n\n\nGrasland\nEens per 10 jaar mag maximaal 10% inunderen\n\n\nAkkerbouw\nEens per 25 jaar mag maximaal 5% inunderen\n\n\nHooogwaardig tuinbouw\nEens per 50 jaar mag maximaal 5% inunderen\n\n\nBebouwing\nEens per 100 jaar mag maximaal 0% inunderen\n\n\n\n\nTabel 1: Inundatienormen uit het Nationaal Bestuursakkoord Water (NBW)\n\n\n\n\nAls je goed kijkt naar de luchtfoto, zie je dat het gebied bestaat uit drie deelgebieden, die van elkaar gescheiden zijn. Tussen peilvak 1 en 2 ligt een dijk. In de dijk ligt een onderlaat (schuif). Tussen peilvak 2 en 3 ligt een stuw die het peil in peilvak 2 handhaaft. De deelgebieden (peilvakken) staan via kunstwerken (een onderlaat en een stuw) met elkaar in verbinding. De ligging en afmetingen van de kunstwerken zorgen dat de waterstand in elk peilvak op de gewenste waarde ligt. Het laagstgelegen peilvak (nr. 3) heeft een gemaal dat het overtollige water uitslaat op het Spui. De afbeelding laat zien welke peilvakken en kunstwerken de Wolvenpolder heeft, en wat de streefwaterstand in elk van die peilvakken is.\n\n\n\n\nLocatie Wolvenpolder\n\n\n\n\n\n\n\n\n\n\nInformatie\n\n\n\nHet gebied van de Wolvenpolder is tegenwoordig anders ingericht. Bovenstaande informatie is gebaseerd op een historisch luchtfoto (zie bovenstaande afbeelding).\n\n\n\nTijd om aan de slag te gaan. We gaan een eerste simulatiemodel van de Wolvenpolder in D-Hydro maken. Volg hiervoor de onderstaande stappen.\n\n\nStart D-HYDRO op\n Hier het tutorial schrijven voor het maken van de Wolvenpolder",
     "crumbs": [
       "Wolvenpolder",
       "Modelbouw"
@@ -15,7 +15,7 @@
     "href": "wolvenpolder/opdracht.html#modelbouw",
     "title": "Landelijk water",
     "section": "",
-    "text": "In deze opdracht gaan we van de Wolvenpolder een eenvoudig neerslag-afvoermodel maken. Dit doen we omdat we de hoogwaterstanden binnen de polder willen weten.\n nog updaten? Nederland hanteert de normen uit het Nationaal Bestuursakkoord Water (NBW) voor hoogwater: \n\n\n\n\nLandgebruik\nNorm\n\n\n\n\nGrasland\nEens per 10 jaar mag maximaal 10% inunderen\n\n\nAkkerbouw\nEens per 25 jaar mag maximaal 5% inunderen\n\n\nHooogwaardig tuinbouw\nEens per 50 jaar mag maximaal 5% inunderen\n\n\nBebouwing\nEens per 100 jaar mag maximaal 0% inunderen\n\n\n\n\nTabel 1: Inundatienormen uit het Nationaal Bestuursakkoord Water (NBW)\n\n\n\n\nAls je goed kijkt naar de luchtfoto, zie je dat het gebied bestaat uit drie deelgebieden, die van elkaar gescheiden zijn. Tussen peilvak 1 en 2 ligt een dijk. In de dijk ligt een onderlaat (schuif). Tussen peilvak 2 en 3 ligt een stuw die het peil in peilvak 2 handhaaft. De deelgebieden (peilvakken) staan via kunstwerken (een onderlaat en een stuw) met elkaar in verbinding. De ligging en afmetingen van de kunstwerken zorgen dat de waterstand in elk peilvak op de gewenste waarde ligt. Het laagstgelegen peilvak (nr. 3) heeft een gemaal dat het overtollige water uitslaat op het Spui. De onderstaande afbeelding laat zien welke peilvakken en kunstwerken de Wolvenpolder heeft, en wat de streefwaterstand in elk van die peilvakken is.\n\n\n\n\nLocatie Wolvenpolder\n\n\n\n\n\nTijd om aan de slag te gaan. We gaan een eerste simulatiemodel van de Wolvenpolder in D-Hydro maken. Volg hiervoor de onderstaande stappen.\n Hier het tutorial schrijven voor het maken van de Wolvenpolder \n\n\n\nLocatie Wolvenpolder",
+    "text": "In deze opdracht gaan we van de Wolvenpolder een eenvoudig neerslag-afvoermodel maken. Dit doen we omdat we de hoogwaterstanden binnen de polder willen weten.\n Nederland hanteerde in het verleden de normen uit het Nationaal Bestuursakkoord Water (NBW) voor hoogwater. Het Nationaal Bestuursakkoord Water is inmiddels vervangen door nieuwe wetgeving, o.a. XXX, maar waterschappen gebruiken nog steeds soortgelijke normen om watersystemen te toetsen. Vandaar dat wij in deze opdracht gebruik maken van de NBW normen: \n\n\n\n\nLandgebruik\nNorm\n\n\n\n\nGrasland\nEens per 10 jaar mag maximaal 10% inunderen\n\n\nAkkerbouw\nEens per 25 jaar mag maximaal 5% inunderen\n\n\nHooogwaardig tuinbouw\nEens per 50 jaar mag maximaal 5% inunderen\n\n\nBebouwing\nEens per 100 jaar mag maximaal 0% inunderen\n\n\n\n\nTabel 1: Inundatienormen uit het Nationaal Bestuursakkoord Water (NBW)\n\n\n\n\nAls je goed kijkt naar de luchtfoto, zie je dat het gebied bestaat uit drie deelgebieden, die van elkaar gescheiden zijn. Tussen peilvak 1 en 2 ligt een dijk. In de dijk ligt een onderlaat (schuif). Tussen peilvak 2 en 3 ligt een stuw die het peil in peilvak 2 handhaaft. De deelgebieden (peilvakken) staan via kunstwerken (een onderlaat en een stuw) met elkaar in verbinding. De ligging en afmetingen van de kunstwerken zorgen dat de waterstand in elk peilvak op de gewenste waarde ligt. Het laagstgelegen peilvak (nr. 3) heeft een gemaal dat het overtollige water uitslaat op het Spui. De afbeelding laat zien welke peilvakken en kunstwerken de Wolvenpolder heeft, en wat de streefwaterstand in elk van die peilvakken is.\n\n\n\n\nLocatie Wolvenpolder\n\n\n\n\n\n\n\n\n\n\nInformatie\n\n\n\nHet gebied van de Wolvenpolder is tegenwoordig anders ingericht. Bovenstaande informatie is gebaseerd op een historisch luchtfoto (zie bovenstaande afbeelding).\n\n\n\nTijd om aan de slag te gaan. We gaan een eerste simulatiemodel van de Wolvenpolder in D-Hydro maken. Volg hiervoor de onderstaande stappen.\n\n\nStart D-HYDRO op\n Hier het tutorial schrijven voor het maken van de Wolvenpolder",
     "crumbs": [
       "Wolvenpolder",
       "Modelbouw"
@@ -26,7 +26,7 @@
     "href": "wolvenpolder/inleiding.html",
     "title": "Landelijk water",
     "section": "",
-    "text": "In deze oefening gaan we aan de slag met een bestaand stuk landelijk gebied: de Wolvenpolder bij Spijkenisse. Wij bouwen een neerslag-afvoer model van de Wolvenpolder. De gegevens die wij in deze oefening gebruiken zijn fictief, maar de manier waarop we het project doorlopen is gebaseerd op de manier waarop we dit soort projecten over het algemeen uitvoeren.\nOnder het kopje ‘Wolvenpolder - Opdracht’ vind jij een stappenplan om een simpel model te bouwen voor de Wolvenpolder in D-HYDRO. Volg de stappenplan en neem belangrijke tussenstappen op in je logboek (met screenshots!).\nVervolgens voer jij een kalibratie uit van het model (zie kopje kalibratie). Neem een tabel met aanpassingen op in je logboek.\nBeantwoord ook de vragen die weergegeven zijn in groen.\n\n\n\n\n\n\nVraag\n\n\n\nVragen zijn weergegeven in groen. Deze moet jij beantwoorden in jouw logboek.\n\n\n\n\n\n\n\n\nBelangrijk\n\n\n\nBelangrijke mededelingen zijn weergeven in rood.\n\n\n\n\n\n\n\n\nInformatie\n\n\n\nExtra uitleg is weergegeven in blauw.",
+    "text": "In deze oefening gaan we aan de slag met een bestaand stuk landelijk gebied: de Wolvenpolder bij Spijkenisse. Wij bouwen een neerslag-afvoer model van de Wolvenpolder. De gegevens die wij in deze oefening gebruiken zijn fictief, maar de manier waarop we het project doorlopen is gebaseerd op de manier waarop we dit soort projecten over het algemeen uitvoeren.\nOnder het kopje ‘Wolvenpolder - Modelbouw’ vind jij een stappenplan om een simpel model te bouwen voor de Wolvenpolder in D-HYDRO. Volg het stappenplan en neem belangrijke tussenstappen op in je logboek (met screenshots!).\nVervolgens voer jij een kalibratie uit van het model (zie kopje kalibratie). Neem een tabel met aanpassingen op in je logboek.\nBeantwoord ook de vragen die weergegeven zijn in groen.\n\n\n\n\n\n\nVraag\n\n\n\nVragen zijn weergegeven in groen. Deze moet jij beantwoorden in jouw logboek.\n\n\n\n\n\n\n\n\nBelangrijk\n\n\n\nBelangrijke mededelingen zijn weergeven in rood.\n\n\n\n\n\n\n\n\nInformatie\n\n\n\nExtra uitleg is weergegeven in blauw.\n\n\n\n\n\n\nDe Wolvenpolder is een gebied van ongeveer 70 hectare groot ten oosten van Spijkenisse. Hij ligt aan de noord-, oost- en zuidkant ingeklemd tussen de Oude Maas en het Spui. Aan de westkant grenst hij aan de gemeente Spijkenisse.\n\n\n\n\nLocatie Wolvenpolder",
     "crumbs": [
       "Wolvenpolder",
       "Inleiding"
@@ -37,7 +37,7 @@
     "href": "wolvenpolder/inleiding.html#inleiding",
     "title": "Landelijk water",
     "section": "",
-    "text": "In deze oefening gaan we aan de slag met een bestaand stuk landelijk gebied: de Wolvenpolder bij Spijkenisse. Wij bouwen een neerslag-afvoer model van de Wolvenpolder. De gegevens die wij in deze oefening gebruiken zijn fictief, maar de manier waarop we het project doorlopen is gebaseerd op de manier waarop we dit soort projecten over het algemeen uitvoeren.\nOnder het kopje ‘Wolvenpolder - Opdracht’ vind jij een stappenplan om een simpel model te bouwen voor de Wolvenpolder in D-HYDRO. Volg de stappenplan en neem belangrijke tussenstappen op in je logboek (met screenshots!).\nVervolgens voer jij een kalibratie uit van het model (zie kopje kalibratie). Neem een tabel met aanpassingen op in je logboek.\nBeantwoord ook de vragen die weergegeven zijn in groen.\n\n\n\n\n\n\nVraag\n\n\n\nVragen zijn weergegeven in groen. Deze moet jij beantwoorden in jouw logboek.\n\n\n\n\n\n\n\n\nBelangrijk\n\n\n\nBelangrijke mededelingen zijn weergeven in rood.\n\n\n\n\n\n\n\n\nInformatie\n\n\n\nExtra uitleg is weergegeven in blauw.",
+    "text": "In deze oefening gaan we aan de slag met een bestaand stuk landelijk gebied: de Wolvenpolder bij Spijkenisse. Wij bouwen een neerslag-afvoer model van de Wolvenpolder. De gegevens die wij in deze oefening gebruiken zijn fictief, maar de manier waarop we het project doorlopen is gebaseerd op de manier waarop we dit soort projecten over het algemeen uitvoeren.\nOnder het kopje ‘Wolvenpolder - Modelbouw’ vind jij een stappenplan om een simpel model te bouwen voor de Wolvenpolder in D-HYDRO. Volg het stappenplan en neem belangrijke tussenstappen op in je logboek (met screenshots!).\nVervolgens voer jij een kalibratie uit van het model (zie kopje kalibratie). Neem een tabel met aanpassingen op in je logboek.\nBeantwoord ook de vragen die weergegeven zijn in groen.\n\n\n\n\n\n\nVraag\n\n\n\nVragen zijn weergegeven in groen. Deze moet jij beantwoorden in jouw logboek.\n\n\n\n\n\n\n\n\nBelangrijk\n\n\n\nBelangrijke mededelingen zijn weergeven in rood.\n\n\n\n\n\n\n\n\nInformatie\n\n\n\nExtra uitleg is weergegeven in blauw.\n\n\n\n\n\n\nDe Wolvenpolder is een gebied van ongeveer 70 hectare groot ten oosten van Spijkenisse. Hij ligt aan de noord-, oost- en zuidkant ingeklemd tussen de Oude Maas en het Spui. Aan de westkant grenst hij aan de gemeente Spijkenisse.\n\n\n\n\nLocatie Wolvenpolder",
     "crumbs": [
       "Wolvenpolder",
       "Inleiding"
@@ -48,7 +48,7 @@
     "href": "wolvenpolder/inleiding.html#gebiedsbeschrijving",
     "title": "Landelijk water",
     "section": "Gebiedsbeschrijving",
-    "text": "Gebiedsbeschrijving\n\n\nDe Wolvenpolder is een gebied van ongeveer 70 hectare groot ten oosten van Spijkenisse. Hij ligt aan de noord-, oost- en zuidkant ingeklemd tussen de Oude Maas en het Spui. Aan de westkant grenst hij aan de gemeente Spijkenisse.\n\n\n\n\nLocatie Wolvenpolder\n\n\n\n\n\n\n\nLocatie Wolvenpolder",
+    "text": "Gebiedsbeschrijving\n\n\nDe Wolvenpolder is een gebied van ongeveer 70 hectare groot ten oosten van Spijkenisse. Hij ligt aan de noord-, oost- en zuidkant ingeklemd tussen de Oude Maas en het Spui. Aan de westkant grenst hij aan de gemeente Spijkenisse.\n\n\n\n\nLocatie Wolvenpolder",
     "crumbs": [
       "Wolvenpolder",
       "Inleiding"
@@ -675,7 +675,7 @@
     "href": "studiewijzer/introductie.html",
     "title": "Landelijk water",
     "section": "",
-    "text": "Voor watermanagers is het inrichten en beheren van gebieden een belangrijke taak. Daarbij zijn er altijd afwegingen: doelen voor natuur en landbouw, wateroverlast vs. droogte, maar ook de fysieke mogelijkheden. De term doelrealisatie komt dan al gauw om de hoek kijken: kan het eigenlijk wel, wat er bedacht/gepland is? Zijn de randvoorwaarden aanwezig om tegelijkertijd vegetatietypen te ontwikkelen en landbouw te bedrijven op elke mogelijke manier? Of botst dit met elkaar of met bijvoorbeeld de normen voor regionale wateroverlast?\nStakeholders zijn vaak waterschappen, natuurbeherende organisaties, boeren en bewoners, en gezamenlijk hebben ze wensen die spanningen opleveren, maar die in combinatie met de fysieke omgeving op een zo goed mogelijke manier vormgegeven moeten worden. Belangrijke maar ook complicerende factoren vormen regels rond bijvoorbeeld KRW en Natura2000. En denk dan natuurlijk ook aan de discussie rondom de stikstofproblematiek die nu volop wordt gevoerd.\n::: {.columns} ::: {.column width=“50%”}  Binnen deze casus staat het gebied Eendragt centraal (bij xxx). In dit gebied is het de uitdaging om de aspecten water, natuur en landbouw in evenwicht te brengen. De Eendragt polder is een xxx \n::: ::: {.column width=“50%”}",
+    "text": "Voor watermanagers is het inrichten en beheren van gebieden een belangrijke taak. Daarbij zijn er altijd afwegingen: doelen voor natuur en landbouw, wateroverlast vs. droogte, maar ook de fysieke mogelijkheden. De term doelrealisatie komt dan al gauw om de hoek kijken: kan het eigenlijk wel, wat er bedacht/gepland is? Zijn de randvoorwaarden aanwezig om tegelijkertijd vegetatietypen te ontwikkelen en landbouw te bedrijven op elke mogelijke manier? Of botst dit met elkaar of met bijvoorbeeld de normen voor regionale wateroverlast?\nStakeholders zijn vaak waterschappen, natuurbeherende organisaties, boeren en bewoners, en gezamenlijk hebben ze wensen die spanningen opleveren, maar die in combinatie met de fysieke omgeving op een zo goed mogelijke manier vormgegeven moeten worden. Belangrijke maar ook complicerende factoren vormen regels rond bijvoorbeeld KRW en Natura2000. En denk dan natuurlijk ook aan de discussie rondom de stikstofproblematiek die nu volop wordt gevoerd.\n\n\n Binnen deze casus staat het gebied Eendragt centraal (bij xxx). In dit gebied is het de uitdaging om de aspecten water, natuur en landbouw in evenwicht te brengen. De Eendragt polder is een xxx \n\n\n\n\nLocatie Eendragt polder",
     "crumbs": [
       "Studiewijzer",
       "Introductie",
@@ -687,7 +687,7 @@
     "href": "studiewijzer/introductie.html#introductie",
     "title": "Landelijk water",
     "section": "",
-    "text": "Voor watermanagers is het inrichten en beheren van gebieden een belangrijke taak. Daarbij zijn er altijd afwegingen: doelen voor natuur en landbouw, wateroverlast vs. droogte, maar ook de fysieke mogelijkheden. De term doelrealisatie komt dan al gauw om de hoek kijken: kan het eigenlijk wel, wat er bedacht/gepland is? Zijn de randvoorwaarden aanwezig om tegelijkertijd vegetatietypen te ontwikkelen en landbouw te bedrijven op elke mogelijke manier? Of botst dit met elkaar of met bijvoorbeeld de normen voor regionale wateroverlast?\nStakeholders zijn vaak waterschappen, natuurbeherende organisaties, boeren en bewoners, en gezamenlijk hebben ze wensen die spanningen opleveren, maar die in combinatie met de fysieke omgeving op een zo goed mogelijke manier vormgegeven moeten worden. Belangrijke maar ook complicerende factoren vormen regels rond bijvoorbeeld KRW en Natura2000. En denk dan natuurlijk ook aan de discussie rondom de stikstofproblematiek die nu volop wordt gevoerd.\n::: {.columns} ::: {.column width=“50%”}  Binnen deze casus staat het gebied Eendragt centraal (bij xxx). In dit gebied is het de uitdaging om de aspecten water, natuur en landbouw in evenwicht te brengen. De Eendragt polder is een xxx \n::: ::: {.column width=“50%”}",
+    "text": "Voor watermanagers is het inrichten en beheren van gebieden een belangrijke taak. Daarbij zijn er altijd afwegingen: doelen voor natuur en landbouw, wateroverlast vs. droogte, maar ook de fysieke mogelijkheden. De term doelrealisatie komt dan al gauw om de hoek kijken: kan het eigenlijk wel, wat er bedacht/gepland is? Zijn de randvoorwaarden aanwezig om tegelijkertijd vegetatietypen te ontwikkelen en landbouw te bedrijven op elke mogelijke manier? Of botst dit met elkaar of met bijvoorbeeld de normen voor regionale wateroverlast?\nStakeholders zijn vaak waterschappen, natuurbeherende organisaties, boeren en bewoners, en gezamenlijk hebben ze wensen die spanningen opleveren, maar die in combinatie met de fysieke omgeving op een zo goed mogelijke manier vormgegeven moeten worden. Belangrijke maar ook complicerende factoren vormen regels rond bijvoorbeeld KRW en Natura2000. En denk dan natuurlijk ook aan de discussie rondom de stikstofproblematiek die nu volop wordt gevoerd.\n\n\n Binnen deze casus staat het gebied Eendragt centraal (bij xxx). In dit gebied is het de uitdaging om de aspecten water, natuur en landbouw in evenwicht te brengen. De Eendragt polder is een xxx \n\n\n\n\nLocatie Eendragt polder",
     "crumbs": [
       "Studiewijzer",
       "Introductie",
@@ -804,6 +804,83 @@
     "crumbs": [
       "Wolvenpolder",
       "Kalibratie"
+    ]
+  },
+  {
+    "objectID": "installatie/tools.html",
+    "href": "installatie/tools.html",
+    "title": "Landelijk water",
+    "section": "",
+    "text": "xxx uitleg installatie channel builder",
+    "crumbs": [
+      "Installatie programma's",
+      "Installatie Catchment- en Channelbuilder"
+    ]
+  },
+  {
+    "objectID": "installatie/tools.html#channelbuilder",
+    "href": "installatie/tools.html#channelbuilder",
+    "title": "Landelijk water",
+    "section": "",
+    "text": "xxx uitleg installatie channel builder",
+    "crumbs": [
+      "Installatie programma's",
+      "Installatie Catchment- en Channelbuilder"
+    ]
+  },
+  {
+    "objectID": "installatie/tools.html#catchmentbuilder",
+    "href": "installatie/tools.html#catchmentbuilder",
+    "title": "Landelijk water",
+    "section": "Catchmentbuilder",
+    "text": "Catchmentbuilder\n xxx uitleg installatie channel builder",
+    "crumbs": [
+      "Installatie programma's",
+      "Installatie Catchment- en Channelbuilder"
+    ]
+  },
+  {
+    "objectID": "installatie/DHYDRO.html",
+    "href": "installatie/DHYDRO.html",
+    "title": "Landelijk water",
+    "section": "",
+    "text": "xxx uitleg installatie D-HYDRO \n::: :::",
+    "crumbs": [
+      "Installatie programma's",
+      "Installatie D-HYDRO"
+    ]
+  },
+  {
+    "objectID": "installatie/DHYDRO.html#d-hydro",
+    "href": "installatie/DHYDRO.html#d-hydro",
+    "title": "Landelijk water",
+    "section": "",
+    "text": "xxx uitleg installatie D-HYDRO \n::: :::",
+    "crumbs": [
+      "Installatie programma's",
+      "Installatie D-HYDRO"
+    ]
+  },
+  {
+    "objectID": "installatie/inleiding.html",
+    "href": "installatie/inleiding.html",
+    "title": "Landelijk water",
+    "section": "",
+    "text": "Voor het uitvoeren van de opdracht is het belangrijk dat jullie ArcGIS Pro of een ander GIS programma geïnstalleerd hebben op jullie PC of laptop. Verder moeten de volgende software en tools worden geïnstalleerd:\n\nD-HYDRO (Deltares)\nChannel Builder (Siebe Bosch - Hydroconsult)\nCatchment Builder (Siebe Bosch - Hydroconsult)\n\n\n\n\n\n\n\nBelangrijk\n\n\n\nInstalleer de software en tools voor de eerste les. Mocht je problemen hebben met de installatie, dan helpen wij je daar graag bij tijdens de eerste introductieles.",
+    "crumbs": [
+      "Installatie programma's",
+      "Inleiding"
+    ]
+  },
+  {
+    "objectID": "installatie/inleiding.html#inleiding",
+    "href": "installatie/inleiding.html#inleiding",
+    "title": "Landelijk water",
+    "section": "",
+    "text": "Voor het uitvoeren van de opdracht is het belangrijk dat jullie ArcGIS Pro of een ander GIS programma geïnstalleerd hebben op jullie PC of laptop. Verder moeten de volgende software en tools worden geïnstalleerd:\n\nD-HYDRO (Deltares)\nChannel Builder (Siebe Bosch - Hydroconsult)\nCatchment Builder (Siebe Bosch - Hydroconsult)\n\n\n\n\n\n\n\nBelangrijk\n\n\n\nInstalleer de software en tools voor de eerste les. Mocht je problemen hebben met de installatie, dan helpen wij je daar graag bij tijdens de eerste introductieles.",
+    "crumbs": [
+      "Installatie programma's",
+      "Inleiding"
     ]
   }
 ]

@@ -25,7 +25,7 @@ Extra uitleg is weergegeven in blauw.
 
 
 
-### Gebiedsbeschrijving
+## Gebiedsbeschrijving
 
 ::: {.columns}
 ::: {.column width="50%"}
